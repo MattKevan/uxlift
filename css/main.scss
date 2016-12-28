@@ -1,0 +1,488 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+@charset "utf-8";
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import "bootstrap";
+
+@font-face {
+    font-family: 'HK Grotesk Bold';
+    src: url('fonts/hkgrotesk-bold-webfont.woff2') format('woff2'),
+         url('fonts/hkgrotesk-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HK Grotesk';
+    src: url('fonts/hkgrotesk-regular-webfont.woff2') format('woff2'),
+         url('fonts/hkgrotesk-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+	color: #333;
+	font-family: 'HK Grotesk', Helvetica, Arial, sans-serif;
+  	background-color: #fff;
+  	font-size: 1.6em;
+  	line-height: 1.6em;
+}
+
+a {color: #000;}
+
+a:hover {
+	color: #333;
+	text-decoration: underline;
+}
+
+h1, h2, h3 {
+	font-family: 'HK Grotesk Bold', Helvetica, Arial, sans-serif;
+	font-weight: normal;
+	color: #000;
+}
+
+h1.title {
+	margin: 0 0 30px 0;
+	font-size: 2em;
+
+	@media (min-width: $screen-sm-min) {
+    	font-size: 3em;
+  	}
+}
+h2.title {
+	font-size: 1.5em;
+	margin: 0 0 40px 0;
+}
+
+h2 {margin-top: 0!important;}
+
+h4 {
+	font-family: 'HK Grotesk', Helvetica, Arial, sans-serif;
+	font-weight: normal;
+	color: #000;
+}
+
+.lead {
+	font-family: 'HK Grotesk', Helvetica, Arial, sans-serif;
+    padding: 0 0 40px 0;
+    margin-bottom: 40px;
+    line-height: 1.6em;
+}
+.product {
+	.title {
+		text-align: left;
+	}
+
+	.main-column {
+		.inner {
+			background-color: #fff;
+			padding: 20px;	
+		}
+	}
+	.product-info {
+		.inner {
+			background-color: #fff;
+			padding: 20px;
+		}
+		h1 {
+			font-size: 2em;
+			margin: 0 0 20px 0;
+		}
+		.price {
+			font-size: 2em;
+			margin: 15px 0;	
+		}
+
+		button {
+			color: #d72363;
+			background: none;
+			border-style: solid;
+			border-color:  #d72363;
+			border-width: 2px;
+			display: block;
+			font-size: 1.2em;
+			font-weight: bold;
+			width: 100%;
+			padding: 10px 30px;
+			margin: 25px 0 0 0;
+
+		}
+	}
+	.image {
+		margin-bottom: 30px;
+		img {
+			width: 100%;
+			height: 100%;
+		}
+	}
+}
+
+
+.teaser-text {font-size: 20px;}
+
+.crumb {margin-bottom: 30px;}
+
+.btn.btn-default {
+	background:  none;
+	border-radius:0;
+	border-width: 2px;
+	border-color: #D50063;
+	color: #D50063;
+	font-family: 'HK Grotesk Bold', Helvetica, Arial, sans-serif;
+	&:hover {text-decoration:underline;}
+
+}
+
+.grid-item {
+	height: 140px;
+	border-width: 1px;
+	border-style: solid;
+	padding: 10px;
+	border-color: #d1d1d1;
+	border-radius: 5px;
+	margin-bottom: 30px;
+	h4 {margin-top: 0;}
+}
+
+// Navigation
+.navbar {
+	margin: 0;
+	border: none;
+	background: #fff;
+}
+
+.navbar-default .navbar-brand {
+	font-family: 'HK Grotesk Bold', Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	color: #000;
+	padding: 10px 0px;
+
+	@media (min-width: $screen-sm-min) {
+        padding-left: 15px!important;
+    }
+}
+
+
+// Menu overlay
+
+.menu-button {
+    display: block!important;
+    position: relative;
+    float: right!important;
+    padding: 9px 10px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    background-color: transparent;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+.menu-button .icon-bar {
+	display: block;
+	width: 22px;
+	height: 2px;
+	border-radius: 1px;
+	background-color: #000;
+}
+
+.menu-button .icon-bar + .icon-bar {
+	margin-top: 4px;
+}
+
+.overlay {
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	background:  #9bd3d5;
+	display: none;
+	z-index: 10000;
+}
+
+/* Overlay closing cross */
+
+.overlay .overlay-close {
+	width: 58px;
+	height: 58px;
+	position: absolute;
+	right: 10px;
+	top: 10px;
+	overflow: hidden;
+	border: none;
+	background: url(/images/site/close.png) no-repeat center center;
+	text-indent: 200%;
+	color: transparent;
+	outline: none;
+	z-index: 100;
+}
+
+/* Menu style */
+
+.overlay ul {
+	text-align: center;
+	list-style: none;
+	margin: 40px 0 0 0;
+	padding: 0;
+}
+
+.overlay ul li {
+	text-align: center;
+	font-size: 2em;
+	line-height: 1.8em;
+  	float: none;
+  	list-style: none;
+	font-family: 'HK Grotesk', Helvetica, Arial, sans-serif;
+
+	a:hover {
+		background: none;
+		text-decoration: underline;
+	}
+}
+
+.overlay ul ul {
+	margin: 10px 0;
+}
+
+.overlay ul ul li {
+	font-size: .6em;	
+}
+
+.category {
+	text-align: center;
+	margin-bottom: 30px;
+	margin-top: 0;
+
+	.inner {
+		height: 200px;
+		background-color: rgba(155,211,213,.8);
+		width: 100%;
+		margin: 0;
+	}
+
+	h3 {
+		text-align: center;
+  		position: relative;
+  		margin-bottom: 0;
+		margin-top: 10px;
+	}
+		h4 {
+		text-align: center;
+  		position: relative;
+		margin-top: 0;
+	}
+}
+
+.page-banner {
+	background-repeat: no-repeat;
+	background-position:  center;
+	background-size: cover;
+	text-align: center;
+	margin-bottom: 30px;
+	color: #fff;
+
+
+
+	.inner {
+		background-color: rgba(0,0,0,.6);
+		width: 100%;
+		height: 100%;
+		height: 350px;
+		display:table;
+
+		@media (min-width: $screen-md-min) {
+	        height:540px;
+	    }
+	}
+
+	.banner-content {
+		display: table-cell;
+  		vertical-align: middle;
+	}
+
+	.content-type {
+	}
+
+	h1 {
+		font-size:52px;
+		color: #fff;
+		margin-bottom: 0;
+	}
+	h2 {
+		font-size:52px;
+		font-family: 'HK Grotesk', Helvetica, Arial, sans-serif;
+		color: #fff;
+	}
+
+	.lead {color: #fff;}
+}
+
+.modal-body {
+	margin-bottom: 20px;
+
+	h3 {
+		@media (min-width: $screen-md-min) {
+        margin-top: 0;
+    	}
+	}
+}
+
+// Cards
+
+// General card styles
+
+
+//Home banner 
+
+.home {
+	.card.banner {
+		height: 550px;
+		background-color: #EBEBEB;
+		padding: 50px 0;
+
+		h1 {
+			font-family: 'HK Grotesk', Helvetica, Arial, sans-serif;
+			font-size: 58px;
+			margin: 0 0 30px 0;
+		}
+		h2 {
+			font-size: 24px;
+		}
+	}
+}
+
+.card.content {
+	p.intro {
+		font-size: 28px;
+		text-align: center;
+		color: #4A4A4A;
+	}
+}
+.card {
+  clear: both;
+}
+
+// Specific cards
+.card.banner.home {
+	background-image: url('/images/Cover-photo2.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	margin-bottom: 60px;
+
+	.inner {
+		height: 400px;
+		padding: 40px 0;
+		text-align: center;
+		h1 {color: #fff;}
+	}
+}
+
+.card.latest-prints {
+	margin-top: 20px;
+	padding: 40px 0;
+	border-color: #ddd;
+	border-style: solid;
+	border-width: 1px 0 0 0;
+}
+
+.card.content {
+	img {width: 100%; height: 100%;}
+}
+
+.artwork-grid {
+	img {width: 100%;}
+	margin-bottom: 30px;
+
+
+	h4 {
+		&:hover {
+			text-decoration:underline;
+			color: #333;
+			cursor: pointer;
+			cursor: hand;
+		}
+	}
+	img {
+		&:hover {
+			cursor: pointer;
+			cursor: hand;			
+		}
+	}
+
+	.inner {
+		background-color:#fff;
+		padding:20px;
+
+		@media (min-width: $screen-sm-min) {
+	        height: 370px;
+	    }	
+
+		@media (min-width: $screen-md-min) {
+	        height: 400px;
+	    }
+
+		@media (min-width: $screen-lg-min) {
+	        height: 420px;
+	    }	
+	}
+}
+
+.hide {
+	display:none;
+}
+.card.product {
+	background-color: #EBEBEB;
+	padding: 80px 0 50px 0;	
+}
+
+.card.listing {
+	background-color: #EBEBEB;
+	padding: 80px 0 50px 0;
+}
+.artwork-image  {
+	width: 100%;
+	height: 100%;
+}
+
+// Page content
+
+.content {
+	margin: 60px 0;
+	p.lead {
+		font-size: 24px;
+		line-height: 1.6em;
+	}
+
+
+	p {
+		font-size: 18px;
+		line-height: 1.8em;
+		}
+}
+
+// Footer
+
+.site-footer {
+	background-color: #000;
+	color: #fff;
+	text-align: center;
+	padding: 20px 0;
+
+	p {margin: 0;}
+}
+.card.categories {
+	.category {
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center;
+	}
+	.category2 {
+		background-image: url('/images/ferns.jpg');
+	}
+	.category6 {
+		background-image: url('/images/nash.jpg');
+	}
+}

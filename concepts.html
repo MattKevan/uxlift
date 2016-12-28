@@ -1,0 +1,18 @@
+---
+layout: grid
+title: Concepts
+permalink: /concepts/
+---
+<div class="row">
+{% for concept in site.concept %}
+<div class="col-xs-12 col-sm-4 col-md-3">
+	<div class="grid-item">
+      <h4><a href="{{ concept.url }}">{{ concept.title }}</a></h4>
+      <p>{{ concept.intro }}</p>
+      </div>
+    
+  </div>
+{% endfor %}
+
+
+</div>

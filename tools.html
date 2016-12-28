@@ -1,0 +1,18 @@
+---
+layout: grid
+title: Tools
+permalink: /tools/
+---
+
+<div class="row">
+{% for tool in site.tool %}
+<div class="col-xs-12 col-sm-4 col-md-3">
+      <h3><a href="{{ tool.url }}">{{ tool.title }}</a></h3>
+      <p>{{ tool.intro }}</p>
+    
+  </div>
+{% endfor %}
+
+
+</div>
+

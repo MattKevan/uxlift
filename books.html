@@ -1,0 +1,19 @@
+---
+layout: grid
+title: Books
+permalink: /books/
+---
+
+<div class="row">
+{% for book in site.data.uxbooks %}
+<div class="col-xs-12 col-sm-4 col-md-3">
+	<div class="grid-item">
+      <h4>{{ book.title }}</h4>
+      <p>By {{ book.author }}</p>
+    </div>
+  </div>
+{% endfor %}
+
+
+</div>
+
