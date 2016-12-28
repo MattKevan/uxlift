@@ -35,23 +35,23 @@ exclude:
   - Gemfile.lock
 
 collections:
-  concept:
+  concepts:
     output: true
     permalink: /concepts/:path/
-  tool:
+  techniques:
     output: true
-    permalink: /tools/:path/
+    permalink: /techniques/:path/
 
 defaults:
   -
     scope:
       path: ""
-      type: concept
+      type: concepts
     values:
       layout: page
   -
     scope:
       path: ""
-      type: tool
+      type: techniques
     values:
       layout: page

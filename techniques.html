@@ -1,0 +1,19 @@
+---
+layout: grid
+title: Techniques
+permalink: /techniques/
+---
+
+<div class="row">
+{% for technique in site.techniques %}
+<div class="col-xs-12 col-sm-6 col-md-4">
+	<div class="grid-item">
+      <h4><a href="{{ technique.url }}">{{ technique.title }}</a></h4>
+      <p>{{ technique.intro }}</p>
+    </div>
+  </div>
+{% endfor %}
+
+
+</div>
+
