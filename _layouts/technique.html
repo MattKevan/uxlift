@@ -10,7 +10,14 @@ layout: default
 				<p class="lead">{{ page.intro }}</p>
 				{{ content }}
 			</div>
-			
+			<div class="further-reading">
+			<h3>Further reading</h3>
+			   {% for item in page.further-reading %}
+			        <div class="read-item">
+				        <h4><a href="{{ item.url }}" target="_blank">{{ item.title }}</a></h4>
+			        </div>
+		      {% endfor %}
+		    </div>
 		</div>
 	</div>
 </div>
