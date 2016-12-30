@@ -12,7 +12,7 @@
   - Usability
   publisher: New Riders
   imprint: Voices That Matter
-  image: "/assets/dont-make-me-think.jpg"
+  image: "assets/dont-make-me-think.jpg"
 - title: The Design of Everyday Things, revised and expanded edition
   author: Donald A. Norman
   description: Even the smartest among us can feel inept as we try to figure out the
@@ -26,7 +26,7 @@
   - Usability
   publisher: MIT Press
   imprint: 
-  image: "/assets/design-of-everyday-things.jpg"
+  image: "assets/design-of-everyday-things.jpg"
 - title: 'About Face: The Essentials of Interaction Design'
   author: Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel
   description: 
@@ -36,7 +36,7 @@
   - Interaction design
   publisher: John Wiley & Sons
   imprint: 
-  image: "/assets/about-face.jpg"
+  image: "assets/about-face.jpg"
 - title: '100 Things Every Designer Needs to Know About People: What Makes Them Tick?'
   author: Susan Weinschenk
   description: 'We design to elicit responses from people. We want them to buy something,
