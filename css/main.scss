@@ -84,7 +84,7 @@ h4 {
 }
 
 .grid-item {
-	height: 180px;
+	height: 200px;
 	margin-bottom: 30px;
 	background-color: #fff;
 	border-radius: 3px;
@@ -122,13 +122,14 @@ h4 {
 	}
 }
 
-.modal-body {
-	margin-bottom: 20px;
+.grid-item:hover h4 {
+	text-decoration: underline;
+}
 
-	h3 {
-		@media (min-width: $screen-md-min) {
-        margin-top: 0;
-    	}
+.modal-body {
+	img.book-image {width: 100%;}
+	p.author {
+		margin: 15px 0 0 0;
 	}
 }
 
