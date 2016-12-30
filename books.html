@@ -5,22 +5,42 @@ permalink: /books/
 ---
 
 <div class="row">
+	{% assign counter = 0 %}
 	{% for book in site.data.uxbooks %}
+
 		<div class="col-xs-12 col-sm-6 col-md-4">
 			<div class="grid-item">
 				<div class="grid-content">
-					<a href="{{ book.link }}" target="_blank"><img class="logo" src="{{ book.image }}" alt="{{ book.title }}" /></a>
-			      	<h4><a href="{{ book.link }}" target="_blank">{{ book.title }}</a></h4>
+					<img class="logo" src="{{ book.image }}" alt="{{ book.title }}" data-toggle="modal" data-target="#{{ counter }}" />
+			      	<h4 data-toggle="modal" data-target="#{{ counter }}">{{ book.title }}</h4>
 			      	<p class="author">By {{ book.author }}</p>
 			      	
 		      	</div>
 		      	<div class="grid-tags">
 					<p>{{ book.categories }}</p>
 				</div>
+
 		    </div>
 
-		</div>
-	{% endfor %}
+			<!-- Modal -->
+			<div class="modal fade" id="{{ counter }}" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+			  <div class="modal-dialog" role="document">
+			    <div class="modal-content">
+			      <div class="modal-header">
+			        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+			        <h4 class="modal-title" id="myModalLabel">{{ book.title }}</h4>
+			      </div>
+			      <div class="modal-body">
+				    	<img class="book-image" src="{{ book.image }}" alt="{{ book.title }}" />
+				        {{ book.description }}
+				        <a href="{{ book.link }}" target="_blank" class="btn btn-primary" role="button">View on Amazon</a>
+			      </div>
+			    </div>
+			  </div>
+			</div>
 
+		</div>
+		{% capture counter %}{{ counter | plus:'1' }}{% endcapture %}
+	{% endfor %}
 
 </div>
