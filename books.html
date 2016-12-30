@@ -11,7 +11,7 @@ permalink: /books/
 		<div class="col-xs-12 col-sm-6 col-md-4">
 			<div class="grid-item">
 				<div class="grid-content">
-					<img class="logo" src="{{ book.image }}" alt="{{ book.title }}" data-toggle="modal" data-target="#{{ counter }}" />
+					<img class="logo" src="/{{ book.image }}" alt="{{ book.title }}" data-toggle="modal" data-target="#{{ counter }}" />
 			      	<h4 data-toggle="modal" data-target="#{{ counter }}">{{ book.title }}</h4>
 			      	<p class="author">By {{ book.author }}</p>
 			      	
@@ -31,7 +31,7 @@ permalink: /books/
 			        <h4 class="modal-title" id="myModalLabel">{{ book.title }}</h4>
 			      </div>
 			      <div class="modal-body">
-				    	<img class="book-image" src="{{ book.image }}" alt="{{ book.title }}" />
+				    	<img class="book-image" src="/{{ book.image }}" alt="{{ book.title }}" />
 				        {{ book.description }}
 				        <a href="{{ book.link }}" target="_blank" class="btn btn-primary" role="button">View on Amazon</a>
 			      </div>
