@@ -10,7 +10,7 @@ body {
 	color: #333;
 	font-family: 'Work Sans', Helvetica, Arial, sans-serif;
 	font-weight: 400;
-  	background-color: #FAFAFA;
+  	background-color: #ECECEC;
   	font-size: 1.6em;
   	line-height: 1.6em;
 }
@@ -44,13 +44,22 @@ h2.title {
 }
 
 h4 {
-	font-size: 20px;
+	font-size: 18px;
 }
 
 .content {
 	background-color: #fff;
 	padding: 20px;
 }
+
+.further-reading {
+	background-color: #fff;
+	padding: 20px;
+	margin-top: 30px;
+
+	h3 {margin-top: 0;}
+}
+
 .lead {
 	font-family: 'Work Sans', Helvetica, Arial, sans-serif;
     padding: 0;
@@ -75,11 +84,42 @@ h4 {
 }
 
 .grid-item {
-	height: 200px;
-	padding: 20px;
+	height: 180px;
 	margin-bottom: 30px;
 	background-color: #fff;
-	h4 {margin-top: 0;}
+	border-radius: 3px;
+	box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.15);
+	line-height: 1.4em;
+	position: relative;
+	h4 {
+		margin: 0 0 5px 0;
+	}
+	img.logo {
+		float: right;
+		width: 70px;
+		margin: 0 0 0 15px;
+	}
+	.grid-content {
+		padding: 15px
+	}
+	.grid-tags {
+		padding: 10px 15px;
+		background-color: #F4F4F4;
+		border-style: solid;
+		border-color: #E1E1E1;
+		border-width: 1px 0 0 0;
+		position: absolute;
+		bottom: 0;
+		left: 0;
+		width:100%;
+		border-radius: 0 0 3px 3px;
+		p {
+			margin: 0;
+			line-height: 1.4em;
+			font-size: 14px;
+			color: #666;
+		}
+	}
 }
 
 .modal-body {

@@ -5,15 +5,22 @@ permalink: /books/
 ---
 
 <div class="row">
-{% for book in site.data.uxbooks %}
-<div class="col-xs-12 col-sm-6 col-md-4">
-	<div class="grid-item">
-      <h4>{{ book.title }}</h4>
-      <p>By {{ book.author }}</p>
-    </div>
-  </div>
-{% endfor %}
+	{% for book in site.data.uxbooks %}
+		<div class="col-xs-12 col-sm-6 col-md-4">
+			<div class="grid-item">
+				<div class="grid-content">
+					<a href="{{ book.link }}" target="_blank"><img class="logo" src="{{ book.image }}" alt="{{ book.title }}" /></a>
+			      	<h4><a href="{{ book.link }}" target="_blank">{{ book.title }}</a></h4>
+			      	<p class="author">By {{ book.author }}</p>
+			      	
+		      	</div>
+		      	<div class="grid-tags">
+					<p>{{ book.categories }}</p>
+				</div>
+		    </div>
+
+		</div>
+	{% endfor %}
 
 
 </div>
-

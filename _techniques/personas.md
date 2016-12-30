@@ -2,7 +2,12 @@
 layout: technique
 title: Personas
 intro: A persona is a representation of a particular audience for a website or service. 
-tags: ["Information Architecture, Research"]
+categories:
+  - Strategy
+  - Research
+phase:
+  - Understand
+  - Explore
 further-reading:
   - title: Personas
     url: https://www.usability.gov/how-to-and-tools/methods/personas.html

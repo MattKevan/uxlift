@@ -1,6 +1,6 @@
 ---
 layout: concept
-title: The Double Diamond design process
+title: User onboarding
 intro: Card sorting is a method used to help design or evaluate the information architecture of a site. 
 categories:
   - Design

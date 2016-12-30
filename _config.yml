@@ -48,10 +48,58 @@ defaults:
       path: ""
       type: concepts
     values:
-      layout: page
+      layout: concept
+      title: ""
+      intro: ""
+      categories: []
+      phase: []
+      further-reading:
+        - title: ""
+          url: ""
+        - title: ""  
+          url: ""
+        - title: ""
+          url: ""
+      books:
+        - title: ""  
+        - title: ""
+        - title: ""
+      software:
+        - title: ""
+        - title: ""
+        - title: ""
+      downloads:
+      related:
+        - title: ""
+        - title: ""
+        - title: ""
   -
     scope:
       path: ""
       type: techniques
     values:
-      layout: page
+      layout: technique
+      title: ""
+      intro: ""
+      categories: []
+      phase: []
+      further-reading:
+        - title: ""
+          url: ""
+        - title: ""  
+          url: ""
+        - title: ""
+          url: ""
+      books:
+        - title: ""  
+        - title: ""
+        - title: ""
+      software:
+        - title: ""
+        - title: ""
+        - title: ""
+      downloads:
+      related:
+        - title: ""
+        - title: ""
+        - title: ""

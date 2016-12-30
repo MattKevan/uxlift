@@ -4,15 +4,17 @@ title: Concepts
 permalink: /concepts/
 ---
 <div class="row">
-{% for concept in site.concepts %}
-<div class="col-xs-12 col-sm-6 col-md-4">
-	<div class="grid-item">
-      <h4><a href="{{ concept.url }}">{{ concept.title }}</a></h4>
-      <p>{{ concept.intro }}</p>
-      </div>
-    
-  </div>
-{% endfor %}
-
-
+	{% for concept in site.concepts %}
+		<div class="col-xs-12 col-sm-6 col-md-4">
+			<div class="grid-item">
+				<div class="grid-content">
+					<h4><a href="{{ concept.url }}">{{ concept.title }}</a></h4>
+					<p>{{ concept.intro }}</p>
+				</div>
+				<div class="grid-tags">
+					<p>{{ concept.categories | join: ', ' }}</p>
+				</div>
+			</div>
+		</div>
+	{% endfor %}
 </div>

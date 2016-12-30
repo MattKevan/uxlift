@@ -1,29 +1,26 @@
-name,description,link,purchase,subscription,platform,symbols,artboards,responsive,prototyping,animation,collaboration,Use-cases
-Axure RP,Design the right solution.,http://www.axure.com,$495/$895,$29/$49,"Mac, PC",Yes,,Yes,Yes,Yes,Yes,"Wireframes, Diagrams, Prototypes"
-Sketch,Professional digital design for Mac.,http://www.sketchapp.com,$99 per year,,Mac,Yes,Yes,Yes,,,,Design
-Adobe Illustrator,Create beautiful vector art.,http://www.adobe.com/uk/products/illustrator.html,,,,,,,,,,
-Adobe Experience Design,Design. Prototype. Share. All in one app.,http://www.adobe.com/uk/products/experience-design.html,,,,,,,,,,
-Affinity Designer,Professional graphic design software.,https://affinity.serif.com/en-gb/designer/,,,,,,,,,,
-Adobe InDesign,Craft elegant layouts at your desk or on the go.,http://www.adobe.com/uk/products/indesign.html,,,,,,,,,,
-Adobe Photoshop,Create anything you can imagine. Anywhere you are.,http://www.adobe.com/uk/products/photoshop.html,,,,,,,,,,
-Marvel,,,,,,,,,,,,
-InVision,,,,,,,,,,,,
-Balsamiq ,,,,,,,,,,,,
-UXPin,Collaborative UX Design for Product Teams.,https://www.uxpin.com,,,,,,,,,,
-Zeplin,Build pixel perfect apps in peace.,https://zeplin.io,,,,,,,,,,
-What Users Do,,,,,,,,,,,,
-Optimal Workshop,,,,,,,,,,,,
-UserTesting,,,,,,,,,,,,
-Marketch,,,,,,,,,,,,
-Avocode,,,,,,,,,,,,
-Framer,,,,,,,,,,,,
-Lucidchart,,,,,,,,,,,,
-Principle,,,,,,,,,,,,
-HotGloo,,,,,,,,,,,,
-Fuse,,,,,,,,,,,,
-Craft,,,,,,,,,,,,
-Atomic,,,,,,,,,,,,
-Figma,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
+name,description,link,purchase,subscription,platform,symbols,artboards,responsive,prototyping,animation,collaboration,categories,logo
+Axure RP,Design the right solution.,http://www.axure.com,$495/$895,$29/$49,"Mac, Windows",Yes,,Yes,Yes,Yes,Yes,"Wireframes, Diagrams, Prototypes",/assets/axure.png
+Sketch,Professional digital design for Mac.,http://www.sketchapp.com,$99 per year,,Mac,Yes,Yes,Yes,,,,"Design, Prototypes",/assets/sketch.png
+Adobe Illustrator,Create beautiful vector art.,http://www.adobe.com/uk/products/illustrator.html,,,"Mac, Windows",,,,,,,"Wireframes, Design",/assets/ai.png
+Adobe Experience Design,Design. Prototype. Share. All in one app.,http://www.adobe.com/uk/products/experience-design.html,,,"Mac, Windows",,,,,,,"Design, Prototypes",/assets/xd.png
+Affinity Designer,Professional graphic design software.,https://affinity.serif.com/en-gb/designer/,,,"Mac, Windows",,,,,,,"Wireframes, Design",/assets/affinity.png
+Adobe InDesign,Craft elegant layouts at your desk or on the go.,http://www.adobe.com/uk/products/indesign.html,,,"Mac, Windows",,,,,,,"Wireframes, Design",/assets/id.png
+Adobe Photoshop,Create anything you can imagine. Anywhere you are.,http://www.adobe.com/uk/products/photoshop.html,,,"Mac, Windows",,,,,,,Design,/assets/ps.png
+Marvel,,,,,Web,,,,,,,Prototypes,/assets/marvel.png
+InVision,,,,,Web,,,,,,,Prototypes,/assets/inv.png
+Balsamiq ,,,,,Web,,,,,,,Wireframes,
+UXPin,Collaborative UX Design for Product Teams.,https://www.uxpin.com,,,Web,,,,,,,"Wireframes, Prototypes",/assets/uxp.png
+Zeplin,Build pixel perfect apps in peace.,https://zeplin.io,,,"Mac, Windows, Web",,,,,,,Hand-off,
+What Users Do,,,,,Web,,,,,,,User research,
+Optimal Workshop,,,,,Web,,,,,,,User research,
+UserTesting,,,,,Web,,,,,,,User research,
+Marketch,,,,,Web,,,,,,,Hand-off,
+Avocode,,,,,"Mac, Windows, Web",,,,,,,Hand-off,/assets/avo.svg
+Framer,,,,,,,,,,,,,
+Lucidchart,,,,,Web,,,,,,,"Wireframes, Diagrams",
+Principle,,,,,Mac,,,,,,,,
+HotGloo,,,,,Web,,,,,,,,
+Fuse,,,,,,,,,,,,,
+Craft,,,,,Mac,,,,,,,Design,
+Atomic,,,,,Web,,,,,,,,/assets/atomic.png
+Figma,,,,,,,,,,,,,/assets/figma.jpg

@@ -5,13 +5,24 @@ permalink: /software/
 ---
 
 <div class="row">
-	{% for software in site.data.uxsoftware %}
-<div class="col-xs-12 col-sm-6 col-md-4">
-	<div class="grid-item">
-		    <h4>{{ software.name }}</h4>
-		    <p>{{ software.description }}</p>
+
+{% assign sorted_software = site.data.uxsoftware | sort:'name' %}
+	{% for software in sorted_software %}
+		
+		<div class="col-xs-12 col-sm-6 col-md-4">
+			<div class="grid-item">
+				<div class="grid-content">
+					<a href="{{ software.link }}" target="_blank"><img class="logo" src="{{ software.logo }}" alt="{{ software.name }}" /></a>
+					<h4><a href="{{ software.link }}" target="_blank">{{ software.name }}</a></h4>
+					<p>{{ software.description }}</p>
+			    </div>
+			    <div class="grid-tags">
+			    	<p>{{ software.platform }}</p>
+			    	<p>{{ software.categories }}</p>
+			    </div>
+			</div>
 		</div>
-		</div>
+
 	{% endfor %}
 </div>
 

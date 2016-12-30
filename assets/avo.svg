@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="360" height="360" viewBox="0 0 360 360">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        filter: url(#filter-chain-1);
+      }
+
+      .cls-2 {
+        fill: #78dd01;
+        filter: url(#filter-chain-2);
+        fill-rule: evenodd;
+      }
+    </style>
+
+    <filter id="filter-chain-1" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" in="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="dropBlur"/>
+      <feFlood flood-opacity="0.4"/>
+      <feComposite operator="in" in2="dropBlur" result="dropShadowComp"/>
+      <feGaussianBlur stdDeviation="0.333" in="SourceAlpha"/>
+      <feComposite/>
+      <feComposite/>
+      <feComposite result="outerGlowBlur"/>
+      <feFlood flood-opacity="0.04"/>
+      <feComposite operator="in" in2="outerGlowBlur"/>
+      <feBlend in2="dropShadowComp" result="outerGlow"/>
+      <feComposite in="SourceGraphic" result="shadowed"/>
+    </filter>
+    <filter id="filter-chain-2" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" in="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="dropBlur"/>
+      <feFlood flood-color="#fff" flood-opacity="0.2"/>
+      <feComposite operator="in" in2="dropBlur" result="dropShadowComp"/>
+      <feComposite in="SourceGraphic" result="shadowed"/>
+      <feImage x="106.25" y="79.4375" width="149.469" height="198.3745" preserveAspectRatio="none" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMTQ5LjQ2OSIgaGVpZ2h0PSIxOTguMzc0NSI+PGxpbmVhckdyYWRpZW50IGlkPSJncmFkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjEwMS4zMTEiIHkxPSIxOTguMzc0IiB4Mj0iNDguMTU3Ij4KICA8c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiNhYWZkMDAiLz4KICA8c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiMxNmM2MDAiLz4KPC9saW5lYXJHcmFkaWVudD4KPHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0idXJsKCNncmFkKSIvPjwvc3ZnPg=="/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+      <feBlend in2="shadowed" result="gradientFill"/>
+      <feOffset dy="1" in="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.732" result="innerShadowBlur"/>
+      <feFlood flood-opacity="0.4"/>
+      <feComposite operator="out" in2="innerShadowBlur"/>
+      <feComposite operator="in" in2="SourceAlpha"/>
+      <feBlend mode="overlay" in2="gradientFill" result="innerShadow"/>
+    </filter>
+  </defs>
+  <g>
+    <circle cx="180.641" cy="178.61" r="176.328" class="cls-1"/>
+    <path d="M180.987,277.806 C139.714,277.806 106.255,244.760 106.255,203.995 C106.255,163.230 139.714,79.439 180.987,79.439 C222.261,79.439 255.720,163.230 255.720,203.995 C255.720,244.760 222.261,277.806 180.987,277.806 ZM180.987,137.296 C156.195,137.296 139.470,180.790 139.470,203.418 C139.470,229.641 156.254,244.745 180.987,244.745 C205.275,244.745 222.505,230.396 222.505,203.418 C222.505,180.379 206.048,137.296 180.987,137.296 Z" class="cls-2"/>
+  </g>
+</svg>

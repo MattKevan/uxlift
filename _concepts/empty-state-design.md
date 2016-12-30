@@ -1,7 +1,7 @@
 ---
 layout: concept
-title: The Double Diamond design process
-intro: Card sorting is a method used to help design or evaluate the information architecture of a site. 
+title: Empty state design
+intro: Empty states are what a user sees when there's no data to be displayed. 
 categories:
   - Design
   - User experience
