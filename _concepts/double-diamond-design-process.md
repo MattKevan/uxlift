@@ -2,8 +2,8 @@
 title: The Double Diamond
 date: '2016-12-30 00:30:06'
 layout: concept
-intro: The Double Diamond process maps the main stages of a design process, describing
-  the modes of thinking at each stage.
+intro: A simple, graphical way to describe the design process, ensuring the right
+  questions are asked at the right time.
 categories:
 - Design
 - Process
@@ -28,23 +28,36 @@ related:
 - title: 
 - title: 
 ---
+Developed by the Design Council, the process splits a project into four main phases, showing the different types of thinking which should be used in each. The first two focus on deciding what the project should be about, and the last two on the outcome. Crucially, each of the four steps have equal weight: as much effort should be spent on defining a project as delivering it.
 
-In a card sorting session, participants organize topics into categories that make sense to them and they may also help you label these groups. To conduct a card sort, you can use actual cards, pieces of paper, or one of several online card-sorting software tools.
+And, although every project is different, the process is flexible enough to be relevant, whether it’s creating a brand-new product or optimising a long-standing business model.
 
-### Benefits of Card Sorting
+### Discover
 
-Card sorting will help you understand your users' expectations and understanding of your topics. It is often most useful once you have done some homework to find out about your users and understand your content. Knowing how your users group information can help you:
+This is where we open up the project by gathering as much information as possible. About the service, the users, the company, the sector - everything.
 
-* Build the structure for your website
-* Decide what to put on the homepage
-* Label categories and navigation
+Activities here could include market research, user interviews, questionnaires and analytics reports.
 
-### Open and Closed Card Sorting
+The goal of this phase is to create the project brief, and signifies the start of the actual, practical design process.
 
-Depending on your needs, you may choose to do an open or closed card sort. They differ as follows:
+### Define
 
-Open Card Sort: Participants are asked to organize topics from content within your website into groups that make sense to them and then name each group they created in a way that they feel accurately describes the content. Use an open card sort to learn how users group content and the terms or labels they give each category.
+This stage is where we review, filter, refine and often discard ideas from the previous phase. Findings are analysed, reframed as problems and solutions are pitched and prototyped.
 
-Closed Card Sort: Participants are asked to sort topics from content within your website into pre-defined categories. A closed card sort works best when you are working with a pre-defined set of categories, and you want to learn how users sort content items into each category.
+Activities could include grouping user journeys into ‘epics’, writing audience personas, building proof-of-concepts and creating low resolution wireframes.
 
-You may also choose to try a combination of the two. You could conduct an open card sort first to identify content categories and then use a closed card sort to see how well the category labels work.
+At the end of this phase you’ll likely have a good idea as to how successful the project will be, and is often the place where the decision to stop or continue is made. The Kin probably shouldn’t have got any further than here.
+
+### Develop
+
+This stage is where things get a bit more open again. We’ve got our clear set of problems, so we can have fun developing concepts and solutions to solve them.
+
+Activities can include brainstorming, designing, prototyping and user testing.
+
+### Deliver
+
+The delivery phase closes things right back down by giving our concept a solid dose of reality, taking it through sign off, final testing, production and launch. Compromises will have to be made.
+
+However, if we’ve followed the process properly we’ll end up with a product which solves the need identified in the define stage, for the reasons set out in the discover phase.
+
+The very last part of this phase is to collect all the lessons learned throughout the course of the project and feed it back into the discovery phase of the next one.
