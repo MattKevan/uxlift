@@ -1,28 +1,32 @@
 ---
+title: The Double Diamond
+date: '2016-12-30 00:30:06'
 layout: concept
-title: The Double Diamond design process
-intro: Card sorting is a method used to help design or evaluate the information architecture of a site. 
+intro: The Double Diamond process maps the main stages of a design process, describing
+  the modes of thinking at each stage.
 categories:
-  - Design
-  - User experience
+- Design
+- Process
 phase:
-  - Understand
+- Understand
 further-reading:
-  - title: Why empty states deserve more design time
-    url: hhttp://blog.invisionapp.com/why-empty-states-deserve-more-design-time/
+- title: A study of the design process (PDF)
+  url: http://www.designcouncil.org.uk/sites/default/files/asset/document/ElevenLessons_Design_Council%20(2).pdf
+- title: 'The Double Diamond: Strategy + Execution of the Right Solution'
+  url: https://www.thoughtworks.com/insights/blog/double-diamond
 books:
-  - title:  
-  - title:
-  - title:
+- title: 
+- title: 
+- title: 
 software:
-  - title:
-  - title:
-  - title:
-downloads:
+- title: 
+- title: 
+- title: 
+downloads: 
 related:
-  - title:
-  - title:
-  - title:
+- title: 
+- title: 
+- title: 
 ---
 
 In a card sorting session, participants organize topics into categories that make sense to them and they may also help you label these groups. To conduct a card sort, you can use actual cards, pieces of paper, or one of several online card-sorting software tools.
