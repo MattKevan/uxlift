@@ -15,7 +15,7 @@ body {
   	line-height: 1.6em;
 }
 .page-content {
-	padding: 60px 0;
+	padding: 0px 0;
 }
 a {color: #333;}
 
@@ -121,6 +121,37 @@ h4 {
 		}
 	}
 }
+.banner {
+	h1 {
+		margin: 100px 0 0 0;
+		color: #fff;
+	}
+	.lead {
+		color: #fff;
+		margin: 0 0 100px 0;
+	}
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center bottom;
+	background-attachment: fixed;
+	margin-bottom: 60px;
+}
+
+.banner.Books {
+	background-image: url('/assets/18.jpg');
+}
+
+.banner.Concepts {
+	background-image: url('/assets/11.jpg');
+}
+
+.banner.Techniques {
+	background-image: url('/assets/6.jpg');
+	h1, .lead {color: #333;}
+}
+.banner.Software {
+	background-image: url('/assets/2.jpg');
+}
 
 .grid-item:hover h4 {
 	text-decoration: underline;
@@ -132,9 +163,13 @@ h4 {
 		margin: 15px 0 0 0;
 	}
 }
+.modal-footer {
+	text-align: left;
+}
 
 .navbar {
 	background-color: #fff;
+	margin: 0;
 }
 
 // Cards

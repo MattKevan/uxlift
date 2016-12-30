@@ -2,6 +2,7 @@
 layout: grid
 title: Books
 permalink: /books/
+intro: A selection of useful and practical books on UX design and related subjects
 ---
 
 <div class="row">
@@ -34,14 +35,14 @@ permalink: /books/
 
 			      	<div class="modal-body">
 			      		<div class="row">
-				      		<div class="col-xs-5">
-						    	<img class="book-image" src="/{{ book.image }}" alt="{{ book.title }}" />
-						    </div>
+				      		
 						    <div class="col-xs-7">
 						        {{ book.description }}
 						        <p class="author"><strong>By:</strong> {{ book.author }}</p>
 						        <p class="publisher"><strong>Publisher:</strong> {{ book.publisher }}, {{ book.date }}</p>
-						        
+						    </div>
+						    <div class="col-xs-5">
+						    	<img class="book-image" src="/{{ book.image }}" alt="{{ book.title }}" />
 						    </div>
 						</div>
 			      	</div>
