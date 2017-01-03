@@ -1,28 +1,30 @@
 ---
-layout: concept
 title: User onboarding
-intro: Card sorting is a method used to help design or evaluate the information architecture of a site. 
+date: '2017-01-03 08:31:53'
+layout: concept
+intro: The process of helping new users become successful when adopting your product
+  or service.
 categories:
-  - Design
-  - User experience
+- Design
+- User experience
 phase:
-  - Understand
+- Understand
 further-reading:
-  - title: Why empty states deserve more design time
-    url: hhttp://blog.invisionapp.com/why-empty-states-deserve-more-design-time/
+- title: UserOnboard
+  url: http://www.useronboard.com
 books:
-  - title:  
-  - title:
-  - title:
+- title: 
+- title: 
+- title: 
 software:
-  - title:
-  - title:
-  - title:
-downloads:
+- title: 
+- title: 
+- title: 
+downloads: 
 related:
-  - title:
-  - title:
-  - title:
+- title: 
+- title: 
+- title: 
 ---
 
 In a card sorting session, participants organize topics into categories that make sense to them and they may also help you label these groups. To conduct a card sort, you can use actual cards, pieces of paper, or one of several online card-sorting software tools.
