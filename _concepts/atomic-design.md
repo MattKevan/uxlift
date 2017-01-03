@@ -1,28 +1,34 @@
 ---
-layout: concept
 title: Atomic design
-intro: Card sorting is a method used to help design or evaluate the information architecture of a site. 
+date: '2017-01-03 08:31:53'
+layout: concept
+intro: 'A methodology composed of five stages to create design systems in a deliberate
+  and hierarchical manner. '
 categories:
-  - Design
-  - User experience
+- Design
+- User experience
 phase:
-  - Understand
+- ''
 further-reading:
-  - title: Why empty states deserve more design time
-    url: hhttp://blog.invisionapp.com/why-empty-states-deserve-more-design-time/
+- title: 'The Unicorn Workflow: Design to Code with Atomic Design Principles and Sketch'
+  url: https://medium.com/re-write/the-unicorn-workflow-design-to-code-with-atomic-design-principles-and-sketch-8b0fe7d05a37#.k8w0r72so
+- title: Atomic Web Design
+  url: http://bradfrost.com/blog/post/atomic-web-design/
+- title: Atomic Design by Brad Frost
+  url: http://atomicdesign.bradfrost.com
 books:
-  - title:  
-  - title:
-  - title:
+- title: 
+- title: 
+- title: 
 software:
-  - title:
-  - title:
-  - title:
-downloads:
+- title: 
+- title: 
+- title: 
+downloads: 
 related:
-  - title:
-  - title:
-  - title:
+- title: 
+- title: 
+- title: 
 ---
 
 In a card sorting session, participants organize topics into categories that make sense to them and they may also help you label these groups. To conduct a card sort, you can use actual cards, pieces of paper, or one of several online card-sorting software tools.
