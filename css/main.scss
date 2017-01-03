@@ -153,12 +153,54 @@ h4 {
 	background-image: url('/assets/2.jpg');
 }
 
+.banner.Conferences.and.events {
+	background-image: url('/assets/10.jpg');
+}
+
+.banner.Courses {
+	background-image: url('/assets/17.jpg');
+}
+
+.banner.home {
+	background-image: url('/assets/18.jpg');
+	margin-bottom: 0;
+	p.lead {
+		line-height: 1.2em;
+		margin-bottom: 80px;
+		font-size: 2em;
+
+		@media (min-width: $screen-sm-min) {
+	    	font-size: 2.5em;
+	    	margin-bottom: 100px;
+		}
+
+		@media (min-width: $screen-md-min) {
+	    	font-size: 3em;
+		}
+	}
+
+	h1 { 
+		margin: 80px 0 10px 0;
+		font-size: 2em;
+
+		@media (min-width: $screen-sm-min) {
+	    	font-size: 2.5em;
+		}
+
+		@media (min-width: $screen-md-min) {
+	    	font-size: 3em;
+	    	margin: 100px 0 10px 0;
+
+		}
+	}
+}
+
 .grid-item:hover h4 {
 	text-decoration: underline;
 }
 
 .modal-body {
-	img.book-image {width: 100%;}
+	img {width: 100%;}
 	p.author {
 		margin: 15px 0 0 0;
 	}
@@ -173,8 +215,20 @@ h4 {
 }
 
 // Cards
+.card {
+	padding: 100px 0;
 
+	h2 {
+		margin-top: 0;
+	}
 
+	img { width: 100%;}
+
+}
+
+.card.white {
+	background-color: #fff;
+}
 // Footer
 
 .site-footer {
