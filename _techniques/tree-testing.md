@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: technique
 title: Tree testing
 intro: Card sorting is a method used to help design or evaluate the information architecture of a site. 
 categories:
@@ -8,18 +8,18 @@ categories:
 phase:
   - Understand
 further-reading:
-  - title: Personas
-    url: https://www.usability.gov/how-to-and-tools/methods/personas.html
-  - title: "A Closer Look At Personas: What They Are And How They Work (Part 1)"	
-    url: https://www.smashingmagazine.com/2014/08/a-closer-look-at-personas-part-1/
-  - title: Personas – The Beginner’s Guide
-    url: http://theuxreview.co.uk/personas-the-beginners-guide/
+  - title: "Tree testing: An important step early in the design process"
+    url: http://www.webcredible.com/blog/tree-testing-important-step-early-web-design-process/
+  - title: "Using Tree-Testing To Test Information Architecture"	
+    url: http://www.measuringu.com/blog/tree-testing-ia.php
+  - title: "Tree Testing - A quick way to evaluate your IA"
+    url: http://boxesandarrows.com/tree-testing/
 books:
   - title:  
   - title:
   - title:
 software:
-  - title:
+  - title: Treejack
   - title:
   - title:
 downloads:

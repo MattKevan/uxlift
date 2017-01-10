@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: technique
 title: Surveys
 intro: Card sorting is a method used to help design or evaluate the information architecture of a site. 
 categories:
@@ -18,8 +18,8 @@ books:
   - title:
   - title:
 software:
-  - title:
-  - title:
+  - title: Google Forms
+  - title: SurveyMonkey
   - title:
 downloads:
 related:

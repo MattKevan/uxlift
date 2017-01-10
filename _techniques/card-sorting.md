@@ -18,9 +18,6 @@ books:
   - title:
   - title:
 software:
-  - name: OptimalSort
-  - name:
-  - name:
 downloads:
 related:
   - title:

@@ -36,8 +36,12 @@ h1, h2, h3, h4 {
 	color: #000;
 }
 
+h1 {
+	font-weight:700;
+}
+
 h1.title {
-	margin: 0 0 30px 0;
+	margin: 0 0 10px 0;
 	font-size: 2em;
 
 	@media (min-width: $screen-sm-min) {
@@ -50,20 +54,14 @@ h2.title {
 }
 
 h4 {
-	font-size: 18px;
+	font-size: 22px;
+	margin-bottom: 5px;
 }
 
 .content {
 	background-color: #fff;
 	padding: 20px;
-}
-
-.further-reading {
-	background-color: #fff;
-	padding: 20px;
-	margin-top: 30px;
-
-	h3 {margin-top: 0;}
+	margin-bottom: 30px;
 }
 
 .lead {
@@ -124,6 +122,12 @@ h4 {
 			color: #666;
 		}
 	}
+}
+
+.read-item {
+	margin-bottom: 20px;
+	
+	p.weblink a { color: #999; }
 }
 .banner {
 	h1 {
@@ -226,16 +230,17 @@ h4 {
 	}
 }
 
-.sidebar {
+.block {
+	margin-bottom: 30px;
 	h3 {
 		margin-top: 0;
 	}
-	.block {
-		background-color: #fff;
-		padding: 15px;
-		margin-bottom: 30px;
+	.block-inner {
+		background-color:#fff;
+		padding: 20px;
 	}
 }
+
 
 // Cards
 .card {

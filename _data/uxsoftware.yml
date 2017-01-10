@@ -434,12 +434,27 @@
     categories: 
     logo: /assets/figma.jpg
 -
-    name: Optimal Workshop
-    description: 
-    link: 
+    name: SurveyMonkey
+    description: "Turn instincts into insights"
+    link: "https://www.surveymonkey.com"
     purchase: 
     subscription: 
-    platform: 
+    platform: Web
+    symbols: 
+    artboards: 
+    responsive: 
+    prototyping: 
+    animation: 
+    collaboration: 
+    categories: 
+    logo: /assets/figma.jpg
+-
+    name: Google Forms
+    description: "Collect and organize information big & small with Google Forms. For free."
+    link: "https://www.google.com/forms/about/"
+    purchase: 
+    subscription: 
+    platform: Web
     symbols: 
     artboards: 
     responsive: 
