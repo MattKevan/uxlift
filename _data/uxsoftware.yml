@@ -194,9 +194,9 @@
     categories: User research
     logo: 
 -
-    name: Optimal Workshop
-    description: 
-    link: 
+    name: Treejack
+    description: "Know where and why people get lost in your content"
+    link: https://www.optimalworkshop.com/treejack
     purchase: 
     subscription: 
     platform: Web
@@ -207,7 +207,67 @@
     animation: 
     collaboration: 
     categories: User research
-    logo: 
+    logo: /assets/optimal-workshop.png
+-
+    name: OptimalSort
+    description: "Discover how other people organize your content"
+    link: https://www.optimalworkshop.com/optimalsort
+    purchase: 
+    subscription: 
+    platform: Web
+    symbols: 
+    artboards: 
+    responsive: 
+    prototyping: 
+    animation: 
+    collaboration: 
+    categories: User research
+    logo: /assets/optimal-workshop.png
+-
+    name: Chalkmark
+    description: "Reveal first impressions of designs and screenshots"
+    link: https://www.optimalworkshop.com/chalkmark
+    purchase: 
+    subscription: 
+    platform: Web
+    symbols: 
+    artboards: 
+    responsive: 
+    prototyping: 
+    animation: 
+    collaboration: 
+    categories: User research
+    logo: /assets/optimal-workshop.png
+-
+    name: Reframer
+    description: "Collect, Discover, Share"
+    link: https://www.optimalworkshop.com/reframer
+    purchase: 
+    subscription: 
+    platform: Web
+    symbols: 
+    artboards: 
+    responsive: 
+    prototyping: 
+    animation: 
+    collaboration: 
+    categories: User research
+    logo: /assets/optimal-workshop.png
+-
+    name: Questions
+    description: "Ask, Recruit, Learn"
+    link: https://www.optimalworkshop.com/questions
+    purchase: 
+    subscription: 
+    platform: Web
+    symbols: 
+    artboards: 
+    responsive: 
+    prototyping: 
+    animation: 
+    collaboration: 
+    categories: User research
+    logo: /assets/optimal-workshop.png
 -
     name: UserTesting
     description: 
@@ -360,6 +420,21 @@
     logo: /assets/atomic.png
 -
     name: Figma
+    description: 
+    link: 
+    purchase: 
+    subscription: 
+    platform: 
+    symbols: 
+    artboards: 
+    responsive: 
+    prototyping: 
+    animation: 
+    collaboration: 
+    categories: 
+    logo: /assets/figma.jpg
+-
+    name: Optimal Workshop
     description: 
     link: 
     purchase: 

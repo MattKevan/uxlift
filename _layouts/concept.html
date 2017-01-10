@@ -4,20 +4,28 @@ layout: default
 
 <div class="container page">
 	<div class="row">
-		<div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+		<div class="col-xs-12 col-sm-8">
 			<div class="content">
 				<h1 class="title">{{ page.title }}</h1>
 				<p class="lead">{{ page.intro }}</p>
 				{{ content }}
 			</div>
 			<div class="further-reading">
-			<h3>Further reading</h3>
+			
+		    </div>
+		</div>
+		<div class="col-xs-12 col-sm-4">
+			<div class="sidebar">
+			<div class="block">
+				<h3>Further reading</h3>
 			   {% for item in page.further-reading %}
 			        <div class="read-item">
 				        <h4><a href="{{ item.url }}" target="_blank">{{ item.title }}</a></h4>
 			        </div>
 		      {% endfor %}
-		    </div>
+			</div>
+
+			</div>
 		</div>
 	</div>
 </div>
