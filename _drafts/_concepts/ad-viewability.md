@@ -2,12 +2,12 @@
 title: Ad viewability
 date: '2017-01-16 15:18:31'
 layout: concept
-intro: ''
+intro: An advert served doesn't always mean an advert viewed.
 categories: []
 phase: []
 further-reading:
-- title: ''
-  url: ''
+- title: 5 Factors of Display Viewability
+  url: https://www.thinkwithgoogle.com/infographics/5-factors-of-viewability.html
 - title: ''
   url: ''
 - title: ''
