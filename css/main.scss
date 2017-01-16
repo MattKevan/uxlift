@@ -19,7 +19,8 @@ body {
 }
 
 .container.page,
-.container.technique {
+.container.technique,
+.container.concept {
 	margin-top: 80px;
 	margin-bottom: 80px;
 }
@@ -89,8 +90,6 @@ h4 {
 	height: 200px;
 	margin-bottom: 30px;
 	background-color: #fff;
-	border-radius: 3px;
-	box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.15);
 	line-height: 1.4em;
 	position: relative;
 	h3, h4 {
@@ -106,7 +105,6 @@ h4 {
 	}
 	.grid-tags {
 		padding: 10px 15px;
-		background-color: #F4F4F4;
 		border-style: solid;
 		border-color: #E1E1E1;
 		border-width: 1px 0 0 0;
@@ -126,8 +124,9 @@ h4 {
 
 .read-item {
 	margin-bottom: 20px;
-	
+	h4 {margin-top:0;}
 	p.weblink a { color: #999; }
+	&:last {margin-bottom:0;}
 }
 .banner {
 	h1 {
@@ -143,6 +142,35 @@ h4 {
 	background-position: center bottom;
 	background-attachment: fixed;
 	margin-bottom: 60px;
+}
+
+.banner.page {
+	text-align:center;
+	background-color: #fff;
+	color: #333;
+	padding: 80px 0 140px 0;
+	h1.title {
+		font-size: 60px;
+		color:#000;
+		margin: 20px 0;
+		
+		@media (min-width: $screen-sm-min) {
+	    	font-size: 80px;
+		}
+
+		@media (min-width: $screen-md-min) {
+	    	font-size: 100px;
+		}
+	}
+	.lead { 
+		color: #666; 
+		font-size: 1.5em;
+		margin-bottom:0;
+		
+		@media (min-width: $screen-sm-min) {
+	    	font-size: 2em;
+		}
+	}
 }
 
 .banner.Books {
@@ -224,8 +252,8 @@ h4 {
 	border-radius:0;
 	border:none;
 	
-	.navbar-brand {
-		color: #333;
+	a.navbar-brand {
+		color: #D50566;
 		font-weight:bold;
 	}
 }

@@ -9,7 +9,7 @@ phase:
   - Understand
 further-reading:
   - title: Why empty states deserve more design time
-    url: hhttp://blog.invisionapp.com/why-empty-states-deserve-more-design-time/
+    url: http://blog.invisionapp.com/why-empty-states-deserve-more-design-time/
 books:
   - title:  
   - title:

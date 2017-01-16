@@ -2,6 +2,7 @@
 layout: technique
 title: Analytics review
 intro: Analysing web or mobile usage and making recommendations.
+icon: "assets/08_market_analysis_128.png"
 categories:
   - Strategy
   - Research

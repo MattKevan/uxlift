@@ -1,16 +1,24 @@
 ---
 layout: default
 ---
-
-<div class="container technique">
-	<div class="row">
-		<div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
-			
-			<div class="content">
+<div class="banner page">
+	<div class="container">
+		<div class="row">
+			<div class="col-xs-12">
+				<img src="/{{ page.icon }}" />
 				<h1 class="title">{{ page.title }}</h1>
 				<p class="lead">{{ page.intro }}</p>
-				{{ content }}
 			</div>
+		</div>
+	</div>
+</div>
+<div class="container technique">
+	<div class="row">
+		<div class="col-xs-12 col-sm-10 col-sm-offset-1">
+			
+<div class="content">
+	{{ content }}
+	</div>
 			
 			<div class="block">
 				<h3 class="block-title">Further reading</h3>

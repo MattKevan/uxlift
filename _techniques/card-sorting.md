@@ -1,7 +1,8 @@
 ---
 layout: technique
 title: Card sorting
-intro: Card sorting is a method used to help design or evaluate the information architecture of a site. 
+intro: A method used to help design or evaluate a site's information architecture. 
+icon: "assets/04_sticky_notes_128.png"
 categories:
   - Research
 phase:
@@ -18,6 +19,7 @@ books:
   - title:
   - title:
 software:
+  - title: OptimalSort
 downloads:
 related:
   - title:
