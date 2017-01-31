@@ -1,7 +1,7 @@
 ---
 title: Ad viewability
 date: '2017-01-16 15:18:31'
-layout: concept
+layout: article
 intro: "A display ad is considered viewable when 50% of an ad’s pixels are in view
   on the screen \nfor a minimum of one second."
 categories: []
