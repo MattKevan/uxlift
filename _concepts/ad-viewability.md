@@ -49,22 +49,20 @@ Changing and optimising placements on the page can increase viewability rates.
 
 **Above the fold** – The most viewable position for a banner advert is just above the 'fold', or further down the page as it remains in-view for longer as a user scrolls. This is in contrast to its ususal  position which is above the header.
 
-!(/assets/banner.png)
+![Above the fold](/assets/banner.png)
 
-**Sticky banner** – Fix the banner while scrolling past the header, then un-fix when reaching the page content, keeping it on screen for longer.
+**Sticky banner** – Fix the banner while scrolling past the header, then un-fix when reaching the page content, keeping it on screen for longer. Header height may need to be adjusted for a longer scroll.
 
-Height of header may need to be adjusted for a longer scroll.
-
-!(/assets/header-ad.gif)
+![Header advert](/assets/header-ad.gif)
 
 **Sticky sidebar** - Fix the ad in place for a second or so while the user scrolls.
 
-!(/assets/sticky-ad.gif)
+![Sticky advery](/assets/sticky-ad.gif)
 
 **Peek** – On page load ‘peek’ the banner up from the bottom of the page for a second or two.
 
-!(/assets/slideup-ad.gif)
+![Peek advert](/assets/slideup-ad.gif)
 
 **Rich content** – Surround adverts with rich content. Adverts will remain viewable for longer as user consumes the content.
 
-!(/assets/rich-content.png)
+![Rich content](/assets/rich-content.png)
