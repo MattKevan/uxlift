@@ -1,6 +1,6 @@
 ---
 title: Atomic design
-date: '2017-01-03 08:31:53'
+date: '2017-01-03 00:00:00'
 layout: article
 intro: 'A methodology composed of five stages to create design systems in a deliberate
   and hierarchical manner. '
@@ -21,7 +21,7 @@ books:
 - title: 
 - title: 
 software:
-- title: 
+- title: Pattern Lab
 - title: 
 - title: 
 downloads: 
