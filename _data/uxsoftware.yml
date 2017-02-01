@@ -1,465 +1,483 @@
--
-    name: Axure RP
-    description: Design the right solution.
-    link: http://www.axure.com
-    purchase: $495/$895
-    subscription: $29/$49
-    platform: Mac, Windows
-    symbols: Yes
-    artboards: 
-    responsive: Yes
-    prototyping: Yes
-    animation: Yes
-    collaboration: Yes
-    categories: Wireframes, Diagrams, Prototypes
-    logo: /assets/axure.png
--
-    name: Sketch
-    description: Professional digital design for Mac.
-    link: http://www.sketchapp.com
-    purchase: $99 per year
-    subscription: 
-    platform: Mac
-    symbols: Yes
-    artboards: Yes
-    responsive: Yes
-    prototyping: 
-    animation: 
-    collaboration: 
-    categories: Design, Prototypes
-    logo: /assets/sketch.png
--
-    name: Adobe Illustrator
-    description: Create beautiful vector art.
-    link: http://www.adobe.com/uk/products/illustrator.html
-    purchase: 
-    subscription: 
-    platform: Mac, Windows
-    symbols: 
-    artboards: 
-    responsive: 
-    prototyping: 
-    animation: 
-    collaboration: 
-    categories: Wireframes, Design
-    logo: /assets/ai.png
--
-    name: Adobe Experience Design
-    description: Design. Prototype. Share. All in one app.
-    link: http://www.adobe.com/uk/products/experience-design.html
-    purchase: 
-    subscription: 
-    platform: Mac, Windows
-    symbols: 
-    artboards: 
-    responsive: 
-    prototyping: 
-    animation: 
-    collaboration: 
-    categories: Design, Prototypes
-    logo: /assets/xd.png
--
-    name: Affinity Designer
-    description: Professional graphic design software.
-    link: https://affinity.serif.com/en-gb/designer/
-    purchase: 
-    subscription: 
-    platform: Mac, Windows
-    symbols: 
-    artboards: 
-    responsive: 
-    prototyping: 
-    animation: 
-    collaboration: 
-    categories: Wireframes, Design
-    logo: /assets/affinity.png
--
-    name: Adobe InDesign
-    description: Craft elegant layouts at your desk or on the go.
-    link: http://www.adobe.com/uk/products/indesign.html
-    purchase: 
-    subscription: 
-    platform: Mac, Windows
-    symbols: 
-    artboards: 
-    responsive: 
-    prototyping: 
-    animation: 
-    collaboration: 
-    categories: Wireframes, Design
-    logo: /assets/id.png
--
-    name: Adobe Photoshop
-    description: Create anything you can imagine. Anywhere you are.
-    link: http://www.adobe.com/uk/products/photoshop.html
-    purchase: 
-    subscription: 
-    platform: Mac, Windows
-    symbols: 
-    artboards: 
-    responsive: 
-    prototyping: 
-    animation: 
-    collaboration: 
-    categories: Design
-    logo: /assets/ps.png
--
-    name: Marvel
-    description: 
-    link: 
-    purchase: 
-    subscription: 
-    platform: Web
-    symbols: 
-    artboards: 
-    responsive: 
-    prototyping: 
-    animation: 
-    collaboration: 
-    categories: Prototypes
-    logo: /assets/marvel.png
--
-    name: InVision
-    description: 
-    link: 
-    purchase: 
-    subscription: 
-    platform: Web
-    symbols: 
-    artboards: 
-    responsive: 
-    prototyping: 
-    animation: 
-    collaboration: 
-    categories: Prototypes
-    logo: /assets/inv.png
--
-    name: Balsamiq 
-    description: 
-    link: 
-    purchase: 
-    subscription: 
-    platform: Web
-    symbols: 
-    artboards: 
-    responsive: 
-    prototyping: 
-    animation: 
-    collaboration: 
-    categories: Wireframes
-    logo: 
--
-    name: UXPin
-    description: Collaborative UX Design for Product Teams.
-    link: https://www.uxpin.com
-    purchase: 
-    subscription: 
-    platform: Web
-    symbols: 
-    artboards: 
-    responsive: 
-    prototyping: 
-    animation: 
-    collaboration: 
-    categories: Wireframes, Prototypes
-    logo: /assets/uxp.png
--
-    name: Zeplin
-    description: Build pixel perfect apps in peace.
-    link: https://zeplin.io
-    purchase: 
-    subscription: 
-    platform: Mac, Windows, Web
-    symbols: 
-    artboards: 
-    responsive: 
-    prototyping: 
-    animation: 
-    collaboration: 
-    categories: Hand-off
-    logo: 
--
-    name: What Users Do
-    description: 
-    link: 
-    purchase: 
-    subscription: 
-    platform: Web
-    symbols: 
-    artboards: 
-    responsive: 
-    prototyping: 
-    animation: 
-    collaboration: 
-    categories: User research
-    logo: 
--
-    name: Treejack
-    description: "Know where and why people get lost in your content"
-    link: https://www.optimalworkshop.com/treejack
-    purchase: 
-    subscription: 
-    platform: Web
-    symbols: 
-    artboards: 
-    responsive: 
-    prototyping: 
-    animation: 
-    collaboration: 
-    categories: User research
-    logo: /assets/optimal-workshop.png
--
-    name: OptimalSort
-    description: "Discover how other people organize your content"
-    link: https://www.optimalworkshop.com/optimalsort
-    purchase: 
-    subscription: 
-    platform: Web
-    symbols: 
-    artboards: 
-    responsive: 
-    prototyping: 
-    animation: 
-    collaboration: 
-    categories: User research
-    logo: /assets/optimal-workshop.png
--
-    name: Chalkmark
-    description: "Reveal first impressions of designs and screenshots"
-    link: https://www.optimalworkshop.com/chalkmark
-    purchase: 
-    subscription: 
-    platform: Web
-    symbols: 
-    artboards: 
-    responsive: 
-    prototyping: 
-    animation: 
-    collaboration: 
-    categories: User research
-    logo: /assets/optimal-workshop.png
--
-    name: Reframer
-    description: "Collect, Discover, Share"
-    link: https://www.optimalworkshop.com/reframer
-    purchase: 
-    subscription: 
-    platform: Web
-    symbols: 
-    artboards: 
-    responsive: 
-    prototyping: 
-    animation: 
-    collaboration: 
-    categories: User research
-    logo: /assets/optimal-workshop.png
--
-    name: Questions
-    description: "Ask, Recruit, Learn"
-    link: https://www.optimalworkshop.com/questions
-    purchase: 
-    subscription: 
-    platform: Web
-    symbols: 
-    artboards: 
-    responsive: 
-    prototyping: 
-    animation: 
-    collaboration: 
-    categories: User research
-    logo: /assets/optimal-workshop.png
--
-    name: UserTesting
-    description: 
-    link: 
-    purchase: 
-    subscription: 
-    platform: Web
-    symbols: 
-    artboards: 
-    responsive: 
-    prototyping: 
-    animation: 
-    collaboration: 
-    categories: User research
-    logo: 
--
-    name: Marketch
-    description: 
-    link: 
-    purchase: 
-    subscription: 
-    platform: Web
-    symbols: 
-    artboards: 
-    responsive: 
-    prototyping: 
-    animation: 
-    collaboration: 
-    categories: Hand-off
-    logo: 
--
-    name: Avocode
-    description: 
-    link: 
-    purchase: 
-    subscription: 
-    platform: Mac, Windows, Web
-    symbols: 
-    artboards: 
-    responsive: 
-    prototyping: 
-    animation: 
-    collaboration: 
-    categories: Hand-off
-    logo: /assets/avo.svg
--
-    name: Framer
-    description: 
-    link: 
-    purchase: 
-    subscription: 
-    platform: 
-    symbols: 
-    artboards: 
-    responsive: 
-    prototyping: 
-    animation: 
-    collaboration: 
-    categories: 
-    logo: 
--
-    name: Lucidchart
-    description: 
-    link: 
-    purchase: 
-    subscription: 
-    platform: Web
-    symbols: 
-    artboards: 
-    responsive: 
-    prototyping: 
-    animation: 
-    collaboration: 
-    categories: Wireframes, Diagrams
-    logo: 
--
-    name: Principle
-    description: 
-    link: 
-    purchase: 
-    subscription: 
-    platform: Mac
-    symbols: 
-    artboards: 
-    responsive: 
-    prototyping: 
-    animation: 
-    collaboration: 
-    categories: 
-    logo: 
--
-    name: HotGloo
-    description: 
-    link: 
-    purchase: 
-    subscription: 
-    platform: Web
-    symbols: 
-    artboards: 
-    responsive: 
-    prototyping: 
-    animation: 
-    collaboration: 
-    categories: 
-    logo: 
--
-    name: Fuse
-    description: 
-    link: 
-    purchase: 
-    subscription: 
-    platform: 
-    symbols: 
-    artboards: 
-    responsive: 
-    prototyping: 
-    animation: 
-    collaboration: 
-    categories: 
-    logo: 
--
-    name: Craft
-    description: 
-    link: 
-    purchase: 
-    subscription: 
-    platform: Mac
-    symbols: 
-    artboards: 
-    responsive: 
-    prototyping: 
-    animation: 
-    collaboration: 
-    categories: Design
-    logo: 
--
-    name: Atomic
-    description: 
-    link: 
-    purchase: 
-    subscription: 
-    platform: Web
-    symbols: 
-    artboards: 
-    responsive: 
-    prototyping: 
-    animation: 
-    collaboration: 
-    categories: 
-    logo: /assets/atomic.png
--
-    name: Figma
-    description: 
-    link: 
-    purchase: 
-    subscription: 
-    platform: 
-    symbols: 
-    artboards: 
-    responsive: 
-    prototyping: 
-    animation: 
-    collaboration: 
-    categories: 
-    logo: /assets/figma.jpg
--
-    name: SurveyMonkey
-    description: "Turn instincts into insights"
-    link: "https://www.surveymonkey.com"
-    purchase: 
-    subscription: 
-    platform: Web
-    symbols: 
-    artboards: 
-    responsive: 
-    prototyping: 
-    animation: 
-    collaboration: 
-    categories: 
-    logo: /assets/figma.jpg
--
-    name: Google Forms
-    description: "Collect and organize information big & small with Google Forms. For free."
-    link: "https://www.google.com/forms/about/"
-    purchase: 
-    subscription: 
-    platform: Web
-    symbols: 
-    artboards: 
-    responsive: 
-    prototyping: 
-    animation: 
-    collaboration: 
-    categories: 
-    logo: /assets/figma.jpg
+---
+- name: Pattern Lab
+  description: Pattern Lab helps you and your team build thoughtful, pattern-driven
+    user interfaces using atomic design principles.
+  link: http://patternlab.io
+  purchase: Free
+  subscription: ''
+  platform: Web
+  symbols: false
+  artboards: false
+  responsive: false
+  prototyping: false
+  animation: false
+  collaboration: false
+  categories: []
+  logo: "/assets/patternlab.png"
+- name: Axure RP
+  description: Design the right solution.
+  link: http://www.axure.com
+  purchase: "$495/$895"
+  subscription: "$29/$49"
+  platform: Mac, Windows
+  symbols: true
+  artboards: 
+  responsive: true
+  prototyping: true
+  animation: true
+  collaboration: true
+  categories:
+  - Wireframes
+  - " Diagrams"
+  - " Prototypes"
+  logo: "/assets/axure.png"
+- name: Sketch
+  description: Professional digital design for Mac.
+  link: http://www.sketchapp.com
+  purchase: "$99 per year"
+  subscription: 
+  platform: Mac
+  symbols: true
+  artboards: true
+  responsive: true
+  prototyping: 
+  animation: 
+  collaboration: 
+  categories:
+  - Design
+  - " Prototypes"
+  logo: "/assets/sketch.png"
+- name: Adobe Illustrator
+  description: Create beautiful vector art.
+  link: http://www.adobe.com/uk/products/illustrator.html
+  purchase: 
+  subscription: 
+  platform: Mac, Windows
+  symbols: 
+  artboards: 
+  responsive: 
+  prototyping: 
+  animation: 
+  collaboration: 
+  categories:
+  - Wireframes
+  - " Design"
+  logo: "/assets/ai.png"
+- name: Adobe Experience Design
+  description: Design. Prototype. Share. All in one app.
+  link: http://www.adobe.com/uk/products/experience-design.html
+  purchase: 
+  subscription: 
+  platform: Mac, Windows
+  symbols: 
+  artboards: 
+  responsive: 
+  prototyping: 
+  animation: 
+  collaboration: 
+  categories:
+  - Design
+  - " Prototypes"
+  logo: "/assets/xd.png"
+- name: Affinity Designer
+  description: Professional graphic design software.
+  link: https://affinity.serif.com/en-gb/designer/
+  purchase: 
+  subscription: 
+  platform: Mac, Windows
+  symbols: 
+  artboards: 
+  responsive: 
+  prototyping: 
+  animation: 
+  collaboration: 
+  categories:
+  - Wireframes
+  - " Design"
+  logo: "/assets/affinity.png"
+- name: Adobe InDesign
+  description: Craft elegant layouts at your desk or on the go.
+  link: http://www.adobe.com/uk/products/indesign.html
+  purchase: 
+  subscription: 
+  platform: Mac, Windows
+  symbols: 
+  artboards: 
+  responsive: 
+  prototyping: 
+  animation: 
+  collaboration: 
+  categories:
+  - Wireframes
+  - " Design"
+  logo: "/assets/id.png"
+- name: Adobe Photoshop
+  description: Create anything you can imagine. Anywhere you are.
+  link: http://www.adobe.com/uk/products/photoshop.html
+  purchase: 
+  subscription: 
+  platform: Mac, Windows
+  symbols: 
+  artboards: 
+  responsive: 
+  prototyping: 
+  animation: 
+  collaboration: 
+  categories:
+  - Design
+  logo: "/assets/ps.png"
+- name: Marvel
+  description: 
+  link: 
+  purchase: 
+  subscription: 
+  platform: Web
+  symbols: 
+  artboards: 
+  responsive: 
+  prototyping: 
+  animation: 
+  collaboration: 
+  categories:
+  - Prototypes
+  logo: "/assets/marvel.png"
+- name: InVision
+  description: 
+  link: 
+  purchase: 
+  subscription: 
+  platform: Web
+  symbols: 
+  artboards: 
+  responsive: 
+  prototyping: 
+  animation: 
+  collaboration: 
+  categories:
+  - Prototypes
+  logo: "/assets/inv.png"
+- name: Balsamiq
+  description: 
+  link: 
+  purchase: 
+  subscription: 
+  platform: Web
+  symbols: 
+  artboards: 
+  responsive: 
+  prototyping: 
+  animation: 
+  collaboration: 
+  categories:
+  - Wireframes
+  logo: 
+- name: UXPin
+  description: Collaborative UX Design for Product Teams.
+  link: https://www.uxpin.com
+  purchase: 
+  subscription: 
+  platform: Web
+  symbols: 
+  artboards: 
+  responsive: 
+  prototyping: 
+  animation: 
+  collaboration: 
+  categories:
+  - Wireframes
+  - " Prototypes"
+  logo: "/assets/uxp.png"
+- name: Zeplin
+  description: Build pixel perfect apps in peace.
+  link: https://zeplin.io
+  purchase: 
+  subscription: 
+  platform: Mac, Windows, Web
+  symbols: 
+  artboards: 
+  responsive: 
+  prototyping: 
+  animation: 
+  collaboration: 
+  categories:
+  - Hand-off
+  logo: 
+- name: What Users Do
+  description: 
+  link: 
+  purchase: 
+  subscription: 
+  platform: Web
+  symbols: 
+  artboards: 
+  responsive: 
+  prototyping: 
+  animation: 
+  collaboration: 
+  categories:
+  - User research
+  logo: 
+- name: Treejack
+  description: Know where and why people get lost in your content
+  link: https://www.optimalworkshop.com/treejack
+  purchase: 
+  subscription: 
+  platform: Web
+  symbols: 
+  artboards: 
+  responsive: 
+  prototyping: 
+  animation: 
+  collaboration: 
+  categories:
+  - User research
+  logo: "/assets/optimal-workshop.png"
+- name: OptimalSort
+  description: Discover how other people organize your content
+  link: https://www.optimalworkshop.com/optimalsort
+  purchase: 
+  subscription: 
+  platform: Web
+  symbols: 
+  artboards: 
+  responsive: 
+  prototyping: 
+  animation: 
+  collaboration: 
+  categories:
+  - User research
+  logo: "/assets/optimal-workshop.png"
+- name: Chalkmark
+  description: Reveal first impressions of designs and screenshots
+  link: https://www.optimalworkshop.com/chalkmark
+  purchase: 
+  subscription: 
+  platform: Web
+  symbols: 
+  artboards: 
+  responsive: 
+  prototyping: 
+  animation: 
+  collaboration: 
+  categories:
+  - User research
+  logo: "/assets/optimal-workshop.png"
+- name: Reframer
+  description: Collect, Discover, Share
+  link: https://www.optimalworkshop.com/reframer
+  purchase: 
+  subscription: 
+  platform: Web
+  symbols: 
+  artboards: 
+  responsive: 
+  prototyping: 
+  animation: 
+  collaboration: 
+  categories:
+  - User research
+  logo: "/assets/optimal-workshop.png"
+- name: Questions
+  description: Ask, Recruit, Learn
+  link: https://www.optimalworkshop.com/questions
+  purchase: 
+  subscription: 
+  platform: Web
+  symbols: 
+  artboards: 
+  responsive: 
+  prototyping: 
+  animation: 
+  collaboration: 
+  categories:
+  - User research
+  logo: "/assets/optimal-workshop.png"
+- name: UserTesting
+  description: 
+  link: 
+  purchase: 
+  subscription: 
+  platform: Web
+  symbols: 
+  artboards: 
+  responsive: 
+  prototyping: 
+  animation: 
+  collaboration: 
+  categories:
+  - User research
+  logo: 
+- name: Marketch
+  description: 
+  link: 
+  purchase: 
+  subscription: 
+  platform: Web
+  symbols: 
+  artboards: 
+  responsive: 
+  prototyping: 
+  animation: 
+  collaboration: 
+  categories:
+  - Hand-off
+  logo: 
+- name: Avocode
+  description: 
+  link: 
+  purchase: 
+  subscription: 
+  platform: Mac, Windows, Web
+  symbols: 
+  artboards: 
+  responsive: 
+  prototyping: 
+  animation: 
+  collaboration: 
+  categories:
+  - Hand-off
+  logo: "/assets/avo.svg"
+- name: Framer
+  description: 
+  link: 
+  purchase: 
+  subscription: 
+  platform: 
+  symbols: 
+  artboards: 
+  responsive: 
+  prototyping: 
+  animation: 
+  collaboration: 
+  categories: []
+  logo: 
+- name: Lucidchart
+  description: 
+  link: 
+  purchase: 
+  subscription: 
+  platform: Web
+  symbols: 
+  artboards: 
+  responsive: 
+  prototyping: 
+  animation: 
+  collaboration: 
+  categories:
+  - Wireframes
+  - " Diagrams"
+  logo: 
+- name: Principle
+  description: 
+  link: 
+  purchase: 
+  subscription: 
+  platform: Mac
+  symbols: 
+  artboards: 
+  responsive: 
+  prototyping: 
+  animation: 
+  collaboration: 
+  categories: []
+  logo: 
+- name: HotGloo
+  description: 
+  link: 
+  purchase: 
+  subscription: 
+  platform: Web
+  symbols: 
+  artboards: 
+  responsive: 
+  prototyping: 
+  animation: 
+  collaboration: 
+  categories: []
+  logo: 
+- name: Fuse
+  description: 
+  link: 
+  purchase: 
+  subscription: 
+  platform: 
+  symbols: 
+  artboards: 
+  responsive: 
+  prototyping: 
+  animation: 
+  collaboration: 
+  categories: []
+  logo: 
+- name: Craft
+  description: 
+  link: 
+  purchase: 
+  subscription: 
+  platform: Mac
+  symbols: 
+  artboards: 
+  responsive: 
+  prototyping: 
+  animation: 
+  collaboration: 
+  categories:
+  - Design
+  logo: 
+- name: Atomic
+  description: 
+  link: 
+  purchase: 
+  subscription: 
+  platform: Web
+  symbols: 
+  artboards: 
+  responsive: 
+  prototyping: 
+  animation: 
+  collaboration: 
+  categories: []
+  logo: "/assets/atomic.png"
+- name: Figma
+  description: 
+  link: 
+  purchase: 
+  subscription: 
+  platform: 
+  symbols: 
+  artboards: 
+  responsive: 
+  prototyping: 
+  animation: 
+  collaboration: 
+  categories: []
+  logo: "/assets/figma.jpg"
+- name: SurveyMonkey
+  description: Turn instincts into insights
+  link: https://www.surveymonkey.com
+  purchase: 
+  subscription: 
+  platform: Web
+  symbols: 
+  artboards: 
+  responsive: 
+  prototyping: 
+  animation: 
+  collaboration: 
+  categories: []
+  logo: "/assets/figma.jpg"
+- name: Google Forms
+  description: Collect and organize information big & small with Google Forms. For
+    free.
+  link: https://www.google.com/forms/about/
+  purchase: 
+  subscription: 
+  platform: Web
+  symbols: 
+  artboards: 
+  responsive: 
+  prototyping: 
+  animation: 
+  collaboration: 
+  categories: []
+  logo: "/assets/figma.jpg"
