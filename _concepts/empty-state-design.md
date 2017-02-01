@@ -1,5 +1,5 @@
 ---
-layout: concept
+layout: article
 title: Empty state design
 intro: Empty states are what a user sees when there's no data to be displayed. 
 categories:
@@ -15,9 +15,6 @@ books:
   - title:
   - title:
 software:
-  - title:
-  - title:
-  - title:
 downloads:
 related:
   - title:

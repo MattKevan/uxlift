@@ -48,7 +48,7 @@ defaults:
       path: ""
       type: concepts
     values:
-      layout: concept
+      layout: article
       title: ""
       intro: ""
       categories: []
@@ -78,7 +78,7 @@ defaults:
       path: ""
       type: techniques
     values:
-      layout: technique
+      layout: article
       title: ""
       intro: ""
       categories: []

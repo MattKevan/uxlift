@@ -1,7 +1,7 @@
 ---
 title: Atomic design
 date: '2017-01-03 08:31:53'
-layout: concept
+layout: article
 intro: 'A methodology composed of five stages to create design systems in a deliberate
   and hierarchical manner. '
 categories:

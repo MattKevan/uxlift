@@ -1,5 +1,5 @@
 ---
-layout: technique
+layout: article
 title: Content audits
 intro: Card sorting is a method used to help design or evaluate the information architecture of a site. 
 icon: "assets/19_project_documentation_128.png"

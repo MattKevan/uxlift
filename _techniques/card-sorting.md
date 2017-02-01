@@ -1,5 +1,5 @@
 ---
-layout: technique
+layout: article
 title: Card sorting
 intro: A method used to help design or evaluate a site's information architecture. 
 icon: "assets/04_sticky_notes_128.png"

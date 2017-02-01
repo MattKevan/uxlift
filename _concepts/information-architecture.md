@@ -1,5 +1,5 @@
 ---
-layout: concept
+layout: article
 title: Information architecture
 intro: Card sorting is a method used to help design or evaluate the information architecture of a site. 
 categories:
@@ -15,9 +15,11 @@ books:
   - title:
   - title:
 software:
-  - title:
-  - title:
-  - title:
+  - title: UXPin
+  - title: Adobe Illustrator
+  - title: Axure RP
+  - title: Figma
+  - title: Sketch
 downloads:
 related:
   - title:

@@ -1,5 +1,5 @@
 ---
-layout: technique
+layout: article
 title: Use cases
 intro: Card sorting is a method used to help design or evaluate the information architecture of a site. 
 categories:
