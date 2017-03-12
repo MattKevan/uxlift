@@ -12,7 +12,9 @@
   prototyping: false
   animation: false
   collaboration: false
-  categories: []
+  categories:
+  - Development
+  - Hand off
   logo: "/assets/patternlab-1.png"
 - name: Axure RP
   description: Design the right solution.
@@ -127,8 +129,8 @@
   - Design
   logo: "/assets/ps.png"
 - name: Marvel
-  description: 
-  link: 
+  description: Simple design, prototyping and collaboration.
+  link: https://marvelapp.com
   purchase: 
   subscription: 
   platform: Web
@@ -139,11 +141,13 @@
   animation: 
   collaboration: 
   categories:
-  - Prototypes
+  - Design
+  - Prototyping
+  - Animation
   logo: "/assets/marvel.png"
 - name: InVision
-  description: 
-  link: 
+  description: The world's leading prototyping, collaboration & workflow platform.
+  link: https://www.invisionapp.com
   purchase: 
   subscription: 
   platform: Web
@@ -154,7 +158,7 @@
   animation: 
   collaboration: 
   categories:
-  - Prototypes
+  - Prototyping
   logo: "/assets/inv.png"
 - name: Balsamiq
   description: Balsamiq Mockups is a rapid wireframing tool that helps you Work Faster
@@ -192,7 +196,7 @@
   description: Build pixel perfect apps in peace.
   link: https://zeplin.io
   purchase: 
-  subscription: 
+  subscription: From free
   platform: Mac, Windows, Web
   symbols: 
   artboards: 
@@ -202,10 +206,11 @@
   collaboration: 
   categories:
   - Hand-off
-  logo: 
+  logo: "/assets/zeplin.png"
 - name: What Users Do
-  description: 
-  link: 
+  description: Our platform helps you understand how your customers engage with your
+    website or product.
+  link: https://www.whatusersdo.com
   purchase: 
   subscription: 
   platform: Web
@@ -217,8 +222,8 @@
   collaboration: 
   categories:
   - User research
-  logo: 
-- name: Treejack
+  logo: "/assets/whatusersdo.jpg"
+- name: 'Optimal Workshop: Treejack'
   description: Know where and why people get lost in your content
   link: https://www.optimalworkshop.com/treejack
   purchase: 
@@ -233,7 +238,7 @@
   categories:
   - User research
   logo: "/assets/optimal-workshop.png"
-- name: OptimalSort
+- name: 'Optimal Workshop: OptimalSort'
   description: Discover how other people organize your content
   link: https://www.optimalworkshop.com/optimalsort
   purchase: 
@@ -248,7 +253,7 @@
   categories:
   - User research
   logo: "/assets/optimal-workshop.png"
-- name: Chalkmark
+- name: 'Optimal Workshop: Chalkmark'
   description: Reveal first impressions of designs and screenshots
   link: https://www.optimalworkshop.com/chalkmark
   purchase: 
@@ -263,7 +268,7 @@
   categories:
   - User research
   logo: "/assets/optimal-workshop.png"
-- name: Reframer
+- name: 'Optimal Workshop: Reframer'
   description: Collect, Discover, Share
   link: https://www.optimalworkshop.com/reframer
   purchase: 
@@ -278,7 +283,7 @@
   categories:
   - User research
   logo: "/assets/optimal-workshop.png"
-- name: Questions
+- name: 'Optimal Workshop: Questions'
   description: Ask, Recruit, Learn
   link: https://www.optimalworkshop.com/questions
   purchase: 
@@ -294,9 +299,10 @@
   - User research
   logo: "/assets/optimal-workshop.png"
 - name: UserTesting
-  description: 
-  link: 
-  purchase: 
+  description: Get videos of real people speaking their thoughts as they use websites,
+    mobile apps, prototypes and more.
+  link: https://www.usertesting.com
+  purchase: "$99 per video"
   subscription: 
   platform: Web
   symbols: 
@@ -307,13 +313,14 @@
   collaboration: 
   categories:
   - User research
-  logo: 
+  logo: "/assets/tXEf7cig.jpg"
 - name: Marketch
-  description: 
-  link: 
-  purchase: 
+  description: Marketch is a Sketch 3 plug-in for automatically generating html page
+    that can measure and get CSS styles on it.
+  link: https://github.com/tudou527/marketch
+  purchase: Free
   subscription: 
-  platform: Web
+  platform: Mac
   symbols: 
   artboards: 
   responsive: 
@@ -322,7 +329,7 @@
   collaboration: 
   categories:
   - Hand-off
-  logo: 
+  logo: "/assets/logo.png"
 - name: Avocode
   description: Build web, iOS & Android apps exactly as they were designed
   link: https://avocode.com
@@ -353,8 +360,9 @@
   categories: []
   logo: "/assets/framer.png"
 - name: Lucidchart
-  description: 
-  link: 
+  description: 'Our online diagram application makes it easy to sketch and share professional
+    flowchart diagrams. '
+  link: https://www.lucidchart.com
   purchase: 
   subscription: 
   platform: Web
@@ -367,11 +375,11 @@
   categories:
   - Wireframes
   - " Diagrams"
-  logo: 
+  logo: "/assets/chart_appicon_250.png"
 - name: Principle
-  description: 
-  link: 
-  purchase: 
+  description: 'Principle makes it easy to design animated and interactive user interfaces. '
+  link: http://principleformac.com
+  purchase: "$129"
   subscription: 
   platform: Mac
   symbols: 
@@ -380,8 +388,10 @@
   prototyping: 
   animation: 
   collaboration: 
-  categories: []
-  logo: 
+  categories:
+  - Animation
+  - Prototyping
+  logo: "/assets/Principle.png"
 - name: HotGloo
   description: Next level wire framing & prototyping tool. Create in your browser.
     Review anywhere.
@@ -395,7 +405,9 @@
   prototyping: true
   animation: 
   collaboration: true
-  categories: []
+  categories:
+  - Wireframing
+  - Prototypes
   logo: "/assets/Unknown.png"
 - name: Fuse
   description: |2-
@@ -411,7 +423,9 @@
   prototyping: true
   animation: 
   collaboration: true
-  categories: []
+  categories:
+  - Prototyping
+  - Development
   logo: "/assets/logo-grey-header@2x.png"
 - name: Craft
   description: 'Screen design. Supercharged. Craft is a suite of plugins to let you
@@ -475,8 +489,10 @@
   prototyping: 
   animation: 
   collaboration: 
-  categories: []
-  logo: "/assets/figma.jpg"
+  categories:
+  - User research
+  - Data collection
+  logo: "/assets/surveymonkey-icon.png"
 - name: Google Forms
   description: Collect and organize information big & small with Google Forms. For
     free.
@@ -490,5 +506,7 @@
   prototyping: 
   animation: 
   collaboration: 
-  categories: []
-  logo: "/assets/figma.jpg"
+  categories:
+  - Data collection
+  - User research
+  logo: "/assets/3191_3191_google_forms_logo.png"
