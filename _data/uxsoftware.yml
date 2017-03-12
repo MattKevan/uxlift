@@ -343,12 +343,12 @@
   link: https://framer.com
   purchase: 
   subscription: 
-  platform: Mac
+  platform: Mac, Web
   symbols: 
   artboards: 
   responsive: 
-  prototyping: 
-  animation: 
+  prototyping: true
+  animation: true
   collaboration: 
   categories: []
   logo: "/assets/framer.png"
@@ -383,33 +383,36 @@
   categories: []
   logo: 
 - name: HotGloo
-  description: 
-  link: 
+  description: Next level wire framing & prototyping tool. Create in your browser.
+    Review anywhere.
+  link: https://www.hotgloo.com
   purchase: 
   subscription: 
   platform: Web
   symbols: 
   artboards: 
   responsive: 
-  prototyping: 
+  prototyping: true
   animation: 
-  collaboration: 
+  collaboration: true
   categories: []
-  logo: 
+  logo: "/assets/Unknown.png"
 - name: Fuse
-  description: 
-  link: 
+  description: |2-
+
+    Build native apps on iOS and Android. Simpler. Faster.
+  link: www.fusetools.com
   purchase: 
   subscription: 
-  platform: 
+  platform: Mac, Windows
   symbols: 
   artboards: 
   responsive: 
-  prototyping: 
+  prototyping: true
   animation: 
-  collaboration: 
+  collaboration: true
   categories: []
-  logo: 
+  logo: "/assets/logo-grey-header@2x.png"
 - name: Craft
   description: 'Screen design. Supercharged. Craft is a suite of plugins to let you
     design with real data in mind. '
