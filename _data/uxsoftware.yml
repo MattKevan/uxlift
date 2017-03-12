@@ -157,8 +157,9 @@
   - Prototypes
   logo: "/assets/inv.png"
 - name: Balsamiq
-  description: "Balsamiq Mockups is a rapid wireframing tool that helps you Work Faster & Smarter."
-  link: "https://balsamiq.com"
+  description: Balsamiq Mockups is a rapid wireframing tool that helps you Work Faster
+    & Smarter.
+  link: https://balsamiq.com
   purchase: 
   subscription: 
   platform: Web
@@ -323,8 +324,8 @@
   - Hand-off
   logo: 
 - name: Avocode
-  description: "Build web, iOS & Android apps exactly as they were designed"
-  link: "https://avocode.com"
+  description: Build web, iOS & Android apps exactly as they were designed
+  link: https://avocode.com
   purchase: 
   subscription: 
   platform: Mac, Windows, Web
@@ -338,11 +339,11 @@
   - Hand-off
   logo: "/assets/avo.svg"
 - name: Framer
-  description: 
-  link: 
+  description: The design tool of choice for product teams at today’s top companies.
+  link: https://framer.com
   purchase: 
   subscription: 
-  platform: 
+  platform: Mac
   symbols: 
   artboards: 
   responsive: 
@@ -410,9 +411,10 @@
   categories: []
   logo: 
 - name: Craft
-  description: 
-  link: 
-  purchase: 
+  description: 'Screen design. Supercharged. Craft is a suite of plugins to let you
+    design with real data in mind. '
+  link: https://www.invisionapp.com/craft
+  purchase: ''
   subscription: 
   platform: Mac
   symbols: 
@@ -423,11 +425,11 @@
   collaboration: 
   categories:
   - Design
-  logo: 
+  logo: "/assets/craft.png"
 - name: Atomic
-  description: "Atomic helps you quickly create realistic prototypes of everything
-from simple interactions to entire products."
-  link: "http://www.atomic.io"
+  description: Atomic helps you quickly create realistic prototypes of everything
+    from simple interactions to entire products.
+  link: http://www.atomic.io
   purchase: 
   subscription: 
   platform: Web
@@ -438,13 +440,13 @@ from simple interactions to entire products."
   animation: 
   collaboration: 
   categories:
-  - "Prototypes"
-  - "Design"
+  - Prototypes
+  - Design
   logo: "/assets/atomic.png"
 - name: Figma
-  description: "The first interface design tool with real-time collaboration."
-  link: "https://www.figma.com"
-  purchase: "Free (for now)"
+  description: The first interface design tool with real-time collaboration.
+  link: https://www.figma.com
+  purchase: Free (for now)
   subscription: 
   platform: Web
   symbols: 
@@ -453,10 +455,10 @@ from simple interactions to entire products."
   prototyping: 
   animation: 
   collaboration: 
-  categories: 
-   - " Wireframes"
-   - " Design"
-   - " Prototypes"
+  categories:
+  - " Wireframes"
+  - " Design"
+  - " Prototypes"
   logo: "/assets/figma.jpg"
 - name: SurveyMonkey
   description: Turn instincts into insights
