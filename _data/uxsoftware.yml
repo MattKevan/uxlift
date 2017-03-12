@@ -157,8 +157,8 @@
   - Prototypes
   logo: "/assets/inv.png"
 - name: Balsamiq
-  description: 
-  link: 
+  description: "Balsamiq Mockups is a rapid wireframing tool that helps you Work Faster & Smarter."
+  link: "https://balsamiq.com"
   purchase: 
   subscription: 
   platform: Web
@@ -170,7 +170,7 @@
   collaboration: 
   categories:
   - Wireframes
-  logo: 
+  logo: "/assets/balsamiq.jpg"
 - name: UXPin
   description: Collaborative UX Design for Product Teams.
   link: https://www.uxpin.com
@@ -323,8 +323,8 @@
   - Hand-off
   logo: 
 - name: Avocode
-  description: 
-  link: 
+  description: "Build web, iOS & Android apps exactly as they were designed"
+  link: "https://avocode.com"
   purchase: 
   subscription: 
   platform: Mac, Windows, Web
@@ -425,8 +425,9 @@
   - Design
   logo: 
 - name: Atomic
-  description: 
-  link: 
+  description: "Atomic helps you quickly create realistic prototypes of everything
+from simple interactions to entire products."
+  link: "http://www.atomic.io"
   purchase: 
   subscription: 
   platform: Web
@@ -436,21 +437,26 @@
   prototyping: 
   animation: 
   collaboration: 
-  categories: []
+  categories:
+  - "Prototypes"
+  - "Design"
   logo: "/assets/atomic.png"
 - name: Figma
-  description: 
-  link: 
-  purchase: 
+  description: "The first interface design tool with real-time collaboration."
+  link: "https://www.figma.com"
+  purchase: "Free (for now)"
   subscription: 
-  platform: 
+  platform: Web
   symbols: 
   artboards: 
   responsive: 
   prototyping: 
   animation: 
   collaboration: 
-  categories: []
+  categories: 
+   - " Wireframes"
+   - " Design"
+   - " Prototypes"
   logo: "/assets/figma.jpg"
 - name: SurveyMonkey
   description: Turn instincts into insights
