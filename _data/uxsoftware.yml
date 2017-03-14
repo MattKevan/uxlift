@@ -1,4 +1,38 @@
 ---
+- name: Hotjar
+  description: Hotjar is a new and easy way to truly understand your web and mobile
+    site visitors.
+  link: https://www.hotjar.com
+  purchase: ''
+  subscription: ''
+  platform: ''
+  symbols: false
+  artboards: false
+  responsive: false
+  prototyping: false
+  animation: false
+  collaboration: false
+  categories:
+  - Analytics
+  - Research
+  logo: "/assets/images.png"
+- name: Google Analytics
+  description: Google Analytics Solutions offer marketing analytics products for businesses
+    of all sizes to better understand your customers.
+  link: https://www.google.com/analytics/
+  purchase: ''
+  subscription: ''
+  platform: ''
+  symbols: false
+  artboards: false
+  responsive: false
+  prototyping: false
+  animation: false
+  collaboration: false
+  categories:
+  - Analytics
+  - Research
+  logo: "/assets/logo_lockup_analytics_icon_vertical_black_2x.png"
 - name: Pattern Lab
   description: Pattern Lab helps you and your team build thoughtful, pattern-driven
     user interfaces using atomic design principles.
