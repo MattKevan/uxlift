@@ -4,6 +4,7 @@ title: Analytics reviews
 intro: Analysing web or mobile usage and making recommendations.
 icon: assets/08_market_analysis_128.png
 categories:
+- Analytics
 - Strategy
 - Research
 phase:
@@ -18,8 +19,8 @@ books:
 - title: 
 - title: 
 software:
-- title: 
-- title: 
+- title: Hotjar
+- title: Google Analytics
 - title: 
 downloads: 
 related:
