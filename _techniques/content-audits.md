@@ -16,9 +16,6 @@ books:
 - title: 
 - title: 
 software:
-- title: 
-- title: 
-- title: 
 downloads: 
 related:
 - title: 

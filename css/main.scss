@@ -7,15 +7,28 @@
 @import "bootstrap";
 
 body {
-	color: #333;
-	font-family: "europa",sans-serif;
+	color: #444;
+	font-family: "Open Sans",sans-serif;
 	font-weight: 400;
-  	background-color: #ECECEC;
+  	background-color: #fff;
   	font-size: 1.6em;
-  	line-height: 1.6em;
+  	line-height: 1.8em;
 }
-.page-content {
-	padding: 0;
+
+a {color: #D50566;}
+
+a:hover {
+	color: #D50566;
+	text-decoration: underline;
+}
+
+h1, h2, h3, h4 {
+	font-family: "Open Sans",sans-serif;
+	font-weight: 700;
+}
+
+.page {
+	margin-top: 60px;
 }
 
 .content {
@@ -35,78 +48,10 @@ body {
 	}
 }
 
-.container.page,
-.container.technique,
-.container.concept {
-	margin-top: 80px;
-	margin-bottom: 80px;
+.listing {
+	background-color: #ECECEC;
+	padding-top:30px;
 }
-a {color: #D50566;}
-
-a:hover {
-	color: #D50566;
-	text-decoration: underline;
-}
-
-h1, h2, h3, h4 {
-	font-family: "europa",sans-serif;
-	font-weight: 400;
-	color: #000;
-}
-
-h1 {
-	font-weight:700;
-}
-
-h1.title {
-	margin: 0 0 10px 0;
-	font-size: 2em;
-
-	@media (min-width: $screen-sm-min) {
-    	font-size: 3em;
-  	}
-}
-h2.title {
-	font-size: 1.5em;
-	margin: 0 0 40px 0;
-}
-
-h3 {
-	font-size: 28px;
-	
-	@media (min-width: $screen-sm-min) {
-    	font-size: 24px;
-  	}
-  	
-  	@media (min-width: $screen-md-min) {
-    	font-size: 22px;
-  	}
-  	
-  	@media (min-width: $screen-lg-min) {
-    	font-size: 28px;
-  	}
-	
-}
-
-h4 {
-	font-size: 22px;
-	margin-bottom: 5px;
-}
-
-.content {
-	background-color: #fff;
-	padding: 20px;
-	margin-bottom: 30px;
-}
-
-.lead {
-    padding: 0;
-    margin-bottom: 15px;
-    line-height: 1.6em;
-}
-
-
-.teaser-text {font-size: 20px;}
 
 .crumb {margin-bottom: 30px;}
 
@@ -124,10 +69,11 @@ h4 {
 	height: 200px;
 	margin-bottom: 30px;
 	background-color: #fff;
-	line-height: 1.4em;
+	line-height: 1.6em;
 	position: relative;
 	h3, h4 {
 		margin: 0 0 5px 0;
+		color: #D50566;
 	}
 	img.logo {
 		float: right;
@@ -170,108 +116,9 @@ h4 {
 	p.weblink a { color: #999; }
 	&:last {margin-bottom:0;}
 }
-.banner {
-	h1 {
-		margin: 100px 0 0 0;
-		color: #fff;
-	}
-	.lead {
-		color: #fff;
-		margin: 0 0 100px 0;
-	}
-	background-size: cover;
-	background-repeat: no-repeat;
-	background-position: center bottom;
-	background-attachment: fixed;
-	margin-bottom: 60px;
-}
 
-.banner.page {
-	text-align:center;
-	background-color: #fff;
-	color: #333;
-	padding: 80px 0 140px 0;
-	h1.title {
-		font-size: 60px;
-		color:#000;
-		margin: 20px 0;
-		
-		@media (min-width: $screen-sm-min) {
-	    	font-size: 60px;
-		}
 
-		@media (min-width: $screen-md-min) {
-	    	font-size: 80px;
-		}
-	}
-	.lead { 
-		color: #666; 
-		font-size: 1.5em;
-		margin-bottom:0;
-		
-		@media (min-width: $screen-sm-min) {
-	    	font-size: 2em;
-		}
-	}
-}
 
-.banner.Books {
-	background-image: url('/assets/18.jpg');
-}
-
-.banner.Concepts {
-	background-image: url('/assets/11.jpg');
-}
-
-.banner.Techniques {
-	background-image: url('/assets/6.jpg');
-	h1, .lead {color: #333;}
-}
-.banner.Software {
-	background-image: url('/assets/2.jpg');
-}
-
-.banner.Conferences.and.events {
-	background-image: url('/assets/10.jpg');
-}
-
-.banner.Courses {
-	background-image: url('/assets/17.jpg');
-}
-
-.banner.home {
-	background-image: url('/assets/18.jpg');
-	margin-bottom: 0;
-	p.lead {
-		line-height: 1.2em;
-		margin-bottom: 80px;
-		font-size: 2em;
-
-		@media (min-width: $screen-sm-min) {
-	    	font-size: 2.5em;
-	    	margin-bottom: 100px;
-		}
-
-		@media (min-width: $screen-md-min) {
-	    	font-size: 3em;
-		}
-	}
-
-	h1 { 
-		margin: 80px 0 10px 0;
-		font-size: 2em;
-
-		@media (min-width: $screen-sm-min) {
-	    	font-size: 2.5em;
-		}
-
-		@media (min-width: $screen-md-min) {
-	    	font-size: 3em;
-	    	margin: 100px 0 10px 0;
-
-		}
-	}
-}
 
 .grid-item:hover h3,
 .grid-item:hover h4{
@@ -306,33 +153,24 @@ h4 {
 		margin-top: 0;
 	}
 	.block-inner {
-		background-color:#fff;
+		border-color:#ECECEC;
+		border-width: 1px;
+		border-style:solid;
 		padding: 20px;
 	}
 }
 
-
-// Cards
-.card {
-	padding: 100px 0;
-
-	h2 {
-		margin-top: 0;
-	}
-
-	img { width: 100%;}
-
-}
-
-.card.white {
-	background-color: #fff;
-}
 // Footer
 
 .site-footer {
-	background-color: #666;
+	background-color: #999;
 	color: #fff;
 	padding: 20px 0;
 
 	p {margin: 0;}
+	a {color:#fff;}
+	a:hover {
+		color: #fff;
+		text-decoration: underline;
+	}
 }
