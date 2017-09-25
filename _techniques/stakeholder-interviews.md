@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: article
 title: Stakeholder interviews
 intro: Card sorting is a method used to help design or evaluate the information architecture of a site. 
 categories:

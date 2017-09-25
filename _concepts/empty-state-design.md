@@ -1,5 +1,5 @@
 ---
-layout: concept
+layout: article
 title: Empty state design
 intro: Empty states are what a user sees when there's no data to be displayed. 
 categories:
@@ -9,15 +9,12 @@ phase:
   - Understand
 further-reading:
   - title: Why empty states deserve more design time
-    url: hhttp://blog.invisionapp.com/why-empty-states-deserve-more-design-time/
+    url: http://blog.invisionapp.com/why-empty-states-deserve-more-design-time/
 books:
   - title:  
   - title:
   - title:
 software:
-  - title:
-  - title:
-  - title:
 downloads:
 related:
   - title:

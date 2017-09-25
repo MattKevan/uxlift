@@ -1,5 +1,5 @@
 ---
-layout: concept
+layout: article
 title: Desire paths
 intro: Card sorting is a method used to help design or evaluate the information architecture of a site. 
 categories:

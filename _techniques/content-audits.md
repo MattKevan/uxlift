@@ -1,50 +1,30 @@
 ---
-layout: page
+layout: article
 title: Content audits
-intro: Card sorting is a method used to help design or evaluate the information architecture of a site. 
+intro: Content audits are a vital first step when redesigning a content-heavy site.
+icon: assets/19_project_documentation_128.png
 categories:
-  - Strategy
-  - Research
+- Strategy
+- Research
 phase:
-  - Understand
+- Understand
 further-reading:
-  - title: Personas
-    url: https://www.usability.gov/how-to-and-tools/methods/personas.html
-  - title: "A Closer Look At Personas: What They Are And How They Work (Part 1)"	
-    url: https://www.smashingmagazine.com/2014/08/a-closer-look-at-personas-part-1/
-  - title: Personas – The Beginner’s Guide
-    url: http://theuxreview.co.uk/personas-the-beginners-guide/
+- title: How to Conduct a Content Audit
+  url: http://uxmastery.com/how-to-conduct-a-content-audit/
 books:
-  - title:  
-  - title:
-  - title:
+- title: 
+- title: 
+- title: 
 software:
-  - title:
-  - title:
-  - title:
-downloads:
+downloads: 
 related:
-  - title:
-  - title:
-  - title:
+- title: 
+- title: 
+- title: 
+date: '2017-03-12T15:26:26.574+00:00'
 ---
 
-In a card sorting session, participants organize topics into categories that make sense to them and they may also help you label these groups. To conduct a card sort, you can use actual cards, pieces of paper, or one of several online card-sorting software tools.
 
-### Benefits of Card Sorting
+A content audit means creating an inventory of all the content in a site, including pages and linked assets such as images and PDFs.
 
-Card sorting will help you understand your users' expectations and understanding of your topics. It is often most useful once you have done some homework to find out about your users and understand your content. Knowing how your users group information can help you:
-
-* Build the structure for your website
-* Decide what to put on the homepage
-* Label categories and navigation
-
-### Open and Closed Card Sorting
-
-Depending on your needs, you may choose to do an open or closed card sort. They differ as follows:
-
-Open Card Sort: Participants are asked to organize topics from content within your website into groups that make sense to them and then name each group they created in a way that they feel accurately describes the content. Use an open card sort to learn how users group content and the terms or labels they give each category.
-
-Closed Card Sort: Participants are asked to sort topics from content within your website into pre-defined categories. A closed card sort works best when you are working with a pre-defined set of categories, and you want to learn how users sort content items into each category.
-
-You may also choose to try a combination of the two. You could conduct an open card sort first to identify content categories and then use a closed card sort to see how well the category labels work.
+This can help inform the scale of the redesign task, and combined with user research or analytics, can help indicate where to prioritise resources or effort. For example, if analytics show that 40% of content has not been viewed, a decision can be made as to whether it's actually necessary that those pages are be migrated to the new site.

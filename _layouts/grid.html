@@ -1,23 +1,27 @@
 ---
 layout: default
 ---
-<div class="banner {{ page.title }}">
+<div class="page grid">
+
+
 	<div class="container">
 		<div class="row">
 			<div class="col-xs-12">
 				<div class="page-title">
-					<h1 class="title">{{ page.title }}</h1>
+					<h1>{{ page.title }}</h1>
 					{% if page.intro %}<p class="lead">{{ page.intro }}</p>{% endif %}
 				</div>
 			</div>
 		</div>
 	</div>
-</div>
 
-<div class="container grid">
-	{{ content }}
-</div>
+	<div class="listing">
+		<div class="container">
+			{{ content }}
+		</div>
+	</div>
 
+</div>
 
 
 

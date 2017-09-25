@@ -1,5 +1,5 @@
 ---
-layout: technique
+layout: article
 title: Personas
 intro: A persona is a representation of a particular audience for a website or service. 
 categories:

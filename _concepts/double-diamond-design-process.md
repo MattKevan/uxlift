@@ -1,7 +1,7 @@
 ---
 title: The Double Diamond
 date: '2016-12-30 00:30:06'
-layout: concept
+layout: article
 intro: A simple, graphical way to describe the design process, ensuring the right
   questions are asked at the right time.
 categories:

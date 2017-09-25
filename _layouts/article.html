@@ -1,0 +1,34 @@
+---
+layout: default
+---
+
+<div class="page article">
+
+	<div class="container content">
+		<div class="row">
+			<div class="col-xs-12 col-sm-10 col-sm-offset-1 col-lg-8 col-lg-offset-2">
+				
+				<h1 class="title">{{ page.title }}</h1>
+				<p class="lead">{{ page.intro }}</p>
+				{{ content }}
+				
+				<div class="block">
+					<h4>Further reading</h4>
+				   	{% for item in page.further-reading %}
+				   		<ul>
+					        <li class="read-item">
+						        <p><strong><a href="{{ item.url }}" target="_blank">{{ item.title }}</a></strong><br />
+						        <span class="weblink"><a href="{{ item.url }}" target="_blank">{{ item.url | remove: 'http://' | remove: 'https://' }}</a></span></p>
+					        </li>
+				        </ul>
+			      	{% endfor %}
+			    </div>
+
+			</div><!--/col-->
+		</div><!--/row-->
+	</div><!--/container-->
+
+</div><!--/page-->
+
+
+

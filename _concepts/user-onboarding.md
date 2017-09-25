@@ -1,7 +1,7 @@
 ---
 title: User onboarding
 date: '2017-01-03 08:31:53'
-layout: concept
+layout: article
 intro: The process of helping new users become successful when adopting your product
   or service.
 categories:

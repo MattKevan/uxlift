@@ -1,31 +1,29 @@
 ---
-layout: technique
+layout: article
 title: Card sorting
-intro: Card sorting is a method used to help design or evaluate the information architecture of a site. 
+intro: A method used to help design or evaluate a site's information architecture.
+icon: assets/04_sticky_notes_128.png
 categories:
-  - Research
+- Research
 phase:
-  - Understand
+- Understand
 further-reading:
-  - title: Personas
-    url: https://www.usability.gov/how-to-and-tools/methods/personas.html
-  - title: "A Closer Look At Personas: What They Are And How They Work (Part 1)"	
-    url: https://www.smashingmagazine.com/2014/08/a-closer-look-at-personas-part-1/
-  - title: Personas – The Beginner’s Guide
-    url: http://theuxreview.co.uk/personas-the-beginners-guide/
+- title: Card Sorting
+  url: https://www.usability.gov/how-to-and-tools/methods/card-sorting.html
+- title: Card Sorting 101
+  url: https://www.optimalworkshop.com/101/card-sorting
 books:
-  - title:  
-  - title:
-  - title:
+- title: 
+- title: 
+- title: 
 software:
-  - name: OptimalSort
-  - name:
-  - name:
-downloads:
+- title: 'Optimal Workshop: OptimalSort'
+downloads: 
 related:
-  - title:
-  - title:
-  - title:
+- title: 
+- title: 
+- title: 
+date: '2017-03-12T15:26:26.574+00:00'
 ---
 
 In a card sorting session, participants organize topics into categories that make sense to them and they may also help you label these groups. To conduct a card sort, you can use actual cards, pieces of paper, or one of several online card-sorting software tools.
