@@ -1,22 +1,21 @@
 ---
-layout: article
-title: Information architecture
-intro: Organizing, structuring, and labeling content in an effective and sustainable
-  way.
+books:
+- title: 
+- title: 
+- title: 
 categories:
 - Information architecture
 - Design
 - User experience
+date: 2017-09-25 00:00:00 +0000
+downloads: ''
+further-reading: []
+intro: Organizing, structuring, and labeling content in an effective and sustainable
+  way.
+layout: article
 phase:
 - ''
-further-reading:
-- title: 'The Unicorn Workflow: Design to Code with Atomic Design Principles and Sketch'
-  url: https://medium.com/re-write/the-unicorn-workflow-design-to-code-with-atomic-design-principles-and-sketch-8b0fe7d05a37#.k8w0r72so
-- title: Atomic Web Design
-  url: http://bradfrost.com/blog/post/atomic-web-design/
-- title: Atomic Design by Brad Frost
-  url: http://atomicdesign.bradfrost.com
-books:
+related:
 - title: 
 - title: 
 - title: 
@@ -24,12 +23,7 @@ software:
 - title: Pattern Lab
 - title: 
 - title: 
-downloads: ''
-related:
-- title: 
-- title: 
-- title: 
-date: 2017-09-25 00:00:00 +0000
+title: Information architecture
 ---
 
 
