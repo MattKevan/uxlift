@@ -1,0 +1,122 @@
+---
+pages:
+- _techniques/user-interviews.md
+- _techniques/tree-testing.md
+- _techniques/surveys.md
+- _techniques/stakeholder-interviews.md
+- _techniques/diary-studies.md
+- _techniques/content-audits.md
+- _techniques/analytics-review.md
+- _techniques/card-sorting.md
+- _techniques/use-cases.md
+- _techniques/personas.md
+- _techniques/user-testing.md
+hide_body: false
+fields:
+- name: title
+  default: Analytics review
+  label: Title
+  type: text
+  hidden: false
+- name: date
+  default: 2017-02-01 17:24:31 +0000
+  label: Date
+  type: datetime
+  hidden: false
+- name: layout
+  default: article
+  label: Layout
+  type: text
+  hidden: false
+- name: intro
+  default: Analysing web or mobile usage and making recommendations.
+  label: Intro
+  type: text
+  hidden: false
+- name: icon
+  default: assets/08_market_analysis_128.png
+  label: Icon
+  type: file
+  hidden: false
+- name: categories
+  default:
+  - Strategy
+  - Research
+  label: Categories
+  type: list
+  hidden: false
+- name: phase
+  default:
+  - Understand
+  label: Phase
+  type: list
+  hidden: false
+- name: further-reading
+  default:
+  - title: Personas
+    url: https://www.usability.gov/how-to-and-tools/methods/personas.html
+  - title: 'A Closer Look At Personas: What They Are And How They Work (Part 1)'
+    url: https://www.smashingmagazine.com/2014/08/a-closer-look-at-personas-part-1/
+  - title: Personas – The Beginner’s Guide
+    url: http://theuxreview.co.uk/personas-the-beginners-guide/
+  label: Further reading
+  type: field_group_list
+  fields:
+  - name: title
+    default: Personas
+    label: Title
+    type: text
+    hidden: false
+  - name: url
+    default: https://www.usability.gov/how-to-and-tools/methods/personas.html
+    label: Url
+    type: text
+    hidden: false
+  hidden: false
+- name: books
+  default:
+  - title: 
+  - title: 
+  - title: 
+  label: Books
+  type: field_group_list
+  fields:
+  - name: title
+    default: 
+    label: Title
+    type: text
+    hidden: false
+  hidden: false
+- name: software
+  default:
+  - title: 
+  - title: 
+  - title: 
+  label: Software
+  type: field_group_list
+  fields:
+  - name: title
+    default: 
+    label: Title
+    type: text
+    hidden: false
+  hidden: false
+- name: downloads
+  default: 
+  label: Downloads
+  type: text
+  hidden: false
+- name: related
+  default:
+  - title: 
+  - title: 
+  - title: 
+  label: Related
+  type: field_group_list
+  fields:
+  - name: title
+    default: 
+    label: Title
+    type: text
+    hidden: false
+  hidden: false

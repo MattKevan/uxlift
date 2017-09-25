@@ -1,0 +1,119 @@
+---
+pages:
+- _posts/information-architecture-1.md
+- _concepts/information-architecture.md
+- _concepts/empty-state-design.md
+- _concepts/ad-viewability.md
+- _concepts/user-onboarding.md
+- _concepts/sales-funnels.md
+- _concepts/loyalty-loops.md
+- _concepts/atomic-design.md
+- _concepts/double-diamond-design-process.md
+- _concepts/desire-paths.md
+hide_body: false
+fields:
+- name: title
+  default: Atomic design
+  label: Title
+  type: text
+  hidden: false
+- name: date
+  default: 2017-01-03 00:00:00 +0000
+  label: Date
+  type: datetime
+  hidden: false
+- name: layout
+  default: article
+  label: Layout
+  type: text
+  hidden: false
+- name: intro
+  default: 'A methodology composed of five stages to create design systems in a deliberate
+    and hierarchical manner. '
+  label: Intro
+  type: textarea
+  hidden: false
+- name: categories
+  default:
+  - Design
+  - User experience
+  label: Categories
+  type: list
+  hidden: false
+- name: phase
+  default:
+  - ''
+  label: Phase
+  type: list
+  hidden: false
+- name: further-reading
+  default:
+  - title: 'The Unicorn Workflow: Design to Code with Atomic Design Principles and
+      Sketch'
+    url: https://medium.com/re-write/the-unicorn-workflow-design-to-code-with-atomic-design-principles-and-sketch-8b0fe7d05a37#.k8w0r72so
+  - title: Atomic Web Design
+    url: http://bradfrost.com/blog/post/atomic-web-design/
+  - title: Atomic Design by Brad Frost
+    url: http://atomicdesign.bradfrost.com
+  label: Further reading
+  type: field_group_list
+  fields:
+  - name: title
+    default: 'The Unicorn Workflow: Design to Code with Atomic Design Principles and
+      Sketch'
+    label: Title
+    type: text
+    hidden: false
+  - name: url
+    default: https://medium.com/re-write/the-unicorn-workflow-design-to-code-with-atomic-design-principles-and-sketch-8b0fe7d05a37#.k8w0r72so
+    label: Url
+    type: textarea
+    hidden: false
+  hidden: false
+- name: books
+  default:
+  - title: 
+  - title: 
+  - title: 
+  label: Books
+  type: field_group_list
+  fields:
+  - name: title
+    default: 
+    label: Title
+    type: text
+    hidden: false
+  hidden: false
+- name: software
+  default:
+  - title: Pattern Lab
+  - title: 
+  - title: 
+  label: Software
+  type: field_group_list
+  fields:
+  - name: title
+    default: Pattern Lab
+    label: Title
+    type: text
+    hidden: false
+  hidden: false
+- name: downloads
+  default: 
+  label: Downloads
+  type: text
+  hidden: false
+- name: related
+  default:
+  - title: 
+  - title: 
+  - title: 
+  label: Related
+  type: field_group_list
+  fields:
+  - name: title
+    default: 
+    label: Title
+    type: text
+    hidden: false
+  hidden: false
