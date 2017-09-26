@@ -5,10 +5,17 @@ layout: default
 
 	<div class="container">
 		<div class="row">
+			<div class="col-xs-12 col-md-8 col-md-push-2">
+				<h1 class="page-title">On product design, usability and user experience.</h1>
+			</div>				
 			<div class="col-xs-12 col-md-10 col-lg-8">
-				<h1>Hello</h1>
-				<p class="lead">I'm <a href="http://www.kevan.tv" target="_blank">Matt Kevan</a>, a London-based UX designer.</p>
-				<p class="lead">This is a collection of <a href="concepts">concepts</a>, <a href="techniques">techniques</a>, <a href="software">software</a> and <a href="books">books</a> I find useful in my UX practice.</p> <p class="lead">I hope you'll find them useful too.</p>
+				{% for post in site.posts %}
+					<h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+					<p class="postdate">{{ post.date | date: "%d %B %Y" }}</p>
+					<p class="lead">{{ post.intro }}</p>
+					{{ post.excerpt }}
+					<p><a href="{{ post.url | prepend: site.baseurl }}">Read more »</a></p>
+				{% endfor %}
 			</div>
 		</div>
 	</div>

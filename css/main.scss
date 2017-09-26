@@ -6,9 +6,24 @@
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import "bootstrap";
 
+@font-face {
+    font-family: 'Calendas Plus';
+    src: url('fonts/calendas-plus-webfont.woff2') format('woff2'),
+         url('fonts/calendas-plus-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Calendas Plus Italic';
+    src: url('fonts/calendas_plus_italic-webfont.woff2') format('woff2'),
+         url('fonts/calendas_plus_italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
 body {
 	color: #444;
-	font-family: "Open Sans",sans-serif;
+	font-family: "Calendas Plus", serif;
 	font-weight: 400;
   	background-color: #fff;
   	font-size: 1.6em;
@@ -26,11 +41,24 @@ h1, h2, h3, h4 {
 	font-family: "Open Sans",sans-serif;
 	font-weight: 700;
 }
+h1 {
+		font-family: "Calendas Plus", serif;
+		font-weight: normal;
+		font-size: 3em;
+		margin: 0;
 
-.page {
-	margin-top: 60px;
 }
-
+.page {
+	//margin-top: 60px;
+	.title {
+		margin: 80px 0 120px 0;
+	}
+}
+.postdate {
+	font-family: "Calendas Plus Italic", serif;
+	margin-bottom: 0px;
+	font-size: .9em;
+}
 .content {
 	img { 
 		width: 100%;
@@ -49,8 +77,7 @@ h1, h2, h3, h4 {
 }
 
 .listing {
-	background-color: #ECECEC;
-	padding-top:30px;
+
 }
 
 .crumb {margin-bottom: 30px;}
@@ -69,11 +96,20 @@ h1, h2, h3, h4 {
 	height: 200px;
 	margin-bottom: 30px;
 	background-color: #fff;
-	line-height: 1.6em;
-	position: relative;
+	border-width: 0 0 1px 0;
+	border-style: solid;
+	border-color: #E1E1E1;
+	line-height: 1.4em;
 	h3, h4 {
 		margin: 0 0 5px 0;
 		color: #D50566;
+	}
+	p.tags {
+		margin: 0;
+		line-height: 1.4em;
+		font-size: 14px;
+		color: #666;
+		font-family: "Calendas Plus Italic", serif;
 	}
 	img.logo {
 		float: right;
@@ -88,26 +124,7 @@ h1, h2, h3, h4 {
     		width: 70px;
   		}
 	}
-	.grid-content {
-		padding: 15px
-	}
-	.grid-tags {
-		padding: 10px 15px;
-		border-style: solid;
-		border-color: #E1E1E1;
-		border-width: 1px 0 0 0;
-		position: absolute;
-		bottom: 0;
-		left: 0;
-		width:100%;
-		border-radius: 0 0 3px 3px;
-		p {
-			margin: 0;
-			line-height: 1.4em;
-			font-size: 14px;
-			color: #666;
-		}
-	}
+	
 }
 
 .read-item {
@@ -142,8 +159,9 @@ h1, h2, h3, h4 {
 	border:none;
 	
 	a.navbar-brand {
-		color: #D50566;
-		font-weight:bold;
+		color: #000;
+			font-family: "Calendas Plus Italic", serif;
+
 	}
 }
 

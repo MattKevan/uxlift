@@ -1,0 +1,15 @@
+---
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: page
+title: On product design, usability and user experience.
+---
+
+{% for post in site.posts %}
+	<h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+	<p class="postdate">{{ post.date | date: "%d %B %Y" }}</p>
+	<p class="lead">{{ post.intro }}</p>
+	{{ post.excerpt }}
+	<p><a href="{{ post.url | prepend: site.baseurl }}">Read more »</a></p>
+{% endfor %}
