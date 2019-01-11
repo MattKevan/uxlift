@@ -43,6 +43,9 @@ collections:
   techniques:
     output: true
     permalink: /techniques/:path/
+  resourcearticle:
+    output: true
+    permalink: /articles/:path/
 
 defaults:
   -
@@ -105,3 +108,13 @@ defaults:
         - title: ""
         - title: ""
         - title: ""
+
+  -
+    scope:
+      path: ""
+      type: resourcearticle
+    values:
+      layout: article
+      title: ""
+      intro: ""
+      categories: []
