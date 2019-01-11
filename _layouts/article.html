@@ -4,14 +4,25 @@ layout: default
 
 <div class="page article">
 
-	<div class="container content">
+<div class="top">
+	<div class="container">
 		<div class="row">
-			<div class="col-xs-12 col-sm-10 col-lg-8">
+			<div class="col-xs-12 col-sm-10 col-sm-push-1">
 				
 				<h1 class="title">{{ page.title }}</h1>
+
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="content">
+	<div class="container">
+		<div class="col-xs-12 col-sm-10 col-sm-push-1 content-inner">
+			<div class="f">
 				<p class="lead">{{ page.intro }}</p>
 				{{ content }}
-				
+
 				<div class="block">
 					<h4>Further reading</h4>
 				   	{% for item in page.further-reading %}
@@ -23,7 +34,7 @@ layout: default
 				        </ul>
 			      	{% endfor %}
 			    </div>
-
+			</div>
 			</div><!--/col-->
 		</div><!--/row-->
 	</div><!--/container-->
