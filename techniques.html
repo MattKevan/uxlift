@@ -11,8 +11,15 @@ intro: Techniques to use during the UX design process
 	<div class="col-xs-12 col-sm-6 col-md-4">
 		<div class="grid-item">
 			<div class="grid-content">
+			
+			{% if technique.layout == "article"%}
 		      <h4><a href="{{ site.baseurl }}/{{ technique.url }}">{{ technique.title }}</a></h4>
 		      <p>{{ technique.intro }}</p>
+		    {% endif %}
+		    
+		    {% if technique.layout == "link" %}
+		      <h4><a href="{{ technique.linkurl }}" target="_blank">{{ technique.title }}</a></h4>
+		      <p>{{ technique.content }}</p>		    
 		    </div>
 		    <div class="grid-tags">
 				<p>{{ technique.categories | join: ', ' }}</p>
