@@ -26,7 +26,10 @@ intro: Techniques to use during the UX design process
 		      
 		    </div>
 		    <div class="grid-tags">
-				<p>{{ technique.categories | join: ', ' }}</p>
+		    <span>{{ technique.layout | capitalize }}</span>
+		    {% for tag in technique.tags %}
+				<span>{{ tag }}</span>
+			{% endfor %}
 			</div>
 	    </div>
 	</div>
