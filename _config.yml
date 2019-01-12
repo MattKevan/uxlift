@@ -46,6 +46,9 @@ collections:
   resourcearticle:
     output: true
     permalink: /articles/:path/
+  books:
+    output: true
+    permalink: /books/:path/
 
 defaults:
   -
@@ -108,7 +111,6 @@ defaults:
         - title: ""
         - title: ""
         - title: ""
-
   -
     scope:
       path: ""
@@ -118,3 +120,15 @@ defaults:
       title: ""
       intro: ""
       categories: []
+  -
+    scope:
+      path: ""
+      type: book
+    values:
+      title: ""
+      tags: []
+      booklink: ""
+      imprint: ""
+      authors: ""
+      datepublished: ""
+      image: ""

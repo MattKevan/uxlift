@@ -22,10 +22,6 @@
 
 
 body {
-	color: #444;
-	font-family: "Clear Sans", sans-serif;
-	font-weight: 400;
-  	background-color: #fff;
   	font-size: 1.6em;
   	line-height: 1.8em;
 }
@@ -44,16 +40,13 @@ p {
 	}
 }
 
-a {color: #2962FF;}
+a { }
 
 a:hover {
-	color: #2962FF;
-	text-decoration: underline;
 }
 
 h1, h2, h3, h4 {
-	font-family: "Clear Sans",sans-serif;
-	font-weight: bold;
+
 }
 h1 {
 
@@ -62,6 +55,9 @@ h1 {
 
 }
 
+.btn {
+	border-radius: 0;
+}
 .postdate {
 	margin-bottom: 0px;
 	font-size: .9em;
@@ -129,7 +125,6 @@ p.tags {
 
 }
 .grid-item {
-	height: 200px;
 	margin-bottom: 30px;
 	background-color: #fff;
 	padding: 20px;
@@ -166,6 +161,12 @@ p.tags {
 }
 
 
+.mlink {
+	color: #2962FF;
+	&:hover, &:active {
+		text-decoration: underline;
+	}
+}
 
 
 .grid-item:hover h3,
@@ -209,6 +210,12 @@ p.tags {
 	}
 }
 
+.modal-content {
+	border-radius: 0;
+	box-shadow: none;
+	-webkit-box-shadow: none;
+	border: none;
+}
 // Footer
 
 .site-footer {

@@ -1,26 +1,25 @@
 ---
 layout: grid
-title: UX design books
+title: UX & design books
 permalink: /books/
-intro: My favourite books on UX design and related subjects.
+intro: Recommended reading on UX, design and usability.
 ---
 
 <div class="row">
 	{% assign counter = 0 %}
-	{% assign sorted_books = site.data.uxbooks | sort:'title' %}
+	{% assign sorted_books = site.books | sort:'title' %}
 	{% for book in sorted_books %}
 
 		<div class="col-xs-12 col-sm-6 col-md-4">
-			<div class="grid-item" data-toggle="modal" data-target="#{{ counter }}">
+			<div class="grid-item"  data-mh="col-text">
 				<div class="grid-content">
-					<img class="logo" src="{{ site.baseurl }}/{{ book.image }}" alt="{{ book.title }}" />
-			      	<h4>{{ book.title }}</h4>
-			      	<p class="author">By {{ book.author }}</p>
+					<img class="logo" src="{{ site.baseurl }}/assets/{{ book.image }}" alt="{{ book.title }}"  data-toggle="modal" data-target="#{{ counter }}"/>
+			      	<h4 class="mlink" data-toggle="modal" data-target="#{{ counter }}">{{ book.title }}</h4>
+			      	<p class="author s">By {{ book.authors }}</p>
 			      	
 		      	</div>
-		      	<div class="grid-tags">
-					<p>{{ book.tags | join: ', ' }}</p>
-				</div>
+
+					<p class="tags xs">{% for tag in book.tags %}<span>{{ tag }}</span>{% endfor %}</p>
 
 		    </div>
 
@@ -38,18 +37,18 @@ intro: My favourite books on UX design and related subjects.
 			      		<div class="row">
 				      		
 						    <div class="col-xs-7">
-						        {{ book.description }}
-						        <p class="author"><strong>By:</strong> {{ book.author }}</p>
-						        <p class="publisher"><strong>Publisher:</strong> {{ book.publisher }}, {{ book.date }}</p>
+						        {{ book.content }}
+						        <p class="author"><strong>By:</strong> {{ book.authors }}</p>
+						        <p class="publisher"><strong>Publisher:</strong> {{ book.publisher }}, {{ book.datepublished }}</p>
 						    </div>
 						    <div class="col-xs-5">
-						    	<img class="book-image" src="/{{ book.image }}" alt="{{ book.title }}" />
+						    	<img class="book-image" src="{{ site.baseurl}}/assets/{{ book.image }}" alt="{{ book.title }}" />
 						    </div>
 						</div>
 			      	</div>
 
 			     	<div class="modal-footer">
-						<a href="{{ book.link }}" target="_blank" class="btn btn-primary" role="button">View on Amazon</a>
+						<a href="{{ book.booklink }}" target="_blank" class="btn btn-primary" role="button">View on Amazon</a>
 					</div>
 			    </div>
 			  </div>
