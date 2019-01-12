@@ -30,6 +30,20 @@ body {
   	line-height: 1.8em;
 }
 
+p {
+	font-size: 18px;
+	line-height: 1.6em;
+	&.s {
+		font-size: 14px;
+		line-height: 1.4em;
+	}
+
+	&.xs {
+		font-size: 12px;
+		line-height: 1.2em;
+	}
+}
+
 a {color: #2962FF;}
 
 a:hover {
@@ -83,6 +97,16 @@ h1 {
 	padding: 40px 0;
 }
 .crumb {margin-bottom: 30px;}
+
+.tags {
+	margin:0;
+
+	span {
+		background-color: #F7F7F9;
+		padding: 3px 5px;
+		margin-right: 5px;
+	}
+}
 
 .btn.btn-default {
 	background:  none;
