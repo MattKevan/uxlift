@@ -15,13 +15,22 @@ intro: Techniques to use during the UX design process
 
 		    
 		    
-		      <h4><a href="{{ technique.linkurl }}" target="_blank">{{ technique.title }}</a></h4>
-		      <p>{{ technique.content }}</p>
+		     
+		      
+		      {% if technique.layout == 'link' %}
+		      	<h4><a href="{{ technique.linkurl }}" target="_blank">{{ technique.title }}</a></h4>
+				<p>{{ technique.content }}</p>
+				{% else %}
+				<h4><a href="{{ site.baseurl }}/{{ technique.url }}" target="_blank">{{ technique.title }}</a></h4>		      
+		      {% endif %}
 		      
 		    </div>
-		    <div class="grid-tags">
-				<p>{{ technique.categories | join: ', ' }}</p>
-			</div>
+		    <p class="tags xs">
+		    <span>{{ technique.layout | capitalize }}</span>
+		    {% for tag in technique.tags %}
+				<span>{{ tag }}</span>
+			{% endfor %}
+			</p>
 	    </div>
 	</div>
 {% endfor %}
