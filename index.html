@@ -13,3 +13,17 @@ title: On product design, usability and user experience.
 	{{ post.excerpt }}
 	<p><a href="{{ post.url | prepend: site.baseurl }}">Read more »</a></p>
 {% endfor %}
+
+
+<script>
+	SimpleJekyllSearch({
+		searchInput: document.getElementById('search-input'),
+		resultsContainer: document.getElementById('results-container'),
+		json: '{{site.baseurl}}/search.json',
+		searchResultTemplate: '<div class="result"><p class="result-item"><a href="{url}" title="{desc}">{title}</a></p></div>',
+		noResultsText: '<p class="no-results">No results found</p>',
+		limit: 10,
+		fuzzy: false,
+		exclude: ['Welcome']
+	})
+</script>

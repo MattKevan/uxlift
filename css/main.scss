@@ -96,11 +96,12 @@ h1 {
 
 p.tags {
 	margin:10px 0 0 0;
-
+	display: inline-block;
 	span {
 		background-color: #F7F7F9;
 		padding: 3px 5px;
 		margin-right: 5px;
+		margin-bottom: 5px;
 	}
 }
 
@@ -130,12 +131,6 @@ p.tags {
 	padding: 20px;
 	h3, h4 {
 		margin: 0 0 5px 0;
-	}
-	p.tags {
-		margin: 0;
-		line-height: 1.4em;
-		font-size: 14px;
-		color: #666;
 	}
 	img.logo {
 		float: right;
@@ -215,6 +210,37 @@ p.tags {
 	box-shadow: none;
 	-webkit-box-shadow: none;
 	border: none;
+}
+.form-control {
+	border-radius: 0;
+}
+.search-widget {
+	position: relative;
+	display: block;
+	text-align: left;
+	margin: 20px 0 0 0;
+	.form-control {
+		font-size: 20px;
+		height: 50px;
+	}
+	#results-container {
+		position: absolute;
+		top: 100%;
+		left: 0;
+		z-index: 1000;
+		width: 100%!important;
+		box-shadow: 0 6px 12px rgba(0,0,0,.175);
+		p.no-results {
+			padding: 10px 20px;
+			margin: 0;
+		}
+		.result {
+			padding: 10px 20px;
+			background-color: #fff;
+			p {margin: 0;}
+
+		}
+	}
 }
 // Footer
 

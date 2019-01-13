@@ -3,20 +3,21 @@ layout: default
 ---
 <div class="page grid">
 
-
-<div class="top">
-	<div class="container">
-		<div class="row">
-			<div class="col-xs-12">
-				<div class="page-title">
-					<h1 class="page-title">{{ page.title }}</h1>
-					{% if page.intro %}<p class="lead">{{ page.intro }}</p>{% endif %}
-
+	<div class="top">
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-12">
+					<div class="page-title">
+						<h1 class="page-title">{{ page.title }}</h1>
+						{% if page.intro %}<p class="lead">{{ page.intro }}</p>{% endif %}
+					</div>
+				</div>
+				<div class="col-xs-12 col-sm-8 col-sm-push-2">
+					{% include searchwidget.html %}
 				</div>
 			</div>
 		</div>
 	</div>
-</div>
 
 
 	<div class="listing">

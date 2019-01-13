@@ -4,9 +4,19 @@ title: UX & design books
 permalink: /books/
 intro: Recommended reading on UX, design and usability.
 ---
-
+<script>
+	SimpleJekyllSearch({
+		searchInput: document.getElementById('search-input'),
+		resultsContainer: document.getElementById('results-container'),
+		json: '{{ site.baseurl }}/search-books.json',
+		searchResultTemplate: '<div class="result"><p class="result-item"><a href="{url}" title="{desc}">{title}</a></p></div>',
+		noResultsText: '<p class="no-results">No results found</p>',
+		limit: 10,
+		fuzzy: false,
+		exclude: ['Welcome']
+	})
+</script>
 <div class="row">
-	{% assign counter = 0 %}
 	{% assign sorted_books = site.books | sort:'title' %}
 	{% for book in sorted_books %}
 
@@ -14,7 +24,7 @@ intro: Recommended reading on UX, design and usability.
 			<div class="grid-item"  data-mh="col-text">
 				<div class="grid-content">
 					<img class="logo" src="{{ site.baseurl }}/assets/{{ book.image }}" alt="{{ book.title }}"  data-toggle="modal" data-target="#{{ counter }}"/>
-			      	<h4 class="mlink" data-toggle="modal" data-target="#{{ counter }}">{{ book.title }}</h4>
+			      	<h4><a href="{{ site.baseurl }}{{ book.url }}"><i class="fas fa-book"></i> {{ book.title }}</a></h4>
 			      	<p class="author s">By {{ book.authors }}</p>
 			      	
 		      	</div>
@@ -23,41 +33,12 @@ intro: Recommended reading on UX, design and usability.
 
 		    </div>
 
-			<!-- Modal -->
-			<div class="modal fade" id="{{ counter }}" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-			  	<div class="modal-dialog" role="document">
-			    <div class="modal-content">
-
-			      	<div class="modal-header">
-				        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-				        <h4 class="modal-title" id="myModalLabel">{{ book.title }}</h4>
-			      	</div>
-
-			      	<div class="modal-body">
-			      		<div class="row">
-				      		
-						    <div class="col-xs-7">
-						        {{ book.content }}
-						        <p class="author"><strong>By:</strong> {{ book.authors }}</p>
-						        <p class="publisher"><strong>Publisher:</strong> {{ book.publisher }}, {{ book.datepublished }}</p>
-						    </div>
-						    <div class="col-xs-5">
-						    	<img class="book-image" src="{{ site.baseurl}}/assets/{{ book.image }}" alt="{{ book.title }}" />
-						    </div>
-						</div>
-			      	</div>
-
-			     	<div class="modal-footer">
-						<a href="{{ book.booklink }}" target="_blank" class="btn btn-primary" role="button">View on Amazon</a>
-					</div>
-			    </div>
-			  </div>
-			</div>
 		</div>
 		{% capture counter %}{{ counter | plus:'1' }}{% endcapture %}
 	{% endfor %}
 
 </div>
+
 <div class="row">
 <div class="col-xs-12">
 	<div class="cta">
@@ -65,3 +46,5 @@ intro: Recommended reading on UX, design and usability.
 	</div>
 </div>
 </div>
+
+

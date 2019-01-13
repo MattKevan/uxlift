@@ -1,11 +1,10 @@
 ---
 title: Ad viewability
-date: '2017-01-16 15:18:31'
 layout: article
 intro: "A display ad is considered viewable when 50% of an ad’s pixels are in view
   on the screen \nfor a minimum of one second."
-categories: []
-phase: []
+tags: 
+- Revenue optimisation
 further-reading:
 - title: 5 Factors of Display Viewability
   url: https://www.thinkwithgoogle.com/infographics/5-factors-of-viewability.html
@@ -13,19 +12,8 @@ further-reading:
   url: https://iabuk.net/disciplines/display-advertising/viewability
 - title: Viewability best practices
   url: https://support.google.com/dfp_premium/answer/6199883?hl=en
-books:
-- title: ''
-- title: ''
-- title: ''
-software:
-- title: ''
-- title: ''
-- title: ''
-downloads: 
-related:
-- title: ''
-- title: ''
-- title: ''
+author: Matt Kevan
+
 ---
 On average, only 43.9% of all ad impressions across the Web are considered ‘viewable’.
 

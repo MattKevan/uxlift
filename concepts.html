@@ -5,18 +5,9 @@ permalink: /concepts/
 intro: Concepts related to user experience design and usability
 ---
 <div class="row">
-	{% assign sorted_concepts = site.concepts | sort:'title' %}
-	{% for concept in sorted_concepts %}
-		<div class="col-xs-12 col-sm-6 col-md-4">
-			<div class="grid-item">
-				<div class="grid-content">
-					<h4><a href="{{ site.baseurl }}/{{ concept.url }}">{{ concept.title }}</a></h4>
-					<p>{{ concept.intro }}</p>
-				</div>
-				<div class="grid-tags">
-					<p>{{ concept.categories | join: ', ' }}</p>
-				</div>
-			</div>
-		</div>
+	{% assign counter = 0 %}
+	{% assign sorted_items = site.concepts | sort:'title' %}
+	{% for item in sorted_items %}
+		{% include grid-item.html %}
 	{% endfor %}
 </div>

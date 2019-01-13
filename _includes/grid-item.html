@@ -1,0 +1,19 @@
+<div class="col-xs-12 col-sm-6 col-md-4">
+	<div class="grid-item" data-mh="col-text">
+		<div class="grid-content">
+		      
+		      {% if item.layout == 'link' %}
+		      	<h4><a href="{{ item.linkurl }}" target="_blank"><i class="fas fa-link"></i> {{ item.title }}</a></h4>				
+				{% else %}
+				<h4><a href="{{ site.baseurl }}/{{ item.url }}" target="_blank"><i class="far fa-file-alt"></i> {{ item.title }}</a></h4>	      
+		      {% endif %}
+		      <p>{{ item.intro }}</p>
+		      {% if item.author %}<p class="author s">{{ item.author }}{% if item.year %}, {{ item.year }}{% endif %}</p>{% endif %}
+		    <p class="tags xs">
+		    {% for tag in item.tags %}
+				<span>{{ tag }}</span>
+			{% endfor %}
+			</p>
+		</div>
+	</div>
+</div>

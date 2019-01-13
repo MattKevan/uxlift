@@ -9,6 +9,7 @@ tags:
 publisher: New Riders
 imprint: Voices That Matter
 image: "dont-make-me-think.jpg"
+layout: book
 ---
 
 Since Don’t Make Me Think was first published in 2000, hundreds of thousands of Web designers and developers have relied on usability guru Steve Krug’s guide to help them understand the principles of intuitive navigation and information design.

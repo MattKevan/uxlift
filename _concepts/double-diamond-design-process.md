@@ -1,32 +1,17 @@
 ---
-title: The Double Diamond
-date: '2016-12-30 00:30:06'
+title: The Double Diamond design process
 layout: article
 intro: A simple, graphical way to describe the design process, ensuring the right
   questions are asked at the right time.
-categories:
+tags:
 - Design
 - Process
-phase:
-- Understand
 further-reading:
 - title: A study of the design process (PDF)
   url: http://www.designcouncil.org.uk/sites/default/files/asset/document/ElevenLessons_Design_Council%20(2).pdf
 - title: 'The Double Diamond: Strategy + Execution of the Right Solution'
   url: https://www.thoughtworks.com/insights/blog/double-diamond
-books:
-- title: 
-- title: 
-- title: 
-software:
-- title: 
-- title: 
-- title: 
-downloads: 
-related:
-- title: 
-- title: 
-- title: 
+
 ---
 Developed by the Design Council, the process splits a project into four main phases, showing the different types of thinking which should be used in each. The first two focus on deciding what the project should be about, and the last two on the outcome. Crucially, each of the four steps have equal weight: as much effort should be spent on defining a project as delivering it.
 

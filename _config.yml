@@ -132,3 +132,4 @@ defaults:
       authors: ""
       datepublished: ""
       image: ""
+      layout: book
