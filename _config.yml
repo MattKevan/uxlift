@@ -49,6 +49,12 @@ collections:
   books:
     output: true
     permalink: /books/:path/
+  resources:
+    output: true
+    permalink: /resources/:path/
+  tools:
+    output: true
+    permalink: /tools/:path/
 
 defaults:
   -
@@ -56,61 +62,27 @@ defaults:
       path: ""
       type: concepts
     values:
-      layout: article
+      layout: link
       title: ""
       intro: ""
-      categories: []
-      phase: []
-      further-reading:
-        - title: ""
-          url: ""
-        - title: ""  
-          url: ""
-        - title: ""
-          url: ""
-      books:
-        - title: ""  
-        - title: ""
-        - title: ""
-      software:
-        - title: ""
-        - title: ""
-        - title: ""
-      downloads:
-      related:
-        - title: ""
-        - title: ""
-        - title: ""
+      tags: []
+      linkurl: ""
+      authors: ""
+      year: ""
+      type: external-link-alt
   -
     scope:
       path: ""
       type: techniques
     values:
-      layout: article
+      layout: link
       title: ""
       intro: ""
-      categories: []
-      phase: []
-      further-reading:
-        - title: ""
-          url: ""
-        - title: ""  
-          url: ""
-        - title: ""
-          url: ""
-      books:
-        - title: ""  
-        - title: ""
-        - title: ""
-      software:
-        - title: ""
-        - title: ""
-        - title: ""
-      downloads:
-      related:
-        - title: ""
-        - title: ""
-        - title: ""
+      tags: []
+      linkurl: ""
+      authors: ""
+      year: ""
+      type: external-link-alt
   -
     scope:
       path: ""
@@ -123,7 +95,7 @@ defaults:
   -
     scope:
       path: ""
-      type: book
+      type: books
     values:
       title: ""
       tags: []
@@ -133,3 +105,27 @@ defaults:
       datepublished: ""
       image: ""
       layout: book
+      type: book
+  -
+    scope:
+      path: ""
+      type: resources
+    values:
+      layout: link
+      title: ""
+      intro: ""
+      tags: []
+      linkurl: ""
+      type: "toolbox"
+  -
+    scope:
+      path: ""
+      type: tools
+    values:
+      layout: link
+      image: ""
+      title: ""
+      intro: ""
+      tags: []
+      linkurl: ""
+      type: "tools"

@@ -4,12 +4,7 @@ layout: nil
 [
   {% for post in site.documents %}
     {
-      {% if post.layout == 'link' %}
-      "title"    : "<i class=\"fas fa-link\"></i> {{ post.title | escape }}",
-      {% else %}
-      "title"    : "<i class=\"fas fa-file-alt\"></i> {{ post.title | escape }}",
-      {% endif %}
-
+      "title"    : "<i class=\"fas fa-{{ post.type }}\"></i> {{ post.title | escape }}",
       "category" : "{{ post.category }}",
       "tags"     : "{{ post.tags | join: ', ' }}",
 
@@ -20,7 +15,8 @@ layout: nil
       "url"      : "{{ site.baseurl }}{{ post.url }}",
       {% endif %}
       "layout"   : "{{ post.layout }}",
-      "date"     : "{{ post.date }}"
+      "date"     : "{{ post.date }}",
+      "intro"    : "{{ post.intro | truncate: 40}}"
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]

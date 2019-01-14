@@ -1,12 +1,14 @@
 ---
 layout: grid
-title: UX & design books
-permalink: /books/
-intro: Recommended reading on UX, design and usability.
-searchtext: Search books
+title: Resources
+permalink: /resources/
+intro: Useful resources
+searchtext: Search resources
+
 ---
+
 <div class="row">
-{% assign sorted_items = site.books | sort:'title' %}
+{% assign sorted_items = site.resources | sort:'title' %}
 {% for item in sorted_items %}
 	{% include grid-item.html %}
 {% endfor %}
@@ -24,13 +26,3 @@ searchtext: Search books
 		exclude: ['Welcome']
 	})
 </script>
-
-<div class="row">
-<div class="col-xs-12">
-	<div class="cta">
-	<p>Want to recommend a book? <a href="https://github.com/MattKevan/general-usabilty" target="_blank">Add it on Github.</a></p>
-	</div>
-</div>
-</div>
-
-

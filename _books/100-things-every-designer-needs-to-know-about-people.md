@@ -9,6 +9,7 @@ tags:
 publisher: New Riders
 imprint: Voices That Matter
 image: 51WypjNOT9L._SX359_BO1%2C204%2C203%2C200_.jpg
+type: book
 layout: book
 ---
 

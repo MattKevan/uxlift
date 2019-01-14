@@ -13,8 +13,9 @@ further-reading:
 - title: Viewability best practices
   url: https://support.google.com/dfp_premium/answer/6199883?hl=en
 author: Matt Kevan
-
+type: file-alt
 ---
+
 On average, only 43.9% of all ad impressions across the Web are considered ‘viewable’.
 
 ## Strategies to increase viewability

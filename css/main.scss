@@ -40,6 +40,7 @@ p {
 	}
 }
 
+i { color: #999;}
 a { }
 
 a:hover {
@@ -145,6 +146,9 @@ p.tags {
     		width: 70px;
   		}
 	}
+	.fas {
+		color: #d7d7d7;
+	}
 	
 }
 
@@ -155,19 +159,6 @@ p.tags {
 	&:last {margin-bottom:0;}
 }
 
-
-.mlink {
-	color: #2962FF;
-	&:hover, &:active {
-		text-decoration: underline;
-	}
-}
-
-
-.grid-item:hover h3,
-.grid-item:hover h4{
-	text-decoration: underline;
-}
 
 .modal-body {
 	img {width: 100%;}

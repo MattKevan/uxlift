@@ -9,6 +9,7 @@ tags:
 publisher: O'Reilly Media
 imprint: 
 image: "41JWTd4PCWL._SX331_BO1%2C204%2C203%2C200_.jpg"
+type: book
 ---
 
 The Lean UX approach to interaction design is tailor-made for today’s
