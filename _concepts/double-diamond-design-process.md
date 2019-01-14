@@ -4,8 +4,8 @@ layout: article
 intro: A simple, graphical way to describe the design process, ensuring the right
   questions are asked at the right time.
 tags:
-- Design
-- Process
+- Design process
+- Design thinking
 further-reading:
 - title: A study of the design process (PDF)
   url: http://www.designcouncil.org.uk/sites/default/files/asset/document/ElevenLessons_Design_Council%20(2).pdf

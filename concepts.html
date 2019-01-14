@@ -3,6 +3,7 @@ layout: grid
 title: Concepts
 permalink: /concepts/
 intro: Concepts related to user experience design and usability
+searchtext: Search software
 ---
 <div class="row">
 	{% assign counter = 0 %}
@@ -11,3 +12,16 @@ intro: Concepts related to user experience design and usability
 		{% include grid-item.html %}
 	{% endfor %}
 </div>
+
+<script>
+	SimpleJekyllSearch({
+		searchInput: document.getElementById('search-input'),
+		resultsContainer: document.getElementById('results-container'),
+		json: '{{site.baseurl}}/search.json',
+		searchResultTemplate: '<div class="result"><p class="result-item"><a href="{url}" title="{desc}">{title}</a></p></div>',
+		noResultsText: '<p class="no-results">No results found</p>',
+		limit: 10,
+		fuzzy: false,
+		exclude: ['Welcome']
+	})
+</script>
