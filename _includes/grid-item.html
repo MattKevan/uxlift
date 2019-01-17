@@ -2,13 +2,17 @@
 	<div class="grid-item" data-mh="col-text">
 		<div class="grid-content">
 			{% if item.logo %}
-				<a href="{{ item.linkurl }}" target="_blank"><img class="logo" src="{{ site.baseurl }}/{{ item.logo }}" alt="{{ item.title }}" /></a>
+				<a href="{{ item.linkurl }}" target="_blank"><img class="logo" src="{{ item.logo }}" alt="{{ item.title }}" /></a>
 			{% endif %}
+			{% if item.image %}
+				<a href="{{ item.linkurl }}" target="_blank"><img class="logo" src="/{{ item.image }}" alt="{{ item.title }}" /></a>
+			{% endif %}
+
 
 			{% if item.layout == 'link' %}
 				<h4><i class="fas fa-{{ item.type }}"></i> <a href="{{ item.linkurl }}" target="_blank">{{ item.title }}</a></h4>		
 			{% else %}
-				<h4><i class="fas fa-{{ item.type }}"></i> <a href="{{ site.baseurl }}/{{ item.url }}" target="_blank">{{ item.title }}</a></h4>	      
+				<h4><i class="fas fa-{{ item.type }}"></i> <a href="{{ item.url }}">{{ item.title }}</a></h4>	      
 			{% endif %}
 			      <p>{{ item.intro }}</p>	
 			      {% if item.author %}
