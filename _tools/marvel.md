@@ -1,10 +1,10 @@
 ---
-title: Axure RP
-intro: The industry standard tool for creating wireframes and interactive prototypes.
-linkurl: http://www.axure.com
+title: Marvel
+intro: Create and share prototypes, hand-off designs to developers.
+linkurl: http://www.marvelapp.com
 tags:
-- Wireframes
-- Diagrams
-- Prototypes
-logo: "/assets/axure.png"
+- Prototyping
+- Collaboration
+- Hand-off
+logo: "/assets/marvel.png"
 ---

@@ -1,9 +1,9 @@
 ---
-title: Axure RP
+title: UserTesting.com
 intro: The industry standard tool for creating wireframes and interactive prototypes.
 linkurl: http://www.axure.com
 tags:
-- Wireframes
+- User research
 - Diagrams
 - Prototypes
 logo: "/assets/axure.png"
