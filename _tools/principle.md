@@ -1,9 +1,9 @@
 ---
 title: Principle
-intro: The industry standard tool for creating wireframes and interactive prototypes.
-linkurl: http://www.axure.com
+intro: Create animated user interfaces and prototypes.
+linkurl: http://principleformac.com
 tags:
 - Prototyping
 - Animation
-logo: "axure.png"
+logo: "Principle.png"
 ---

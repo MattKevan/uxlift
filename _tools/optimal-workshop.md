@@ -1,10 +1,8 @@
 ---
 title: Optimal Workshop
-intro: The industry standard tool for creating wireframes and interactive prototypes.
+intro: "Suite of UX research tools, including tree testing, click testing and card sorting."
 linkurl: http://www.axure.com
 tags:
-- Wireframes
-- Diagrams
-- Prototypes
-logo: "axure.png"
+- Research
+logo: "optimal-workshop.png"
 ---

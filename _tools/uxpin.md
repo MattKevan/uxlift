@@ -1,10 +1,9 @@
 ---
 title: UXPin
-intro: The industry standard tool for creating wireframes and interactive prototypes.
-linkurl: http://www.axure.com
+intro: Collaborative online UX design and prototyping.
+linkurl: http://www.uxpin.com
 tags:
-- Wireframes
-- Diagrams
-- Prototypes
-logo: "axure.png"
+- Wireframing
+- Prototyping
+logo: "uxp.png"
 ---
