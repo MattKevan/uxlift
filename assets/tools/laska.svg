@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="315px" height="315px" viewBox="0 0 315 315" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="157.5" cy="157.5" r="157.5"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <g id="Oval" fill="#8CCCCA">
+                <circle id="path-1" cx="157.5" cy="157.5" r="157.5"></circle>
+            </g>
+            <g id="svg_1-Clipped">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="path-1"></g>
+                <g id="svg_1" mask="url(#mask-2)">
+                    <g transform="translate(-45.675000, 60.850000)" id="Group">
+                        <g transform="translate(0.674999, 0.221428)">
+                            <g id="XMLID_578_" fill="#FFFFFF">
+                                <polygon id="svg_7" points="0 265.178572 134.65695 33.1473131 173.635903 82.8675783 226.79055 0 389.796084 254.128483 382.708231 265.178572"></polygon>
+                            </g>
+                            <g id="XMLID_382_" transform="translate(70.274308, 0.000000)" fill="#A2EFFC">
+                                <polygon id="svg_8" points="107.865148 90.9356879 67.5855534 27.8491372 0.415969766 265.084517"></polygon>
+                                <polygon id="svg_9" points="155.966651 0.263361604 155.966651 132.673928 184.24834 110.605035 184.24834 265.084517 331.334955 265.084517"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

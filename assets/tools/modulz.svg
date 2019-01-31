@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="220px" height="220px" viewBox="0 0 220 220" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>modulz</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="modulz" fill="#000000">
+            <polygon id="Path" points="47 182.5 0 220 0 145"></polygon>
+            <polygon id="Path" points="47 84.5 0 122 0 47"></polygon>
+            <polygon id="Path" points="103 37.5 56 75 56 0"></polygon>
+            <polygon id="Path" points="164 84.5 117 122 117 47"></polygon>
+            <polygon id="Path" points="220 37.5 173 75 173 0"></polygon>
+            <polygon id="Path" points="220 135.5 173 173 173 98"></polygon>
+            <polygon id="Path" points="47 173 0 135.5 47 98"></polygon>
+            <polygon id="Path" points="103 122 56 84.5 103 47"></polygon>
+            <polygon id="Path" points="47 75 0 37.5 47 0"></polygon>
+            <polygon id="Path" points="164 75 117 37.5 164 0"></polygon>
+            <polygon id="Path" points="220 122 173 84.5 220 47"></polygon>
+            <polygon id="Path" points="220 220 173 182.5 220 145"></polygon>
+        </g>
+    </g>
+</svg>
