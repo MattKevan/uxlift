@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: linkpost
 title:  Understanding heatmaps for better UI design
 date:   2019-01-30 11:10:00
 categories: User experience

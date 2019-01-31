@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: linkpost
 title:  Research-backed landing page template for your next offer page
 date:   2019-01-30 11:00:00
 categories: User experience
