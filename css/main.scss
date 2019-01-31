@@ -83,7 +83,7 @@ h1 {
 .post-teaser {
 	.fas {
 		font-size: .8em;
-		color: #d7d7d7;
+	
 	}
 	margin-bottom: 40px;
 	padding-bottom: 20px;
@@ -199,6 +199,11 @@ p.tags {
 	width: 18px;
 	margin-right: 5px;
 	line-height: 1em;
+}
+.navbar-brand {
+	.fas {
+		color: $brand-primary;
+	}
 }
 .block {
 	margin-bottom: 30px;
