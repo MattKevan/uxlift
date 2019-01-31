@@ -1,26 +1,38 @@
 ---
 layout: default
 ---
-<div class="page home">
-
+<div class="top">
 	<div class="container">
 		<div class="row">
-			<div class="col-xs-12 col-md-8 col-md-push-2">
-				<h1 class="page-title">On product design, usability and user experience.</h1>
-			</div>				
-			<div class="col-xs-12 col-md-10 col-lg-8">
-				{% for post in site.posts %}
-					<h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
-					<p class="postdate">{{ post.date | date: "%d %B %Y" }}</p>
-					<p class="lead">{{ post.intro }}</p>
-					{{ post.excerpt }}
-					<p><a href="{{ post.url | prepend: site.baseurl }}">Read more »</a></p>
-				{% endfor %}
+			<div class="col-xs-12 col-sm-10 col-sm-push-1">
+				<div class="page-title">
+					<h1 class="page-title">{{ site.description }}</h1>
+					{% if page.intro %}<p class="lead">{{ page.intro }}</p>{% endif %}
+				</div>
 			</div>
 		</div>
 	</div>
+</div>
 
+
+<div class="content">
+	<div class="container">
+
+		<div class="col-xs-12 col-sm-10 col-sm-push 1 col-md-8 col-md-push-2 content">
+			{% for post in site.posts %}
+				<div class="post-teaser">
+					<h3><a href="{{ post.link }}" target="_blank">{{ post.title }}</a> <a href="{{ post.url | prepend: site.baseurl }}" title="Permanent link to {{ post.title }}"><i class="fas fa-link"></i></a></h3>
+					<p class="lead">{{ post.intro }}</p>
+					{{ post.excerpt }}
+				</div>
+			{% endfor %}
+		</div>
+			
+</div>
 </div>
 
 
 
+
+
+			
