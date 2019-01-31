@@ -1,10 +1,8 @@
 ---
-title: UserTesting.com
+title: UserTesting
 intro: The industry standard tool for creating wireframes and interactive prototypes.
-linkurl: http://www.axure.com
+linkurl: http://www.usertesting.com
 tags:
-- User research
-- Diagrams
-- Prototypes
-logo: "axure.png"
+- Research
+logo: "usertesting.jpg"
 ---

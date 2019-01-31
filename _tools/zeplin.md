@@ -1,10 +1,9 @@
 ---
 title: Zeplin
-intro: The industry standard tool for creating wireframes and interactive prototypes.
-linkurl: http://www.axure.com
+intro: Handoff designs and styleguides to developers from all major design tools.
+linkurl: http://www.zeplin.io
 tags:
-- Wireframes
-- Diagrams
-- Prototypes
-logo: "axure.png"
+- Handoff
+- Collaboration
+logo: "zeplin.png"
 ---

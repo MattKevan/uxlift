@@ -13,7 +13,20 @@ layout: default
 					</div>
 				</div>
 				<div class="col-xs-12 col-sm-8 col-sm-push-2">
-					{% include searchwidget.html %}
+					
+					{% if page.filter == true %}
+
+						<div class="button-group filter-button-group">
+						  <button class="btn btn-primary is-checked" data-filter="*">Show all</button>
+
+						  {% for item in page.filter-items %}
+							  <button class="btn btn-primary" data-filter=".{{ item }}">{{ item }}</button>
+						  {% endfor %}
+						</div>
+
+					{% else %}
+						{% include searchwidget.html %}
+					{% endif %}
 				</div>
 			</div>
 		</div>

@@ -6,6 +6,6 @@ tags:
 - Design
 - Prototyping
 - Collaboration
-- Hand-off
+- Handoff
 logo: "figma.jpg"
 ---

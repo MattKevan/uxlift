@@ -119,13 +119,23 @@ p.tags {
 }
 
 .btn.btn-default {
-	background:  none;
 	border-radius:0;
-	border-width: 2px;
-	border-color: #D50063;
-	color: #D50063;
-	&:hover {text-decoration:underline;}
 
+	&:hover {text-decoration:underline;}
+	
+.button-group {
+	.btn {
+		display: inline-block;
+		margin: 0 10px 10px 10px;
+	}
+}
+}
+.btn-primary {
+	margin-bottom: 5px;
+	&.is-checked { 
+		background-color: #999;
+		border-color: #666; 
+	}
 }
 
 .top {

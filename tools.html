@@ -4,24 +4,24 @@ title: Tools
 permalink: /tools/
 intro: Useful services and software
 searchtext: Search tools
+filter: true
+filter-items:
+- Research
+- Wireframing
+- Design
+- Design-to-code
+- Prototyping
+- Animation
+- Handoff
+
 ---
 
-<div class="row">
+<div class="row filter-grid">
+
 {% assign sorted_items = site.tools | sort:'title' %}
 {% for item in sorted_items %}
 	{% include grid-item.html %}
 {% endfor %}
+
 </div>
 
-<script>
-	SimpleJekyllSearch({
-		searchInput: document.getElementById('search-input'),
-		resultsContainer: document.getElementById('results-container'),
-		json: '{{site.baseurl}}/search.json',
-		searchResultTemplate: '<div class="result"><p class="result-item"><a href="{url}" title="{desc}"><strong>{title}</strong></a> - {intro}</p></div>',
-		noResultsText: '<p class="no-results">No results found</p>',
-		limit: 10,
-		fuzzy: false,
-		exclude: ['Welcome']
-	})
-</script>

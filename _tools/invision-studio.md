@@ -4,6 +4,5 @@ intro: Web-based design tool. Invision's version of Sketch.
 linkurl: https://www.invisionapp.com/studio
 tags:
 - Design
-- Prototyping
 logo: "inv.png"
 ---

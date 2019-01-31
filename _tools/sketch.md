@@ -1,10 +1,9 @@
 ---
 title: Sketch
-intro: The industry standard tool for creating wireframes and interactive prototypes.
-linkurl: http://www.axure.com
+intro: The industry-leading tool for digital design.
+linkurl: http://www.sketchapp.com
 tags:
-- Wireframes
-- Diagrams
-- Prototypes
-logo: "axure.png"
+- Design
+- Prototyping
+logo: "sketch.png"
 ---
