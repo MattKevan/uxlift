@@ -5,5 +5,5 @@ linkurl: https://github.com/tudou527/marketch
 tags:
 - Sketch plugin
 - Hand-off
-logo: "/assets/marketch.png"
+logo: "marketch.png"
 ---

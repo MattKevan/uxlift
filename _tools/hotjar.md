@@ -5,5 +5,5 @@ linkurl: https://www.hotjar.com
 tags:
 - Analytics
 - Research
-logo: "/assets/images.png"
+logo: "images.png"
 ---

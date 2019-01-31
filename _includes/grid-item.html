@@ -2,10 +2,9 @@
 	<div class="grid-item" data-mh="col-text">
 		<div class="grid-content">
 			{% if item.logo %}
-				<a href="{{ item.linkurl }}" target="_blank"><img class="logo" src="{{ item.logo }}" alt="{{ item.title }}" /></a>
-			{% endif %}
-			{% if item.image %}
-				<a href="{{ item.linkurl }}" target="_blank"><img class="logo" src="/assets/{{ item.image }}" alt="{{ item.title }}" /></a>
+				<a href="{{ item.linkurl }}" target="_blank"><img class="logo" src="/assets/tools/{{ item.logo }}" alt="{{ item.title }}" /></a>
+			{% elsif item.image%}
+				<a href="{{ item.linkurl }}" target="_blank"><img class="logo" src="/assets/books/{{ item.image }}" alt="{{ item.title }}" /></a>
 			{% endif %}
 
 

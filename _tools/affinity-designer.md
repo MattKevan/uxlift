@@ -6,5 +6,5 @@ tags:
 - Wireframes
 - Diagrams
 - Prototypes
-logo: "/assets/affinity.png"
+logo: "affinity.png"
 ---

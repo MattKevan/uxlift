@@ -5,5 +5,5 @@ linkurl: http://www.lucidchart.com
 tags:
 - Wireframes
 - Diagrams
-logo: "/assets/lucid.png"
+logo: "lucid.png"
 ---

@@ -182,7 +182,12 @@ p.tags {
 
 	}
 }
-
+.navbar-brand > img {
+	display: inline;
+	width: 18px;
+	margin-right: 5px;
+	line-height: 1em;
+}
 .block {
 	margin-bottom: 30px;
 	h3 {

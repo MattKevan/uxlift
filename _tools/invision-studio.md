@@ -5,5 +5,5 @@ linkurl: https://www.invisionapp.com/studio
 tags:
 - Design
 - Prototyping
-logo: "/assets/inv.png"
+logo: "inv.png"
 ---

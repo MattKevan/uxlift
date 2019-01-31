@@ -6,5 +6,5 @@ tags:
 - Prototyping
 - Collaboration
 - Hand-off
-logo: "/assets/inv.png"
+logo: "inv.png"
 ---

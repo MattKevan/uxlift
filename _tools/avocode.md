@@ -6,5 +6,5 @@ tags:
 - Handoff
 - Prototyping
 - Collaboration
-logo: "/assets/avo.svg"
+logo: "avo.svg"
 ---

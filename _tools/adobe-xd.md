@@ -6,5 +6,5 @@ tags:
 - Wireframes
 - Diagrams
 - Prototypes
-logo: "/assets/xd.png"
+logo: "xd.png"
 ---

@@ -5,5 +5,5 @@ linkurl: http://www.axure.com
 tags:
 - Prototyping
 - Animation
-logo: "/assets/axure.png"
+logo: "axure.png"
 ---

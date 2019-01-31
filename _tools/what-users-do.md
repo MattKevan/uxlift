@@ -6,5 +6,5 @@ tags:
 - Wireframes
 - User testing
 - Prototypes
-logo: "/assets/axure.png"
+logo: "axure.png"
 ---

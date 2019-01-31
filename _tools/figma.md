@@ -7,5 +7,5 @@ tags:
 - Prototyping
 - Collaboration
 - Hand-off
-logo: "/assets/figma.jpg"
+logo: "figma.jpg"
 ---

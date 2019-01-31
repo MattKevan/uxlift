@@ -7,5 +7,5 @@ tags:
 - Prototyping
 - Design-to-code
 - React
-logo: "/assets/framer.png"
+logo: "framer.png"
 ---

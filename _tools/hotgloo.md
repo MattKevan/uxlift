@@ -5,5 +5,5 @@ linkurl: http://www.hotgloo.com
 tags:
 - Wireframing
 - Prototyping
-logo: "/assets/hotgloo.png"
+logo: "hotgloo.png"
 ---

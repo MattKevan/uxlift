@@ -5,5 +5,5 @@ linkurl: https://balsamiq.com
 tags:
 - Wireframing
 - Information architecture
-logo: "/assets/balsamiq.jpg"
+logo: "balsamiq.jpg"
 ---

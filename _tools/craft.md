@@ -6,5 +6,5 @@ tags:
 - Design
 - Prototyping
 - Sketch plugin
-logo: "/assets/craft.png"
+logo: "craft.png"
 ---

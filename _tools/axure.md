@@ -6,5 +6,5 @@ tags:
 - Wireframes
 - Diagrams
 - Prototypes
-logo: "/assets/axure.png"
+logo: "axure.png"
 ---
