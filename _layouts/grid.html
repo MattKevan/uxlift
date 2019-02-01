@@ -20,7 +20,7 @@ layout: default
 						  <button class="btn btn-primary is-checked" data-filter="*">Show all</button>
 
 						  {% for item in page.filter-items %}
-							  <button class="btn btn-primary" data-filter=".{{ item }}">{{ item }}</button>
+							  <button class="btn btn-primary" data-filter=".{{ item | replace: ' ', '-'}}">{{ item }}</button>
 						  {% endfor %}
 						</div>
 

@@ -8,6 +8,13 @@ $(document).ready(function() {
 	  itemSelector: '.filter-item',
 	  layoutMode: 'fitRows'
 	});
+
+  // layout Isotope after each image loads
+  $grid.imagesLoaded().progress( function() {
+    $grid.isotope('layout');
+  });
+
+
 	
 	// filter functions
 	var filterFns = { };

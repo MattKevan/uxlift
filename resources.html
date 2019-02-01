@@ -4,25 +4,16 @@ title: Resources
 permalink: /resources/
 intro: Useful resources
 searchtext: Search resources
-
+filter: true
+filter-items:
+- Font
+- Sketch plugin
+- Open source
 ---
 
-<div class="row">
+<div class="row filter-grid">
 {% assign sorted_items = site.resources | sort:'title' %}
 {% for item in sorted_items %}
 	{% include grid-item.html %}
 {% endfor %}
 </div>
-
-<script>
-	SimpleJekyllSearch({
-		searchInput: document.getElementById('search-input'),
-		resultsContainer: document.getElementById('results-container'),
-		json: '{{site.baseurl}}/search.json',
-		searchResultTemplate: '<div class="result"><p class="result-item"><a href="{url}" title="{desc}">{title}</a></p></div>',
-		noResultsText: '<p class="no-results">No results found</p>',
-		limit: 10,
-		fuzzy: false,
-		exclude: ['Welcome']
-	})
-</script>

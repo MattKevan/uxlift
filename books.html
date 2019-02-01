@@ -4,25 +4,17 @@ title: UX & design books
 permalink: /books/
 intro: Recommended reading on UX, design and usability.
 searchtext: Search books
+filter: true
+filter-items:
+- UX design
+- Interaction design
+- Usability
+- Lean
 ---
-<div class="row">
+<div class="row filter-grid">
 {% assign sorted_items = site.books | sort:'title' %}
 {% for item in sorted_items %}
 	{% include grid-item.html %}
 {% endfor %}
 </div>
-
-<script>
-	SimpleJekyllSearch({
-		searchInput: document.getElementById('search-input'),
-		resultsContainer: document.getElementById('results-container'),
-		json: '{{site.baseurl}}/search.json',
-		searchResultTemplate: '<div class="result"><p class="result-item"><a href="{url}" title="{desc}">{title}</a></p></div>',
-		noResultsText: '<p class="no-results">No results found</p>',
-		limit: 10,
-		fuzzy: false,
-		exclude: ['Welcome']
-	})
-</script>
-
 
