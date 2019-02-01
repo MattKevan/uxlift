@@ -1,8 +1,8 @@
 ---
 title: UserTesting
-intro: The industry standard tool for creating wireframes and interactive prototypes.
+intro: Know how users interact with designs and fix UX issues before writing a single line of code.
 linkurl: http://www.usertesting.com
 tags:
-- Research
-logo: "usertesting.jpg"
+- User research
+logo: "usertesting.svg"
 ---

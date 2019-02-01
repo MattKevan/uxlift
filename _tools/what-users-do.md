@@ -1,8 +1,8 @@
 ---
 title: What Users Do
-intro: The industry standard tool for creating wireframes and interactive prototypes.
+intro: Platform to help you understand how your customers engage with your website or product.
 linkurl: http://www.whatusersdo.com
 tags:
-- Research
+- User research
 logo: "whatusersdo.jpg"
 ---

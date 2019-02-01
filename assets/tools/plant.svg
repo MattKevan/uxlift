@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="103px" height="103px" viewBox="0 0 103 103" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>plant</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="plant">
+            <path d="M44.8866067,0.498468624 L102.500157,58.1133277 C103.567421,59.1774955 102.812222,61 101.304945,61 L42,61 L42,1.69370701 C42,0.186395939 43.8224631,-0.565699231 44.8866067,0.498468624" id="Path" fill="#0680FE"></path>
+            <polygon id="Path" fill-opacity="0.1" fill="#000000" points="60.0031353 42 79 61 60 61"></polygon>
+            <path d="M58.1130012,102.505295 L0.491625728,44.883731 C0.0107077724,44.3996959 -0.132302694,43.6741328 0.128975032,43.0438238 C0.390252759,42.4135148 1.00465604,42.0018853 1.6869993,42 L59.3083747,42 C60.2446987,42 61,42.7552629 61,43.6884183 L61,101.309983 C60.999365,101.993658 60.5872214,102.609733 59.9555196,102.871278 C59.3238178,103.132824 58.5967748,102.98841 58.1130012,102.505295" id="Path" fill="#64D0FF"></path>
+        </g>
+    </g>
+</svg>

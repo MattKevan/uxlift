@@ -4,6 +4,6 @@ intro: Hotjar is a new and easy way to truly understand your web and mobilesite 
 linkurl: https://www.hotjar.com
 tags:
 - Analytics
-- Research
+- User research
 logo: "images.png"
 ---
