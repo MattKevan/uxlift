@@ -1,11 +1,11 @@
 ---
-layout: article
-title: Button best practices
+layout: concept
+title: Button design best practices
 intro: Buttons are a vital part of any interaction design, yet they're easy to get wrong. Here's how to create good ones.
-author: Matt Kevan
-date: 2016-03-15
-links: 
-  - l: "https://uxplanet.org/button-ux-design-best-practices-types-and-states-647cf4ae0fc6"
+date: 2019-01-31
+further-reading: 
+  - title: Button UX design best practices, types and states
+    url: https://uxplanet.org/button-ux-design-best-practices-types-and-states-647cf4ae0fc6"
 tags:
  - User experience
  - Design

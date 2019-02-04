@@ -1,6 +1,5 @@
 ---
 title: Sales funnels
-layout: link 
 linkurl: ""
 tags:
 - Strategy

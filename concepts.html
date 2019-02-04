@@ -14,19 +14,7 @@ searchtext: Search concepts
 	{% endfor %}
 </div>
 
-
-
-{% assign tag = site.concepts | map: 'tags' | uniq %}
-
-
-  {% for t in tag %}
-   	<button class="btn btn-primary" data-filter=".{{ item | replace: ' ', '-'}}">{{ t }}</button>
-  {% endfor %}
-
-
-
-
-<script>
+<script type="text/javascript">
 	SimpleJekyllSearch({
 		searchInput: document.getElementById('search-input'),
 		resultsContainer: document.getElementById('results-container'),

@@ -54,14 +54,14 @@ defaults:
       path: ""
       type: concepts
     values:
-      layout: link
+      layout: concept
       title: ""
       intro: ""
       tags: []
       linkurl: ""
       authors: ""
       year: ""
-      type: external-link-alt
+      type: lightbulb
   -
     scope:
       path: ""

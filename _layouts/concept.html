@@ -32,8 +32,8 @@ layout: default
 			   	{% for item in page.further-reading %}
 
 				        <div class="content-inner read-item">
-					        <h3><a href="{{ item.url }}" target="_blank">{{ item.title }}</a></h3>
-					        {% assign weblink = item.url | remove: 'http://www.' | remove: 'https://www.' | split: '/' %}
+					        <h4><a href="{{ item.url }}" target="_blank">{{ item.title }}</a></h4>
+					        {% assign weblink = item.url | remove: 'http://' | remove: 'https://' | remove: 'www.' | split: '/' %}
 					        <p class="weblink"><a href="{{ item.url }}" target="_blank"><i class="fas fa-globe-americas"></i> {{ weblink | first }}</a></p>
 				        </div>
 

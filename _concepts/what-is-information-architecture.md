@@ -1,10 +1,14 @@
 ---
-layout: link
-title: What is information architecture?
+layout: concept
+title: Information architecture
 tags:
 - Information architecture
-linkurl: http://www.iainstitute.org/what-is-ia
-intro: Information architecture is the practice of structuring and organising things in a meaningful way.
+further-reading:
+- title: What is IA?
+  url: http://www.iainstitute.org/what-is-ia
+- title: A complete beginner's guide to information architecture
+  url: "https://www.uxbooth.com/articles/complete-beginners-guide-to-information-architecture/"
+intro: The practice of structuring and organising things in a meaningful way.
 
 ---
 
