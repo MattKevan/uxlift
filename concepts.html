@@ -4,6 +4,7 @@ title: Concepts
 permalink: /concepts/
 intro: Concepts related to user experience design and usability
 searchtext: Search concepts
+
 ---
 <div class="row">
 	{% assign counter = 0 %}
@@ -12,6 +13,18 @@ searchtext: Search concepts
 		{% include grid-item.html %}
 	{% endfor %}
 </div>
+
+
+
+{% assign tag = site.concepts | map: 'tags' | uniq %}
+
+
+  {% for t in tag %}
+   	<button class="btn btn-primary" data-filter=".{{ item | replace: ' ', '-'}}">{{ t }}</button>
+  {% endfor %}
+
+
+
 
 <script>
 	SimpleJekyllSearch({

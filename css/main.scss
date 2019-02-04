@@ -118,7 +118,9 @@ p.tags {
 		display: inline-block;
 	}
 }
+.filter-grid {
 
+}
 .btn.btn-default {
 	border-radius:0;
 
@@ -175,9 +177,12 @@ p.tags {
 	
 }
 
+.linkblock {
+	margin-top: 30px;
+}
 .read-item {
 	margin-bottom: 20px;
-	h4 {margin-top:0;}
+	h3 {margin-top:0;}
 	p.weblink a { color: #999; }
 	&:last {margin-bottom:0;}
 }

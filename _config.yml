@@ -38,12 +38,6 @@ collections:
   concepts:
     output: true
     permalink: /concepts/:path/
-  techniques:
-    output: true
-    permalink: /techniques/:path/
-  resourcearticle:
-    output: true
-    permalink: /articles/:path/
   books:
     output: true
     permalink: /books/:path/
@@ -68,28 +62,6 @@ defaults:
       authors: ""
       year: ""
       type: external-link-alt
-  -
-    scope:
-      path: ""
-      type: techniques
-    values:
-      layout: link
-      title: ""
-      intro: ""
-      tags: []
-      linkurl: ""
-      authors: ""
-      year: ""
-      type: external-link-alt
-  -
-    scope:
-      path: ""
-      type: resourcearticle
-    values:
-      layout: article
-      title: ""
-      intro: ""
-      categories: []
   -
     scope:
       path: ""

@@ -13,6 +13,9 @@ $(document).ready(function() {
   $grid.imagesLoaded().progress( function() {
     $grid.isotope('layout');
   });
+  $grid.on( 'arrangeComplete', function( event, filteredItems ) {
+	  $.fn.matchHeight._update()
+  });
 
 
 	
@@ -33,6 +36,8 @@ $(document).ready(function() {
 	    $( this ).addClass('is-checked');
 	  });
 	});
+
+
 
 });
 
