@@ -1,6 +1,5 @@
 ---
 title: Component-based design
-layout: concept
 intro: Component Based Design is the practice of splitting UI into smaller, more manageable parts with clear names
 tags:
 - Design

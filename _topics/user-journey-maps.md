@@ -1,5 +1,4 @@
 ---
-layout: concept
 title: User journey maps
 intro: A user journey map is a visual or graphic interpretation of the overall story from an individual’s perspective of their relationship with an organisation, service, product or brand, over time and across channels. 
 date: 2019-02-04

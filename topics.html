@@ -1,14 +1,14 @@
 ---
 layout: grid
-title: Concepts
-permalink: /concepts/
+title: Topics
+permalink: /topics/
 intro: Concepts related to user experience design and usability
-searchtext: Search concepts
+searchtext: Search topics
 
 ---
 <div class="row">
 	{% assign counter = 0 %}
-	{% assign sorted_items = site.concepts | sort:'title' %}
+	{% assign sorted_items = site.topics | sort:'title' %}
 	{% for item in sorted_items %}
 		{% include grid-item.html %}
 	{% endfor %}

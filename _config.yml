@@ -35,9 +35,9 @@ exclude:
   - Gemfile.lock
 
 collections:
-  concepts:
+  topics:
     output: true
-    permalink: /concepts/:path/
+    permalink: /topics/:path/
   books:
     output: true
     permalink: /books/:path/
@@ -52,9 +52,9 @@ defaults:
   -
     scope:
       path: ""
-      type: concepts
+      type: topics
     values:
-      layout: concept
+      layout: topic
       title: ""
       intro: ""
       tags: []

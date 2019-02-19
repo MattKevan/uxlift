@@ -1,6 +1,5 @@
 ---
 title: The Double Diamond design process
-layout: concept
 intro: A simple, graphical way to describe the design process, ensuring the right
   questions are asked at the right time.
 tags:

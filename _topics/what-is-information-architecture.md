@@ -1,5 +1,4 @@
 ---
-layout: concept
 title: Information architecture
 tags:
 - Information architecture
