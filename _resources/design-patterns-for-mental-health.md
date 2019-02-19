@@ -5,4 +5,5 @@ linkurl: https://www.designpatternsformentalhealth.org/
 tags:
 - Inspiration
 - Design pattern
+preview: resources/mh.png
 ---

@@ -5,4 +5,5 @@ linkurl: https://akveo.github.io/eva-icons/
 tags:
 - Icons
 - Open source
+preview: resources/eva.png
 ---

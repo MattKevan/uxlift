@@ -154,9 +154,12 @@ p.tags {
 .grid-item {
 	margin-bottom: 30px;
 	background-color: #fff;
-	padding: 20px;
+	
 	h3, h4 {
 		margin: 0 0 5px 0;
+	}
+	.grid-content {
+		padding: 20px;
 	}
 	img.logo {
 		float: right;
@@ -170,6 +173,9 @@ p.tags {
   		@media (min-width: $screen-lg-min) {
     		width: 70px;
   		}
+	}
+	img.preview {
+		width: 100%;
 	}
 	.fas {
 		color: #d7d7d7;

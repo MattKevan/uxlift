@@ -7,4 +7,5 @@ tags:
 - Open source
 - Accessibility
 type: puzzle-piece
+preview: resources/stark.png
 ---
