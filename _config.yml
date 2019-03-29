@@ -34,12 +34,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
-csv:
-  courses:
-    source: https://docs.google.com/spreadsheets/d/e/2PACX-1vTgt5RyUhxgnSwYkhIaCBz-wZrAusm0EOHFsHH7NDy4LjaKLF0lhczN2ymp72hNcL2OPa9G7U6YufHw/pub?gid=0&single=true&output=csv
-  institution:
-    source: https://docs.google.com/spreadsheets/d/e/2PACX-1vTgt5RyUhxgnSwYkhIaCBz-wZrAusm0EOHFsHH7NDy4LjaKLF0lhczN2ymp72hNcL2OPa9G7U6YufHw/pub?gid=2078849143&single=true&output=csv
-   
 
 collections:
   topics:

@@ -9,7 +9,7 @@ searchtext: Search courses
 
 <div class="row">
 	{% assign counter = 0 %}
-	{% assign sorted_items = site.courses | sort:'title' %}
+	{% assign sorted_items = site.data.courses | sort:'title' %}
 	{% for item in sorted_items %}
 		{% include course-teaser.html %}
 		{% capture counter %}{{ counter | plus:'1' }}{% endcapture %}

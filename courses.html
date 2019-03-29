@@ -35,7 +35,7 @@ searchtext: Search courses
 <div class="row">
 	<div class="col-xs-12"><h3>Featured courses</h3></div>
 	{% assign counter = 0 %}
-	{% assign sorted_items = site.courses | sort:'title' %}
+	{% assign sorted_items = site.data.courses | sort:'title' %}
 	{% for item in sorted_items limit:3 %}
 		{% include course-teaser.html %}
 		{% capture counter %}{{ counter | plus:'1' }}{% endcapture %}
