@@ -55,7 +55,11 @@ h1 {
 	margin: 0;
 
 }
-
+.meta p {
+	font-size: 14px;
+		line-height: 1.2em;
+		margin-bottom: 10px;
+}
 .btn {
 	border-radius: 0;
 }
@@ -237,6 +241,7 @@ p.tags {
 		border-width: 1px;
 		border-style:solid;
 		padding: 20px;
+		background-color: #fff;
 	}
 }
 

@@ -28,11 +28,18 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
+encoding: utf-8
 permalink: /:year/:month/:day/:title/
 exclude:
   - Gemfile
   - Gemfile.lock
+
+csv:
+  courses:
+    source: https://docs.google.com/spreadsheets/d/e/2PACX-1vTgt5RyUhxgnSwYkhIaCBz-wZrAusm0EOHFsHH7NDy4LjaKLF0lhczN2ymp72hNcL2OPa9G7U6YufHw/pub?gid=0&single=true&output=csv
+  institution:
+    source: https://docs.google.com/spreadsheets/d/e/2PACX-1vTgt5RyUhxgnSwYkhIaCBz-wZrAusm0EOHFsHH7NDy4LjaKLF0lhczN2ymp72hNcL2OPa9G7U6YufHw/pub?gid=2078849143&single=true&output=csv
+   
 
 collections:
   topics:
@@ -47,6 +54,9 @@ collections:
   tools:
     output: true
     permalink: /tools/:path/
+  institution:
+    output: true
+    permalink: /courses/institutions/:path/
 
 defaults:
   -
@@ -99,3 +109,9 @@ defaults:
       tags: []
       linkurl: ""
       type: "tools"
+  -
+    scope:
+      path: ""
+      type: institution
+    values:
+      layout: institution

@@ -1,0 +1,44 @@
+---
+layout: grid
+title: Courses
+permalink: /courses/
+intro: Brush up your skills or start a new career with these hand-picked courses, ranging from quick online learning to postgraduate programmes.
+searchtext: Search courses
+
+---
+
+<div class="row">
+
+	<div class="col-xs-12 col-sm-4 block">
+		<a href="/courses/online-learning">
+		<div class="block-inner">
+			<h4>Quick online learning</h4>
+			<p>Learn in your own time with these short, web-based videos.</p>
+		</div>
+	</a>
+	</div>
+
+		<div class="col-xs-12 col-sm-4 block">
+		<div class="block-inner">
+			<h4>Undergraduate courses</h4>
+		</div>
+	</div>
+
+	<div class="col-xs-12 col-sm-4 block">
+		<div class="block-inner">
+			<h4>Postgraduate courses</h4>
+		</div>
+	</div>
+</div>
+
+
+<div class="row">
+	<div class="col-xs-12"><h3>Featured courses</h3></div>
+	{% assign counter = 0 %}
+	{% assign sorted_items = site.courses | sort:'title' %}
+	{% for item in sorted_items limit:3 %}
+		{% include course-teaser.html %}
+		{% capture counter %}{{ counter | plus:'1' }}{% endcapture %}
+	{% endfor %}
+</div>
+
