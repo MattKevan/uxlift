@@ -1,0 +1,23 @@
+---
+label: Resource
+hide_body: true
+fields:
+- type: field_group_list
+  name: Resources
+  label: Resources
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: intro
+    label: intro
+  - type: text
+    name: linkurl
+    label: linkurl
+  - type: file
+    name: preview
+    label: preview
+  - type: text
+    name: category
+    label: category
