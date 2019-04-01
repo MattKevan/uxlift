@@ -5,4 +5,5 @@ linkurl: https://www.invisionapp.com/craft
 tags:
 - Sketch plugin
 preview: resources/craft.png
+category: sketch-plugins
 ---

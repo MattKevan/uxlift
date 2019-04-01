@@ -6,4 +6,5 @@ tags:
 - Illustration
 - Free
 preview: resources/avataaars.png
+category: photography-and-illustration
 ---

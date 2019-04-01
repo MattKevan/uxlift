@@ -44,7 +44,14 @@ i { color: #999;}
 a { }
 
 a:hover {
+	text-decoration: none;
 }
+a p {color: #000;}
+a h3 {
+	color: #2962FF;
+}
+a:hover h3 { text-decoration: underline;}
+a:hover p {text-decoration: none;}
 
 h1, h2, h3, h4 {
 
@@ -146,10 +153,9 @@ p.tags {
 }
 
 .top {
-	padding: 150px 0;
-	text-align: center;
+	padding: 80px 0 60px 0;
 	h1 {
-		margin-bottom: 20px;
+		margin: 0 0 10px 0;
 	}
 }
 .listing {

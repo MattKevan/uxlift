@@ -6,4 +6,5 @@ tags:
 - Icons
 - Open source
 preview: resources/eva.png
+category: icons
 ---

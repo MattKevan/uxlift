@@ -5,4 +5,5 @@ linkurl: http://www.evericons.com
 tags:
 - Icons
 preview: resources/ever.png
+category: icons
 ---

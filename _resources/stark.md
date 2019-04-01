@@ -8,4 +8,5 @@ tags:
 - Accessibility
 type: puzzle-piece
 preview: resources/stark.png
+category: sketch-plugins
 ---

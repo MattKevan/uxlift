@@ -1,0 +1,12 @@
+---
+
+- title: Clear Sans
+  intro: A versatile OpenType font for screen, print and Web, and designed with on-screen legibility in mind.
+  linkurl: https://01.org/clear-sans
+  preview: resources/clear-sans.png
+  category: fonts
+- title: IBM Plex
+  intro: Designed to work well in user interface environments as well as other mediums, the Plex family comes in Sans, Serif, Mono and Sans Condensed.
+  linkurl: https://github.com/IBM/plex
+  preview: resources/plex.png
+  category: fonts
