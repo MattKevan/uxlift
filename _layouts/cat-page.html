@@ -11,7 +11,7 @@ layout: default
 						{% assign crumb = page.permalink | split: '/' %}
 					<p class="s"><a href="{{ site.baseurl }}/">Home</a> » <a href="{{ site.baseurl }}/{{ crumb [1] }}">{{ crumb [1] | capitalize }}</a> »</p>
 						<h1 class="page-title">{{ page.title }}</h1>
-						{% for cat in site.data.categories %}
+						{% for cat in site.data.courses %}
 							{% if page.title == cat.title %}
 								{% if cat.description %}<p class="lead">{{ cat.description }}</p>{% endif %}
 							{% endif %}
@@ -25,10 +25,10 @@ layout: default
 
  {{ content }}
 
- 	<div class="listing">
+ 	<div class="listing bgg">
 		<div class="container">
 			<div class="row filter-grid">
-				{% assign sorted_items = site.data.resources | sort:'title' %}
+				{% assign sorted_items = site.courses | sort:'title' %}
 
 				{% for item in sorted_items %}
 					{% if page.category == item.category %}

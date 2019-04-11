@@ -1,0 +1,20 @@
+<div class="section bgg">
+	<div class="container">
+		<div class="row">
+			{% assign cats = page.cat-source %}
+			{% for cat in cats %}
+				
+
+					<div class="col-xs-12 col-sm-4 block">
+						<a href="/{{ page.category }}/{{ cat.slug }}">
+							<div class="block-inner" data-mh="item">
+								<h3>{{ cat.title }}</h3>
+								<p>{{ cat.description }}</p>
+							</div>
+						</a>
+					</div>
+				
+			{% endfor %}	
+		</div>
+	</div>
+</div>

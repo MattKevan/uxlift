@@ -1,0 +1,63 @@
+---
+layout: default
+---
+<div class="page tool">
+
+	<div class="top">
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-12">
+					<div class="page-title">
+						
+					<p class="s"><a href="{{ site.baseurl }}/">Home</a> » <a href="{{ site.baseurl }}/tools">Tools</a> »</p>
+						<h1 class="page-title"><img src="/assets/tools/{{ page.logo }}">{{ page.title }}</h1>
+						
+							<p class="lead">{{ page.intro }}</p>
+<a class="btn btn-primary" href="{{ page.linkurl }}" target="_blank">Visit website »</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+<div class="section bgg">
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-12 col-sm-8">
+ 					{{ content }}
+				</div>
+				<div class="col-xs-12 col-sm-4">
+
+				</div>
+</div></div>
+</div>
+
+<div class="section bgw">
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-12">
+					<h2>Alternatives to {{ page.title }}</h2>
+				</div>
+				{% assign sorted_items = site.tools | sort:'title' %}
+				{% assign alt = page.category %} 
+					{% for item in sorted_items %}
+						{% for cat in item.category %}
+
+					
+					
+
+
+						{% if cat == alt[0] %}
+							{% include grid-large-tool.html %}
+						{% endif %}
+					{% endfor %}	
+				{% endfor %}
+			</div>
+		</div>
+	</div>
+
+</div>
+
+
+
+
+

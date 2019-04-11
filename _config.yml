@@ -28,16 +28,25 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - pagemaster
+
 encoding: utf-8
-permalink: /:year/:month/:day/:title/
+permalink: pretty
 exclude:
   - Gemfile
   - Gemfile.lock
 
+page_gen-dirs: true
 
 collections:
   topics:
     output: true
+    permalink: /topics/:path/
+  topic-categories:
+    output: true
+    source: topics.yml
+    id_key: id
+    layout: topic-listing
     permalink: /topics/:path/
   books:
     output: true
@@ -48,6 +57,15 @@ collections:
   tools:
     output: true
     permalink: /tools/:path/
+  tool-cat:
+    output: true
+    source: tools.yml
+    id_key: id
+    layout: tool-listing
+    permalink: /tools/:path/
+  courses:
+    output: true
+    permalink: /courses/:path/
   institution:
     output: true
     permalink: /courses/institutions/:path/
@@ -96,13 +114,25 @@ defaults:
       path: ""
       type: tools
     values:
-      layout: link
+      layout: tool
       image: ""
       title: ""
       intro: ""
       tags: []
       linkurl: ""
       type: "tools"
+  -
+    scope:
+      path: ""
+      type: courses
+    values:
+      title: ""
+      linkurl: ""
+      intro: ""
+      preview: ""
+      layout: course
+      category:
+      tags:
   -
     scope:
       path: ""

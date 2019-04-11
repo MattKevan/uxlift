@@ -1,18 +1,8 @@
 ---
-layout: grid
+layout: course-listing
 title: Online learning
 intro: Brush up your skills with these quick web-based courses.
-searchtext: Search courses
-
+permalink: /courses/online-learning/
+category: Online learning
 ---
-
-
-<div class="row">
-	{% assign counter = 0 %}
-	{% assign sorted_items = site.data.courses | sort:'title' %}
-	{% for item in sorted_items %}
-		{% include course-teaser.html %}
-		{% capture counter %}{{ counter | plus:'1' }}{% endcapture %}
-	{% endfor %}
-</div>
 

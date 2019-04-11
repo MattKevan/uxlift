@@ -2,9 +2,9 @@
 title: Marvel
 intro: Create and share prototypes, hand-off designs to developers.
 linkurl: http://www.marvelapp.com
-tags:
+category:
 - Prototyping
 - Collaboration
-- Hand-off
+- Handoff
 logo: "marvel.png"
 ---

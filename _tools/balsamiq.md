@@ -2,8 +2,7 @@
 title: Balsamiq Wireframes
 intro: Quickly sketch low-fidelity wireframes.
 linkurl: https://balsamiq.com
-tags:
+category:
 - Wireframing
-- Information architecture
 logo: "balsamiq.jpg"
 ---

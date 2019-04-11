@@ -2,7 +2,7 @@
 title: Justinmind
 intro: All-in-one prototyping tool for web and mobile apps.
 linkurl: http://www.framer.com
-tags:
+category:
 - Wireframing
 - Prototyping
 logo: "justinmind.png"

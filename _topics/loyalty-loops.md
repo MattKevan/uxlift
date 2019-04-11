@@ -7,4 +7,5 @@ tags:
 further-reading:
 - title: The consumer decision journey
   url: http://www.mckinsey.com/business-functions/marketing-and-sales/our-insights/the-consumer-decision-journey
+topic: Engagement and optimisation
 ---

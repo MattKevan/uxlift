@@ -1,12 +1,31 @@
 ---
-
-- title: Clear Sans
-  intro: A versatile OpenType font for screen, print and Web, and designed with on-screen legibility in mind.
-  linkurl: https://01.org/clear-sans
-  preview: resources/clear-sans.png
-  category: fonts
-- title: IBM Plex
-  intro: Designed to work well in user interface environments as well as other mediums, the Plex family comes in Sans, Serif, Mono and Sans Condensed.
-  linkurl: https://github.com/IBM/plex
-  preview: resources/plex.png
-  category: fonts
+- title: UI Kits
+  description: Jump start your UX with a ready made UI kit.
+  slug: ui-kits
+  icon:
+  section: resources
+- title: Fonts
+  description: The best free and open source fonts.
+  slug: fonts
+  icon:
+  section: resources
+- title: Pattern libraries
+  description: User interface best practices. 
+  slug: pattern-libraries
+  icon:
+  section: resources
+- title: Graphics
+  description: Free and nearly free illustration and photography resources. 
+  slug: photography-and-illustration
+  icon:
+  section: resources
+- title: Sketch plugins
+  description: The best plugins to supercharge your designs
+  slug: sketch-plugins
+  icon:
+  section: resources
+- title: Icon sets
+  description: The best free and paid icon sets for your next project.
+  slug: icons
+  icon:
+  section: resources

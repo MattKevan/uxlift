@@ -4,35 +4,43 @@ title: Resources
 permalink: /resources/
 intro: Useful resources
 searchtext: Search resources
-filter: false
-filter-items:
-- Font
-- Sketch plugin
-- Open source
+category: resources
 ---
 
-
-<div class="row">
-	{% for cat in site.data.categories %}
-		{% if cat.section == 'resources' %}
-
-			<div class="col-xs-12 col-sm-4 block">
-				<a href="/resources/{{ cat.slug }}">
-					<div class="block-inner" data-mh="item">
-						<h3>{{ cat.title }}</h3>
-						<p>{{ cat.description }}</p>
+<div class="section bgg">
+	<div class="container">
+		<div class="row">
+			
+			{% for cat in site.data.resources %}
+					<div class="col-xs-12 col-sm-4 block">
+						<a href="/resources/{{ cat.title | slugify }}">
+							<div class="block-inner" data-mh="item">
+								<h3>{{ cat.title }}</h3>
+								<p>{{ cat.description }}</p>
+							</div>
+						</a>
 					</div>
-				</a>
-			</div>
-		{% endif %}
-	{% endfor %}	
+			{% endfor %}	
+		</div>
+	</div>
 </div>
 
-<h3> Latest resources</h3>
 
-<div class="row filter-grid">
-{% assign sorted_items = site.resources | sort:'title' %}
-{% for item in sorted_items limit: 3%}
-	{% include grid-item.html %}
-{% endfor %}
+<div class="section">
+	<div class="container">
+
+		<div class="row">
+			<div class="col-xs-12">
+				<h3> Latest {{ page.category }}</h3>
+			</div>
+		</div>
+
+		<div class="filter-grid row">
+			{% assign sorted_items = site.resources | sort:'title' %}
+			{% for item in sorted_items limit: 4 %}
+				{% include grid-small.html %}
+			{% endfor %}
+		</div>
+
+	</div>
 </div>

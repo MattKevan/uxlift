@@ -6,9 +6,11 @@ further-reading:
   - title: Button UX design best practices, types and states
     url: https://uxplanet.org/button-ux-design-best-practices-types-and-states-647cf4ae0fc6"
 tags:
- - User experience
- - Design
- - Usability
+  - User experience
+  - Design
+  - Usability
+vocab: UX writing
+term: Calls to action
 ---
 
 ### They should look like buttons

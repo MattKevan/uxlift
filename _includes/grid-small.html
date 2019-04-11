@@ -1,0 +1,31 @@
+<div class="col-xs-12 col-sm-4 col-md-3 filter-item {% for tag in item.tags %}{{ tag | replace: ' ', '-' | append: ' ' }}{% endfor %}">
+	<div class="grid-item" data-mh="col-text">
+		{% if item.preview %}
+			<div class="grid-preview">
+				<a href="{{ item.linkurl }}" target="_blank"><img class="preview" src="/assets/{{ item.preview }}" alt="{{ item.title }}" /></a>
+			</div>
+		{% endif %}
+
+		<div class="grid-small-content">
+			{% if item.logo %}
+				<a href="{{ item.linkurl }}" target="_blank"><img class="logo" src="/assets/tools/{{ item.logo }}" alt="{{ item.title }}" /></a>
+			{% elsif item.image%}
+				<a href="{{ item.linkurl }}" target="_blank"><img class="logo" src="/assets/books/{{ item.image }}" alt="{{ item.title }}" /></a>
+			{% endif %}
+
+
+			{% if item.layout == 'link' %}
+				<h4><i class="fas fa-{{ item.type }}"></i> <a href="{{ item.linkurl }}" target="_blank">{{ item.title }}</a></h4>		
+			{% else %}
+				<h4><i class="fas fa-{{ item.type }}"></i> <a href="{{ item.url }}">{{ item.title }}</a></h4>	      
+			{% endif %}
+			      {% if item.author %}
+				      <p class="author s">{{ item.author }}{% if item.year %}, {{ item.year }}{% endif %}</p>
+				   {% endif %}
+		    <p class="tags xs">
+		    {% if item.category %}<span>{{ item.category }}</span>{% endif %}
+
+			</p>
+		</div>
+	</div>
+</div>
