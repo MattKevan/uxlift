@@ -1,0 +1,14 @@
+---
+title: Humane by Design
+category:
+- Pattern libraries
+- Design ethics
+link: https://humanebydesign.com/
+intro: 'Humane by Design is a resource that provides guidance for designing ethically humane digital products through patterns focused on user well-being.'
+
+---
+
+
+
+
+

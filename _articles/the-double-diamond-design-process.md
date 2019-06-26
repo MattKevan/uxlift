@@ -5,7 +5,7 @@ date: 2019-04-10 15:49:00
 categories: 
 - Design thinking
 author: Matt Kevan
-description: A simple, graphical way to describe the design process, ensuring the right questions are asked at the right time.
+intro: A simple, graphical way to describe the design process, ensuring the right questions are asked at the right time.
 ---
 
 

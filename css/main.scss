@@ -47,7 +47,8 @@ a:hover {
 	text-decoration: none;
 }
 a p {color: #000;}
-a h3 {
+a h3,
+a h4 {
 	color: #2962FF;
 }
 a:hover h3 { text-decoration: underline;}
@@ -113,6 +114,8 @@ h1 {
 }
 .section {
 	padding: 80px 0 50px 0;
+
+	h2 {margin: 30px 0 }
 }
 .bgg {
 	background-color: #F7F7F9;
@@ -120,6 +123,9 @@ h1 {
 .bgw {
 	.grid-item {
 		background-color: #F7F7F9;
+		p.tags span {
+			background-color: #fff;
+		}
 	}
 }
 .content {
@@ -174,6 +180,7 @@ p.tags {
 .grid-item {
 	margin-bottom: 30px;
 	background-color: #fff;
+	
 	
 	h3, h4 {
 		margin: 0 0 5px 0;

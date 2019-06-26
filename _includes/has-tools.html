@@ -1,0 +1,26 @@
+{% assign has_tools = 'no' %}
+
+{% for item in site.tools %}
+	{% for cat in item.category %}
+		{% if page.title == cat %}
+			{% assign has_tools = 'yes' %}
+		{% endif %}
+	{% endfor %}
+{% endfor %}
+
+{% if has_tools == 'yes' %}
+
+	<div class="col-xs-12">
+		<h2>Tools</h2>
+	</div>
+
+	{% assign sorted_tools = site.tools %}
+	{% for item in sorted_tools %}
+		{% for cat in item.category %}
+			{% if page.title == cat %}
+				{% include grid-large-tool.html %}
+			{% endif %}
+		{% endfor %}
+	{% endfor %}
+
+{% endif %}

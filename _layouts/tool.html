@@ -12,26 +12,29 @@ layout: default
 					<p class="s"><a href="{{ site.baseurl }}/">Home</a> » <a href="{{ site.baseurl }}/tools">Tools</a> »</p>
 						<h1 class="page-title"><img src="/assets/tools/{{ page.logo }}">{{ page.title }}</h1>
 						
-							<p class="lead">{{ page.intro }}</p>
-<a class="btn btn-primary" href="{{ page.linkurl }}" target="_blank">Visit website »</a>
+						<p class="lead">{{ page.intro }}</p>
+						<a class="btn btn-primary" href="{{ page.linkurl }}" target="_blank">Visit website »</a>
 					</div>
 				</div>
 			</div>
 		</div>
 	</div>
-<div class="section bgg">
-		<div class="container">
-			<div class="row">
-				<div class="col-xs-12 col-sm-8">
- 					{{ content }}
-				</div>
-				<div class="col-xs-12 col-sm-4">
+	{% if content %}
+		<div class="section bgg">
+			<div class="container">
+				<div class="row">
+					<div class="col-xs-12 col-sm-8">
+	 					{{ content }}
+					</div>
+					<div class="col-xs-12 col-sm-4">
 
+					</div>
 				</div>
-</div></div>
-</div>
+			</div>
+		</div>
+	{% endif %}
 
-<div class="section bgw">
+	<div class="section bgw">
 		<div class="container">
 			<div class="row">
 				<div class="col-xs-12">

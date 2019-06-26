@@ -1,12 +1,11 @@
 ---
-title: Empty state design
-tags:
-  - User experience
-  - Design
-  - Best practice
+title: Why empty states deserve more design time
+category:
+  - Interaction design
+  - Interface design
 further-reading:
-- title: Why empty states deserve more design time
-  url: http://blog.invisionapp.com/why-empty-states-deserve-more-design-time/
+link: http://blog.invisionapp.com/why-empty-states-deserve-more-design-time/
 intro: "What empty states are and why they're important."
-topic: Visual communication
+tags: 
+- Empty state design
 ---

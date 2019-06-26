@@ -1,0 +1,26 @@
+---
+layout: grid
+title: Articles
+permalink: /articles/
+
+
+---
+
+<div class="section bgg">
+	<div class="container">
+		<div class="row">
+
+			{% for article in site.articles %}
+					<div class="col-xs-12 block">
+						<a href="{{ article.url }}">
+							<div class="block-inner">
+								<h3>{{ article.title }}</h3>
+								<p>{{ article.intro }}</p>
+							</div>
+						</a>
+					</div>
+			{% endfor %}	
+		</div>
+	</div>
+</div>
+

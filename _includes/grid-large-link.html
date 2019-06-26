@@ -9,10 +9,10 @@
 
 		<div class="grid-content">
 			
-			<h4><i class="fas fa-{{ item.type }}"></i> <a href="{{ item.link }}" target="_blank">{{ item.title }}</a></h4>		
+			<h4><a href="{{ item.link }}" target="_blank">{{ item.title }}</a></h4>		
 			<p>{{ item.intro }}</p>	
 			{% if item.link %}{% assign weblink = item.link | remove: 'http://' | remove: 'https://' | remove: 'www.' | split: '/' %}
-			<p class="weblink s"><a href="{{ item.url }}" target="_blank"><i class="fas fa-globe-americas"></i> {{ weblink | first }}</a></p>
+			<p class="weblink s"><a href="{{ item.link }}" target="_blank"><i class="fas fa-globe-americas"></i> {{ weblink | first }}</a></p>
 			{% endif %}
 		    <p class="tags xs">
 		    	{% for cat in item.category %}<span>{{ cat }}</span>{% endfor %}

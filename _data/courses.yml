@@ -1,10 +1,13 @@
 ---
-- title: Online learning
+- id: online-learning
+  title: Online learning
   description: Learn at your own pace with these short online courses.
   icon:
-- title: Postgraduate courses
+- id: postgraduate-courses
+  title: Postgraduate courses
   description: The best plugins to supercharge your designs
   icon:
-- title: Undergraduate courses
+- id: undergraduate-courses
+  title: Undergraduate courses
   description: Undergraduate courses.
   icon:

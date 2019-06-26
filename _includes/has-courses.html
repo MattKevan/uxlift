@@ -1,0 +1,26 @@
+{% assign has_courses = 'no' %}
+
+{% for item in site.courses %}
+	{% for cat in item.category %}
+		{% if page.title == cat %}
+			{% assign has_courses = 'yes' %}
+		{% endif %}
+	{% endfor %}
+{% endfor %}
+
+{% if has_courses == 'yes' %}
+
+	<div class="col-xs-12">
+		<h2>Courses</h2>
+	</div>
+
+	{% assign sorted_courses = site.courses %}
+	{% for item in sorted_courses %}
+		{% for cat in item.category %}
+			{% if page.title == cat %}
+				{% include grid-large-link.html %}
+			{% endif %}
+		{% endfor %}
+	{% endfor %}
+
+{% endif %}

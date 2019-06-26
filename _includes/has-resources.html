@@ -1,0 +1,26 @@
+{% assign has_resources = 'no' %}
+
+{% for item in site.resources %}
+	{% for cat in item.category %}
+		{% if page.title == cat %}
+			{% assign has_resources = 'yes' %}
+		{% endif %}
+	{% endfor %}
+{% endfor %}
+
+{% if has_resources == 'yes' %}
+
+	<div class="col-xs-12">
+		<h2>Resources</h2>
+	</div>
+
+	{% assign sorted_resources = site.resources %}
+	{% for item in sorted_resources %}
+		{% for cat in item.category %}
+			{% if page.title == cat %}
+				{% include grid-large-link.html %}
+			{% endif %}
+		{% endfor %}
+	{% endfor %}
+
+{% endif %}

@@ -1,0 +1,45 @@
+---
+layout: default
+---
+<div class="page grid">
+
+	<div class="top">
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-12">
+					<div class="page-title">
+						
+					<p class="s"><a href="{{ site.baseurl }}/">Home</a> » <a href="{{ site.baseurl }}/resources">Resources</a> »</p>
+						<h1 class="page-title">{{ page.title }}</h1>
+						<p class="lead">{{ page.description }}</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+ {{ content }}
+
+ 	<div class="listing bgg">
+		<div class="container">
+			<div class="row filter-grid">
+				{% assign sorted_items = site.resources | sort:'title' %}
+
+				{% for item in sorted_items %}
+					{% for cat in item.category %}
+						{% if page.title == cat %}
+							{% include grid-large-link.html %}
+						{% endif %}
+					{% endfor %}	
+				{% endfor %}
+			</div>
+		</div>
+	</div>
+
+</div>
+
+
+
+
+

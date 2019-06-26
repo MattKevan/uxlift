@@ -54,6 +54,12 @@ collections:
   resources:
     output: true
     permalink: /resources/:path/
+  resource-categories:
+    output: true
+    source: resources.yml
+    id_key: id
+    layout: resource-listing
+    permalink: /resources/:path/
   tools:
     output: true
     permalink: /tools/:path/
@@ -66,9 +72,18 @@ collections:
   courses:
     output: true
     permalink: /courses/:path/
+  course-categories:
+    output: true
+    source: courses.yml
+    id_key: id
+    layout: tool-listing
+    permalink: /courses/:path/
   institution:
     output: true
     permalink: /courses/institutions/:path/
+  articles:
+    output: true
+    permalink: /articles/:path/
 
 defaults:
   -
