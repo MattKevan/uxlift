@@ -5,12 +5,28 @@ GEM
       public_suffix (>= 2.0.2, < 4.0)
     colorator (1.1.0)
     concurrent-ruby (1.1.5)
+    domain_name (0.5.20190701)
+      unf (>= 0.0.5, < 1.0.0)
     em-websocket (0.5.1)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
     eventmachine (1.2.7)
+    faraday (0.15.4)
+      multipart-post (>= 1.2, < 3)
+    faraday-cookie_jar (0.0.6)
+      faraday (>= 0.7.4)
+      http-cookie (~> 1.0.0)
+    faraday-encoding (0.0.5)
+      faraday
+    faraday-http-cache (2.0.0)
+      faraday (~> 0.8)
+    faraday_middleware (0.13.1)
+      faraday (>= 0.7.4, < 1.0)
+    fastimage (2.1.5)
     ffi (1.10.0)
     forwardable-extended (2.6.0)
+    http-cookie (1.0.3)
+      domain_name (~> 0.5)
     http_parser.rb (0.6.0)
     i18n (0.9.5)
       concurrent-ruby (~> 1.0)
@@ -31,6 +47,9 @@ GEM
       jekyll (>= 3)
     jekyll-feed (0.12.1)
       jekyll (>= 3.7, < 5.0)
+    jekyll-linkpreview (0.1.0)
+      jekyll (~> 3.5)
+      metainspector
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
     jekyll-seo-tag (2.6.0)
@@ -46,6 +65,21 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.7)
       ruby_dep (~> 1.2)
     mercenary (0.3.6)
+    metainspector (5.6.0)
+      addressable (~> 2.5)
+      faraday (~> 0.11)
+      faraday-cookie_jar (~> 0.0)
+      faraday-encoding (~> 0.0)
+      faraday-http-cache (~> 2.0)
+      faraday_middleware (~> 0.11)
+      fastimage (~> 2.1)
+      nesty (~> 1.0)
+      nokogiri (~> 1.7)
+    mini_portile2 (2.4.0)
+    multipart-post (2.1.1)
+    nesty (1.0.2)
+    nokogiri (1.10.3)
+      mini_portile2 (~> 2.4.0)
     pagemaster (2.0.2)
       jekyll (~> 3.8)
     pathutil (0.16.2)
@@ -62,6 +96,9 @@ GEM
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
+    unf (0.1.4)
+      unf_ext
+    unf_ext (0.0.7.6)
 
 PLATFORMS
   ruby
@@ -70,12 +107,13 @@ DEPENDENCIES
   jekyll (= 3.8.5)
   jekyll-csv
   jekyll-feed (~> 0.6)
+  jekyll-linkpreview (~> 0.1.0)
   jekyll-seo-tag
   jekyll-sitemap
   pagemaster
 
 RUBY VERSION
-   ruby 2.6.0p0
+   ruby 2.6.3p62
 
 BUNDLED WITH
-   2.0.1
+   2.0.2

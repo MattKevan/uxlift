@@ -1,24 +1,12 @@
 <div class="col-xs-12 col-sm-4 filter-item {% for tag in item.tags %}{{ tag | replace: ' ', '-' | append: ' ' }}{% endfor %}">
 	<div class="grid-item" data-mh="col-text">
 
-		{% if item.image %}
-			<div class="grid-preview">
-				<a href="{{ item.link }}" target="_blank"><img class="preview" src="/assets/{{ item.image }}" alt="{{ item.title }}" /></a>
-			</div>
-		{% endif %}
+		<a href="{{ item.link}}" class="card-preview" data-size="large">
+			{% assign link = item.link %}
 
-		<div class="grid-content">
-			
-			<h4><a href="{{ item.link }}" target="_blank">{{ item.title }}</a></h4>		
-			<p>{{ item.intro }}</p>	
-			{% if item.link %}{% assign weblink = item.link | remove: 'http://' | remove: 'https://' | remove: 'www.' | split: '/' %}
-			<p class="weblink s"><a href="{{ item.link }}" target="_blank"><i class="fas fa-globe-americas"></i> {{ weblink | first }}</a></p>
-			{% endif %}
-		    <p class="tags xs">
-		    	{% for cat in item.category %}<span>{{ cat }}</span>{% endfor %}
-		    	{% for tag in item.tags %}<span>{{ tag }}</span>{% endfor %}
-			</p>
-		</div>
+			{{ link }}
+
+			{% linkpreview link %}
 
 	</div>
 </div>

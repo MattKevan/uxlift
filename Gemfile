@@ -22,4 +22,5 @@ group :jekyll_plugins do
    gem 'jekyll-seo-tag'
    gem 'jekyll-csv'
    gem 'pagemaster'
+   gem 'jekyll-linkpreview', '~> 0.1.0'
 end
