@@ -30,7 +30,7 @@ GEM
     http_parser.rb (0.6.0)
     i18n (0.9.5)
       concurrent-ruby (~> 1.0)
-    jekyll (3.8.5)
+    jekyll (3.8.6)
       addressable (~> 2.4)
       colorator (~> 1.0)
       em-websocket (~> 0.5)
@@ -104,7 +104,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (= 3.8.5)
+  jekyll (= 3.8.6)
   jekyll-csv
   jekyll-feed (~> 0.6)
   jekyll-linkpreview (~> 0.1.0)
@@ -113,7 +113,7 @@ DEPENDENCIES
   pagemaster
 
 RUBY VERSION
-   ruby 2.6.3p62
+   ruby 2.6.3
 
 BUNDLED WITH
    2.0.2
