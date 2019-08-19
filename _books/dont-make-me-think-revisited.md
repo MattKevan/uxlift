@@ -1,7 +1,7 @@
 ---
 title: Don’t Make Me Think (Revisited)
 authors: Steve Krug
-booklink: "http://amzn.to/2hm1FRV"
+booklink: "https://amzn.to/2KQhUmi"
 datepublished: 2013
 tags:
 - UX design

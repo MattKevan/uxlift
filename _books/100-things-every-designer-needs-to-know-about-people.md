@@ -1,7 +1,7 @@
 ---
 title: '100 Things Every Designer Needs to Know About People'
 authors: Susan Weinschenk
-booklink: "http://amzn.to/2hbKfTp"
+booklink: "https://amzn.to/2KWEBFm"
 datepublished: 2011
 tags:
 - UX design

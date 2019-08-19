@@ -1,4 +1,9 @@
 ---
+
+- id: ux-leadership
+  title: UX leadership
+  description: Leading the direction of UX in an organisaton or group.
+
 - id: collaboration
   title: Collaboration
   description: Jump start your UX with a ready made UI kit.

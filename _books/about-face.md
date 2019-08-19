@@ -1,7 +1,7 @@
 ---
 title: 'About Face: The Essentials of Interaction Design'
 authors: Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel
-booklink: "http://amzn.to/2hB1CO8"
+booklink: "https://amzn.to/2KRn3KQ"
 datepublished: 2014
 tags:
 - Interaction design

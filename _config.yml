@@ -28,7 +28,6 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - pagemaster
 
 encoding: utf-8
 permalink: pretty
@@ -41,12 +40,6 @@ page_gen-dirs: true
 collections:
   topics:
     output: true
-    permalink: /topics/:path/
-  topic-categories:
-    output: true
-    source: topics.yml
-    id_key: id
-    layout: topic-listing
     permalink: /topics/:path/
   books:
     output: true
