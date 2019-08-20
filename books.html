@@ -17,7 +17,7 @@ filter-items:
 		<div class="row filter-grid">
 			{% assign sorted_items = site.books | sort:'title' %}
 			{% for item in sorted_items %}
-				{% include grid-item.html %}
+				{% include grid-book.html %}
 			{% endfor %}
 		</div>
 	</div>

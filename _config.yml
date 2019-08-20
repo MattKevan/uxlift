@@ -47,33 +47,12 @@ collections:
   resources:
     output: true
     permalink: /resources/:path/
-  resource-categories:
-    output: true
-    source: resources.yml
-    id_key: id
-    layout: resource-listing
-    permalink: /resources/:path/
   tools:
     output: true
     permalink: /tools/:path/
-  tool-cat:
+  learning:
     output: true
-    source: tools.yml
-    id_key: id
-    layout: tool-listing
-    permalink: /tools/:path/
-  courses:
-    output: true
-    permalink: /courses/:path/
-  course-categories:
-    output: true
-    source: courses.yml
-    id_key: id
-    layout: tool-listing
-    permalink: /courses/:path/
-  institution:
-    output: true
-    permalink: /courses/institutions/:path/
+    permalink: /learning/:path/
   articles:
     output: true
     permalink: /articles/:path/
@@ -111,7 +90,6 @@ defaults:
       path: ""
       type: resources
     values:
-      layout: link
       title: ""
       intro: ""
       tags: []
@@ -132,7 +110,7 @@ defaults:
   -
     scope:
       path: ""
-      type: courses
+      type: learning
     values:
       title: ""
       linkurl: ""
@@ -141,9 +119,3 @@ defaults:
       layout: course
       category:
       tags:
-  -
-    scope:
-      path: ""
-      type: institution
-    values:
-      layout: institution

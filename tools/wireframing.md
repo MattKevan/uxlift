@@ -2,5 +2,6 @@
 title: Wireframing
 description: 
 icon: 
-layout: listing
+layout: tool-listing
+section: Tools
 ---
