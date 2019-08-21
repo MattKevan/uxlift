@@ -333,10 +333,14 @@ p.tags {
 	 color: #fff;
 	}
 	a p {color: #fff;}
-	
+	h1,h2,h3,h4 {color:#fff;}
+
 	.bgg {
-	background-color: #F7F7F9;
-}
+	background-color: #222;
+p.tags span {
+			background-color: #222;
+		}
+	}
 .bgw {
 	.grid-item {
 		background-color: #222;
@@ -345,9 +349,28 @@ p.tags {
 		}
 	}
 }
-.content {
-	background-color: #333;
-	padding: 40px 0;
+	.content {
+		background-color: #333;
+		padding: 40px 0;
+	}
+	.block .block-inner,
+	.grid-item {
+		background-color: #333;
+	}
+	.block .block-inner 
+	{
+	border-color: #444;
+	}
+	.navbar {
+	background-color: #111;
+	
+	a.navbar-brand {
+		color: #fff;
+	}
+}
+.site-footer {
+	background-color: #000;
+
 }
 	
 }
