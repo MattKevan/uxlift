@@ -326,3 +326,28 @@ p.tags {
 		text-decoration: underline;
 	}
 }
+@media (prefers-color-scheme: dark) {
+
+	body {
+	 background-color: #333;
+	 color: #fff;
+	}
+	a p {color: #fff;}
+	
+	.bgg {
+	background-color: #F7F7F9;
+}
+.bgw {
+	.grid-item {
+		background-color: #222;
+		p.tags span {
+			background-color: #333;
+		}
+	}
+}
+.content {
+	background-color: #333;
+	padding: 40px 0;
+}
+	
+}
