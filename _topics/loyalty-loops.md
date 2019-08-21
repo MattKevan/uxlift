@@ -4,6 +4,7 @@ intro: A method outlining the four main stages of a customer's decision-making p
 category:
 - Engagement
 - Optimisation
+site: McKinsey
 link: http://www.mckinsey.com/business-functions/marketing-and-sales/our-insights/the-consumer-decision-journey
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Interaction design
-description: 
+description: "Designing interactive digital products, environments, systems, and services."
 icon: 
 layout: hub2
 section: Topics

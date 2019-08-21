@@ -4,5 +4,6 @@ intro: 'The ‘Double Diamond’ process maps the divergent and convergent stage
 image:
 link: 'https://www.thoughtworks.com/insights/blog/double-diamond'
 category: Design thinking
+site: Thoughtworks
 
 ---

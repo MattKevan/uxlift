@@ -23,6 +23,7 @@ layout: default
 		<div class="container">
 			<div class="row">
 				<div class="col-xs-12">
+					<h2>In this section</h2>
 				</div>
 
 				{% assign pageurl = page.permalink | split: '/' %}
@@ -37,6 +38,35 @@ layout: default
 			</div>
 		</div>
 	</div>
+
+	<div class="section bgw">
+		<div class="container">
+			<div class="row">
+
+				{% assign pageurl = page.url | split: '/' %}
+				{% assign section = pageurl[1] | replace: '-',' ' | capitalize %}
+					
+				{% if section == 'Topics' %}
+					{% assign sorted_items = site.topics | sort:'title' %}
+				{% elsif section == 'Resources' %}
+					{% assign sorted_items = site.resources | sort:'title' %}
+				{% elsif section == 'Learning' %}
+					{% assign sorted_items = site.learning | sort:'title' %}
+				{% endif %}
+
+				{% for item in sorted_items %}
+					{% for cat in item.category %}
+						{% if page.title == cat %}
+							{% include grid-link.html %}
+						{% endif %}
+					{% endfor %}
+				{% endfor %}
+
+			</div>
+		</div>
+	</div>
+
+</div>
 
 </div>
 
