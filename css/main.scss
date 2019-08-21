@@ -326,3 +326,12 @@ p.tags {
 		text-decoration: underline;
 	}
 }
+@media (prefers-color-scheme: dark) {
+
+	body {
+	 background-color: #333;
+	 color: #fff;
+	}
+	a p {color: #fff;}
+	
+}
