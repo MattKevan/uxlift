@@ -1,6 +1,0 @@
----
-title: Wireframing
-description: 
-icon: 
-layout: listing
----

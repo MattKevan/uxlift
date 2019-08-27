@@ -1,17 +1,10 @@
 ---
-title: Information architecture
-tags:
+title: Dark patterns
+intro: Dark patterns are tricks used in websites and apps that make you buy or sign up for things that you didn't mean to. This site spreads awareness to shame companies that use them.
+link: https://darkpatterns.org
+site: darkpatterns.org
+category:
 - Information architecture
-further-reading:
-- title: What is IA?
-  url: http://www.iainstitute.org/what-is-ia
-- title: A complete beginner's guide to information architecture
-  url: "https://www.uxbooth.com/articles/complete-beginners-guide-to-information-architecture/"
-intro: The practice of structuring and organising things in a meaningful way.
-
+- Design ethics
+type: resource
 ---
-
-
-
-
-

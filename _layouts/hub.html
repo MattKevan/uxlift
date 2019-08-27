@@ -7,29 +7,61 @@ layout: default
 		<div class="container">
 			<div class="row">
 				<div class="col-xs-12">
-					<div class="crumb">
-						<p class="s"><a href="/">Home »</a></p>
-					</div>
 					<div class="page-title">
+						{% assign crumb = page.permalink | split: '/' %}
+					<p class="s"><a href="{{ site.baseurl }}/">Home</a> » <a href="{{ site.baseurl }}/{{ page.section | slugify }}">{{ page.section }}</a> »</p>
 						<h1 class="page-title">{{ page.title }}</h1>
-						{% if page.intro %}<p class="lead">{{ page.intro }}</p>{% endif %}
+						<p class="lead">{{ page.description }}
 					</div>
 				</div>
 			</div>
 		</div>
 	</div>
 
-	<div class="section bgg">
+
+ 	<div class="section bgg">
 		<div class="container">
 			<div class="row">
+				<div class="col-xs-12">
+					<h2>In this section</h2>
+				</div>
+
+				{% assign pageurl = page.permalink | split: '/' %}
 				{% for item in site.pages %}
-					{% if item.section == page.title and item.layout != 'hub' %}
+					{% assign itemurl = item.url | split: '/' %}
+					
+
+				  {% if pageurl[1] == itemurl[1] and item.layout != 'hub' %}
 						{% include grid-hub.html %}
-					{% endif %}
+					{% endif %}	
 				{% endfor %}	
+
+
 			</div>
 		</div>
 	</div>
+
+	<div class="section bgw">
+		<div class="container">
+			<div class="row">
+					
+				
+					{% assign sorted_items = site.topics | sort:'title' %}
+				
+
+				{% for item in sorted_items %}
+					{% for cat in item.category %}
+						{% if page.title == cat %}
+							{% include grid-link.html %}
+						{% endif %}
+					{% endfor %}
+				{% endfor %}
+
+			</div>
+		</div>
+	</div>
+
+</div>
 
 </div>
 

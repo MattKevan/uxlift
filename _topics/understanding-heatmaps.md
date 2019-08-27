@@ -4,4 +4,5 @@ intro: A heatmap is a graphical representation of data that helps teams visualiz
 category:
 - Analytics
 link: "https://invisionapp.com/inside-design/heatmaps-for-ui-design/"
+site: Inside Design by InVision
 ---

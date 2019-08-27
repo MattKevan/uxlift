@@ -5,4 +5,5 @@ link: 'http://www.designcouncil.org.uk/sites/default/files/asset/document/Eleven
 image:
 category: Design thinking
 site: Design Council
+type: article
 ---

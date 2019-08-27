@@ -1,4 +1,4 @@
-<div class="col-xs-12 col-sm-4 filter-item {% for tag in item.tags %}{{ tag | replace: ' ', '-' | append: ' ' }}{% endfor %}">
+<div class="col-xs-12 col-md-4 col-sm-6 filter-item {% for tag in item.tags %}{{ tag | replace: ' ', '-' | append: ' ' }}{% endfor %}">
 	<div class="grid-item" data-mh="col-text">
 
 		{% if item.image %}
@@ -11,9 +11,13 @@
 			
 			<h4><a href="{{ item.link }}" target="_blank">{{ item.title }}</a></h4>		
 			<p>{{ item.intro }}</p>	
-			{% if item.site %}{% assign weblink = item.link | remove: 'http://' | remove: 'https://' | remove: 'www.' | split: '/' %}
+			{% if item.site %}
 			<p class="weblink s"><a href="{{ item.link }}" target="_blank"><i class="fas fa-globe-americas"></i> {{ item.site }}</a></p>
 			{% endif %}
+			{% if item.pub %}
+				<p class="s"><i class="fas fa-calendar-alt"></i> {{ item.pub | date: "%-d %B %Y" }}</p>
+			{% endif %}
+			
 		    <p class="tags xs">
 		    	{% for cat in item.category %}<span>{{ cat }}</span>{% endfor %}
 		    	{% for tag in item.tags %}<span>{{ tag }}</span>{% endfor %}

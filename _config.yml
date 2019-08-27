@@ -44,15 +44,9 @@ collections:
   books:
     output: true
     permalink: /books/:path/
-  resources:
-    output: true
-    permalink: /resources/:path/
   tools:
     output: true
     permalink: /tools/:path/
-  learning:
-    output: true
-    permalink: /learning/:path/
   articles:
     output: true
     permalink: /articles/:path/
@@ -88,16 +82,6 @@ defaults:
   -
     scope:
       path: ""
-      type: resources
-    values:
-      title: ""
-      intro: ""
-      tags: []
-      linkurl: ""
-      type: "toolbox"
-  -
-    scope:
-      path: ""
       type: tools
     values:
       layout: tool
@@ -107,15 +91,3 @@ defaults:
       tags: []
       linkurl: ""
       type: "tools"
-  -
-    scope:
-      path: ""
-      type: learning
-    values:
-      title: ""
-      linkurl: ""
-      intro: ""
-      preview: ""
-      layout: course
-      category:
-      tags:

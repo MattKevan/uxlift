@@ -4,7 +4,7 @@ layout: default
 <div class="top">
 	<div class="container">
 		<div class="row">
-			<div class="col-xs-12 col-sm-10 col-sm-push-1">
+			<div class="col-xs-12 ">
 				<div class="page-title">
 					<h1 class="page-title">{{ site.description }}</h1>
 					{% if page.intro %}<p class="lead">{{ page.intro }}</p>{% endif %}
@@ -17,18 +17,57 @@ layout: default
 
 <div class="content">
 	<div class="container">
+		<div class="row">
 
-		<div class="col-xs-12 col-sm-10 col-sm-push 1 col-md-8 col-md-push-2 content">
-			{% for post in site.posts %}
-				<div class="post-teaser">
-					<h3><a href="{{ post.link }}" target="_blank">{{ post.title }}</a> <a href="{{ post.url | prepend: site.baseurl }}" title="Permanent link to {{ post.title }}"><i class="fas fa-link"></i></a></h3>
-					<p class="lead">{{ post.intro }}</p>
-					{{ post.excerpt }}
-				</div>
-			{% endfor %}
-		</div>
-			
-</div>
+			<div class="col-xs-12 col-sm-8 block">
+				<a href="/topics">
+					<div class="block-inner" data-mh="item">
+						<h3>UX topics</h3>
+						<p>Curated articles covering the core principles of user experience design.</p>	
+					</div>
+				</a>
+			</div>
+
+			<div class="col-xs-12 col-sm-4 block">
+				<a href="/topics">
+					<div class="block-inner" data-mh="item">
+						<h3>Books</h3>
+						<p>Essential books for every UX designer's library.</p>	
+					</div>
+				</a>
+			</div>
+
+						<div class="col-xs-12 col-sm-4 block">
+				<a href="/topics">
+					<div class="block-inner" data-mh="item">
+						<h3>Resources</h3>
+						<p>Handy fonts, plugins, UI kits, graphics and more.</p>	
+					</div>
+				</a>
+			</div>
+
+						<div class="col-xs-12 col-sm-4 block">
+				<a href="/topics">
+					<div class="block-inner" data-mh="item">
+						<h3>Tools</h3>
+						<p>The best UX and design tools, software and services.</p>	
+					</div>
+				</a>
+			</div>
+
+						<div class="col-xs-12 col-sm-4 block">
+				<a href="/topics">
+					<div class="block-inner" data-mh="item">
+						<h3>Learning</h3>
+						<p>Online and offline training courses to supercharge your skills.</p>	
+					</div>
+				</a>
+			</div>
+
+
+
+		</div>		
+	</div>
 </div>
 
 

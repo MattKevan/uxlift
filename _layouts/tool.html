@@ -10,7 +10,7 @@ layout: default
 					<div class="page-title">
 						
 					<p class="s"><a href="{{ site.baseurl }}/">Home</a> » <a href="{{ site.baseurl }}/tools">Tools</a> »</p>
-						<h1 class="page-title"><img src="/assets/tools/{{ page.logo }}">{{ page.title }}</h1>
+						<h1 class="page-title"><img src="/assets/logos/{{ page.logo }}">{{ page.title }}</h1>
 						
 						<p class="lead">{{ page.intro }}</p>
 						<a class="btn btn-primary" href="{{ page.linkurl }}" target="_blank">Visit website »</a>
@@ -49,7 +49,7 @@ layout: default
 					
 
 
-						{% if cat == alt[0] %}
+						{% if cat == alt[0] and page.title != item.title %}
 							{% include grid-tool.html %}
 						{% endif %}
 					{% endfor %}	

@@ -29,17 +29,26 @@ layout: default
 				{% assign pageurl = page.url | split: '/' %}
 				{% assign section = pageurl[1] | replace: '-',' ' | capitalize %}
 					
-				{% if section == 'Topics' %}
+				
 					{% assign sorted_items = site.topics | sort:'title' %}
-				{% elsif section == 'Resources' %}
-					{% assign sorted_items = site.resources | sort:'title' %}
-				{% elsif section == 'Learning' %}
-					{% assign sorted_items = site.learning | sort:'title' %}
-				{% endif %}
+				
 
+			<div class="col-xs-12">
+				<h2>Articles</h2>
+			</div>
 				{% for item in sorted_items %}
 					{% for cat in item.category %}
-						{% if page.title == cat %}
+						{% if page.title == cat and item.type == 'article'%}
+							{% include grid-link.html %}
+						{% endif %}
+					{% endfor %}
+				{% endfor %}
+			<div class="col-xs-12">
+				<h2>Resources</h2>
+			</div>
+				{% for item in sorted_items %}
+					{% for cat in item.category %}
+						{% if page.title == cat and item.type == 'resource'%}
 							{% include grid-link.html %}
 						{% endif %}
 					{% endfor %}

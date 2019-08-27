@@ -6,4 +6,5 @@ category:
 - Customer discovery
 link: https://www.smashingmagazine.com/2014/08/a-closer-look-at-personas-part-1/
 site: Smashing Magazine
+type: article
 ---
