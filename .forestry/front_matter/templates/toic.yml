@@ -1,0 +1,22 @@
+---
+label: Toic
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: textarea
+  name: intro
+  label: intro
+- type: list
+  name: category
+  label: category
+- type: text
+  name: link
+  label: link
+- type: text
+  name: site
+  label: site
+- type: text
+  name: type
+  label: type
