@@ -4,7 +4,10 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Title
+- type: textarea
+  name: intro
+  label: Intro
 - type: text
   name: authors
   label: authors
@@ -29,9 +32,3 @@ fields:
 - type: text
   name: type
   label: type
-- type: text
-  name: layout
-  label: layout
-- type: textarea
-  name: intro
-  label: intro
