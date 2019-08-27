@@ -5,19 +5,33 @@ display_field: title
 fields:
 - type: text
   name: title
-  label: title
+  label: Title
 - type: textarea
   name: intro
-  label: intro
-- type: list
-  name: category
-  label: category
+  label: Intro
 - type: text
   name: link
-  label: link
+  label: Link
 - type: text
   name: site
   label: Site
-- type: text
-  name: type
-  label: type
+- type: list
+  name: category
+  label: Category
+  config:
+    use_select: false
+    source:
+      type: simple
+- name: type
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - article
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Type
