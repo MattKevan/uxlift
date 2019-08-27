@@ -8,8 +8,8 @@ layout: default
 			<div class="row">
 				<div class="col-xs-12">
 					<div class="page-title">
-						{% assign crumb = page.permalink | split: '/' %}
-					<p class="s"><a href="{{ site.baseurl }}/">Home</a> » <a href="{{ site.baseurl }}/{{ page.section | slugify }}">{{ page.section }}</a> »</p>
+						{% assign crumb = page.url | split: '/' %}
+					<p class="s"><a href="{{ site.baseurl }}/">Home</a> » <a href="{{ site.baseurl }}/{{ crumb[1] }}">{{ crumb[1] | replace: '-',' ' | capitalize }}</a> »</p>
 						<h1 class="page-title">{{ page.title }}</h1>
 						<p class="lead">{{ page.description }}
 					</div>
