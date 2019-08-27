@@ -1,6 +1,7 @@
 ---
-label: Toic
-hide_body: true
+label: Topic
+hide_body: false
+display_field: title
 fields:
 - type: text
   name: title
@@ -16,7 +17,7 @@ fields:
   label: link
 - type: text
   name: site
-  label: site
+  label: Site
 - type: text
   name: type
   label: type
