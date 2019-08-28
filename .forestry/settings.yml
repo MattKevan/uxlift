@@ -23,14 +23,6 @@ sections:
   label: Pages
   create: all
 - type: directory
-  path: _articles
-  label: Articles
-  create: all
-  match: "**/*"
-- type: jekyll-posts
-  label: Posts
-  create: all
-- type: directory
   path: _data
   label: Data
   create: all
