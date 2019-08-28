@@ -1,0 +1,16 @@
+---
+label: Topic listing
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: icon
+  label: icon
