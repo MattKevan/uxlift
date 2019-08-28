@@ -1,0 +1,34 @@
+---
+label: Book
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Title
+- type: textarea
+  name: intro
+  label: Intro
+- type: text
+  name: authors
+  label: authors
+- type: text
+  name: booklink
+  label: booklink
+- type: number
+  name: datepublished
+  label: datepublished
+- type: list
+  name: tags
+  label: tags
+- type: text
+  name: publisher
+  label: publisher
+- type: text
+  name: imprint
+  label: imprint
+- type: file
+  name: image
+  label: image
+- type: text
+  name: type
+  label: type
