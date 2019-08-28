@@ -4,19 +4,15 @@ hide_body: true
 fields:
 - type: text
   name: title
-  label: title
-- type: text
-  name: section
-  label: section
+  label: Title
 - type: text
   name: description
-  label: description
-- type: text
-  name: icon
-  label: icon
+  label: Description
 - type: text
   name: layout
-  label: layout
+  label: Layout
+  hidden: true
+  default: hub
 - type: text
   name: permalink
-  label: permalink
+  label: Permalink
