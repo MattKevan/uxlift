@@ -21,9 +21,9 @@ fields:
   config:
     use_select: true
     source:
-      type: documents
-      section: data
-      file: _data/categories.yml
+      type: pages
+      section: topics
+      file: 
 - name: type
   type: select
   default: []
