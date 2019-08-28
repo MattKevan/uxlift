@@ -19,9 +19,11 @@ fields:
   name: category
   label: Category
   config:
-    use_select: false
+    use_select: true
     source:
-      type: simple
+      type: pages
+      section: topics
+      file: 
 - name: type
   type: select
   default: []
