@@ -19,9 +19,11 @@ fields:
   name: category
   label: Category
   config:
-    use_select: false
+    use_select: true
     source:
-      type: simple
+      type: documents
+      section: data
+      file: _data/categories.yml
 - name: type
   type: select
   default: []
