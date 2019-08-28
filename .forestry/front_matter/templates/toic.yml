@@ -50,7 +50,7 @@ fields:
     display_utc: false
   hidden: true
   default: now
-- name: pubdate
+- name: pub
   type: datetime
   config:
     required: false
