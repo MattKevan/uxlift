@@ -59,3 +59,5 @@ fields:
     display_utc: false
   label: Content published date
   description: The date the article was originally published
+pages:
+- _topics/show-your-work-how-to-justify-your-decisions-get-stakeholder-buy-in.md
