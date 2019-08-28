@@ -24,3 +24,5 @@ fields:
 - type: file
   name: logo
   label: Logo
+pages:
+- _tools/abstract.md
