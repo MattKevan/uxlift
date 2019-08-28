@@ -39,3 +39,23 @@ fields:
       file: 
       path: 
   label: Type
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  hidden: true
+  default: now
+- name: pubdate
+  type: datetime
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  label: Content published date
+  description: The date the article was originally published
