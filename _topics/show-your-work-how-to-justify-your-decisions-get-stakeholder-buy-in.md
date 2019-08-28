@@ -10,6 +10,5 @@ site: Product Talk
 category:
 - Customer discovery
 pub: 2019-08-14 00:00:00 +0100
-published: false
 
 ---
