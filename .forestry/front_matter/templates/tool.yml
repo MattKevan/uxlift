@@ -4,16 +4,23 @@ hide_body: true
 fields:
 - type: text
   name: title
-  label: title
+  label: Title
 - type: text
   name: intro
-  label: intro
+  label: Introduction
 - type: text
   name: linkurl
-  label: linkurl
+  label: Link
 - type: list
   name: category
-  label: category
+  label: Category
+  config:
+    use_select: true
+    source:
+      type: documents
+      section: data
+      file: _data/categories.yml
+      path: category
 - type: file
   name: logo
-  label: logo
+  label: Logo
