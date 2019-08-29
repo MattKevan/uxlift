@@ -4,25 +4,32 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
-- type: text
-  name: authors
-  label: authors
-- type: text
-  name: link
-  label: link
-- type: number
-  name: pubdate
-  label: pubdate
-- type: list
-  name: category
-  label: category
-- type: text
-  name: publisher
-  label: publisher
+  label: Title
 - type: file
   name: image
-  label: image
+  label: Image
 - type: textarea
   name: intro
-  label: intro
+  label: Intro
+- type: text
+  name: link
+  label: Link
+- type: list
+  name: category
+  label: Category
+  config:
+    use_select: true
+    source:
+      type: documents
+      section: data
+      file: _data/categories.yml
+      path: category
+- type: text
+  name: authors
+  label: Authors
+- type: number
+  name: pubdate
+  label: Published date
+- type: text
+  name: publisher
+  label: Publisher
