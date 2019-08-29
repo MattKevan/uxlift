@@ -1,9 +1,9 @@
 ---
 title: Flinto
 intro: Create interactive and animated prototypes of app designs.
-linkurl: http://flinto.com
+link: http://flinto.com
 category:
 - Prototyping
 - Animation
-logo: "flinto.png"
+image: "flinto.png"
 ---

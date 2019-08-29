@@ -1,11 +1,11 @@
 ---
 title: Avocode
 intro: Handoff Sketch, XD, Photoshop or Illustrator designs to developers.
-linkurl: https://avocode.com
+link: https://avocode.com
 category:
 - Handoff
 - Collaboration
-logo: "avo.svg"
+image: "avo.svg"
 ---
 
 ## About Avocode 

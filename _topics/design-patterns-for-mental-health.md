@@ -5,7 +5,7 @@ link: https://www.designpatternsformentalhealth.org/
 category:
 - Information architecture
 - Design ethics
-preview: resources/mh.png
-type: resource
+preview: mh.png
+type: Resource
 site: Design Patterns for Mental Health
 ---

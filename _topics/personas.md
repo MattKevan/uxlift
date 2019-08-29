@@ -6,5 +6,5 @@ category:
 - Personas
 link: 'https://www.usability.gov/how-to-and-tools/methods/personas.html'
 site: Usability.gov
-type: article
+type: Article
 ---

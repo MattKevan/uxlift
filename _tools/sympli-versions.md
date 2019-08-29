@@ -1,10 +1,10 @@
 ---
 title: Sympli Versions
 intro: Git for designers.
-linkurl: https://versions.sympli.io
+link: https://versions.sympli.io
 category:
 - Design version control
-logo: "versions.png"
+image: "versions.png"
 ---
 
 Versions is currently free to use, and unlike Abstract or Plant, it connects to Github, Bitbucket or Azure Dev Ops rather than using its own cloud infrastructure. 

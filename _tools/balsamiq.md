@@ -1,8 +1,8 @@
 ---
 title: Balsamiq Wireframes
 intro: Quickly sketch low-fidelity wireframes.
-linkurl: https://balsamiq.com
+link: https://balsamiq.com
 category:
 - Wireframing
-logo: "balsamiq.jpg"
+image: "balsamiq.jpg"
 ---

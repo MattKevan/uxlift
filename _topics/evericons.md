@@ -3,10 +3,10 @@ title: Evericons
 intro: A collection of 460+ icons, free for personal and commercial use.
 link: http://www.evericons.com
 tags:
-preview: resources/ever.png
+preview: ever.png
 category: 
 - Visual design
 site: Ever Icons
-type: resource
+type: Resource
 
 ---

@@ -2,8 +2,8 @@
 title: The Design of Everyday Things, revised and expanded edition
 authors: Donald A. Norman
 bookllink: http://amzn.to/2hhYn0x
-datepublished: 2013
-tags:
+pubdate: 2013
+category:
 - Usability
 publisher: MIT Press
 imprint: Voices That Matter

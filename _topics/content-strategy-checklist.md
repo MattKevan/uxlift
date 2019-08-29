@@ -5,5 +5,5 @@ category:
 - Content strategy
 link: 'https://contentstrategychecklist.com'
 site: Content Strategy Checklist
-type: resource
+type: Resource
 ---

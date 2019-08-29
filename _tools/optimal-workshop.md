@@ -1,8 +1,8 @@
 ---
 title: Optimal Workshop
 intro: "Suite of UX research tools, including tree testing, click testing and card sorting."
-linkurl: http://www.axure.com
+link: http://www.axure.com
 category:
 - User research
-logo: "optimal-workshop.png"
+image: "optimal-workshop.png"
 ---

@@ -1,9 +1,9 @@
 ---
 title: 'Sketching User Experiences: The Workbook'
 authors: 'Saul Greenberg, Sheelagh Carpendale, Nicolai Marquardt, Bill Buxton'
-booklink: "http://amzn.to/2hBheRP"
-datepublished: 2011
-tags:
+link: "http://amzn.to/2hBheRP"
+pubdate: 2011
+category:
 - UX design
 publisher: Morgan Kaufmann
 imprint: 

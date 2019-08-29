@@ -1,8 +1,8 @@
 ---
 title: Hype
 intro: Create HTML5 animations and interactive web content.
-linkurl: https://tumult.com/hype/
+link: https://tumult.com/hype/
 category:
 - Animation
-logo: hype.png
+image: hype.png
 ---

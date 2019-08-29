@@ -12,20 +12,17 @@ fields:
   name: authors
   label: authors
 - type: text
-  name: booklink
-  label: booklink
+  name: link
+  label: link
 - type: number
-  name: datepublished
-  label: datepublished
+  name: pubdate
+  label: pubdate
 - type: list
   name: tags
   label: tags
 - type: text
   name: publisher
   label: publisher
-- type: text
-  name: imprint
-  label: imprint
 - type: file
   name: image
   label: image

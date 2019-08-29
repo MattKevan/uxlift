@@ -33,7 +33,7 @@ layout: default
 				{% for item in sorted_items %}
 					{% for cat in item.category %}
 						{% if page.title == cat %}
-							{% include grid-tool.html %}
+							{% include grid-item.html %}
 						{% endif %}
 					{% endfor %}	
 				{% endfor %}

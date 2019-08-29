@@ -5,5 +5,5 @@ category:
 - Optimisation
 site: Google
 link: https://support.google.com/dfp_premium/answer/6199883?hl=en
-type: article
+type: Article
 ---

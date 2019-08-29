@@ -1,8 +1,8 @@
 ---
 title: InVision Studio
 intro: Web-based design tool. Invision's version of Sketch.
-linkurl: https://www.invisionapp.com/studio
+link: https://www.invisionapp.com/studio
 category:
 - Visual design
-logo: "inv.png"
+image: "inv.png"
 ---

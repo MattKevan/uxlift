@@ -1,11 +1,11 @@
 ---
 title: Axure RP
 intro: The industry standard tool for creating wireframes and interactive prototypes.
-linkurl: http://www.axure.com
+link: http://www.axure.com
 category:
 - Wireframing
 - Prototyping
-logo: "axure.png"
+image: "axure.png"
 ---
 
 ### About Axure RP

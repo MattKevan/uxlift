@@ -5,5 +5,5 @@ category:
 - Design systems
 site: Brad Frost
 link: http://atomicdesign.bradfrost.com
-type: resource
+type: Resource
 ---

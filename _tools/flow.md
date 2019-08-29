@@ -1,8 +1,8 @@
 ---
 title: Flow
 intro: Animate Sketch designs in seconds and export production ready code. 
-linkurl: https://createwithflow.com/
-logo: "flow.png"
+link: https://createwithflow.com/
+image: "flow.png"
 category: 
 - Design-to-code
 - Animation

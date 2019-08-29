@@ -1,13 +1,12 @@
 ---
 title: 'Experience Required'
 authors: Robert Hoekman Jr
-booklink: "https://amzn.to/2Ncc8yd"
-datepublished: 2015
-tags:
+link: "https://amzn.to/2Ncc8yd"
+pubdate: 2015
+category:
 - UX design
 - Usability
 publisher: New Riders
-imprint:
 image: "er.jpg"
 intro: 'Whatever your role, Experience Required teaches you to become the UX leader you’ve always wanted to be.'
 ---

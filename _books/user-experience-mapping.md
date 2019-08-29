@@ -1,9 +1,9 @@
 ---
 title: 'User Experience Mapping: Enhance UX with User Story Map, Journey Map and Diagrams'
 authors: Peter W Szabo
-booklink: "https://amzn.to/2ZdeVt6"
-datepublished: 2017
-tags:
+link: "https://amzn.to/2ZdeVt6"
+pubdate: 2017
+category:
 - UX design
 - Discovery
 publisher: Packt Publishing

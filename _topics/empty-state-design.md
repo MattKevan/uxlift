@@ -7,5 +7,5 @@ site: InvisionApp
 intro: "What empty states are and why they're important."
 tags: 
 - Empty state design
-type: article
+type: Article
 ---

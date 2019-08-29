@@ -5,5 +5,5 @@ category:
 - Design systems
 link: https://www.abstract.com/blog/cookie-cutter-design-system-lyft/
 site: Abstract
-type: article
+type: Article
 ---

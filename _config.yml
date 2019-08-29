@@ -64,21 +64,19 @@ defaults:
       linkurl: ""
       authors: ""
       year: ""
-      type: lightbulb
   -
     scope:
       path: ""
       type: books
     values:
       title: ""
-      tags: []
-      booklink: ""
-      imprint: ""
+      intro: ""
+      category: []
+      link: ""
       authors: ""
-      datepublished: ""
+      pubdate: ""
       image: ""
       layout: book
-      type: book
   -
     scope:
       path: ""
@@ -90,4 +88,3 @@ defaults:
       intro: ""
       tags: []
       linkurl: ""
-      type: "tools"

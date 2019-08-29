@@ -5,6 +5,6 @@ link: http://www.avataaars.com
 site: Avataaars
 category:
 - Illustration
-type: resource
-preview: resources/avataaars.png
+type: Resource
+preview: avataaars.png
 ---

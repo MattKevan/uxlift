@@ -7,8 +7,8 @@ category:
 - Customer discovery
 link: https://www.smashingmagazine.com/2014/08/a-closer-look-at-personas-part-1/
 site: Smashing Magazine
-type: article
+type: Article
 date: 2019-08-28 17:26:20 +0100
-pub: 2014-08-06 00:00:00 +0100
+pubdate: 2014-08-06 00:00:00 +0100
 
 ---

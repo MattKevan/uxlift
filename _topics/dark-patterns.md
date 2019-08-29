@@ -6,5 +6,6 @@ site: darkpatterns.org
 category:
 - Information architecture
 - Design ethics
-type: resource
+- Design patterns
+type: Resource
 ---

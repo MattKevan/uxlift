@@ -10,7 +10,7 @@ fields:
   name: intro
   label: Introduction
 - type: text
-  name: linkurl
+  name: link
   label: Link
 - type: list
   name: category
@@ -23,7 +23,7 @@ fields:
       file: _data/categories.yml
       path: category
 - type: file
-  name: logo
-  label: Logo
+  name: image
+  label: Image
 pages:
 - _tools/abstract.md

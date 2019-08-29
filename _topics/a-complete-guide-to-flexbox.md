@@ -6,5 +6,5 @@ category:
 - HTML and CSS
 site: CSS Tricks
 link: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-type: article
+type: Article
 ---

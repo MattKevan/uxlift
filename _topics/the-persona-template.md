@@ -6,5 +6,5 @@ category:
 - Personas
 link: 'https://www.romanpichler.com/tools/the-persona-template/'
 site: Roman Pichler
-type: resource
+type: Resource
 ---

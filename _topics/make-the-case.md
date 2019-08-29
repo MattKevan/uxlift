@@ -4,8 +4,8 @@ intro: How to start the conversation with stakeholders and get a design system o
 category:
 - Design systems
 - Abstract
-pub: 2019-05-02
+pubdate: 2019-05-02
 link: https://www.abstract.com/blog/design-system-buy-in/
 site: Abstract
-type: article
+type: Article
 ---

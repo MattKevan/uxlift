@@ -1,10 +1,10 @@
 ---
 title: Abstract
 intro: One place to version, manage, and collaborate on your Sketch files.
-linkurl: http://www.goabstract.com
+link: http://www.goabstract.com
 category:
 - Design version control
-logo: abstract.png
+image: abstract.png
 
 ---
 ### All your Sketch files in one place
@@ -17,4 +17,4 @@ Stop relying on creative file-naming conventions. Abstract removes the friction 
 
 ### No more conflicted copies
 
-Work on the same set of Sketch files without losing anyone’s work. Abstract allows multiple designers to work on the same file without fearing overwritten changes.
+Work on the same set of Sketch files without losing anyone’s work. Abstract allows multiple designers to work on the same file without fearing overwritten changes.booklink

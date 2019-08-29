@@ -6,5 +6,5 @@ link: https://share.getf.ly/m23r4a
 category: 
 - Hosting
 - Wordpress
-type: resource
+type: Resource
 ---

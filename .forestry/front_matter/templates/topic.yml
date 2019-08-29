@@ -1,0 +1,39 @@
+---
+label: Topic
+hide_body: true
+display_field: title
+fields:
+- type: text
+  name: title
+  label: Title
+- type: textarea
+  name: intro
+  label: Intro
+- type: text
+  name: link
+  label: Link
+- type: text
+  name: site
+  label: Site
+- type: list
+  name: category
+  label: Category
+  config:
+    use_select: true
+    source:
+      type: pages
+      section: topics
+      file: 
+- name: type
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - article
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Type

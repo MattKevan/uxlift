@@ -1,9 +1,9 @@
 ---
 title: 'The User Experience Team of One'
 authors: Leah Buley
-booklink: http://amzn.to/2hmao6V
-datepublished: 2013
-tags:
+link: http://amzn.to/2hmao6V
+pubdate: 2013
+category:
 - UX design
 publisher: Rosenfeld Media
 imprint: 

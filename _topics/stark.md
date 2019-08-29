@@ -5,11 +5,11 @@ link: http://www.getstark.co
 tags:
 - Open source
 type: puzzle-piece
-preview: resources/stark.png
+preview: Resources/stark.png
 category: 
 - Sketch plugins
 - Accessibility
 - Visual design
 site: Get Stark
-type: resource
+type: Resource
 ---

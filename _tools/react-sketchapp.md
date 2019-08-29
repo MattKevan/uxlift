@@ -1,12 +1,12 @@
 ---
 title: React Sketchapp
 intro: Implement your designs in code as React components and render them into Sketch.
-linkurl: http://airbnb.io/react-sketchapp/
+link: http://airbnb.io/react-sketchapp/
 category:
 - Design-to-code
 - Design systems
 - Sketch
-logo: "react-sketchapp.png"
+image: "react-sketchapp.png"
 ---
 
 ## What can I do with it?

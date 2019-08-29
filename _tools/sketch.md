@@ -1,11 +1,11 @@
 ---
 title: Sketch
 intro: The industry-leading tool for digital design.
-linkurl: http://www.sketchapp.com
+link: http://www.sketchapp.com
 category:
 - Visual design
 - Prototyping
-logo: "sketch.png"
+image: "sketch.png"
 ---
 
 ### About Sketch

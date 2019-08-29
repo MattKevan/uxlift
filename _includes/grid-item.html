@@ -1,0 +1,22 @@
+<div class="col-xs-12 col-sm-4 filter-item {% for cat in item.category %}{{ cat | replace: ' ', '-' | append: ' ' }}{% endfor %}">
+	<div class="grid-item" data-mh="col-text">
+
+		<div class="grid-content">
+			
+			<a href="{{ item.url }}" target="_blank"><img class="logo" src="/assets/images/{{ item.image }}" alt="{{ item.title }}" /></a>
+
+			<h4><a href="{{ item.url }}">{{ item.title }}</a></h4>	      
+
+			<p>{{ item.intro }}</p>	
+			{% if item.authors %}
+				<p class="author s">{{ item.authors }}{% if item.year %}, {{ item.year }}{% endif %}</p>
+			{% endif %}
+		    <p class="tags xs">
+			    
+			    {% for cat in item.category %}
+					<span>{{ cat }}</span>
+				{% endfor %}
+			</p>
+		</div>
+	</div>
+</div>

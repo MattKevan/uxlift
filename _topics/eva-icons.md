@@ -4,9 +4,9 @@ intro: A pack of more than 480 beautifully crafted Open Source icons for common 
 link: https://akveo.github.io/eva-icons/
 tags:
 - Open source
-preview: resources/eva.png
+preview: eva.png
 category: 
 - Visual design
-type: resource
+type: Resource
 site: Eva Icons
 ---

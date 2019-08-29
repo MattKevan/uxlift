@@ -5,5 +5,5 @@ category:
 - Design systems
 site: Inside Design by InVision
 link: https://medium.com/dropbox-design/design-tooling-at-scale-9eeda5019b21?source=rss----eaaf101de83d---4
-type: article
+type: Article
 ---

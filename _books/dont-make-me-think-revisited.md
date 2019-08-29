@@ -1,16 +1,13 @@
 ---
 title: Don’t Make Me Think (Revisited)
 authors: Steve Krug
-booklink: "https://amzn.to/2KQhUmi"
-datepublished: 2013
-tags:
+link: "https://amzn.to/2KQhUmi"
+pubdate: 2013
+category:
 - UX design
 - Usability
 publisher: New Riders
-imprint: Voices That Matter
 image: "dont-make-me-think.jpg"
-layout: book
-type: book
 intro: Don't Make Me Think is an essential guide to usability and website design.
 ---
 

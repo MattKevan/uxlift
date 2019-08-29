@@ -5,5 +5,5 @@ category:
 - Optimisation
 site: Think With Google
 link: https://www.thinkwithgoogle.com/infographics/5-factors-of-viewability.html
-type: article
+type: Article
 ---

@@ -5,5 +5,5 @@ category:
 - Content strategy
 link: 'https://www.usability.gov/what-and-why/content-strategy.html'
 site: Usability.gov
-type: article
+type: Article
 ---

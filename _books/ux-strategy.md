@@ -1,9 +1,9 @@
 ---
 title: 'Usable Usability: Simple Steps for Making Things Better'
 authors: Eric Reiss
-booklink: "http://amzn.to/2i4AGtW"
-datepublished: 2012
-tags:
+link: "http://amzn.to/2i4AGtW"
+pubdate: 2012
+category:
 - UX design
 - Usability
 publisher: John Wiley & Sons
