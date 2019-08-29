@@ -17,7 +17,7 @@ fields:
   label: Link
 - type: list
   name: category
-  label: Category
+  label: Categories
   config:
     use_select: true
     source:
