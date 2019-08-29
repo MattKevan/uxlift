@@ -1,6 +1,7 @@
 ---
 label: Topic
 hide_body: true
+<<<<<<< HEAD
 display_field: title
 fields:
 - type: text
