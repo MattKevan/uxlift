@@ -1,31 +1,47 @@
 ---
 label: Book
 hide_body: false
+display_field: title
 fields:
 - type: text
   name: title
   label: Title
+- type: file
+  name: image
+  label: Image
 - type: textarea
   name: intro
   label: Intro
 - type: text
-  name: authors
-  label: authors
-- type: text
   name: link
-  label: link
+  label: Link
+- type: list
+  name: category
+  label: Categories
+  config:
+    use_select: true
+    source:
+      type: documents
+      section: data
+      file: _data/categories.yml
+      path: category
+- type: text
+  name: authors
+  label: Authors
 - type: number
   name: pubdate
-  label: pubdate
-- type: list
-  name: tags
-  label: tags
+  label: Published date
 - type: text
   name: publisher
-  label: publisher
-- type: file
-  name: image
-  label: image
-- type: text
-  name: type
-  label: type
+  label: Publisher
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  hidden: true
+  default: now

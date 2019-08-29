@@ -1,20 +1,22 @@
 ---
 label: Tool
 hide_body: false
-display_field: title
 fields:
 - type: text
   name: title
   label: Title
+- type: file
+  name: image
+  label: Image
 - type: text
   name: intro
-  label: Introduction
+  label: Intro
 - type: text
   name: link
   label: Link
 - type: list
   name: category
-  label: Category
+  label: Categories
   config:
     use_select: true
     source:
@@ -22,8 +24,14 @@ fields:
       section: data
       file: _data/categories.yml
       path: category
-- type: file
-  name: image
-  label: Image
-pages:
-- _tools/abstract.md
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  hidden: true
+  default: now
