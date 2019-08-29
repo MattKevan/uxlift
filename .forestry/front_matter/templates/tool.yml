@@ -24,3 +24,14 @@ fields:
       section: data
       file: _data/categories.yml
       path: category
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  hidden: true
+  default: now
