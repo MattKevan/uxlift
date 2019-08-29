@@ -59,4 +59,5 @@ fields:
     maxSize: 250
   label: Preview
 pages:
+- _topics/5-factors-of-display-viewability.md
 - _topics/10-tips-on-making-magic-with-writers.md
