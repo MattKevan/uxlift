@@ -1,0 +1,25 @@
+---
+label: Topic
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: intro
+  label: intro
+- type: list
+  name: category
+  label: category
+- type: datetime
+  name: pubdate
+  label: pubdate
+- type: text
+  name: link
+  label: link
+- type: text
+  name: site
+  label: site
+- type: text
+  name: type
+  label: type
