@@ -34,3 +34,14 @@ fields:
 - type: text
   name: publisher
   label: Publisher
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  hidden: true
+  default: now
