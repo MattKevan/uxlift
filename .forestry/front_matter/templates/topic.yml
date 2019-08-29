@@ -4,22 +4,57 @@ hide_body: true
 fields:
 - type: text
   name: title
-  label: title
+  label: Title
 - type: text
   name: intro
-  label: intro
-- type: list
-  name: category
-  label: category
-- type: datetime
-  name: pubdate
-  label: pubdate
+  label: Introduction
 - type: text
   name: link
-  label: link
+  label: Link
+  config:
+    required: true
 - type: text
   name: site
-  label: site
-- type: text
-  name: type
-  label: type
+  label: Site
+  description: The name of the site the content came from
+- type: list
+  name: category
+  label: Category
+  config:
+    use_select: true
+    source:
+      type: documents
+      section: data
+      file: _data/categories.yml
+      path: category
+- name: type
+  type: select
+  default: ''
+  config:
+    required: true
+    options: []
+    source:
+      type: documents
+      section: data
+      file: _data/categories.yml
+      path: type
+  label: Type
+- type: datetime
+  name: pubdate
+  label: Published date
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  default: now
+  hidden: true
+- name: preview
+  type: file
+  config:
+    maxSize: 250
+  label: Preview
