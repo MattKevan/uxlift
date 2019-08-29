@@ -1,0 +1,19 @@
+---
+label: Tool
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: intro
+  label: intro
+- type: text
+  name: link
+  label: link
+- type: list
+  name: category
+  label: category
+- type: file
+  name: image
+  label: image
