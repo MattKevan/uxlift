@@ -1,6 +1,5 @@
 ---
 title: Customer discovery
-description: "A customer-centric, scientific process that puts evidence behind an assumed product-market fit."
-icon: 
+intro: "A customer-centric, scientific process that puts evidence behind an assumed product-market fit."
 layout: listing
 ---

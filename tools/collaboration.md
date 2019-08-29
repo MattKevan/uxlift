@@ -1,7 +1,5 @@
 ---
 title: Collaboration
-description: Work better with others using these tools
-icon: 
+intro: Work better with others using these tools
 layout: tool-listing
-section: Tools
 ---

@@ -1,7 +1,6 @@
 ---
 title: Visual design
-description: "Shaping the experience of products through illustration, photography, typography, space, layout and color."
-icon: 
+intro: "Shaping the experience of products through illustration, photography, typography, space, layout and color."
 layout: hub
 permalink: /visual-design
 ---

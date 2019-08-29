@@ -11,11 +11,8 @@ layout: default
 						{% assign crumb = page.permalink | split: '/' %}
 					<p class="s"><a href="{{ site.baseurl }}/">Home</a> » <a href="{{ site.baseurl }}/tools">Tools</a> »</p>
 						<h1 class="page-title">{{ page.title }}</h1>
-						{% for cat in site.data.tools %}
-							{% if page.title == cat.title %}
-								{% if cat.description %}<p class="lead">{{ cat.description }}</p>{% endif %}
-							{% endif %}
-						{% endfor %}
+						<p class="lead">{{ page.intro }}</p>
+							
 					</div>
 				</div>
 			</div>

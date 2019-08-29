@@ -1,8 +1,6 @@
 ---
 title: UX leadership
-description: Essential skills for leading the UX process both inside and outside organisations.
-icon: 
+intro: Essential skills for leading the UX process both inside and outside organisations.
 layout: hub
 permalink: /ux-leadership
-section: Topics
 ---

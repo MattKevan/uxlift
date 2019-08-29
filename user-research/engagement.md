@@ -1,6 +1,5 @@
 ---
 title: Engagement
-description: 
-icon: 
+intro: 
 layout: listing
 ---

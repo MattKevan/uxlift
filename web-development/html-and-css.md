@@ -1,6 +1,5 @@
 ---
 title: HTML and CSS
-description: Componenets of front-end development.
-icon: 
+intro: Componenets of front-end development.
 layout: listing
 ---

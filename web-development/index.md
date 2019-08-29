@@ -1,7 +1,6 @@
 ---
 title: 'Web development'
-description: 'Understanding the basics of code is an essential skill for a UX designer.'
-icon: 
+intro: 'Understanding the basics of code is an essential skill for a UX designer.'
 layout: hub
 permalink: /web-development
 ---

@@ -1,7 +1,5 @@
 ---
 title: Prototyping
-description: Create high and low fidelity mockups.
-icon: 
+intro: Create high and low fidelity mockups.
 layout: tool-listing
-section: Tools
 ---

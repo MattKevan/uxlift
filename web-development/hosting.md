@@ -1,6 +1,5 @@
 ---
 title: Hosting
-description: Modern hosting platforms to deploy your code.
-icon: 
+intro: Modern hosting platforms to deploy your code.
 layout: listing
 ---

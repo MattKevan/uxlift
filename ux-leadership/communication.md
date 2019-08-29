@@ -1,6 +1,5 @@
 ---
 title: Communication
-description: Effective communication makes or breaks a project. Here's how to do it right.
-icon: 
+intro: Effective communication makes or breaks a project. Here's how to do it right.
 layout: listing
 ---

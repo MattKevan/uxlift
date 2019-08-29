@@ -1,8 +1,6 @@
 ---
 title: Information architecture
-section: Topics
-description: The practice of structuring and organising things in a meaningful way.
-icon: 
+intro: The practice of structuring and organising things in a meaningful way.
 layout: hub
 permalink: /information-architecture
 ---

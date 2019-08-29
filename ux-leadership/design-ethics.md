@@ -1,6 +1,5 @@
 ---
 title: Design ethics
-description: 'How our approach to design and the things we design affects others.'
-icon: 
+intro: 'How our approach to design and the things we design affects others.'
 layout: listing
 ---

@@ -1,7 +1,5 @@
 ---
 title: Animation
-description: HTML5 keyframe animation tools
-icon: 
+intro: HTML5 keyframe animation tools
 layout: tool-listing
-section: Tools
 ---

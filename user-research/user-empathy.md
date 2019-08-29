@@ -1,6 +1,5 @@
 ---
 title: User empathy
-description: 
-icon: 
+intro: 
 layout: listing
 ---
