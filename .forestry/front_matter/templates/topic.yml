@@ -58,3 +58,5 @@ fields:
   config:
     maxSize: 250
   label: Preview
+pages:
+- _topics/10-tips-on-making-magic-with-writers.md
