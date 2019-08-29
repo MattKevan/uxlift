@@ -1,40 +1,22 @@
 ---
 label: Topic
 hide_body: true
-<<<<<<< HEAD
-display_field: title
 fields:
 - type: text
   name: title
-  label: Title
-- type: textarea
-  name: intro
-  label: Intro
-- type: text
-  name: link
-  label: Link
-- type: text
-  name: site
-  label: Site
+  label: title
 - type: list
   name: category
-  label: Category
-  config:
-    use_select: true
-    source:
-      type: pages
-      section: topics
-      file: 
-- name: type
-  type: select
-  default: []
-  config:
-    required: false
-    options:
-    - article
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
-  label: Type
+  label: category
+- type: text
+  name: link
+  label: link
+- type: text
+  name: site
+  label: site
+- type: textarea
+  name: intro
+  label: intro
+- type: text
+  name: type
+  label: type
