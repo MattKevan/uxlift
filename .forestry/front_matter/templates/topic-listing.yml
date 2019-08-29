@@ -6,8 +6,8 @@ fields:
   name: title
   label: Title
 - type: text
-  name: description
-  label: Description
+  name: intro
+  label: Introduction
 - type: text
   name: layout
   label: Layout
