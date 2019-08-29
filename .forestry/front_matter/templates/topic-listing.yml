@@ -13,3 +13,5 @@ fields:
   label: Layout
   hidden: true
   default: listing
+pages:
+- information-architecture/design-patterns.md
