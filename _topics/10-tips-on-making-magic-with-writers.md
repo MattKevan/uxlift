@@ -9,7 +9,7 @@ intro: Because the process of working with a writer can feel mysterious, here ar
   word nerds.
 type: article
 date: 2019-08-29 11:53:19 +0100
-pubdate: 
+pubdate: 2019-08-07 00:00:00 +0100
 preview: ''
 
 ---
