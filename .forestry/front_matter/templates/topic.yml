@@ -59,5 +59,7 @@ fields:
     maxSize: 250
   label: Preview
 pages:
+- _topics/dark-patterns.md
+- _topics/the-3-click-rule-for-navigation-is-false.md
 - _topics/5-factors-of-display-viewability.md
 - _topics/10-tips-on-making-magic-with-writers.md
