@@ -1,14 +1,13 @@
 ---
-layout: article
-title: Tree testing
+type: article
+title: Tree testing: An important step early in the design process
 intro: Card sorting is a method used to help design or evaluate the information architecture of a site. 
 categories:
-  - Explore
-  - Deliver
+  - Information architecture
 phase:
   - Understand
 further-reading:
-  - title: "Tree testing: An important step early in the design process"
+  - title: ""
     url: http://www.webcredible.com/blog/tree-testing-important-step-early-web-design-process/
   - title: "Using Tree-Testing To Test Information Architecture"	
     url: http://www.measuringu.com/blog/tree-testing-ia.php
