@@ -12,15 +12,9 @@ date: 2019-09-02 17:05:37 +0100
 
 In the most familiar way to you: close to human natural language.
 
-* **Accelerate & supercharge**
-
-  Accelerate your workflow with components and supercharge your prototypes with sensors, variables, and more.
-* **Integrations**
-
-  Import your designs from your favorite design tools.
-* **Cross-platform**
-
-  Prototyping has never been this easy on macOS and Windows.
+* **Accelerate & supercharge** – accelerate your workflow with components and supercharge your prototypes with sensors, variables, and more.
+* **Integrations** – import your designs from your favorite design tools.
+* **Cross-platform** – prototyping has never been this easy on macOS and Windows.
 
 #### Test your prototypes anywhere, anytime
 
