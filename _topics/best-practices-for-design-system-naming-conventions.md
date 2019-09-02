@@ -5,7 +5,7 @@ intro: 'A foundational part of your design system is how you choose to name styl
   and components. Giving your components reasonable—dare I say, consistent—names isn’t
   just about developers, it’s for your teammates and future designers. '
 link: https://www.invisionapp.com/inside-design/naming-conventions/
-site: InVision Inside Design
+site: Inside Design by InVision
 category:
 - Design systems
 type: Article
