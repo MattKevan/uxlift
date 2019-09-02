@@ -33,6 +33,7 @@ fields:
   name: permalink
   label: Permalink
 pages:
+- visual-design/illustration.md
 - information-architecture/wireframing.md
 - web-development/hosting.md
 - web-development/html-and-css.md
