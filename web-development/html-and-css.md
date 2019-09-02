@@ -2,5 +2,5 @@
 title: HTML and CSS
 intro: Componenets of front-end development.
 layout: listing
-permalink: html-and-css
+permalink: /web-development/html-and-css
 ---
