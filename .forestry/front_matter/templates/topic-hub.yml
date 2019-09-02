@@ -1,18 +1,43 @@
 ---
-label: Topic hub
-hide_body: true
+label: Topic page
+hide_body: false
+display_field: title
 fields:
 - type: text
   name: title
   label: Title
-- type: text
-  name: intro
+- name: intro
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: false
+    schema:
+      format: markdown
   label: Introduction
-- type: text
-  name: layout
-  label: Layout
-  hidden: true
+- name: layout
+  type: select
   default: hub
+  config:
+    required: true
+    options:
+    - hub
+    - listing
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Page type
 - type: text
   name: permalink
   label: Permalink
+pages:
+- visual-design/illustration.md
+- information-architecture/wireframing.md
+- web-development/hosting.md
+- web-development/html-and-css.md
+- web-development/wordpress.md
+- user-research/index.md
+- web-development/index.md
+- prototyping/index.md

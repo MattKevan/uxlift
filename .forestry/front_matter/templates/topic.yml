@@ -5,8 +5,14 @@ fields:
 - type: text
   name: title
   label: Title
-- type: text
-  name: intro
+- name: intro
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: false
+    schema:
+      format: markdown
   label: Introduction
 - type: text
   name: link
@@ -59,7 +65,8 @@ fields:
     maxSize: 250
   label: Preview
 pages:
+- _topics/best-practices-for-design-system-naming-conventions.md
+- _topics/10-tips-on-making-magic-with-writers.md
 - _topics/dark-patterns.md
 - _topics/the-3-click-rule-for-navigation-is-false.md
 - _topics/5-factors-of-display-viewability.md
-- _topics/10-tips-on-making-magic-with-writers.md

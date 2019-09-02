@@ -5,4 +5,5 @@ category:
 - Analytics
 link: "https://invisionapp.com/inside-design/heatmaps-for-ui-design/"
 site: Inside Design by InVision
+type: Article
 ---

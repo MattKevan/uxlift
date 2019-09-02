@@ -6,4 +6,5 @@ category:
 - UX writing
 link: 'https://medium.com/dropbox-design/the-role-of-ux-writing-in-design-ethics-e9cbb456234c'
 site: Dropbox Design
+type: Article
 ---
