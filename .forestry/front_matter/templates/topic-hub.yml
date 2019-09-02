@@ -26,4 +26,5 @@ fields:
   name: permalink
   label: Permalink
 pages:
+- web-development/index.md
 - prototyping/index.md
