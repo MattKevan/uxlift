@@ -5,5 +5,5 @@ image:
 link: 'https://www.thoughtworks.com/insights/blog/double-diamond'
 category: Design thinking
 site: Thoughtworks
-
+type: Article
 ---

@@ -8,4 +8,5 @@ category:
 tags:
  - Customer journey
  - Experience map
+type: Article
 ---

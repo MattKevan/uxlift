@@ -5,5 +5,5 @@ category:
 - Content strategy
 link: 'http://uxmastery.com/how-to-conduct-a-content-audit/'
 site: UX Mastery
-type: article
+type: Article
 ---

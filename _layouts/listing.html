@@ -38,7 +38,7 @@ layout: default
 			</div>
 				{% for item in sorted_items %}
 					{% for cat in item.category %}
-						{% if page.title == cat and item.type == 'article'%}
+						{% if page.title == cat and item.type == 'Article'%}
 							{% include grid-link.html %}
 						{% endif %}
 					{% endfor %}
@@ -48,7 +48,7 @@ layout: default
 			</div>
 				{% for item in sorted_items %}
 					{% for cat in item.category %}
-						{% if page.title == cat and item.type == 'resource'%}
+						{% if page.title == cat and item.type == 'Resource'%}
 							{% include grid-link.html %}
 						{% endif %}
 					{% endfor %}

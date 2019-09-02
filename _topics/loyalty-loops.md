@@ -6,5 +6,5 @@ category:
 - Optimisation
 site: McKinsey
 link: http://www.mckinsey.com/business-functions/marketing-and-sales/our-insights/the-consumer-decision-journey
-
+type: Article
 ---
