@@ -1,12 +1,19 @@
 ---
 label: Topic page
 hide_body: false
+display_field: title
 fields:
 - type: text
   name: title
   label: Title
-- type: text
-  name: intro
+- name: intro
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: false
+    schema:
+      format: markdown
   label: Introduction
 - name: layout
   type: select
@@ -26,9 +33,11 @@ fields:
   name: permalink
   label: Permalink
 pages:
-- user-research/index.md
-- web-development/html-and-css.md
-- web-development/index.md
+- visual-design/illustration.md
+- information-architecture/wireframing.md
 - web-development/hosting.md
+- web-development/html-and-css.md
 - web-development/wordpress.md
+- user-research/index.md
+- web-development/index.md
 - prototyping/index.md
