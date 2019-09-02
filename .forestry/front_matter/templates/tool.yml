@@ -42,4 +42,5 @@ fields:
   hidden: true
   default: now
 pages:
+- _tools/flinto-1.md
 - _tools/principle-1.md
