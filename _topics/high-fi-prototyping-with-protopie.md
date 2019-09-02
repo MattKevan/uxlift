@@ -10,6 +10,5 @@ category:
 type: Course
 pubdate: 
 preview: ''
-published: false
 
 ---
