@@ -8,7 +8,7 @@ fields:
 - type: text
   name: intro
   label: Introduction
-- name: page_type
+- name: layout
   type: select
   default: hub
   config:
@@ -26,8 +26,8 @@ fields:
   name: permalink
   label: Permalink
 pages:
-- web-development/wordpress.md
 - web-development/html-and-css.md
-- web-development/hosting.md
 - web-development/index.md
+- web-development/hosting.md
+- web-development/wordpress.md
 - prototyping/index.md
