@@ -35,3 +35,5 @@ fields:
     display_utc: false
   hidden: true
   default: now
+pages:
+- _tools/principle-1.md
