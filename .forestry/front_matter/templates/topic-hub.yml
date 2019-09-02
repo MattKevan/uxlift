@@ -26,6 +26,7 @@ fields:
   name: permalink
   label: Permalink
 pages:
+- user-research/index.md
 - web-development/html-and-css.md
 - web-development/index.md
 - web-development/hosting.md
