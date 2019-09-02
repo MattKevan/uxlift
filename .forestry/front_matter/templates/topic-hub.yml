@@ -1,6 +1,6 @@
 ---
-label: Topic hub
-hide_body: true
+label: Topic page
+hide_body: false
 fields:
 - type: text
   name: title
@@ -8,11 +8,20 @@ fields:
 - type: text
   name: intro
   label: Introduction
-- type: text
-  name: layout
-  label: Layout
-  hidden: true
+- name: page_type
+  type: select
   default: hub
+  config:
+    required: true
+    options:
+    - hub
+    - listing
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Page type
 - type: text
   name: permalink
   label: Permalink
