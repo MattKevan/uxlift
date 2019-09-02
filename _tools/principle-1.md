@@ -8,7 +8,7 @@ image: "/assets/images/ProtoPie.png"
 date: 2019-09-02 17:05:37 +0100
 
 ---
-#### **Create the most realistic prototypes easily**
+#### Create the most realistic prototypes easily
 
 In the most familiar way to you: close to human natural language.
 
