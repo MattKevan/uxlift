@@ -25,3 +25,5 @@ fields:
 - type: text
   name: permalink
   label: Permalink
+pages:
+- prototyping/index.md
