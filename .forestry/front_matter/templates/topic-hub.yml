@@ -1,12 +1,19 @@
 ---
 label: Topic page
 hide_body: false
+display_field: title
 fields:
 - type: text
   name: title
   label: Title
-- type: text
-  name: intro
+- name: intro
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: false
+    schema:
+      format: markdown
   label: Introduction
 - name: layout
   type: select
