@@ -26,6 +26,7 @@ fields:
   name: permalink
   label: Permalink
 pages:
+- web-development/wordpress.md
 - web-development/html-and-css.md
 - web-development/hosting.md
 - web-development/index.md
