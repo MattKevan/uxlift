@@ -1,5 +1,5 @@
 ---
-label: Topic page
+label: Page
 hide_body: false
 display_field: title
 fields:
@@ -23,6 +23,7 @@ fields:
     options:
     - hub
     - listing
+    - tool-listing
     source:
       type: simple
       section: 
