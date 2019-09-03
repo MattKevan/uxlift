@@ -1,7 +1,77 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
+layout: default
 title: UX Lift
 ---
+
+<div class="top">
+	<div class="container">
+		<div class="row">
+			<div class="col-xs-12 ">
+				<div class="page-title">
+					<h1 class="page-title">{{ site.description }}</h1>
+					{% if page.intro %}<p class="lead">{{ page.intro }}</p>{% endif %}
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<div class="content">
+	<div class="container">
+		<div class="row">
+			<div class="col-xs-12 ">
+				<h2>UX topics</h2>
+
+			</div>
+
+			{% assign sorted_items = site.pages | sort:'title' %}
+				
+
+				{% for item in sorted_items %}
+					
+						{% if item.layout == 'hub' %}
+							<div class="col-xs-12 col-sm-6 col-md-4 block">
+							<a href="{{ item.url }}">
+								<div class="block-inner" data-mh="item">
+									<h4>{{ item.title }}</h4>
+									
+								</div>
+							</a>
+						</div>
+						{% endif %}
+				{% endfor %}
+
+			</div>
+			<div class="row">
+
+			<div class="col-xs-12 col-sm-6 block">
+				<a href="/topics">
+					<div class="block-inner" data-mh="item">
+						<h3>Books</h3>
+						<p>Essential books for every UX designer's library.</p>	
+					</div>
+				</a>
+			</div>
+
+
+			<div class="col-xs-12 col-sm-6 block">
+				<a href="/topics">
+					<div class="block-inner" data-mh="item">
+						<h3>Tools</h3>
+						<p>The best UX and design tools, software and services.</p>	
+					</div>
+				</a>
+			</div>
+
+
+
+
+		</div>		
+	</div>
+</div>
+
+
+
+
+
