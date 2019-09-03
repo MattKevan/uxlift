@@ -42,5 +42,6 @@ fields:
   hidden: true
   default: now
 pages:
+- _tools/trello.md
 - _tools/hugo.md
 - _tools/jekyll.md
