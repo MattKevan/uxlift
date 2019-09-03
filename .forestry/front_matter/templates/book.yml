@@ -51,5 +51,3 @@ fields:
     display_utc: false
   hidden: true
   default: now
-pages:
-- _books/ux-strategy-how-to-devise-innovative-digital-products-that-people-want-excerpt-from-jaime-levy-ux-strategy-how-to-devise-innovative-digital-products-that-people-want.md
