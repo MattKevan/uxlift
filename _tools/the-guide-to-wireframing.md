@@ -8,7 +8,7 @@ link: https://www.uxpin.com/studio/ebooks/guide-to-wireframing/
 site: UX Pin ebook library
 category:
 - Wireframing
-type: Resource
+type: Article
 pubdate: 
 preview: ''
 
