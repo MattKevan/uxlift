@@ -7,7 +7,7 @@ category:
 - UX design
 publisher: Morgan Kaufmann
 imprint: 
-image: "514evMquYmL._SX389_BO1%2C204%2C203%2C200_.jpg"
+image: "/assets/images/sketching-ui.jpg"
 intro: 'Provides information about the step-by-step process of the different UX sketching techniques.'
 ---
 It offers methods called design thinking, as a way to think as a user, and sketching, a way to think as a designer.

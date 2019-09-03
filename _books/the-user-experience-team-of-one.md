@@ -7,7 +7,7 @@ category:
 - UX design
 publisher: Rosenfeld Media
 imprint: 
-image: '51Gi2PHugFL._SX331_BO1%2C204%2C203%2C200_.jpg'
+image: '/assets/images/team-of-1.jpg'
 intro: The User Experience Team of One prescribes a range of approaches that have big impact and take less time and fewer resources than the standard lineup of UX deliverables.
 ---
 

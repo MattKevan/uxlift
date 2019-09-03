@@ -7,7 +7,7 @@ category:
 - Usability
 publisher: MIT Press
 imprint: Voices That Matter
-image: "design-of-everyday-things.jpg"
+image: "/assets/images/design-of-everyday-things.jpg"
 intro: Even the smartest among us can feel inept as we try to figure out the shower control in a hotel or attempt to navigate an unfamiliar television set or stove.
 ---
 

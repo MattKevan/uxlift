@@ -7,7 +7,7 @@ category:
 - UX design
 - Lean
 publisher: O'Reilly Media
-image: "41JWTd4PCWL._SX331_BO1%2C204%2C203%2C200_.jpg"
+image: "/assets/images/lean-ux.jpg"
 type: book
 intro: The Lean UX approach to interaction design is tailor-made for today’s web-driven reality.
 ---

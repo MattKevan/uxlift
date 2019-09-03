@@ -7,7 +7,7 @@ category:
 - UX design
 - Usability
 publisher: New Riders
-image: "er.jpg"
+image: "/assets/images/er.jpg"
 intro: 'Whatever your role, Experience Required teaches you to become the UX leader you’ve always wanted to be.'
 ---
 

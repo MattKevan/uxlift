@@ -8,7 +8,7 @@ category:
 - Usability
 publisher: John Wiley & Sons
 imprint:
-image: "413wc0E4vSL._SX399_BO1%2C204%2C203%2C200_.jpg"
+image: "/assets/images/usable-usability.jpg"
 intro: 'Frustrated by pop–ups? Forms that make you start over if you miss a field? Nonsensical error messages? You′re not alone!'
 ---
 

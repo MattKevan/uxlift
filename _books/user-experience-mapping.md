@@ -8,7 +8,7 @@ category:
 - Discovery
 publisher: Packt Publishing
 imprint:
-image: "uem.jpg"
+image: "/assets/images/uem.jpg"
 intro: 'Understand your users, gain strategic user insights, and make your product development more efficient with user experience mapping.'
 ---
 
