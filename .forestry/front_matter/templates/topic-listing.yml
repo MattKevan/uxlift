@@ -5,8 +5,14 @@ fields:
 - type: text
   name: title
   label: Title
-- type: text
-  name: intro
+- name: intro
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
   label: Introduction
 - type: text
   name: layout
