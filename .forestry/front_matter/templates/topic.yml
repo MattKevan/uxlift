@@ -65,6 +65,7 @@ fields:
     maxSize: 250
   label: Preview
 pages:
+- _topics/cancel-vs-close-design-to-distinguish-the-difference.md
 - _topics/high-fi-prototyping-with-protopie.md
 - _topics/best-practices-for-design-system-naming-conventions.md
 - _topics/10-tips-on-making-magic-with-writers.md
