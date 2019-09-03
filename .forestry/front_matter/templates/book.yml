@@ -51,3 +51,5 @@ fields:
     display_utc: false
   hidden: true
   default: now
+pages:
+- _books/strategic-writing-for-ux-drive-engagement-conversion-and-retention-with-every-word.md
