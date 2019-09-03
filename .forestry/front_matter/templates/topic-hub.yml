@@ -24,6 +24,8 @@ fields:
     - hub
     - listing
     - tool-listing
+    - grid
+    - default
     source:
       type: simple
       section: 
