@@ -65,6 +65,7 @@ fields:
     maxSize: 250
   label: Preview
 pages:
+- _topics/learning-to-wireframe-10-best-practices.md
 - _topics/wireframing-101.md
 - _topics/cancel-vs-close-design-to-distinguish-the-difference.md
 - _topics/high-fi-prototyping-with-protopie.md
