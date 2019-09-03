@@ -4,5 +4,5 @@ intro: Tools for building design systems and using them to generate cross-platfo
 link: https://github.com/airbnb/Lona
 category:
 - Design-to-code
-image: "lona.png"
+image: "/assets/images/lona.png"
 ---

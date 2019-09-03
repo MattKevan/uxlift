@@ -4,5 +4,5 @@ intro: Know how users interact with designs and fix UX issues before writing a s
 link: http://www.usertesting.com
 category:
 - User research
-image: "usertesting.svg"
+image: "/assets/images/usertesting.svg"
 ---

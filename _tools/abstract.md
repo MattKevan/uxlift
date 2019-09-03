@@ -4,7 +4,8 @@ intro: One place to version, manage, and collaborate on your Sketch files.
 link: http://www.goabstract.com
 category:
 - Design version control
-image: abstract.png
+- Handoff
+image: /assets/images/abstract.png
 
 ---
 ### All your Sketch files in one place

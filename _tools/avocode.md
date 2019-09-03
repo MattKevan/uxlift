@@ -5,7 +5,7 @@ link: https://avocode.com
 category:
 - Handoff
 - Collaboration
-image: "avo.svg"
+image: "/assets/images/avo.svg"
 ---
 
 ## About Avocode 

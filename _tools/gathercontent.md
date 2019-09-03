@@ -5,5 +5,5 @@ link: https://gathercontent.com
 category:
 - Collaboration
 - Content strategy
-image: "gathercontent.png"
+image: "/assets/images/gathercontent.png"
 ---

@@ -4,5 +4,5 @@ intro: Manage changes, document work and keep your team in sync.
 link: http://www.kactus.io
 category:
 - Design version control
-image: "kactus.png"
+image: "/assets/images/kactus.png"
 ---

@@ -6,5 +6,5 @@ category:
 - Visual design
 - Wireframing
 
-image: "affinity.png"
+image: "/assets/images/affinity.png"
 ---

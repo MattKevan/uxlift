@@ -5,5 +5,5 @@ link: http://www.framer.com
 category:
 - Wireframing
 - Prototyping
-image: "justinmind.png"
+image: "/assets/images/justinmind.png"
 ---

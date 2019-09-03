@@ -7,5 +7,5 @@ category:
 - Prototyping
 - Collaboration
 - Handoff
-image: "figma.jpg"
+image: "/assets/images/figma.jpg"
 ---

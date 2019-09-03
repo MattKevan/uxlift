@@ -4,5 +4,5 @@ intro: Create app flows and components. Express their properties and data linkag
 link: http://www.reactstudio.com
 category:
 - Design-to-code
-image: "react-studio.png"
+image: "/assets/images/react-studio.png"
 ---

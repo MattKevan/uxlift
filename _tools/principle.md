@@ -5,5 +5,5 @@ link: http://principleformac.com
 category:
 - Prototyping
 - Animation
-image: "Principle.png"
+image: "/assets/images/Principle.png"
 ---

@@ -6,5 +6,5 @@ category:
 - Prototyping
 - Collaboration
 - Handoff
-image: "inv.png"
+image: "/assets/images/inv.png"
 ---

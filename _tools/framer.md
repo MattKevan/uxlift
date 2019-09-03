@@ -6,5 +6,5 @@ category:
 - Visual design
 - Prototyping
 - Design-to-code
-image: "framer.png"
+image: "/assets/images/framer.png"
 ---

@@ -5,5 +5,5 @@ link: http://www.zeplin.io
 category:
 - Handoff
 - Collaboration
-image: "zeplin.png"
+image: "/assets/images/zeplin.png"
 ---

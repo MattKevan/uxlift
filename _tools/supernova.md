@@ -4,5 +4,5 @@ intro: Supernova allows you to create animations, navigations, localizations, ge
 link: http://www.supernova.io
 category:
 - Design-to-code
-image: "supernova.svg"
+image: "/assets/images/supernova.svg"
 ---

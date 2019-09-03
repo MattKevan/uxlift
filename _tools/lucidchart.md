@@ -5,5 +5,5 @@ link: http://www.lucidchart.com
 category:
 - Wireframes
 - Diagrams
-image: "lucid.png"
+image: "/assets/images/lucid.png"
 ---

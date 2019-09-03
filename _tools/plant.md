@@ -4,5 +4,5 @@ intro: Version control for designers.
 link: http://www.plantapp.io
 category:
 - Design version control
-image: "plant.svg"
+image: "/assets/images/plant.svg"
 ---

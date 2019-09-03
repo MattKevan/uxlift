@@ -6,5 +6,5 @@ category:
 - Design-to-code
 - Design systems
 - Sketch
-image: "html-sketchapp.png"
+image: "/assets/images/html-sketchapp.png"
 ---

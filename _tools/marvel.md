@@ -6,5 +6,5 @@ category:
 - Prototyping
 - Collaboration
 - Handoff
-image: "marvel.png"
+image: "/assets/images/marvel.png"
 ---

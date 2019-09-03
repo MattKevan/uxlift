@@ -5,5 +5,5 @@ link: http://flinto.com
 category:
 - Prototyping
 - Animation
-image: "flinto.png"
+image: "/assets/images/flinto.png"
 ---

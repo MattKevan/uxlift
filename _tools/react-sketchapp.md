@@ -6,7 +6,7 @@ category:
 - Design-to-code
 - Design systems
 - Sketch
-image: "react-sketchapp.png"
+image: "/assets/images/react-sketchapp.png"
 ---
 
 ## What can I do with it?

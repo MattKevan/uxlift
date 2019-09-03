@@ -5,5 +5,5 @@ link: https://mokup.app
 category:
 - Prototyping
 - Animation
-image: "mokup.png"
+image: "/assets/images/mokup.png"
 ---

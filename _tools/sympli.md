@@ -6,6 +6,6 @@ category:
 - Prototyping
 - Collaboration
 - Handoff
-image: "sympli.png"
+image: "/assets/images/sympli.png"
 ---
 

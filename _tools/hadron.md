@@ -4,5 +4,5 @@ intro: A development environment for designers and developers who work together 
 link: http://www.hadron.app
 category:
 - Design-to-code
-image: "hadron.jpg"
+image: "/assets/images/hadron.jpg"
 ---

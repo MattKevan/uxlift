@@ -5,5 +5,5 @@ link: https://www.hotjar.com
 category:
 - Analytics
 - User research
-image: "images.png"
+image: "/assets/images/images.png"
 ---

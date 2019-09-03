@@ -5,5 +5,5 @@ link: http://www.maze.design
 category:
 - User research
 - User testing
-image: "maze.png"
+image: "/assets/images/maze.png"
 ---

@@ -4,5 +4,5 @@ intro: Platform to help you understand how your customers engage with your websi
 link: http://www.whatusersdo.com
 category:
 - User research
-image: "whatusersdo.jpg"
+image: "/assets/images/whatusersdo.jpg"
 ---

@@ -5,5 +5,5 @@ link: http://www.hotgloo.com
 category:
 - Wireframing
 - Prototyping
-image: "hotgloo.png"
+image: "/assets/images/hotgloo.png"
 ---

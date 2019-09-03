@@ -4,5 +4,5 @@ intro: Like Sketch but with interactive components, box model layout and React e
 link: http://www.modulz.app
 category:
 - Design-to-code
-image: "modulz.svg"
+image: "/assets/images/modulz.svg"
 ---

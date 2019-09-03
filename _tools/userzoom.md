@@ -4,5 +4,5 @@ intro: All-in-one platform for agile UX insights.
 link: http://www.userzoom.com
 category:
 - User research
-image: "userzoom.svg"
+image: "/assets/images/userzoom.svg"
 ---

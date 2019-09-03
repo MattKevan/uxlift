@@ -6,5 +6,5 @@ category:
 - Visual design
 - Prototyping
 - Handoff
-image: "xd.png"
+image: "/assets/images/xd.png"
 ---

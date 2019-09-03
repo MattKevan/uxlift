@@ -5,5 +5,5 @@ link: http://www.uxpin.com
 category:
 - Wireframing
 - Prototyping
-image: "uxp.png"
+image: "/assets/images/uxp.png"
 ---

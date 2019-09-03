@@ -5,7 +5,7 @@ link: http://www.sketchapp.com
 category:
 - Visual design
 - Prototyping
-image: "sketch.png"
+image: "/assets/images/sketch.png"
 ---
 
 ### About Sketch

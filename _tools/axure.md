@@ -5,7 +5,7 @@ link: http://www.axure.com
 category:
 - Wireframing
 - Prototyping
-image: "axure.png"
+image: "/assets/images/axure.png"
 ---
 
 ### About Axure RP

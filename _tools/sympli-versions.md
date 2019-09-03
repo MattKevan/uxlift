@@ -4,7 +4,7 @@ intro: Git for designers.
 link: https://versions.sympli.io
 category:
 - Design version control
-image: "versions.png"
+image: "/assets/images/versions.png"
 ---
 
 Versions is currently free to use, and unlike Abstract or Plant, it connects to Github, Bitbucket or Azure Dev Ops rather than using its own cloud infrastructure. 
