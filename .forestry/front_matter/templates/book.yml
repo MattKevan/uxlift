@@ -25,12 +25,18 @@ fields:
       section: data
       file: _data/categories.yml
       path: category
+- name: pubdate
+  type: datetime
+  label: Published date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
 - type: text
   name: authors
   label: Authors
-- type: number
-  name: pubdate
-  label: Published date
 - type: text
   name: publisher
   label: Publisher
