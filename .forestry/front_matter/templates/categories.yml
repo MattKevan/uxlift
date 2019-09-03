@@ -1,0 +1,10 @@
+---
+label: Categories
+hide_body: true
+fields:
+- type: list
+  name: category
+  label: category
+- type: list
+  name: type
+  label: type
