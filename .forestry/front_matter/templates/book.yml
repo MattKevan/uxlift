@@ -52,4 +52,5 @@ fields:
   hidden: true
   default: now
 pages:
+- _books/the-user-s-journey-storymapping-products-that-people-love.md
 - _books/strategic-writing-for-ux-drive-engagement-conversion-and-retention-with-every-word.md
