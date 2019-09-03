@@ -14,4 +14,5 @@ fields:
   hidden: true
   default: listing
 pages:
+- web-development/static-site-generators.md
 - information-architecture/design-patterns.md
