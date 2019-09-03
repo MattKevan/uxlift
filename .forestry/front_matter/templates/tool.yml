@@ -41,3 +41,5 @@ fields:
     display_utc: false
   hidden: true
   default: now
+pages:
+- _tools/jekyll.md
