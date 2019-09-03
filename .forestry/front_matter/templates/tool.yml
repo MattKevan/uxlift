@@ -42,4 +42,5 @@ fields:
   hidden: true
   default: now
 pages:
+- _tools/hugo.md
 - _tools/jekyll.md
