@@ -3,7 +3,7 @@ date: 2019-09-03 11:06:39 +0100
 title: 'UX Strategy: How to Devise Innovative Digital Products That People Want”  Excerpt
   From: Jaime Levy. “UX Strategy: How to Devise Innovative Digital Products That People
   Want'
-image: ''
+image: "/assets/images/ux-strategy.jpg"
 intro: 'User experience (UX) strategy requires a careful blend of business strategy
   and UX design, but until now, there hasn’t been an easy-to-apply framework for executing
   it. '
