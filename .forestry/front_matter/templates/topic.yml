@@ -65,6 +65,7 @@ fields:
     maxSize: 250
   label: Preview
 pages:
+- _topics/5-years-of-design-systems-a-personal-journey-into-scalable-design.md
 - _topics/understanding-css-grid.md
 - _tools/the-guide-to-wireframing.md
 - _topics/platforma-2.md
