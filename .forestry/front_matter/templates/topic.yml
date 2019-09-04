@@ -65,6 +65,7 @@ fields:
     maxSize: 250
   label: Preview
 pages:
+- _topics/understanding-css-grid.md
 - _tools/the-guide-to-wireframing.md
 - _topics/platforma-2.md
 - _topics/learning-to-wireframe-10-best-practices.md
