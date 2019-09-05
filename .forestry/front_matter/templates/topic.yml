@@ -65,6 +65,7 @@ fields:
     maxSize: 250
   label: Preview
 pages:
+- _topics/user-journey-planning-what-is-an-empathy-map.md
 - _topics/what-is-empathy-in-design-thinking-a-comprehensive-guide-to-building-empathy-for-your-users.md
 - _tools/the-guide-to-wireframing.md
 - _topics/5-years-of-design-systems-a-personal-journey-into-scalable-design.md
