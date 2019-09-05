@@ -65,6 +65,7 @@ fields:
     maxSize: 250
   label: Preview
 pages:
+- _topics/the-business-case-for-digital-accessibility.md
 - _topics/what-is-web-accessibility.md
 - visual-design/accessibility.md
 - _topics/here-s-what-developers-want-designers-to-know-about-developer-handoff.md
