@@ -37,11 +37,3 @@ fields:
   label: Permalink
 pages:
 - tools/static-site-generators.md
-- visual-design/illustration.md
-- information-architecture/wireframing.md
-- web-development/hosting.md
-- web-development/html-and-css.md
-- web-development/wordpress.md
-- user-research/index.md
-- web-development/index.md
-- prototyping/index.md
