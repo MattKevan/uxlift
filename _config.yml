@@ -41,6 +41,9 @@ collections:
   topics:
     output: true
     permalink: /topics/:path/
+  topic-categories:
+    output: true
+    permalink: /topics/:path/
   books:
     output: true
     permalink: /books/:path/

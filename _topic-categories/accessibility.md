@@ -11,6 +11,5 @@ type: Article
 pubdate: 
 preview: ''
 layout: listing
-permalink: "/visual-design/accessibility"
 
 ---
