@@ -1,42 +1,43 @@
 ---
 category:
-- "UX writing"
-- "Wireframing"
-- "Interface design"
-- "Prototyping"
-- "Analytics"
-- "Customer discovery"
-- "Engagement"
-- "Optimisation"
-- "User empathy"
-- "User testing"
-- "User research"
-- "Collaboration"
-- "Communication"
-- "Design ethics"
-- "Design systems"
-- "Design thinking"
-- "Illustration"
-- "Visual grammar"
-- "Hosting"
-- "HTML and CSS"
-- "Wordpress"
-- "Animation"
-- "Design-to-code"
-- "Design version control"
-- "Diagramming"
-- "Handoff"
-- "Visual design"
-- "UX leadership"
-- "Web development"
-- "Information architecture"
-- "Interaction design"
-- "Product management"
-- "Navigation"
-- "Design patterns"
-- "Static site generators"
-- "UX strategy"
+- UX writing
+- Wireframing
+- Interface design
+- Prototyping
+- Analytics
+- Customer discovery
+- Engagement
+- Optimisation
+- User empathy
+- User testing
+- User research
+- Collaboration
+- Communication
+- Design ethics
+- Design systems
+- Design thinking
+- Illustration
+- Visual grammar
+- Hosting
+- HTML and CSS
+- Wordpress
+- Animation
+- Design-to-code
+- Design version control
+- Diagramming
+- Handoff
+- Visual design
+- UX leadership
+- Web development
+- Information architecture
+- Interaction design
+- Product management
+- Navigation
+- Design patterns
+- Static site generators
+- UX strategy
+- Accessibility
 type:
-- "Article"
-- "Resource"
-- "Course"
+- Article
+- Resource
+- Course
