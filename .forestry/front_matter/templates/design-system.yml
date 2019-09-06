@@ -15,6 +15,7 @@ fields:
   name: link
   label: Link
 pages:
+- _design-systems/stack-overflow-stacks.md
 - _design-systems/github-primer.md
 - _design-systems/bbc-gel.md
 - _design-systems/gov-uk.md
