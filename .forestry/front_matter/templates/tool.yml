@@ -42,6 +42,7 @@ fields:
   hidden: true
   default: now
 pages:
+- _tools/mindomo.md
 - _tools/mindmeister.md
 - _tools/figma.md
 - _tools/jekyll.md
