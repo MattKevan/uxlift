@@ -65,6 +65,7 @@ fields:
     maxSize: 250
   label: Preview
 pages:
+- _topics/promoting-collaboration-in-ux-design-and-content-teams.md
 - _topics/the-importance-of-collaborative-ux-design.md
 - _topics/effective-collaboration-how-to-design-work-sessions-that-work.md
 - _topics/what-is-customer-empathy-9-industry-experts-weigh-in.md
