@@ -16,6 +16,8 @@ sections:
   label: Topic categories
   create: documents
   match: "**/*"
+  templates:
+  - topic-hub
 - type: directory
   path: _books
   label: Books
