@@ -42,6 +42,7 @@ fields:
   hidden: true
   default: now
 pages:
+- _tools/hugo.md
 - _tools/flywheel.md
 - _tools/simplemind.md
 - _tools/coggle.md
@@ -51,4 +52,3 @@ pages:
 - _tools/figma.md
 - _tools/jekyll.md
 - _tools/trello.md
-- _tools/hugo.md

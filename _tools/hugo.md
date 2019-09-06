@@ -1,5 +1,5 @@
 ---
-date: 2019-09-03 09:58:35 +0100
+date: 2019-09-03T08:58:35.000+00:00
 title: Hugo
 image: "/assets/images/iu.png"
 intro: Hugo is one of the most popular open-source static site generators. With its
@@ -7,7 +7,6 @@ intro: Hugo is one of the most popular open-source static site generators. With 
 link: https://gohugo.io
 category:
 - Web development
-- Static site generators
 
 ---
 #### Blistering Speed
