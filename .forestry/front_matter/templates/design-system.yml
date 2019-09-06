@@ -4,13 +4,13 @@ hide_body: true
 fields:
 - type: text
   name: title
-  label: title
+  label: Title
 - type: text
   name: intro
-  label: intro
+  label: Introduction
 - type: text
   name: link
-  label: link
+  label: Link
 - type: file
   name: image
-  label: image
+  label: Image
