@@ -42,11 +42,11 @@ fields:
   hidden: true
   default: now
 pages:
-- _tools/whimsical.md
-- _tools/coggle.md
 - _tools/simplemind.md
-- _tools/mindomo.md
+- _tools/coggle.md
+- _tools/whimsical.md
 - _tools/mindmeister.md
+- _tools/mindomo.md
 - _tools/figma.md
 - _tools/jekyll.md
 - _tools/trello.md
