@@ -15,8 +15,8 @@
 			{% if item.site %}
 			<p class="weblink s"><a href="{{ item.link }}" target="_blank"><i class="fas fa-globe-americas"></i> {{ item.site }}</a></p>
 			{% endif %}
-			{% if item.pub %}
-				<p class="s"><i class="fas fa-calendar-alt"></i> {{ item.pub | date: "%-d %B %Y" }}</p>
+			{% if item.pubdate %}
+				<p class="s"><i class="fas fa-calendar-alt"></i> {{ item.pubdate | date: "%-d %B %Y" }}</p>
 			{% endif %}
 			
 		    <p class="tags xs">
