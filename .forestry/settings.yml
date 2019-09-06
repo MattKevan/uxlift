@@ -23,6 +23,8 @@ sections:
   label: Design systems
   create: documents
   match: "**/*"
+  templates:
+  - design-system
 - type: directory
   path: _tools
   label: Tools
