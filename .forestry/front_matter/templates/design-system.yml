@@ -15,5 +15,6 @@ fields:
   name: link
   label: Link
 pages:
+- _design-systems/ibm-carbon.md
 - _design-systems/atlassain.md
 - _design-systems/google.md
