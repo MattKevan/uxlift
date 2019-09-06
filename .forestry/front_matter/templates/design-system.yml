@@ -15,6 +15,7 @@ fields:
   name: link
   label: Link
 pages:
+- _design-systems/merck-liquid.md
 - _design-systems/zendesk-garden.md
 - _design-systems/sainsbury-s-luna.md
 - _design-systems/uber-base-web.md
