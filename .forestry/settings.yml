@@ -5,6 +5,11 @@ admin_path: "/admin/"
 webhook_url: 
 sections:
 - type: directory
+  path: _design-systems
+  label: Design systems
+  create: documents
+  match: "**/*"
+- type: directory
   path: _topics
   label: Topics
   create: documents
