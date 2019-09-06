@@ -42,9 +42,9 @@ fields:
   hidden: true
   default: now
 pages:
+- _tools/flywheel.md
 - _tools/jekyll.md
 - _tools/hugo.md
-- _tools/flywheel.md
 - _tools/simplemind.md
 - _tools/coggle.md
 - _tools/whimsical.md

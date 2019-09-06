@@ -1,5 +1,5 @@
 ---
-label: Page
+label: Topic category
 hide_body: false
 display_field: title
 fields:
@@ -17,23 +17,17 @@ fields:
   label: Introduction
 - name: layout
   type: select
-  default: hub
+  default: listing
   config:
     required: true
     options:
-    - hub
     - listing
-    - tool-listing
-    - grid
-    - default
     source:
       type: simple
       section: 
       file: 
       path: 
   label: Page type
-- type: text
-  name: permalink
-  label: Permalink
+  hidden: true
 pages:
 - tools/static-site-generators.md
