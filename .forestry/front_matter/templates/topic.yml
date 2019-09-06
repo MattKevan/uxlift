@@ -65,6 +65,7 @@ fields:
     maxSize: 250
   label: Preview
 pages:
+- _topics/cookie-cutter-design-systems.md
 - _topics/a-comprehensive-guide-to-design-systems.md
 - _topics/mark-boulton-the-ugly-truth-about-design-systems-video.md
 - _topics/moving-from-sketch-to-figma-a-case-study-of-migrating-design-systems.md
