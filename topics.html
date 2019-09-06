@@ -27,18 +27,3 @@ searchtext: Search topics
 		</div>
 	</div>
 </div>
-
-<div class="section bgw">
-	<div class="container">
-		<div class="row">
-			<div class="col-xs-12">
-				<h3>Latest articles</h3>
-			</div>
-	{% assign sorted_items = site.topics | sort:'title' %}
-	{% for item in sorted_items limit: 3 %}
-		{% include grid-item.html %}
-	{% endfor %}
-		</div>
-	</div>
-</div>
-
