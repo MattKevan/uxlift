@@ -15,6 +15,7 @@ fields:
   name: link
   label: Link
 pages:
+- _design-systems/quickbooks.md
 - _design-systems/apple.md
 - _design-systems/lonely-planet-rizzo.md
 - _design-systems/microsoft-fluent.md
