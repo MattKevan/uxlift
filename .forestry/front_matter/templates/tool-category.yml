@@ -1,0 +1,13 @@
+---
+label: Tool category
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: intro
+  label: intro
+- type: text
+  name: layout
+  label: layout
