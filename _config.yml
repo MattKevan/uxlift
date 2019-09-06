@@ -56,6 +56,9 @@ collections:
   articles:
     output: true
     permalink: /articles/:path/
+  design-systems:
+    output: true
+    permalink: /design-systems/:path/
 
 defaults:
   -
@@ -93,4 +96,14 @@ defaults:
       title: ""
       intro: ""
       tags: []
-      linkurl: ""
+      link: ""
+  -
+    scope:
+      path: ""
+      type: design-systems
+    values:
+      layout: tool
+      image: ""
+      title: ""
+      intro: ""
+      link: ""

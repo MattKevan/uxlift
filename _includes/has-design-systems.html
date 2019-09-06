@@ -1,0 +1,21 @@
+
+{% if page.title == 'Design systems' %}
+
+<div class="row">
+	<div class="col-xs-12">
+		<div class="section">
+			<h2>Example design systems</h2>
+	
+
+
+			{% assign sorted_items = site.design-systems | sort:'title' %}
+			{% for item in sorted_items %}
+				
+					<p class="item-list"><a href="{{ item.link }}" target="_blank"><img class="list-logo" src="{{ item.image }}" alt="{{ item.title }}" /><strong> {{ item.title }}</a></strong> – {{ item.intro }}</p>
+				
+			{% endfor %}
+		</div>
+	</div>
+</div>
+
+{% endif %}
