@@ -65,11 +65,13 @@ fields:
     maxSize: 250
   label: Preview
 pages:
+- _topics/what-is-customer-empathy-9-industry-experts-weigh-in.md
+- _topics/cookie-cutter-design-systems.md
+- _topics/a-comprehensive-guide-to-design-systems.md
 - _topics/mark-boulton-the-ugly-truth-about-design-systems-video.md
 - _topics/moving-from-sketch-to-figma-a-case-study-of-migrating-design-systems.md
 - _topics/user-journey-planning-what-is-an-empathy-map.md
 - _topics/what-is-empathy-in-design-thinking-a-comprehensive-guide-to-building-empathy-for-your-users.md
-- _topics/what-is-customer-empathy-9-industry-experts-weigh-in.md
 - _tools/the-guide-to-wireframing.md
 - _topics/5-years-of-design-systems-a-personal-journey-into-scalable-design.md
 - _topics/inclusive-design-an-overview-of-current-thinking.md
