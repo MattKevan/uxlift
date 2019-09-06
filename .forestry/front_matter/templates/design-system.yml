@@ -15,6 +15,7 @@ fields:
   name: link
   label: Link
 pages:
+- _design-systems/mixpanel.md
 - _design-systems/sap-fundamentals.md
 - _design-systems/stack-overflow-stacks.md
 - _design-systems/github-primer.md
