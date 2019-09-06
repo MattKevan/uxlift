@@ -9,16 +9,27 @@ sections:
   label: Topics
   create: all
   match: "**/*"
+  templates:
+  - topic
+- type: directory
+  path: _topic-categories
+  label: Topic categories
+  create: documents
+  match: "**/*"
 - type: directory
   path: _books
   label: Books
-  create: all
+  create: documents
   match: "**/*"
+  templates:
+  - book
 - type: directory
   path: _tools
   label: Tools
-  create: all
+  create: documents
   match: "**/*"
+  templates:
+  - tool
 - type: jekyll-pages
   label: Pages
   create: all
