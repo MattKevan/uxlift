@@ -15,6 +15,7 @@ fields:
   name: link
   label: Link
 pages:
+- _design-systems/mailchimp-patterns.md
 - _design-systems/lonely-planet-rizzo.md
 - _design-systems/google.md
 - _design-systems/ubuntu.md
