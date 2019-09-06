@@ -42,6 +42,7 @@ fields:
   hidden: true
   default: now
 pages:
+- _tools/coggle.md
 - _tools/simplemind.md
 - _tools/mindomo.md
 - _tools/mindmeister.md
