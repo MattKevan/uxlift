@@ -1,5 +1,7 @@
 ---
 title: Collaboration
-intro: Jump start your UX with a ready made UI kit.
+intro: Work more productively with team members, stakeholders, clients and anyone
+  else.
 layout: listing
+
 ---
