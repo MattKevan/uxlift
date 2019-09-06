@@ -65,11 +65,11 @@ fields:
     maxSize: 250
   label: Preview
 pages:
-- _topics/understanding-css-grid.md
+- _topics/effective-collaboration-how-to-design-work-sessions-that-work.md
+- _topics/the-importance-of-collaborative-ux-design.md
 - _topics/how-ux-professionals-collaborate-on-deliverables.md
 - _topics/promoting-collaboration-in-ux-design-and-content-teams.md
-- _topics/the-importance-of-collaborative-ux-design.md
-- _topics/effective-collaboration-how-to-design-work-sessions-that-work.md
+- _topics/understanding-css-grid.md
 - _topics/what-is-customer-empathy-9-industry-experts-weigh-in.md
 - _topics/a-comprehensive-guide-to-design-systems.md
 - _topics/cookie-cutter-design-systems.md

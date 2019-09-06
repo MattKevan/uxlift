@@ -19,19 +19,24 @@ sections:
   templates:
   - topic-hub
 - type: directory
-  path: _books
-  label: Books
-  create: documents
-  match: "**/*"
-  templates:
-  - book
-- type: directory
   path: _tools
   label: Tools
   create: documents
   match: "**/*"
   templates:
   - tool
+- type: directory
+  path: _tool-categories
+  label: Tool categories
+  create: documents
+  match: "**/*"
+- type: directory
+  path: _books
+  label: Books
+  create: documents
+  match: "**/*"
+  templates:
+  - book
 - type: jekyll-pages
   label: Pages
   create: all
