@@ -50,6 +50,9 @@ collections:
   tools:
     output: true
     permalink: /tools/:path/
+  tool-categories:
+    output: true
+    permalink: /tools/:path/
   articles:
     output: true
     permalink: /articles/:path/

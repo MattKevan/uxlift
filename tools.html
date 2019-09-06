@@ -1,5 +1,5 @@
 ---
-layout: tool-hub
+layout: grid
 title: Tools
 permalink: /tools/
 intro: Useful services and software
@@ -7,10 +7,10 @@ section: Tools
 ---
 
 
-<div class="section bgw">
+<div class="section bgg">
 	<div class="container">
 		<div class="row filter-grid">
-			{% assign sorted_items = site.tools | sort:'title' %}
+			{% assign sorted_items = site.tool-categories | sort:'title' %}
 			{% for item in sorted_items %}
 				{% include grid-hub.html %}
 			{% endfor %}
