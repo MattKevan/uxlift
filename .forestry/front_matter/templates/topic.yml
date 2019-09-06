@@ -65,6 +65,7 @@ fields:
     maxSize: 250
   label: Preview
 pages:
+- _topics/understanding-css-grid.md
 - _topics/how-ux-professionals-collaborate-on-deliverables.md
 - _topics/promoting-collaboration-in-ux-design-and-content-teams.md
 - _topics/the-importance-of-collaborative-ux-design.md
@@ -79,7 +80,6 @@ pages:
 - _tools/the-guide-to-wireframing.md
 - _topics/5-years-of-design-systems-a-personal-journey-into-scalable-design.md
 - _topics/inclusive-design-an-overview-of-current-thinking.md
-- _topics/understanding-css-grid.md
 - _topics/wireframing-101.md
 - _topics/what-is-web-accessibility.md
 - _topics/cancel-vs-close-design-to-distinguish-the-difference.md
