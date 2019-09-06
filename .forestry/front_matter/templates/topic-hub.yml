@@ -31,4 +31,3 @@ fields:
   hidden: true
 pages:
 - _topic-categories/collaboration.md
-- tools/static-site-generators.md
