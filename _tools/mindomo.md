@@ -1,7 +1,7 @@
 ---
 date: 2019-09-06 09:40:24 +0100
 title: Mindomo
-image: "/assets/images/mindomo-logo.png"
+image: "/assets/images/mindomo.png"
 intro: Collaborative mind maps, concept maps, outlines and Gantt charts. Achieve your
   goals by visually mapping out your ideas, plans and interests.
 link: https://www.mindomo.com
