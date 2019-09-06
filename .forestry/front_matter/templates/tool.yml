@@ -42,6 +42,7 @@ fields:
   hidden: true
   default: now
 pages:
+- _tools/jekyll.md
 - _tools/hugo.md
 - _tools/flywheel.md
 - _tools/simplemind.md
@@ -50,5 +51,4 @@ pages:
 - _tools/mindmeister.md
 - _tools/mindomo.md
 - _tools/figma.md
-- _tools/jekyll.md
 - _tools/trello.md

@@ -6,7 +6,6 @@ intro: Transform your plain text into static websites and blogs.
 link: https://jekyllrb.com
 category:
 - Web development
-- Static site generators
 
 ---
 ### Simple
