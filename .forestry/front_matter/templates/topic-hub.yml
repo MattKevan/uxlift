@@ -30,4 +30,5 @@ fields:
   label: Page type
   hidden: true
 pages:
+- _topic-categories/web-development-1.md
 - _topic-categories/collaboration.md
