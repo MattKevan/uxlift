@@ -65,6 +65,7 @@ fields:
     maxSize: 250
   label: Preview
 pages:
+- _topics/effective-collaboration-how-to-design-work-sessions-that-work.md
 - _topics/what-is-customer-empathy-9-industry-experts-weigh-in.md
 - _topics/a-comprehensive-guide-to-design-systems.md
 - _topics/cookie-cutter-design-systems.md
