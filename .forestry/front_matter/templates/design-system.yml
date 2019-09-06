@@ -5,12 +5,12 @@ fields:
 - type: text
   name: title
   label: Title
+- type: file
+  name: image
+  label: Image
 - type: text
   name: intro
   label: Introduction
 - type: text
   name: link
   label: Link
-- type: file
-  name: image
-  label: Image
