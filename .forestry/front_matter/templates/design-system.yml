@@ -16,10 +16,10 @@ fields:
   label: Link
 pages:
 - _design-systems/apple.md
-- _design-systems/vmware-clarity.md
-- _design-systems/microsoft-fluent.md
-- _design-systems/mailchimp-patterns.md
 - _design-systems/lonely-planet-rizzo.md
+- _design-systems/microsoft-fluent.md
+- _design-systems/vmware-clarity.md
+- _design-systems/mailchimp-patterns.md
 - _design-systems/google.md
 - _design-systems/ubuntu.md
 - _design-systems/ibm-carbon.md

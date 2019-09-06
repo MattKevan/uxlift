@@ -1,7 +1,8 @@
 ---
-title: Apple iOS
+title: Apple
 image: "/assets/images/apple-logo.svg"
-intro: iOS Design Themes
-link: https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/
+intro: Get in-depth information and UI resources for designing great apps that integrate
+  seamlessly with Apple platforms.
+link: https://developer.apple.com/design/human-interface-guidelines/
 
 ---
