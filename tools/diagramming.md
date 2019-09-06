@@ -1,5 +1,7 @@
 ---
 title: Diagramming
-intro: Go from design to working code in a single step.
+intro: Creating visual representations of processes, devices, hierarchies, relationships
+  or other objects.
 layout: tool-listing
+
 ---
