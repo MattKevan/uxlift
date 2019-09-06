@@ -42,6 +42,7 @@ fields:
   hidden: true
   default: now
 pages:
+- _tools/netlify.md
 - _tools/flywheel.md
 - _tools/jekyll.md
 - _tools/hugo.md
