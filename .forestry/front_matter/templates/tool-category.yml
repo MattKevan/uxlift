@@ -4,10 +4,12 @@ hide_body: true
 fields:
 - type: text
   name: title
-  label: title
+  label: Title
 - type: text
   name: intro
-  label: intro
+  label: Introduction
 - type: text
   name: layout
-  label: layout
+  label: Layout
+  hidden: true
+  default: tool-listing
