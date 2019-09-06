@@ -7,13 +7,16 @@
 			<h2>Example design systems</h2>
 	
 
-
+			<div class="row">
 			{% assign sorted_items = site.design-systems | sort:'title' %}
 			{% for item in sorted_items %}
+			<div class="col-xs-6 col-md-4">
 				
-					<p class="item-list"><a href="{{ item.link }}" target="_blank"><img class="list-logo" src="{{ item.image }}" alt="{{ item.title }}" /><strong> {{ item.title }}</a></strong> – {{ item.intro }}</p>
+					<p class="item-list"><a href="{{ item.link }}" target="_blank"><img class="list-logo" src="{{ item.image }}" alt="{{ item.title }}" /><strong> {{ item.title }}</strong></a></p>
+				</div>
 				
 			{% endfor %}
+		</div>
 		</div>
 	</div>
 </div>
