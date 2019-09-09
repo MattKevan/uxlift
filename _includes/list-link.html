@@ -1,23 +1,22 @@
 <div class="filter-item {% for tag in item.tags %}{{ tag | replace: ' ', '-' | append: ' ' }}{% endfor %}">
 	<div class="list-item" data-mh="col-text">
 
-		{% if item.image %}
-			<div class="grid-preview">
-				<a href="{{ item.link }}" target="_blank"><img class="preview" src="/assets/{{ item.image }}" alt="{{ item.title }}" /></a>
-			</div>
-		{% endif %}
 
 		<div class="grid-content">
 		
 			
 			<h3><a href="{{ item.link }}" target="_blank">{{ item.title }}</a></h3>	
 			
-			<p class="weblink s"><a href="{{ item.link }}" target="_blank">{{ item.site }}</a>
+			<p class="weblink s">
+				{% if item.image %}
+			<img class="list-logo" src="{{ item.image }}" alt="{{ item.title }}" />
+			{% endif %}
+
+				<a href="{{ item.link }}" target="_blank">{{ item.site }}</a>
 
 
-			{% if item.pubdate %}
-				 – {{ item.pubdate | date: "%-d %B %Y" }}
-			{% endif %}	</p>
+			
+				 – {{ item.date | date: "%-d %B %Y" }}</p>
 			
 			<p>{{ item.intro }}</p>	
 			

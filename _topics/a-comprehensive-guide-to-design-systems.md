@@ -9,7 +9,6 @@ link: https://www.invisionapp.com/inside-design/guide-to-design-systems/
 type: Article
 date: '2019-06-23T23:00:00.000+00:00'
 preview: ''
-image: "/assets/images/inv.png"
-pubdate: 
+image: "/assets/images/inv.png" 
 
 ---
