@@ -6,7 +6,9 @@ intro: We conducted a large-scale study, analyzing ~53K product pages from ~11K 
 link: https://webtransparency.cs.princeton.edu/dark-patterns/
 site: Princeton WebTAP
 image: "/assets/images/webtap.png"
-category: []
+category:
+- Design ethics
+- Design patterns
 type: Article
 preview: ''
 
