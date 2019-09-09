@@ -60,6 +60,7 @@ fields:
     maxSize: 250
   label: Preview
 pages:
+- _topics/understanding-css-grid.md
 - _topics/here-s-what-developers-want-designers-to-know-about-developer-handoff.md
 - _topics/the-importance-of-collaborative-ux-design.md
 - _topics/how-ux-professionals-collaborate-on-deliverables.md
@@ -76,7 +77,6 @@ pages:
 - _topics/5-factors-of-display-viewability.md
 - _topics/cancel-vs-close-design-to-distinguish-the-difference.md
 - _topics/inclusive-design-an-overview-of-current-thinking.md
-- _topics/understanding-css-grid.md
 - _topics/wireframing-101.md
 - _topics/what-is-customer-empathy-9-industry-experts-weigh-in.md
 - _topics/learning-to-wireframe-10-best-practices.md

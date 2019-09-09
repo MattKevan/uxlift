@@ -12,5 +12,6 @@ category:
 type: Article
 date: 2019-08-26T23:00:00.000+00:00
 preview: ''
+image: "/assets/images/designsketch.png"
 
 ---
