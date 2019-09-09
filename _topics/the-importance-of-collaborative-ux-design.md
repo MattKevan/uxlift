@@ -7,7 +7,8 @@ site: UX Matters
 category:
 - Collaboration
 type: Article
-date: 2013-10-21 00:00:00 +0100
+date: 2013-10-20T23:00:00.000+00:00
 preview: ''
+image: "/assets/images/uxmatters.png"
 
 ---
