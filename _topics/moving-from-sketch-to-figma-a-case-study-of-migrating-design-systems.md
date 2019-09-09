@@ -9,7 +9,8 @@ site: Smashing Magazine
 category:
 - Design systems
 type: Article
-date: 2019-09-02 00:00:00 +0100
+date: 2019-09-01T23:00:00.000+00:00
 preview: ''
+image: "/assets/images/smashing.png"
 
 ---

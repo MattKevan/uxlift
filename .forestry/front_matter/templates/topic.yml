@@ -60,6 +60,7 @@ fields:
     maxSize: 250
   label: Preview
 pages:
+- _topics/moving-from-sketch-to-figma-a-case-study-of-migrating-design-systems.md
 - _topics/effective-collaboration-how-to-design-work-sessions-that-work.md
 - _topics/dark-patterns.md
 - _topics/cookie-cutter-design-systems.md
@@ -76,7 +77,6 @@ pages:
 - _topics/the-importance-of-collaborative-ux-design.md
 - _topics/learning-to-wireframe-10-best-practices.md
 - _topics/what-is-empathy-in-design-thinking-a-comprehensive-guide-to-building-empathy-for-your-users.md
-- _topics/moving-from-sketch-to-figma-a-case-study-of-migrating-design-systems.md
 - _topics/how-ux-professionals-collaborate-on-deliverables.md
 - _topics/user-journey-planning-what-is-an-empathy-map.md
 - _topics/10-tips-on-making-magic-with-writers.md
