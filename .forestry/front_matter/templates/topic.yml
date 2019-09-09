@@ -60,6 +60,7 @@ fields:
     maxSize: 250
   label: Preview
 pages:
+- _topics/promoting-collaboration-in-ux-design-and-content-teams.md
 - _topics/how-do-you-keep-people-updated-with-what-is-being-worked-on.md
 - _topics/mark-boulton-the-ugly-truth-about-design-systems-video.md
 - _topics/5-years-of-design-systems-a-personal-journey-into-scalable-design.md
@@ -84,7 +85,6 @@ pages:
 - _topics/10-tips-on-making-magic-with-writers.md
 - _topics/the-3-click-rule-for-navigation-is-false.md
 - _topics/what-is-web-accessibility.md
-- _topics/promoting-collaboration-in-ux-design-and-content-teams.md
 - _topics/platforma-2.md
 - _topics/the-business-case-for-digital-accessibility.md
 - _topics/high-fi-prototyping-with-protopie.md
