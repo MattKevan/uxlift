@@ -20,33 +20,24 @@ title: UX Lift
 <div class="content">
 	<div class="container">
 		<div class="row">
+			<div class="section">
+
 			<div class="col-xs-12 ">
-				<h2>UX topics</h2>
-
+				<div class="block-inner">
+					<h2>UX topics</h2>
+					<div class="row">
+						
+					</div>
+				</div>
 			</div>
 
-			{% assign sorted_items = site.pages | sort:'title' %}
-				
+			
 
-				{% for item in sorted_items %}
-					
-						{% if item.layout == 'hub' %}
-							<div class="col-xs-12 col-sm-6 col-md-4 block">
-							<a href="{{ item.url }}">
-								<div class="block-inner" data-mh="item">
-									<h4>{{ item.title }}</h4>
-									
-								</div>
-							</a>
-						</div>
-						{% endif %}
-				{% endfor %}
-
-			</div>
-			<div class="row">
+		</div></div>
+		<div class="row">
 
 			<div class="col-xs-12 col-sm-6 block">
-				<a href="/topics">
+				<a href="/books">
 					<div class="block-inner" data-mh="item">
 						<h3>Books</h3>
 						<p>Essential books for every UX designer's library.</p>	
