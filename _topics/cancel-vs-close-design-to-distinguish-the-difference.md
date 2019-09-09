@@ -9,7 +9,8 @@ category:
 - UX writing
 - Design patterns
 type: Article
-date: 2019-09-01 00:00:00 +0100
+date: 2019-08-31T23:00:00.000+00:00
 preview: ''
+image: "/assets/images/nielsen.png"
 
 ---

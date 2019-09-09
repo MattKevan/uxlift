@@ -9,6 +9,7 @@ intro: Don’t ask for more attention than your product’s place in someone’s
   Whatever you do as a high-capacity knowledge worker to preserve your attention for
   the tasks that need it most, practice the same respect for your users’ attention.
 type: Article
-date: 2018-06-08 00:00:00 +0100
+date: 2018-06-07T23:00:00.000+00:00
+image: "/assets/images/noteworthy.png"
 
 ---
