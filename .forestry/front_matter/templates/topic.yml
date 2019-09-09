@@ -51,8 +51,8 @@ fields:
       path: type
   label: Type
 - type: datetime
-  name: pubdate
-  label: Published date
+  name: date
+  label: Date
   default: now
 - name: preview
   type: file
