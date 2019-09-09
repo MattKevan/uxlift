@@ -60,6 +60,13 @@ fields:
     maxSize: 250
   label: Preview
 pages:
+- _topics/the-8-competencies-of-user-experience-a-tool-for-assessing-and-developing-ux-practitioners.md
+- _topics/finding-your-path-to-ux-leadership.md
+- _topics/ux-leadership-everyone-is-a-designer.md
+- _topics/on-ux-leadership.md
+- _topics/the-essential-qualities-of-a-ux-leader.md
+- _topics/inclusive-design-an-overview-of-current-thinking.md
+- _topics/dark-patterns-at-scale-findings-from-a-crawl-of-11k-shopping-websites.md
 - _topics/cancel-vs-close-design-to-distinguish-the-difference.md
 - _topics/10-tips-on-making-magic-with-writers.md
 - _topics/understanding-css-grid.md
@@ -77,7 +84,6 @@ pages:
 - _topics/best-practices-for-design-system-naming-conventions.md
 - _topics/a-comprehensive-guide-to-design-systems.md
 - _topics/5-factors-of-display-viewability.md
-- _topics/inclusive-design-an-overview-of-current-thinking.md
 - _topics/wireframing-101.md
 - _topics/what-is-customer-empathy-9-industry-experts-weigh-in.md
 - _topics/learning-to-wireframe-10-best-practices.md
