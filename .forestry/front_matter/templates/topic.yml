@@ -60,6 +60,7 @@ fields:
     maxSize: 250
   label: Preview
 pages:
+- _topics/the-8-competencies-of-user-experience-a-tool-for-assessing-and-developing-ux-practitioners.md
 - _topics/finding-your-path-to-ux-leadership.md
 - _topics/ux-leadership-everyone-is-a-designer.md
 - _topics/on-ux-leadership.md
