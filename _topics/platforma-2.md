@@ -7,8 +7,7 @@ link: https://platforma.ws
 site: Platforma
 category:
 - Wireframing
-type: Resource
-pubdate: 
+type: Resource 
 preview: ''
 
 ---

@@ -5,7 +5,7 @@ category:
 - Figma
 - Design systems
 site: Dropbox Design
-pubdate: 2019-08-14 00:00:00 +0100
+date: 2019-08-14 00:00:00 +0100
 link: https://medium.com/dropbox-design/design-tooling-at-scale-9eeda5019b21?source=rss----eaaf101de83d---4
 type: Article
 

@@ -1,5 +1,4 @@
 ---
-date: 2019-09-04 11:14:11 +0100
 title: 5 years of Design Systems. A personal journey into scalable design
 intro: Welcome to an ongoing series of articles and tutorials that will lead to the
   creation of a free, open source design system.
@@ -8,7 +7,7 @@ site: Design + Code
 category:
 - Design systems
 type: Article
-pubdate: 2017-07-14 00:00:00 +0100
+date: 2017-07-14 00:00:00 +0100
 preview: ''
 
 ---

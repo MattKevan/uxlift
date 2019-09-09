@@ -1,5 +1,4 @@
 ---
-date: 2019-09-03 16:28:16 +0100
 title: Wireframing 101
 intro: Wireframes reflect the infrastructure of the product, regulate the navigation
   and the hierarchy between different functional parts of the product. They also help
@@ -9,7 +8,7 @@ site: UX Planet
 category:
 - Wireframing
 type: Article
-pubdate: 2018-02-26 00:00:00 +0000
+date: 2018-02-26 00:00:00 +0000
 preview: ''
 
 ---

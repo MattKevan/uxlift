@@ -7,16 +7,22 @@
 @import "bootstrap";
 
 @font-face {
-    font-family: 'Clear Sans';
-    src: url('fonts/ClearSans-Regular-webfont.woff');
+    font-family: 'IBM Plex Mono';
+    src: url('fonts/IBMPlexMono.woff');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'Clear Sans';
-    src: url('fonts/ClearSans-Bold-webfont.woff');
+    font-family: 'IBM Plex Sans';
+    src: url('fonts/IBMPlexSans-Bold.woff');
     font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'IBM Plex Sans';
+    src: url('fonts/IBMPlexSans.woff');
+    font-weight: normal;
     font-style: normal;
 }
 
@@ -144,6 +150,7 @@ p.item-list {
 .crumb {margin-bottom: 30px;}
 
 p.tags {
+	font-family: 'IBM Plex Mono', sans-serif;
 	margin:10px 0 0 0;
 	display: inline-block;
 	span {
@@ -221,6 +228,14 @@ p.tags {
 	
 }
 
+.list-item {
+	border-color: #ECECEC;
+	border-width: 0 0 1px 0;
+	border-style: solid;
+	margin-bottom: 30px;
+	padding-bottom: 30px;
+}
+
 .tool {
 	h1 img {
 		width: 80px;
@@ -236,6 +251,12 @@ p.tags {
 	h3 {margin-top:0;}
 	p.weblink a { color: #999; }
 	&:last {margin-bottom:0;}
+}
+
+p.weblink {
+	color: #444;
+	font-family: 'IBM Plex Mono', sans-serif;
+	a { color: #444; }
 }
 
 

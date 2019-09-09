@@ -1,5 +1,4 @@
 ---
-date: 2019-09-05 12:08:51 +0100
 title: What is customer empathy? 9 industry experts weigh in
 intro: Customer empathy, like customer experiences, can mean different things to different
   people, disciplines, and industries. Is there a common thread that everyone can
@@ -10,7 +9,7 @@ site: UserTesting.com
 category:
 - User empathy
 type: Article
-pubdate: 2018-12-13T00:00:00.000+00:00
+date: 2018-12-13T00:00:00.000+00:00
 preview: ''
 
 ---

@@ -5,7 +5,7 @@ category:
 - Design systems
 tags:
 site: We are Heavyweight
-pubdate: 2017-01-27
+date: 2017-01-27
 link: https://medium.com/@wereheavyweight/how-were-using-component-based-design-5f9e3176babb
 type: Article
 ---

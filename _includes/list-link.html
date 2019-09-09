@@ -1,5 +1,5 @@
-<div class="col-xs-12 col-md-4 filter-item {% for tag in item.tags %}{{ tag | replace: ' ', '-' | append: ' ' }}{% endfor %}">
-	<div class="grid-item bgg" data-mh="col-text">
+<div class="filter-item {% for tag in item.tags %}{{ tag | replace: ' ', '-' | append: ' ' }}{% endfor %}">
+	<div class="list-item" data-mh="col-text">
 
 		{% if item.image %}
 			<div class="grid-preview">
@@ -11,13 +11,16 @@
 		
 			
 			<h3><a href="{{ item.link }}" target="_blank">{{ item.title }}</a></h3>	
+			
+			<p class="weblink s"><a href="{{ item.link }}" target="_blank">{{ item.site }}</a>
+
+
 			{% if item.pubdate %}
-				<p class="s"><i class="fas fa-calendar-alt"></i> {{ item.pubdate | date: "%-d %B %Y" }}</p>
-			{% endif %}	
+				 – {{ item.pubdate | date: "%-d %B %Y" }}
+			{% endif %}	</p>
+			
 			<p>{{ item.intro }}</p>	
-			{% if item.site %}
-			<p class="weblink s"><a href="{{ item.link }}" target="_blank"><i class="fas fa-globe-americas"></i> {{ item.site }}</a></p>
-			{% endif %}
+			
 			
 			
 		    <p class="tags xs">

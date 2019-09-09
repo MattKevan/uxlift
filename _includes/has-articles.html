@@ -12,22 +12,25 @@
 
 {% if has_articles == 'yes' %}
 <div class="row">
-	<div class="col-xs-12">
-		<div class="section">
-	
-			<h2>Articles</h2>
-		
+	<div class="section clearfix">
+
+
+		<div class="col-xs-12">
 			<div class="row">
-				{% assign sorted_items = site.topics | sort:'title' %}
-				{% for item in sorted_items %}
-					{% for cat in item.category %}
-						{% if page.title == cat and item.type == 'Article'%}
-							{% include grid-link.html %}
-						{% endif %}
+				<div class="col-xs-12 col-sm-10 col-sm-push-1">
+				
+					<h2>Articles</h2>		
+					{% assign sorted_items = site.topics | sort:'title' %}
+					{% for item in sorted_items %}
+						{% for cat in item.category %}
+							{% if page.title == cat and item.type == 'Article'%}
+								{% include list-link.html %}
+							{% endif %}
+						{% endfor %}
 					{% endfor %}
-				{% endfor %}
+					
+				</div>
 			</div>
-			
 		</div>
 	</div>
 </div>

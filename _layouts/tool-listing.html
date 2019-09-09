@@ -22,10 +22,10 @@ layout: default
 
  {{ content }}
 
- 	<div class="listing bgg">
+ 	<div class="listing">
 		<div class="container">
 			<div class="row filter-grid">
-				{% assign sorted_items = site.tools | sort:'title' %}
+				{% assign sorted_items = site.tools | sort:'date' %}
 
 				{% for item in sorted_items %}
 					{% for cat in item.category %}

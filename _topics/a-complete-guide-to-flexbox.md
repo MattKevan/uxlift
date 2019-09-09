@@ -9,6 +9,6 @@ category:
 site: CSS Tricks
 link: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 type: Article
-pubdate: 2019-09-04 00:00:00 +0100
+date: 2019-09-04 00:00:00 +0100
 
 ---

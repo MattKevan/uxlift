@@ -1,5 +1,4 @@
 ---
-date: 2019-09-05 12:06:35 +0100
 title: What Is Empathy In Design Thinking? A Comprehensive Guide To Building Empathy
   For Your Users
 intro: 'Empathy is the cornerstone of any successful design project. The extent to
@@ -10,7 +9,7 @@ site: Career Foundry
 category:
 - User empathy
 type: Article
-pubdate: 2018-11-22 00:00:00 +0000
+date: 2018-11-22 00:00:00 +0000
 preview: ''
 
 ---

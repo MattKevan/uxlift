@@ -7,6 +7,6 @@ intro: By choosing to be a designer you are choosing to impact the people who co
   in contact with your work, you can either help or hurt them with your actions.
 site: Dear Design Student
 type: Article
-pubdate: 2016-07-06 00:00:00 +0100
+date: 2016-07-06 00:00:00 +0100
 
 ---

@@ -7,6 +7,6 @@ image:
 category: Design thinking
 site: Design Council
 type: Article
-pubdate: 2007-01-20 00:00:00 +0000
+date: 2007-01-20 00:00:00 +0000
 
 ---

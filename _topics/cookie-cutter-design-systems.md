@@ -8,8 +8,7 @@ category:
 link: https://www.abstract.com/blog/cookie-cutter-design-system-lyft/
 site: Abstract
 type: Article
-date: 2019-09-06 11:56:42 +0100
-pubdate: 2019-08-12 00:00:00 +0100
+date: 2019-08-12 00:00:00 +0100
 preview: ''
 
 ---

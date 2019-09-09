@@ -8,7 +8,6 @@ site: 'Designcode '
 category:
 - Prototyping
 type: Course
-pubdate: 
 preview: ''
 
 ---

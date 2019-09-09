@@ -43,10 +43,10 @@ $link-hover-decoration: underline !default;
 //
 //## Font, line-height, and color for body text, headings, and more.
 
-$font-family-sans-serif: 'Clear Sans', Helvetica, Arial, sans-serif !default;
-$font-family-serif:      'Clear Sans', Georgia, "Times New Roman", Times, serif !default;
+$font-family-sans-serif: 'IBM Plex Sans', Helvetica, Arial, sans-serif !default;
+$font-family-serif:      'IBM Plex Sans', Georgia, "Times New Roman", Times, serif !default;
 //** Default monospace fonts for `<code>`, `<kbd>`, and `<pre>`.
-$font-family-monospace:   Menlo, Monaco, Consolas, "Courier New", monospace !default;
+$font-family-monospace:   'IBM Plex Sans Mono', Menlo, Monaco, Consolas, "Courier New", monospace !default;
 $font-family-base:        $font-family-serif !default;
 
 $font-size-base:          16px !default;
