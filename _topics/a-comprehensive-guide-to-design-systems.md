@@ -7,7 +7,9 @@ category:
 site: Inside Design by InVision
 link: https://www.invisionapp.com/inside-design/guide-to-design-systems/
 type: Article
-date: 2019-06-24 00:00:00 +0100
+date: '2019-06-23T23:00:00.000+00:00'
 preview: ''
+image: "/assets/images/inv.png"
+pubdate: 
 
 ---
