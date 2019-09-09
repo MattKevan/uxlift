@@ -11,5 +11,6 @@ link: https://medium.com/dropbox-design/the-role-of-ux-writing-in-design-ethics-
 site: Dropbox Design
 type: Article
 image: "/assets/images/dropboxdesign.png"
+date: 2019-04-02 00:00:00 +0100
 
 ---
