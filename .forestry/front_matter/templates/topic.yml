@@ -19,15 +19,19 @@ fields:
   label: Link
   config:
     required: true
+- type: text
+  name: site
+  label: Site
+  description: The name of the site the content came from
+- type: datetime
+  name: date
+  label: Date
+  default: now
 - name: image
   type: file
   config:
     maxSize: 250
   label: Image
-- type: text
-  name: site
-  label: Site
-  description: The name of the site the content came from
 - type: list
   name: category
   label: Categories
@@ -50,10 +54,6 @@ fields:
       file: _data/categories.yml
       path: type
   label: Type
-- type: datetime
-  name: date
-  label: Date
-  default: now
 - name: preview
   type: file
   config:
