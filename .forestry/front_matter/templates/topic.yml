@@ -60,6 +60,8 @@ fields:
     maxSize: 250
   label: Preview
 pages:
+- _topics/how-do-you-keep-people-updated-with-what-is-being-worked-on.md
+- _topics/mark-boulton-the-ugly-truth-about-design-systems-video.md
 - _topics/5-years-of-design-systems-a-personal-journey-into-scalable-design.md
 - _topics/moving-from-sketch-to-figma-a-case-study-of-migrating-design-systems.md
 - _topics/effective-collaboration-how-to-design-work-sessions-that-work.md
@@ -69,7 +71,6 @@ pages:
 - _topics/a-comprehensive-guide-to-design-systems.md
 - _topics/5-factors-of-display-viewability.md
 - _topics/cancel-vs-close-design-to-distinguish-the-difference.md
-- _topics/how-do-you-keep-people-updated-with-what-is-being-worked-on.md
 - _topics/inclusive-design-an-overview-of-current-thinking.md
 - _topics/here-s-what-developers-want-designers-to-know-about-developer-handoff.md
 - _topics/understanding-css-grid.md
@@ -83,7 +84,6 @@ pages:
 - _topics/10-tips-on-making-magic-with-writers.md
 - _topics/the-3-click-rule-for-navigation-is-false.md
 - _topics/what-is-web-accessibility.md
-- _topics/mark-boulton-the-ugly-truth-about-design-systems-video.md
 - _topics/promoting-collaboration-in-ux-design-and-content-teams.md
 - _topics/platforma-2.md
 - _topics/the-business-case-for-digital-accessibility.md
