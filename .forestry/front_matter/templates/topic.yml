@@ -19,6 +19,11 @@ fields:
   label: Link
   config:
     required: true
+- name: image
+  type: file
+  config:
+    maxSize: 250
+  label: Image
 - type: text
   name: site
   label: Site
@@ -48,17 +53,7 @@ fields:
 - type: datetime
   name: pubdate
   label: Published date
-- name: date
-  type: datetime
-  label: Date
-  description: ''
-  config:
-    required: false
-    date_format: 
-    time_format: 
-    display_utc: false
   default: now
-  hidden: true
 - name: preview
   type: file
   config:
@@ -66,30 +61,30 @@ fields:
   label: Preview
 pages:
 - _topics/5-factors-of-display-viewability.md
-- _topics/how-do-you-keep-people-updated-with-what-is-being-worked-on.md
 - _topics/effective-collaboration-how-to-design-work-sessions-that-work.md
-- _topics/the-importance-of-collaborative-ux-design.md
-- _topics/how-ux-professionals-collaborate-on-deliverables.md
-- _topics/promoting-collaboration-in-ux-design-and-content-teams.md
-- _topics/understanding-css-grid.md
-- _topics/what-is-customer-empathy-9-industry-experts-weigh-in.md
-- _topics/a-comprehensive-guide-to-design-systems.md
-- _topics/cookie-cutter-design-systems.md
-- _topics/mark-boulton-the-ugly-truth-about-design-systems-video.md
-- _topics/moving-from-sketch-to-figma-a-case-study-of-migrating-design-systems.md
-- _topics/user-journey-planning-what-is-an-empathy-map.md
-- _topics/what-is-empathy-in-design-thinking-a-comprehensive-guide-to-building-empathy-for-your-users.md
-- _topics/5-years-of-design-systems-a-personal-journey-into-scalable-design.md
-- _topics/inclusive-design-an-overview-of-current-thinking.md
-- _topics/wireframing-101.md
-- _topics/what-is-web-accessibility.md
 - _topics/cancel-vs-close-design-to-distinguish-the-difference.md
+- _topics/how-do-you-keep-people-updated-with-what-is-being-worked-on.md
+- _topics/inclusive-design-an-overview-of-current-thinking.md
+- _topics/a-comprehensive-guide-to-design-systems.md
+- _topics/here-s-what-developers-want-designers-to-know-about-developer-handoff.md
+- _topics/dark-patterns.md
+- _topics/understanding-css-grid.md
+- _topics/wireframing-101.md
+- _topics/what-is-customer-empathy-9-industry-experts-weigh-in.md
+- _topics/best-practices-for-design-system-naming-conventions.md
+- _topics/the-importance-of-collaborative-ux-design.md
+- _topics/learning-to-wireframe-10-best-practices.md
+- _topics/what-is-empathy-in-design-thinking-a-comprehensive-guide-to-building-empathy-for-your-users.md
+- _topics/moving-from-sketch-to-figma-a-case-study-of-migrating-design-systems.md
+- _topics/how-ux-professionals-collaborate-on-deliverables.md
+- _topics/user-journey-planning-what-is-an-empathy-map.md
+- _topics/10-tips-on-making-magic-with-writers.md
+- _topics/cookie-cutter-design-systems.md
+- _topics/the-3-click-rule-for-navigation-is-false.md
+- _topics/what-is-web-accessibility.md
+- _topics/mark-boulton-the-ugly-truth-about-design-systems-video.md
+- _topics/promoting-collaboration-in-ux-design-and-content-teams.md
+- _topics/5-years-of-design-systems-a-personal-journey-into-scalable-design.md
 - _topics/platforma-2.md
 - _topics/the-business-case-for-digital-accessibility.md
-- _topics/here-s-what-developers-want-designers-to-know-about-developer-handoff.md
-- _topics/learning-to-wireframe-10-best-practices.md
 - _topics/high-fi-prototyping-with-protopie.md
-- _topics/best-practices-for-design-system-naming-conventions.md
-- _topics/10-tips-on-making-magic-with-writers.md
-- _topics/dark-patterns.md
-- _topics/the-3-click-rule-for-navigation-is-false.md

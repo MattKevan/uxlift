@@ -15,20 +15,20 @@ fields:
   name: link
   label: Link
 pages:
+- _design-systems/apple.md
 - _design-systems/meetup-swarm.md
 - _design-systems/yelp.md
+- _design-systems/github-primer.md
+- _design-systems/quickbooks.md
+- _design-systems/uber-base-web.md
+- _design-systems/sainsbury-s-luna.md
 - _design-systems/merck-liquid.md
 - _design-systems/zendesk-garden.md
-- _design-systems/sainsbury-s-luna.md
-- _design-systems/uber-base-web.md
 - _design-systems/mixpanel.md
 - _design-systems/sap-fundamentals.md
 - _design-systems/stack-overflow-stacks.md
-- _design-systems/github-primer.md
 - _design-systems/bbc-gel.md
 - _design-systems/gov-uk.md
-- _design-systems/quickbooks.md
-- _design-systems/apple.md
 - _design-systems/lonely-planet-rizzo.md
 - _design-systems/microsoft-fluent.md
 - _design-systems/vmware-clarity.md
