@@ -8,7 +8,8 @@ intro: Because the process of working with a writer can feel mysterious, here ar
   10 tips for non-writers on collaborating with your company’s friendly neighborhood
   word nerds.
 type: Article
-date: 2019-08-07 00:00:00 +0100
+date: 2019-08-06T23:00:00.000+00:00
 preview: ''
+image: "/assets/images/dropboxdesign.png"
 
 ---

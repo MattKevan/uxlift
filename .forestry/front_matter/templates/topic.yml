@@ -60,6 +60,7 @@ fields:
     maxSize: 250
   label: Preview
 pages:
+- _topics/10-tips-on-making-magic-with-writers.md
 - _topics/understanding-css-grid.md
 - _topics/here-s-what-developers-want-designers-to-know-about-developer-handoff.md
 - _topics/the-importance-of-collaborative-ux-design.md
@@ -82,7 +83,6 @@ pages:
 - _topics/learning-to-wireframe-10-best-practices.md
 - _topics/what-is-empathy-in-design-thinking-a-comprehensive-guide-to-building-empathy-for-your-users.md
 - _topics/user-journey-planning-what-is-an-empathy-map.md
-- _topics/10-tips-on-making-magic-with-writers.md
 - _topics/the-3-click-rule-for-navigation-is-false.md
 - _topics/what-is-web-accessibility.md
 - _topics/platforma-2.md
