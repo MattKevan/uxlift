@@ -15,6 +15,7 @@ fields:
   name: link
   label: Link
 pages:
+- _design-systems/workday-canvas.md
 - _design-systems/marvel.md
 - _design-systems/apple.md
 - _design-systems/meetup-swarm.md
