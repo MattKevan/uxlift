@@ -8,7 +8,8 @@ site: UX Booth
 category:
 - Collaboration
 type: Article
-date: 2016-06-28 00:00:00 +0100
+date: 2016-06-27T23:00:00.000+00:00
 preview: ''
+image: "/assets/images/favicon.ico-1.png"
 
 ---

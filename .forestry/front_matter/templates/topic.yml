@@ -60,12 +60,12 @@ fields:
     maxSize: 250
   label: Preview
 pages:
+- _topics/effective-collaboration-how-to-design-work-sessions-that-work.md
 - _topics/dark-patterns.md
 - _topics/cookie-cutter-design-systems.md
 - _topics/best-practices-for-design-system-naming-conventions.md
 - _topics/a-comprehensive-guide-to-design-systems.md
 - _topics/5-factors-of-display-viewability.md
-- _topics/effective-collaboration-how-to-design-work-sessions-that-work.md
 - _topics/cancel-vs-close-design-to-distinguish-the-difference.md
 - _topics/how-do-you-keep-people-updated-with-what-is-being-worked-on.md
 - _topics/inclusive-design-an-overview-of-current-thinking.md
