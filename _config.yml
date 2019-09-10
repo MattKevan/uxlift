@@ -59,6 +59,9 @@ collections:
   design-systems:
     output: true
     permalink: /design-systems/:path/
+  plugin:
+    output: true
+    permalink: /plugins/:path/
 
 defaults:
   -
@@ -107,3 +110,15 @@ defaults:
       title: ""
       intro: ""
       link: ""
+  -
+    scope:
+      path: ""
+      type: plugin
+    values:
+      layout: tool
+      image: ""
+      title: ""
+      intro: ""
+      link: ""
+      category: []
+      tool: []

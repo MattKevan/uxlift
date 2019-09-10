@@ -7,4 +7,6 @@ category:
 - Design systems
 - Sketch
 image: "/assets/images/html-sketchapp.png"
+tool:
+- Sketch
 ---

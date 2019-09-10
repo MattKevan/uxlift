@@ -5,6 +5,7 @@ link: http://www.sketchapp.com
 category:
 - Visual design
 - Prototyping
+- Design systems
 image: "/assets/images/sketch.png"
 ---
 

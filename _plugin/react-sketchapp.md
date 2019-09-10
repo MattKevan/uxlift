@@ -7,6 +7,8 @@ category:
 - Design systems
 - Sketch
 image: "/assets/images/react-sketchapp.png"
+tool:
+- Sketch
 ---
 
 ## What can I do with it?

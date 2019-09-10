@@ -9,7 +9,7 @@ category:
 - Prototyping
 - Collaboration
 - Handoff
-image: "/assets/images/figma.jpg"
+image: "/assets/images/figma.png"
 date: 2019-09-03 11:29:24 +0100
 
 ---
