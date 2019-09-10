@@ -10,7 +10,7 @@ category:
 - UX leadership
 pubdate: 2016-01-01 00:00:00 +0000
 authors: Dave Malouf
-publisher: UX Pin
+publisher: UXPin
 
 ---
 Best Practices for Leading Impactful UX Teams
