@@ -60,6 +60,7 @@ fields:
     maxSize: 250
   label: Preview
 pages:
+- _topics/patterntap.md
 - _topics/user-interface-design-patterns.md
 - _topics/why-ux-design-patterns-work-and-how-to-use-them.md
 - _topics/ux-design-patterns-what-why-and-how.md
