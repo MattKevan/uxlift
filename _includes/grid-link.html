@@ -1,25 +1,23 @@
 <div class="col-xs-12 col-md-4 filter-item {% for tag in item.tags %}{{ tag | replace: ' ', '-' | append: ' ' }}{% endfor %}">
 	<div class="grid-item bgg" data-mh="col-text">
 
-		{% if item.image %}
-			<div class="grid-preview">
-				<a href="{{ item.link }}" target="_blank"><img class="preview" src="/assets/{{ item.image }}" alt="{{ item.title }}" /></a>
-			</div>
-		{% endif %}
-
 		<div class="grid-content">
 		
 			
 			<h3><a href="{{ item.link }}" target="_blank">{{ item.title }}</a></h3>	
-			{% if item.pubdate %}
-				<p class="s"><i class="fas fa-calendar-alt"></i> {{ item.pubdate | date: "%-d %B %Y" }}</p>
-			{% endif %}	
+			
+			<p class="weblink s">
+				{% if item.image %}
+					<img class="list-logo" src="{{ item.image }}" alt="{{ item.title }}" />
+				{% endif %}
+				<a href="{{ item.link }}" target="_blank">{{ item.site }}</a>
+				{% for t in item.type %}
+					{% if t == "Article" %} – {{ item.date | date: "%-d %B %Y" }}{% endif %}
+				{% endfor %}
+			</p>
+
 			<p>{{ item.intro }}</p>	
-			{% if item.site %}
-			<p class="weblink s"><a href="{{ item.link }}" target="_blank"><i class="fas fa-globe-americas"></i> {{ item.site }}</a></p>
-			{% endif %}
-			
-			
+
 		    <p class="tags xs">
 		    	{% for cat in item.category %}<span>{{ cat }}</span>{% endfor %}
 		    	{% for tag in item.tags %}<span>{{ tag }}</span>{% endfor %}

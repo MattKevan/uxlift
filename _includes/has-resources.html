@@ -12,20 +12,21 @@
 
 {% if has_resources == 'yes' %}
 <div class="row">
-	<div class="col-xs-12">
-		<div class="section">
+		<div class="section clearfix">
+			<div class="col-xs-12 col-sm-10 col-sm-push-1">
 			<h2>Resources</h2>
 
-			<div class="row">
+
+
 				{% assign sorted_items = site.topics | sort:'title' %}
 				{% for item in sorted_items %}
 					{% for cat in item.category %}
 						{% if page.title == cat and item.type == 'Resource'%}
-							{% include grid-link.html %}
+							{% include list-link.html %}
 						{% endif %}
 					{% endfor %}
 				{% endfor %}
-			</div>
+
 		</div>
 	</div>
 </div>

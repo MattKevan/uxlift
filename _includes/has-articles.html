@@ -13,13 +13,9 @@
 {% if has_articles == 'yes' %}
 <div class="row">
 	<div class="section clearfix">
-
-
-		<div class="col-xs-12">
-			<div class="row">
 				<div class="col-xs-12 col-sm-10 col-sm-push-1">
 				
-					<h2>Best practice</h2>		
+					<h2>Articles</h2>		
 					{% assign sorted_items = site.topics | sort:'date' | reverse %}
 					{% for item in sorted_items %}
 						{% for cat in item.category %}
@@ -29,8 +25,6 @@
 						{% endfor %}
 					{% endfor %}
 					
-				</div>
-			</div>
 		</div>
 	</div>
 </div>

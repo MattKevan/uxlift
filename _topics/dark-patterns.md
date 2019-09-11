@@ -12,5 +12,6 @@ category:
 type: Resource
 date: 2019-08-29 17:28:37 +0100 
 preview: ''
+image: /assets/images/dp.png
 
 ---
