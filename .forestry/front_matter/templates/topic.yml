@@ -60,10 +60,11 @@ fields:
     maxSize: 250
   label: Preview
 pages:
+- _topics/dark-patterns.md
 - _topics/patterntap.md
-- _topics/user-interface-design-patterns.md
-- _topics/why-ux-design-patterns-work-and-how-to-use-them.md
 - _topics/ux-design-patterns-what-why-and-how.md
+- _topics/why-ux-design-patterns-work-and-how-to-use-them.md
+- _topics/user-interface-design-patterns.md
 - _topics/dark-patterns-12-tricks-you-should-never-use-in-your-products.md
 - _topics/dark-patterns-at-scale-findings-from-a-crawl-of-11k-shopping-websites.md
 - _topics/on-ux-leadership.md
@@ -84,7 +85,6 @@ pages:
 - _topics/5-years-of-design-systems-a-personal-journey-into-scalable-design.md
 - _topics/moving-from-sketch-to-figma-a-case-study-of-migrating-design-systems.md
 - _topics/effective-collaboration-how-to-design-work-sessions-that-work.md
-- _topics/dark-patterns.md
 - _topics/cookie-cutter-design-systems.md
 - _topics/best-practices-for-design-system-naming-conventions.md
 - _topics/a-comprehensive-guide-to-design-systems.md
