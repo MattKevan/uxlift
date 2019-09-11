@@ -7,7 +7,8 @@ intro: Some solutions worked so well that designers everywhere began to use them
 link: https://www.creativebloq.com/web-design/ux-design-patterns-work-91516961
 site: Creative Bloq
 image: "/assets/images/www.creativebloq.com.png"
-category: []
+category:
+- Design patterns
 type: Article
 preview: ''
 

@@ -60,8 +60,8 @@ fields:
     maxSize: 250
   label: Preview
 pages:
-- _topics/ux-design-patterns-what-why-and-how.md
 - _topics/why-ux-design-patterns-work-and-how-to-use-them.md
+- _topics/ux-design-patterns-what-why-and-how.md
 - _topics/dark-patterns-12-tricks-you-should-never-use-in-your-products.md
 - _topics/dark-patterns-at-scale-findings-from-a-crawl-of-11k-shopping-websites.md
 - _topics/on-ux-leadership.md
