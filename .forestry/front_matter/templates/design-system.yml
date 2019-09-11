@@ -15,6 +15,7 @@ fields:
   name: link
   label: Link
 pages:
+- _design-systems/audi-ci.md
 - _design-systems/skyscanner-backpack.md
 - _design-systems/salesforce-lightning.md
 - _design-systems/workday-canvas.md
