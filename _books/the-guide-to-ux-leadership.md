@@ -8,12 +8,12 @@ link: https://www.uxpin.com/studio/ebooks/ux-design-management-and-leadership/
 category:
 - UX strategy
 - UX leadership
-pubdate: 2016-01-01 00:00:00 +0000
+pubdate: 2016-01-01T00:00:00.000+00:00
 authors: Dave Malouf
 publisher: UXPin
 
 ---
-Best Practices for Leading Impactful UX Teams
+Best Practices for Leading Impactful UX Teams:
 
 * Based on 15+ years of UX leadership across Rackspace, Motorola, and HP.
 * Perfect for senior designers and design leaders.
