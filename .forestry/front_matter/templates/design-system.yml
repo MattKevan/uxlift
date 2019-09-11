@@ -15,6 +15,7 @@ fields:
   name: link
   label: Link
 pages:
+- _design-systems/buzzfeed-solid.md
 - _design-systems/barnardos.md
 - _design-systems/starbucks.md
 - _design-systems/artsy-palette.md
