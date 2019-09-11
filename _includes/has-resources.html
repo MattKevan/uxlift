@@ -13,8 +13,9 @@
 {% if has_resources == 'yes' %}
 <div class="row">
 		<div class="section clearfix">
-			<div class="col-xs-12 col-sm-10 col-sm-push-1">
-			<h2>Resources</h2>
+			<div class="col-xs-12">
+				<h2>Resources</h2>
+			</div>
 
 
 
@@ -22,7 +23,7 @@
 				{% for item in sorted_items %}
 					{% for cat in item.category %}
 						{% if page.title == cat and item.type == 'Resource'%}
-							{% include list-link.html %}
+							{% include grid-link.html %}
 						{% endif %}
 					{% endfor %}
 				{% endfor %}
