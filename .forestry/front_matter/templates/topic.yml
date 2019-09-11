@@ -60,6 +60,7 @@ fields:
     maxSize: 250
   label: Preview
 pages:
+- _topics/design-patterns.md
 - _topics/dark-patterns.md
 - _topics/patterntap.md
 - _topics/ux-design-patterns-what-why-and-how.md
