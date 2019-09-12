@@ -24,7 +24,13 @@ title: UX Lift
 
 			<div class="col-xs-12 ">
 				<div class="block-inner">
-					<h2>UX topics</h2>
+					
+					{% assign sorted = site.topics | sort:'date' | reverse %}
+			{% for item in sorted limit: 10 %}
+					{% include list-link.html %}
+					{% endfor %}
+
+
 					<div class="row">
 						
 					</div>
