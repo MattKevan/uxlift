@@ -60,6 +60,7 @@ fields:
     maxSize: 250
   label: Preview
 pages:
+- _topics/the-business-case-for-digital-accessibility.md
 - _topics/how-to-use-the-best-ui-design-patterns.md
 - _topics/devising-interfaces-with-ux-design-patterns.md
 - _topics/design-patterns.md
@@ -100,5 +101,4 @@ pages:
 - _topics/the-3-click-rule-for-navigation-is-false.md
 - _topics/what-is-web-accessibility.md
 - _topics/platforma-2.md
-- _topics/the-business-case-for-digital-accessibility.md
 - _topics/high-fi-prototyping-with-protopie.md
