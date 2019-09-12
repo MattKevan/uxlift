@@ -7,9 +7,10 @@ tags:
 - Research
 category:
 - Analytics
-link: https://www.nngroup.com/Articles/analytics-user-experience/
+link: https://www.nngroup.com/articles/analytics-user-experience/
 site: Nielsen Norman
 type: Article
 image: "/assets/images/nielsen.png"
+date: 2013-11-17 00:00:00 +0000
 
 ---
