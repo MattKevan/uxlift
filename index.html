@@ -25,13 +25,14 @@ title: UX Lift
 			<div class="col-xs-12 col-md-10 col-md-push-1 ">
 				
 					<h3>Latest articles</h3>
-					{% assign sorted = site.topics | sort:'date' | reverse %}
-			{% for item in sorted limit: 5 %}
-			{% if item.type == 'Article' %}
-					{% include list-link.html %}
-					{% endif %}
+					{% assign sorted = site.topics | sort: 'date' | where: 'type','Article' | reverse %}
+					{% for item in sorted limit: 5 %}
+				
+							{% include list-link.html %}
+			
 					{% endfor %}
 
+		
 
 					
 				</div>
