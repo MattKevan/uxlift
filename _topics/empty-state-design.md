@@ -1,11 +1,14 @@
 ---
 title: Why empty states deserve more design time
 category:
-  - Interface design
+- Interface design
 link: http://blog.invisionapp.com/why-empty-states-deserve-more-design-time/
 site: InvisionApp
-intro: "What empty states are and why they're important."
-tags: 
+intro: What empty states are and why they're important.
+tags:
 - Empty state design
 type: Article
+image: "/assets/images/inv.png"
+date: 2015-06-22 00:00:00 +0100
+
 ---
