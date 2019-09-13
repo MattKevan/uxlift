@@ -60,8 +60,8 @@ fields:
     maxSize: 250
   label: Preview
 pages:
-- _topics/the-business-case-for-digital-accessibility.md
 - _topics/on-ux-leadership.md
+- _topics/the-business-case-for-digital-accessibility.md
 - _topics/how-to-use-the-best-ui-design-patterns.md
 - _topics/devising-interfaces-with-ux-design-patterns.md
 - _topics/design-patterns.md
