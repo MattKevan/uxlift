@@ -60,11 +60,11 @@ fields:
     maxSize: 250
   label: Preview
 pages:
-- _topics/5-keys-to-ethical-design-research.md
 - _topics/interactive-prototyping-part-1.md
+- _topics/5-keys-to-ethical-design-research.md
+- _topics/pttrns.md
 - _topics/ux-writing-creating-microcopy-that-speaks-to-users.md
 - _topics/inspired-ui.md
-- _topics/pttrns.md
 - _topics/on-ux-leadership.md
 - _topics/the-business-case-for-digital-accessibility.md
 - _topics/how-to-use-the-best-ui-design-patterns.md
