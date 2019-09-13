@@ -60,6 +60,7 @@ fields:
     maxSize: 250
   label: Preview
 pages:
+- _topics/skeleton-versus-logo-launch-screen-a-direct-comparison.md
 - _topics/interactive-prototyping-part-1.md
 - _topics/5-keys-to-ethical-design-research.md
 - _topics/pttrns.md
