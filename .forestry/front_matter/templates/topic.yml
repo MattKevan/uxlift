@@ -60,6 +60,7 @@ fields:
     maxSize: 250
   label: Preview
 pages:
+- _topics/design-and-ethics-how-designers-fulfill-their-responsibilities.md
 - _topics/ethical-os.md
 - _topics/only-one-deliverable-matters.md
 - _topics/the-most-exciting-design-systems-are-boring.md
