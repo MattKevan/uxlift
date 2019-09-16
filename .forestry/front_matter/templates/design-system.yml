@@ -26,6 +26,7 @@ fields:
   hidden: true
   default: now
 pages:
+- _design-systems/hubspot-canvas.md
 - _design-systems/biteable-x.md
 - _design-systems/futurelearn.md
 - _design-systems/firefox-photon.md
