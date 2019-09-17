@@ -60,6 +60,7 @@ fields:
     maxSize: 250
   label: Preview
 pages:
+- _topics/button-contrast-checker.md
 - _topics/10-tips-on-using-components-in-figma.md
 - _topics/integrating-video-and-web-content-lessons-in-user-interface-design.md
 - _topics/the-gradual-design-system-how-we-built-slack-kit.md
