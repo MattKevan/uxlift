@@ -60,6 +60,7 @@ fields:
     maxSize: 250
   label: Preview
 pages:
+- _topics/the-gradual-design-system-how-we-built-slack-kit.md
 - _topics/cooperative-design-systems.md
 - _topics/intercom-s-fundamentals-of-good-interaction-design.md
 - _topics/toddler-taming-vs-stakeholder-management.md
