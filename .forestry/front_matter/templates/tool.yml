@@ -42,6 +42,7 @@ fields:
   hidden: true
   default: now
 pages:
+- _tools/lookback.md
 - _tools/dscout.md
 - _tools/figmac.md
 - _tools/figma.md
