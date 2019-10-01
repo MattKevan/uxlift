@@ -42,6 +42,7 @@ fields:
   hidden: true
   default: now
 pages:
+- _tools/userfeel.md
 - _tools/soundingbox.md
 - _tools/playbook-ux.md
 - _tools/user-insights.md
