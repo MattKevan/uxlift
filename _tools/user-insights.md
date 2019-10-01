@@ -1,7 +1,7 @@
 ---
 date: 2019-10-01 10:25:06 +0100
 title: User Insights
-image: "/assets/images/userinsights.png"
+image: "/assets/images/userinsights-1.png"
 intro: User Insights is the easiest way to understand what your customers think about
   your website.
 link: https://userinsights.com
