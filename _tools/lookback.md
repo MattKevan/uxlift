@@ -5,6 +5,7 @@ image: "/assets/images/lookback.svg"
 intro: Talk to your users. See how they’re using your app or website.
 link: https://lookback.io
 category:
+- User research
 - User testing
 
 ---
