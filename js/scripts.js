@@ -2,7 +2,7 @@ $(document).ready(function() {
 
   $('.item').matchHeight();
 
-
+/*
 	// init Isotope
 	var $grid = $('.filter-grid').isotope({
 	  itemSelector: '.filter-item',
@@ -36,7 +36,7 @@ $(document).ready(function() {
 	    $( this ).addClass('is-checked');
 	  });
 	});
-
+*/
 
 
 });
