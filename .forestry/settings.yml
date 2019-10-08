@@ -38,6 +38,11 @@ sections:
   create: documents
   match: "**/*"
 - type: directory
+  path: _plugin
+  label: Plugins
+  create: documents
+  match: "**/*"
+- type: directory
   path: _books
   label: Books
   create: documents

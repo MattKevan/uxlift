@@ -14,7 +14,23 @@ fields:
 - type: text
   name: link
   label: Link
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  hidden: true
+  default: now
 pages:
+- _design-systems/hubspot-canvas.md
+- _design-systems/biteable-x.md
+- _design-systems/futurelearn.md
+- _design-systems/firefox-photon.md
+- _design-systems/gitlab-pajamas.md
 - _design-systems/buzzfeed-solid.md
 - _design-systems/barnardos.md
 - _design-systems/starbucks.md
