@@ -42,15 +42,15 @@ fields:
   hidden: true
   default: now
 pages:
-- _tools/userlytics.md
-- _tools/userfeel.md
-- _tools/soundingbox.md
-- _tools/playbook-ux.md
-- _tools/user-insights.md
-- _tools/userbrain.md
-- _tools/lookback.md
 - _tools/dscout.md
+- _tools/lookback.md
 - _tools/figmac.md
+- _tools/userlytics.md
+- _tools/playbook-ux.md
+- _tools/userfeel.md
+- _tools/user-insights.md
+- _tools/soundingbox.md
+- _tools/userbrain.md
 - _tools/figma.md
 - _tools/netlify.md
 - _tools/flywheel.md
