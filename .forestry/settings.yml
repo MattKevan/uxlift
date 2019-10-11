@@ -57,10 +57,10 @@ sections:
   label: Data
   create: all
   match: "**/*"
-upload_dir: assets/images
-public_path: "/assets/images"
+upload_dir: https://res.cloudinary.com/dl4abuxel/image/upload
+public_path: https://res.cloudinary.com/dl4abuxel/image/upload
 front_matter_path: ''
-use_front_matter_path: false
+use_front_matter_path: true
 file_template: ":filename:"
 instant_preview: false
 build:
