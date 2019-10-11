@@ -57,7 +57,7 @@ sections:
   label: Data
   create: all
   match: "**/*"
-upload_dir: ''
+upload_dir: https://res.cloudinary.com/dl4abuxel/image/upload
 public_path: https://res.cloudinary.com/dl4abuxel/image/upload
 front_matter_path: ''
 use_front_matter_path: 
