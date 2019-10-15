@@ -8,7 +8,7 @@ image: "/assets/images/colorbox.png"
 category:
 - Accessibility
 - Visual design
-type: Article
+type: Resource
 preview: ''
 
 ---
