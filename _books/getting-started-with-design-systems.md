@@ -8,8 +8,8 @@ link: https://marvelapp.com/ebook-design-systems
 category:
 - Design systems
 pubdate: 
-authors: Marvel
-publisher: Marvel
+authors: ''
+publisher: Marvel Labs
 
 ---
 ### **What does it take to build a Design System?**
