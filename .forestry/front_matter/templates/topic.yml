@@ -60,6 +60,7 @@ fields:
     maxSize: 250
   label: Preview
 pages:
+- _topics/accessible-brand-colors.md
 - _topics/colorable.md
 - _topics/accessibility-for-teams.md
 - _topics/what-makes-a-good-wireframe.md
