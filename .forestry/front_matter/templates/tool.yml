@@ -42,6 +42,7 @@ fields:
   hidden: true
   default: now
 pages:
+- _tools/color-oracle.md
 - _tools/sim-daltonism.md
 - _tools/dscout.md
 - _tools/lookback.md
