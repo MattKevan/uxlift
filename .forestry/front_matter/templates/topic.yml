@@ -60,6 +60,7 @@ fields:
     maxSize: 250
   label: Preview
 pages:
+- _topics/accessibility-for-teams.md
 - _topics/what-makes-a-good-wireframe.md
 - _topics/building-successful-design-systems-with-well-integrated-research.md
 - _topics/design-systems-are-about-relationships.md
