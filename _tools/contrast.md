@@ -9,7 +9,7 @@ category:
 - Visual design
 
 ---
-### WCAG What?
+### WCAG what?
 
 The Web Content and Accessibility Guidelines are provided as a means to create more accessible interfaces for all, especially those with visual impairment.
 
