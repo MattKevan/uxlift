@@ -60,6 +60,7 @@ fields:
     maxSize: 250
   label: Preview
 pages:
+- _topics/color-safe.md
 - _topics/colorblind-web-page-filter.md
 - _topics/accessible-brand-colors.md
 - _topics/colorable.md
