@@ -52,6 +52,7 @@ fields:
   hidden: true
   default: now
 pages:
+- _books/butterick-s-practical-typography.md
 - _books/getting-started-with-design-systems.md
 - _books/the-what-how-and-why-of-design-systems.md
 - _books/visual-grammar.md
