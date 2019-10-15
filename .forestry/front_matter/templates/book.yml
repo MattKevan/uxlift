@@ -12,6 +12,9 @@ fields:
 - type: textarea
   name: intro
   label: Intro
+- name: free
+  type: boolean
+  label: Free
 - type: text
   name: link
   label: Link
