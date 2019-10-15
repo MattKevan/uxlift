@@ -60,6 +60,7 @@ fields:
     maxSize: 250
   label: Preview
 pages:
+- _topics/the-a11y-project.md
 - _topics/accessible-colours.md
 - _topics/pa11y.md
 - _topics/color-safe.md
