@@ -55,6 +55,7 @@ fields:
   hidden: true
   default: now
 pages:
+- _books/form-design-patterns.md
 - _books/inclusive-components.md
 - _books/mismatch-how-inclusion-shapes-design.md
 - _books/accessibility-for-everyone.md
