@@ -55,6 +55,7 @@ fields:
   hidden: true
   default: now
 pages:
+- _books/a-web-for-everyone.md
 - _books/articulating-design-decisions-communicate-with-stakeholders-keep-your-sanity-and-deliver-the-best-user-experience.md
 - _books/the-shape-of-design.md
 - _books/butterick-s-practical-typography.md
