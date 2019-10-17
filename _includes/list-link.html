@@ -5,13 +5,13 @@
 		<div class="grid-content">
 		
 			
-			<h4><a href="{{ item.link }}" target="_blank">{{ item.title }}</a></h4>	
+			<h4><a href="{{ item.link }}/?ref=uxlift.org" target="_blank">{{ item.title }}</a></h4>	
 			
 			<p class="weblink s">
 				{% if item.image %}
 					<img class="list-logo" src="{{ item.image }}" alt="{{ item.title }}" />
 				{% endif %}
-				<a href="{{ item.link }}" target="_blank">{{ item.site }}</a>
+				<a href="{{ item.link }}/?ref=uxlift.org" target="_blank">{{ item.site }}</a>
 				{% for t in item.type %}
 					{% if t == "Article" %} – {{ item.date | date: "%-d %B %Y" }}{% endif %}
 				{% endfor %}
