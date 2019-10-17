@@ -60,6 +60,7 @@ fields:
     maxSize: 250
   label: Preview
 pages:
+- _topics/designing-accessible-colour-systems.md
 - _topics/color-tool.md
 - _topics/colorbox.md
 - _topics/accessible-color-palette-builder.md
