@@ -12,6 +12,9 @@ fields:
 - type: textarea
   name: intro
   label: Intro
+- name: free
+  type: boolean
+  label: Free
 - type: text
   name: link
   label: Link
@@ -52,6 +55,17 @@ fields:
   hidden: true
   default: now
 pages:
+- _books/inclusive-design-patterns.md
+- _books/form-design-patterns.md
+- _books/inclusive-components.md
+- _books/mismatch-how-inclusion-shapes-design.md
+- _books/accessibility-for-everyone.md
+- _books/a-web-for-everyone.md
+- _books/articulating-design-decisions-communicate-with-stakeholders-keep-your-sanity-and-deliver-the-best-user-experience.md
+- _books/the-shape-of-design.md
+- _books/butterick-s-practical-typography.md
+- _books/getting-started-with-design-systems.md
+- _books/the-what-how-and-why-of-design-systems.md
 - _books/visual-grammar.md
 - _books/the-guide-to-ux-leadership.md
 - _books/strategic-writing-for-ux-drive-engagement-conversion-and-retention-with-every-word.md

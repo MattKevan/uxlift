@@ -1,7 +1,7 @@
 ---
 date: 2019-10-15 09:37:46 +0100
 title: Color Oracle
-image: assets/images/icon48x48.png
+image: "/assets/images/icon48x48.png"
 intro: Design for the color impaired. A free color blindness simulator for Windows,
   Mac and Linux.
 link: https://colororacle.org/
