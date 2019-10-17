@@ -60,6 +60,7 @@ fields:
     maxSize: 250
   label: Preview
 pages:
+- _topics/how-your-team-can-solve-a-customer-problem-in-just-8-minutes.md
 - _topics/designing-accessible-colour-systems.md
 - _topics/color-tool.md
 - _topics/colorbox.md
