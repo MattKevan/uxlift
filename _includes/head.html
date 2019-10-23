@@ -5,7 +5,6 @@
 
   <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-<meta name="ostrio-domain" content="KA_NxI0rAPMntmR_fDe7bccfIm7aqawVq9x8ueXzL3F">
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
 <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
@@ -15,7 +14,19 @@
   {% seo %}
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
-<script async defer type="text/javascript" src="https://analytics.ostr.io/sFPoWu8AdzFj8vAXL.js"></script>
+<script type="text/javascript">
+var _iub = _iub || [];
+_iub.csConfiguration = {"lang":"en","siteId":1706514,"cookiePolicyId":78513725, "banner":{ "position":"bottom","textColor":"black","backgroundColor":"#F8F8F8","acceptButtonDisplay":true,"acceptButtonColor":"#2962FF","acceptButtonCaptionColor":"white","customizeButtonDisplay":true,"customizeButtonColor":"#DADADA","customizeButtonCaptionColor":"#4D4D4D" }};
+</script><script type="text/javascript" src="//cdn.iubenda.com/cs/iubenda_cs.js" charset="UTF-8" async></script>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-136608094-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-  
+  gtag('config', 'UA-136608094-1');
+</script>
+
+
 </head>
