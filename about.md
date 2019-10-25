@@ -1,11 +1,10 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hi, I'm Matt.
 
-You can find the source code for the Jekyll new theme at:
-
+I'm a UX lead based in Manchester, currently working at AO.com. There's so much good content out there, so I started this site as a personal tool to keep track of interesting articles, tools and resources. As the site grew, I realised that it might be useful for others too.
 

@@ -8,8 +8,8 @@ title: UX Lift
 		<div class="row">
 			<div class="col-xs-12 ">
 				<div class="page-title">
-					<h1 class="page-title">{{ site.description }}</h1>
-					{% if page.intro %}<p class="lead">{{ page.intro }}</p>{% endif %}
+					<h1 class="page-title">{{ site.title }}</h1>
+					<p class="lead">The best articles, resources, books and tools, covering every aspect of the UX and design process, from start to finish.</p>
 				</div>
 			</div>
 		</div>
@@ -17,57 +17,24 @@ title: UX Lift
 </div>
 
 
-<div class="page home">
 	<div class="container">
+		<div class="section clearfix">
 		<div class="row">
-			<div class="section">
-
-			<div class="col-xs-12 col-md-10 col-md-push-1 ">
-				
-					<h3>Latest articles</h3>
-					{% assign sorted = site.topics | sort: 'date' | where: 'type','Article' | reverse %}
-					{% for item in sorted limit: 5 %}
-				
-							{% include list-link.html %}
 			
-					{% endfor %}
-
+			<div class="col-xs-12">
+				<h2>Explore topics</h2>
+			</div>
+			{% assign sorted_topics = site.topic-categories | sort:'title' %}
+			{% for item in sorted_topics %}
+				
+				
+				{% include grid-hub.html %}
 		
-
-					
-				</div>
-			</div>
-
-			
-
+			{% endfor %}	
 		</div>
-		<div class="row">
-
-			<div class="col-xs-12 col-sm-6 block">
-				<a href="/books">
-					<div class="block-inner" data-mh="item">
-						<h3>Books</h3>
-						<p>Essential books for every UX designer's library.</p>	
-					</div>
-				</a>
-			</div>
-
-
-			<div class="col-xs-12 col-sm-6 block">
-				<a href="/topics">
-					<div class="block-inner" data-mh="item">
-						<h3>Tools</h3>
-						<p>The best UX and design tools, software and services.</p>	
-					</div>
-				</a>
-			</div>
-
-
-
-
-		</div>		
+				
+		</div>
 	</div>
-</div>
 
 
 

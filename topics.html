@@ -9,17 +9,10 @@ searchtext: Search topics
 	<div class="container">
 		<div class="row">
 			{% assign sorted_topics = site.topic-categories | sort:'title' %}
-			{% for topic in sorted_topics %}
+			{% for item in sorted_topics %}
 				
 				
-					<div class="col-xs-12 col-sm-4 block">
-						<a href="{{ topic.url }}">
-							<div class="block-inner" data-mh="item">
-								<h3>{{ topic.title }}</h3>
-								<p>{{ topic.intro }}</p>
-							</div>
-						</a>
-					</div>
+				{% include grid-hub.html %}
 		
 			{% endfor %}	
 				
