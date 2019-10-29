@@ -4,6 +4,5 @@ title: Bulb Solar
 image: "/assets/images/bulb.co.uk.png"
 intro: ''
 link: https://design.bulb.co.uk/styles/colours
-published: false
 
 ---
