@@ -322,7 +322,24 @@ p.weblink {
 		color: $brand-primary;
 	}
 }
+/*no collapse*/
 
+.navbar-collapse.collapse.off {
+    display: block!important;
+}
+.navbar-collapse.collapse.off ul {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-nav.no-collapse>li,
+.navbar-nav.no-collapse {
+    float: left !important;
+}
+
+.navbar-right.no-collapse {
+    float: right!important;
+}
 .block {
 	margin-bottom: 30px;
 	h3, h4 {
