@@ -39,7 +39,7 @@ $(document).ready(function() {
 */
 
 	$(window).scroll(function(){                          
-        if ($(this).scrollTop() > 300) {
+        if ($(this).scrollTop() > 250) {
             $('#navbar-pagenav').fadeIn(200);
         } else {
             $('#navbar-pagenav').fadeOut(200);
