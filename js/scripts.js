@@ -50,6 +50,12 @@ $(document).ready(function() {
         event.preventDefault();
         $("html, body").animate({ scrollTop: $($(this).attr("href")).offset().top }, 500);
     });
+    
+    $(document).on('click','.navbar-collapse.in',function(e) {
+    if( $(e.target).is('a:not(".dropdown-toggle")') ) {
+        $(this).collapse('hide');
+    }
+});
 
 });
 
