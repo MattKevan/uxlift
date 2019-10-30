@@ -323,7 +323,9 @@ p.weblink {
 	}
 }
 /*no collapse*/
-
+.off .navbar-header {
+float:left;
+}
 .navbar-collapse.collapse.off {
     display: block!important;
 }
