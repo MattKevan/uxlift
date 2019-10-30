@@ -11,7 +11,7 @@ layout: default
 						{% assign crumb = page.url | split: '/' %}
 					<p class="s"><a href="{{ site.baseurl }}/">Home</a> » <a href="{{ site.baseurl }}/{{ crumb[1] }}">{{ crumb[1] | replace: '-',' ' | capitalize }}</a> »</p>
 						<h1 class="page-title">{{ page.title }}</h1>
-						<p class="lead">{{ page.intro }}
+						<p class="lead">{{ page.intro }}</p>
 					</div>
 				</div>
 			</div>
@@ -28,15 +28,13 @@ layout: default
 		{% include has-design-systems.html %}
 		{% include has-articles.html %}
 		{% include has-resources.html %}
-		{% include has-books.html %}
 		{% include has-tools.html %}
+		{% include has-books.html %}
 		{% include has-plugins.html %}
 						
 		
 	</div>
 
+</div>
 
-
-
-
-
+{% include pagenav.html %}

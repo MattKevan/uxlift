@@ -1,0 +1,92 @@
+{% assign has_plugins = 'no' %}
+{% assign has_resources = 'no' %}
+{% assign has_books = 'no' %}
+
+{% for item in site.plugin %}
+	{% for cat in item.category %}
+		{% if page.title == cat %}
+			{% assign has_plugins = 'yes' %}
+		{% endif %}
+	{% endfor %}
+{% endfor %}
+
+{% for item in site.topics %}
+	{% for cat in item.category %}
+		{% if page.title == cat and item.type == 'Resource'%}
+			{% assign has_resources = 'yes' %}
+		{% endif %}
+	{% endfor %}
+{% endfor %}
+
+
+{% for item in site.books %}
+	{% for cat in item.category %}
+		{% if page.title == cat %}
+			{% assign has_books = 'yes' %}
+		{% endif %}
+	{% endfor %}
+{% endfor %}
+
+{% assign has_resources = 'no' %}
+
+{% for item in site.topics %}
+	{% for cat in item.category %}
+		{% if page.title == cat and item.type == 'Resource'%}
+			{% assign has_resources = 'yes' %}
+		{% endif %}
+	{% endfor %}
+{% endfor %}
+
+{% assign has_tools = 'no' %}
+
+{% for item in site.tools %}
+	{% for cat in item.category %}
+		{% if page.title == cat %}
+			{% assign has_tools = 'yes' %}
+		{% endif %}
+	{% endfor %}
+{% endfor %}
+
+
+
+<nav class="navbar navbar-default navbar-fixed-top" id="navbar-pagenav"> 
+	<div class="container"> 
+		<div class="navbar-header"> 
+			<button class="collapsed navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-example-js-navbar-scrollspy"> 
+				<span class="sr-only">Toggle navigation</span> 
+				<span class="icon-bar"></span> 
+				<span class="icon-bar"></span> 
+				<span class="icon-bar"></span> 
+			</button> 
+			<a href="#pagetop" class="navbar-brand">{{ page.title }}</a> 
+		</div> 
+		<div class="collapse navbar-collapse bs-example-js-navbar-scrollspy"> 
+			<ul class="nav navbar-nav"> 
+				{% if page.title == 'Design systems' %}
+					<li class=""><a href="#Systems" class="scrollLink">Example systems</a></li>
+				{% endif %}
+
+				<li class=""><a href="#Articles" class="scrollLink">Articles</a></li>
+
+				{% if has_resources == 'yes' %}
+					<li class=""><a href="#Resources" class="scrollLink">Resources</a></li>
+				{% endif %}
+
+				{% if has_tools == 'yes' %}
+					<li class=""><a href="#Tools" class="scrollLink">Tools</a></li>
+				{% endif %}
+
+				{% if has_books == 'yes' %}
+					<li class=""><a href="#Books" class="scrollLink">Books</a></li>
+				{% endif %}
+				
+				{% if has_plugins == 'yes' %}
+					<li class=""><a href="#Plugins" class="scrollLink">Plugins</a></li>
+				{% endif %}
+		
+				
+			</ul> 
+		</div> 
+	</div>
+</nav>
+
