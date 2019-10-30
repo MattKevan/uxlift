@@ -5,6 +5,7 @@ link: https://origami.design
 category:
 - Prototyping
 image: "/assets/images/origami.png"
+date: 2019-07-15 09:37:46 +0100
 ---
 
 Explore, iterate, and test your ideas. A new tool for designing modern interfaces, built and used by designers at Facebook. Get started today for free.

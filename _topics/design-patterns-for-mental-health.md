@@ -1,4 +1,5 @@
 ---
+date: 2019-02-04 12:34:27 +0100
 title: Design patterns for mental health
 intro: A collection of design patterns combining clinical and design best practices.
 link: https://www.designpatternsformentalhealth.org/

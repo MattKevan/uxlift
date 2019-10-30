@@ -1,4 +1,5 @@
 ---
+date: 2018-07-15 09:37:46 +0100
 title: 'User Experience Mapping: Enhance UX with User Story Map, Journey Map and Diagrams'
 authors: Peter W Szabo
 link: "https://amzn.to/2ZdeVt6"

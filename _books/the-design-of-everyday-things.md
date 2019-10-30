@@ -1,4 +1,5 @@
 ---
+date: 2018-07-15 09:37:46 +0100
 title: The Design of Everyday Things, revised and expanded edition
 authors: Donald A. Norman
 bookllink: http://amzn.to/2hhYn0x

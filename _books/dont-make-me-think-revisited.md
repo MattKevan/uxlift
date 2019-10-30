@@ -9,6 +9,7 @@ category:
 publisher: New Riders
 image: "/assets/images/dont-make-me-think.jpg"
 intro: Don't Make Me Think is an essential guide to usability and website design.
+date: 2018-07-15 09:37:46 +0100
 ---
 
 Since it was first published in 2000, hundreds of thousands of Web designers and developers have relied on usability guru Steve Krug’s guide to help them understand the principles of intuitive navigation and information design.

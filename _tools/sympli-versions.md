@@ -5,6 +5,7 @@ link: https://versions.sympli.io
 category:
 - Design version control
 image: "/assets/images/versions.png"
+date: 2019-07-15 09:37:46 +0100
 ---
 
 Versions is currently free to use, and unlike Abstract or Plant, it connects to Github, Bitbucket or Azure Dev Ops rather than using its own cloud infrastructure. 

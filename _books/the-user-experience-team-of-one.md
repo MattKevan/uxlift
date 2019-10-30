@@ -1,4 +1,5 @@
 ---
+date: 2018-07-15 09:37:46 +0100
 title: 'The User Experience Team of One'
 authors: Leah Buley
 link: http://amzn.to/2hmao6V

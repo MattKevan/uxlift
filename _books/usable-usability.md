@@ -1,4 +1,5 @@
 ---
+date: 2018-07-15 09:37:46 +0100
 title: 'Usable Usability: Simple Steps for Making Things Better'
 authors: Eric Reiss
 link: "http://amzn.to/2i4AGtW"

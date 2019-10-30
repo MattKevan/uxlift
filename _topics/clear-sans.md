@@ -1,4 +1,5 @@
 ---
+date: 2013-06-19 09:37:46 +0100
 title: Clear Sans
 tags:
 - Open source
@@ -10,4 +11,4 @@ preview: clear-sans.png
 category: 
 - Typography
 - Visual design
----
+---2013-06-19

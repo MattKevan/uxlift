@@ -6,6 +6,7 @@ category:
 - Wireframing
 - Diagramming
 image: "/assets/images/lucid.png"
+date: 2019-07-15 09:37:46 +0100
 ---
 
 ### Actionable insights for every team
