@@ -129,10 +129,6 @@ pages:
 - _topics/colorbox.md
 - _topics/the-obvious-ui-is-often-the-best-ui.md
 - _topics/to-design-better-products-write-better-ux-copy.md
-- _topics/progressive-design-in-the-abstract.md
-- _topics/abstracting-the-microsoft-outlook-design-process.md
-- _topics/the-problem-with-dropdown-fields-and-what-you-should-use-instead.md
-- _topics/building-the-constellation-design-system.md
 - _topics/cooperative-design-systems.md
 - _topics/button-contrast-checker.md
 - _topics/skeleton-versus-logo-launch-screen-a-direct-comparison.md
@@ -144,3 +140,8 @@ pages:
 - _topics/ethical-os.md
 - _topics/design-and-ethics-how-designers-fulfill-their-responsibilities.md
 - _topics/how-we-re-establishing-a-new-visual-language-for-the-economist.md
+- _topics/building-the-constellation-design-system.md
+- _topics/the-problem-with-dropdown-fields-and-what-you-should-use-instead.md
+- _topics/abstracting-the-microsoft-outlook-design-process.md
+- _topics/progressive-design-in-the-abstract.md
+- _topics/managing-talent-strategically-using-career-roadmaps.md
