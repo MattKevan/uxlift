@@ -20,7 +20,7 @@
 			<p>{{ item.intro }}</p>	
 			
 		    <p class="tags xs">
-		    	{% for cat in item.category %}<span><a href="/topics/{{ cat }}">{{ cat }}</a></span>{% endfor %}
+		    	{% for cat in item.category %}<span><a href="/topics/{{ cat | slugify }}">{{ cat }}</a></span>{% endfor %}
 		    	{% for tag in item.tags %}<span>{{ tag }}</span>{% endfor %}
 			</p>
 
