@@ -9,7 +9,7 @@ title: UX Lift
 			<div class="col-xs-12 ">
 				<div class="page-title">
 					<h1 class="page-title">{{ site.title }}</h1>
-					<p class="lead">Collecting best articles, resources, books and tools on every aspect of the UX and design process, from start to finish.</p>
+					<p class="lead">{{ site.description }}</p>
 				</div>
 			</div>
 		</div>
@@ -27,8 +27,10 @@ title: UX Lift
 
 			{% assign sorted_topics = site.topic-categories | sort:'title' %}
 			{% for item in sorted_topics %}
-				<div class="col-xs-12 col-md-3 col-sm-4">
-					<h4><a href="{{ item.url }}">{{ item.title }}</a></h4>
+				<div class="col-xs-6 col-md-3 col-sm-4">
+					
+				 <p class="topic-title"><a href="{{ item.url }}">{{ item.title }}</a></p>
+				
 				</div>
 			{% endfor %}	
 		</div>		

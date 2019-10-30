@@ -100,7 +100,14 @@ h2 {
 		}
 	}
 }
-
+.topic-title {
+	font-weight: bold;
+	margin: 5px 0;
+	 @media (min-width: 768px) {
+	 	font-size: 20px;
+	 	margin: 10px 0;
+	 }
+}
 .post-teaser {
 	.fas {
 		font-size: .8em;
