@@ -38,11 +38,12 @@ category:
 - UX strategy
 - Accessibility
 - User journeys
-- Figma
-- Sketch
-- Abstract
 type:
 - Article
 - Resource
 - Font
 - Course
+tool:
+- Figma
+- Sketch
+- Abstract

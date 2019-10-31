@@ -7,10 +7,11 @@ link: https://medium.com/design-with-figma/10-tips-on-using-components-in-figma-
 site: Design With Figma
 image: "/assets/images/Figma.png"
 category:
-- Figma
 - Design systems
 - Visual design
 type: Article
 preview: ''
+tool:
+- Figma
 
 ---

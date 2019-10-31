@@ -21,7 +21,7 @@
 			
 		    <p class="tags xs">
 		    	{% for cat in item.category %}<span><a href="/topics/{{ cat | slugify }}">{{ cat }}</a></span>{% endfor %}
-		    	{% for tag in item.tags %}<span>{{ tag }}</span>{% endfor %}
+		    	{% for t in item.tool %}<span><a href="/tools/{{ t | slugify}}">{{ t }}</a></span>{% endfor %}
 			</p>
 
 		</div>
