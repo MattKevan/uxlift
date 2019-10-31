@@ -1,6 +1,6 @@
 ---
 title: ProtoPie
-intro: Interactive prototypes for the digital products of tomorrow.
+description: Interactive prototypes for the digital products of tomorrow.
 link: https://www.protopie.io
 category:
 - Prototyping

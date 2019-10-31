@@ -2,7 +2,7 @@
 date: 2019-10-01 09:42:13 +0100
 title: Userbrain
 image: "/assets/images/userbrain.svg"
-intro: Watch videos of real people interacting with your website. Hear what users
+description: Watch videos of real people interacting with your website. Hear what users
   think, see what they do, and start building better products for happier customers.
 link: https://userbrain.net
 category:

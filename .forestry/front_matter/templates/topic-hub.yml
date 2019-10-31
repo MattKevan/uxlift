@@ -6,7 +6,7 @@ fields:
 - type: text
   name: title
   label: Title
-- name: intro
+- name: description
   type: textarea
   default: ''
   config:
@@ -14,7 +14,7 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
-  label: Introduction
+  label: Description
 - name: layout
   type: select
   default: listing

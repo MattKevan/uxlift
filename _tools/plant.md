@@ -1,6 +1,6 @@
 ---
 title: Plant
-intro: Version control for designers.
+description: Version control for designers.
 link: http://www.plantapp.io
 category:
 - Design version control

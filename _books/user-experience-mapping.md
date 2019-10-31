@@ -10,7 +10,7 @@ category:
 publisher: Packt Publishing
 imprint:
 image: "/assets/images/uem.jpg"
-intro: 'Understand your users, gain strategic user insights, and make your product development more efficient with user experience mapping.'
+description: 'Understand your users, gain strategic user insights, and make your product development more efficient with user experience mapping.'
 ---
 
 If you want to create better products and innovative solutions, user experience maps will help you understand users, gain strategic insights, and improve communication with stakeholders. Maps will also help you champion user-centricity within your organization.

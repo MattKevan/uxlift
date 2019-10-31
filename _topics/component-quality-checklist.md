@@ -1,6 +1,6 @@
 ---
 title: Component design quality checklist
-intro: Lyft's checklist for determining the quality of proposed design system components.
+description: Lyft's checklist for determining the quality of proposed design system components.
 category:
 - Design systems
 site: Lyft

@@ -2,7 +2,7 @@
 date: 2019-10-15 14:12:06 +0100
 title: Contrast
 image: "/assets/images/contrast.jpg"
-intro: A macOS app for quick access to WCAG color contrast ratios.
+description: A macOS app for quick access to WCAG color contrast ratios.
 link: https://usecontrast.com
 category:
 - Accessibility

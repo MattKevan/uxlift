@@ -8,7 +8,7 @@ category:
 - Usability
 publisher: New Riders
 image: "/assets/images/er.jpg"
-intro: 'Whatever your role, Experience Required teaches you to become the UX leader you’ve always wanted to be.'
+description: 'Whatever your role, Experience Required teaches you to become the UX leader you’ve always wanted to be.'
 date: 2018-07-15 09:37:46 +0100
 ---
 

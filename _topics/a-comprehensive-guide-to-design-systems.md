@@ -1,6 +1,6 @@
 ---
 title: A comprehensive guide to design systems
-intro: The fundamentals of design systems, how you can build and implement one, and
+description: The fundamentals of design systems, how you can build and implement one, and
   explore examples of organizations that are using them to drive success.
 category:
 - Design systems

@@ -2,7 +2,7 @@
 date: 2019-10-17 11:02:35 +0100
 title: 'Building Design Systems: Unify User Experiences through a Shared Design Language'
 image: "/assets/images/bds.jpg"
-intro: 'Learn how to build a design system framed within the context of your specific
+description: 'Learn how to build a design system framed within the context of your specific
   business needs. '
 free: false
 link: https://amzn.to/2MRtVJh

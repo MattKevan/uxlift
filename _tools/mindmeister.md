@@ -2,7 +2,7 @@
 date: 2019-09-06 09:37:50 +0100
 title: MindMeister
 image: "/assets/images/mindmeister.png"
-intro: 'MindMeister is an online mind mapping tool that lets you capture, develop
+description: 'MindMeister is an online mind mapping tool that lets you capture, develop
   and share ideas visually. '
 link: https://www.mindmeister.com
 category:

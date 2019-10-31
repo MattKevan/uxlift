@@ -1,6 +1,6 @@
 ---
 title: How we're using component based design
-intro: 'Component Based Design is often talked about in context of large, complex
+description: 'Component Based Design is often talked about in context of large, complex
   projects. In this Article we’re making the case that it can also be very beneficial
   for smaller projects and teams. '
 category:

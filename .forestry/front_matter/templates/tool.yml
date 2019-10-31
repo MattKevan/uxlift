@@ -8,7 +8,7 @@ fields:
 - type: file
   name: image
   label: Image
-- name: intro
+- name: description
   type: textarea
   default: ''
   config:
@@ -16,7 +16,7 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
-  label: Introduction
+  label: Description
 - type: text
   name: link
   label: Link

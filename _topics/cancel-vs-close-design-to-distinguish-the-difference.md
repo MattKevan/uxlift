@@ -1,6 +1,6 @@
 ---
 title: 'Cancel vs Close: Design to Distinguish the Difference'
-intro: Distinguishing between these two actions is critical to avoiding losing users’
+description: Distinguishing between these two actions is critical to avoiding losing users’
   work. Save changes before closing a view, use text labels rather than an X icon,
   and provide a confirmation dialog before destructive actions.
 link: https://www.nngroup.com/articles/cancel-vs-close/

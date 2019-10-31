@@ -2,7 +2,7 @@
 date: 2019-10-01 17:06:48 +0100
 title: Userfeel
 image: "/assets/images/Userfeel.png"
-intro: A usability testing tool that gives you videos of real users speaking their
+description: A usability testing tool that gives you videos of real users speaking their
   thoughts as they use your website or app.
 link: https://www.userfeel.com
 category:

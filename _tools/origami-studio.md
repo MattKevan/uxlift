@@ -1,6 +1,6 @@
 ---
 title: Origami Studio
-intro: A new tool for designing modern interfaces, built and used by designers at Facebook.
+description: A new tool for designing modern interfaces, built and used by designers at Facebook.
 link: https://origami.design
 category:
 - Prototyping

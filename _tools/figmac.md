@@ -2,7 +2,7 @@
 date: 2019-09-16 17:36:11 +0100
 title: Figmac
 image: "/assets/images/Figmac.png"
-intro: A super lightweight Figma desktop app that delivers a more natural Mac experience.
+description: A super lightweight Figma desktop app that delivers a more natural Mac experience.
 link: https://figmac.com
 category:
 - Visual design

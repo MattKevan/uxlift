@@ -2,7 +2,7 @@
 date: 2019-10-01 09:35:25 +0100
 title: dscout
 image: "/assets/images/dscout.png"
-intro: dscout’s remote research platform uses a mobile app and +100K eager participants
+description: dscout’s remote research platform uses a mobile app and +100K eager participants
   to efficiently capture in-the-moment video and make insights easy to synthesize
   and share.
 link: https://dscout.com

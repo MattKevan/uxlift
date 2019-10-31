@@ -1,6 +1,6 @@
 ---
 title: What is customer empathy? 9 industry experts weigh in
-intro: Customer empathy, like customer experiences, can mean different things to different
+description: Customer empathy, like customer experiences, can mean different things to different
   people, disciplines, and industries. Is there a common thread that everyone can
   agree upon? Is there an industry standard when it comes to understanding customer
   empathy?

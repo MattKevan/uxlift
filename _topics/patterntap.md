@@ -1,7 +1,7 @@
 ---
 date: 2019-09-11 10:07:37 +0100
 title: PatternTap
-intro: Collecting specific designs and user interaction patterns where designers can
+description: Collecting specific designs and user interaction patterns where designers can
   learn what works well and why.
 link: https://patterntap.com/patterntap
 site: PatternTap

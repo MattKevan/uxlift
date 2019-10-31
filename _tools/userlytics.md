@@ -2,7 +2,7 @@
 date: 2019-10-01 17:29:24 +0100
 title: Userlytics
 image: "/assets/images/userlytics.png"
-intro: Scalable and customised user research. Analytics tells you what. Userlytics
+description: Scalable and customised user research. Analytics tells you what. Userlytics
   tells you why.
 link: https://www.userlytics.com
 category:

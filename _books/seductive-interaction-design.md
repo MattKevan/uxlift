@@ -8,7 +8,7 @@ category:
 - Interaction design
 publisher: New Riders
 image: "/assets/images/seductive.jpg"
-intro: What happens when you’ve built a great website or app, but no one seems to care?
+description: What happens when you’ve built a great website or app, but no one seems to care?
 date: 2018-07-15 09:37:46 +0100
 ---
 

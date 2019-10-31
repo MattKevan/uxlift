@@ -1,6 +1,6 @@
 ---
 title: The consumer decision journey
-intro: A method outlining the four main stages of a customer's decision-making process,
+description: A method outlining the four main stages of a customer's decision-making process,
   from initial consideration to post-purchase.
 category:
 - Engagement

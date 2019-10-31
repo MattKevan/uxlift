@@ -1,6 +1,6 @@
 ---
 title: Sketch
-intro: The industry-leading tool for digital design.
+description: The industry-leading tool for digital design.
 link: http://www.sketchapp.com
 category:
 - Visual design

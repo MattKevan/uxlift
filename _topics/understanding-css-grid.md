@@ -1,6 +1,6 @@
 ---
 title: Understanding CSS grid
-intro: CSS Grid is a new way to create two-dimensional layouts on the web. With just
+description: CSS Grid is a new way to create two-dimensional layouts on the web. With just
   a few lines of CSS, you can create a grid that was hardly possible before without
   JavaScript. No plugin or complicated installs, no heavy additional files, no more
   design limitations.

@@ -8,7 +8,7 @@ category:
 - Psychology
 publisher: New Riders
 image: /assets/images/100-things.jpg
-intro: We design to elicit responses from people. We want them to buy something, read more, or take action of some kind. 
+description: We design to elicit responses from people. We want them to buy something, read more, or take action of some kind. 
 date: 2018-07-15 09:37:46 +0100
 
 ---

@@ -2,7 +2,7 @@
 date: 2019-09-06 11:07:18 +0100
 title: Whimsical
 image: "/assets/images/whimsical.png"
-intro: The visual workspace. Communicate visually at the speed of thought.
+description: The visual workspace. Communicate visually at the speed of thought.
 link: https://whimsical.com
 category:
 - Collaboration

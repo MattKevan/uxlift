@@ -1,6 +1,6 @@
 ---
 title: User Journey Planning – What is an Empathy Map?
-intro: 'Empathy maps are a really simple activity that should be part of your user
+description: 'Empathy maps are a really simple activity that should be part of your user
   journey workshop. They are fun to do and help you gain a better understanding of
   your customer segments to make more informed design decisions and improve the user
   experience. '

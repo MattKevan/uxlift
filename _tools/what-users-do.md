@@ -1,6 +1,6 @@
 ---
 title: What Users Do
-intro: Platform to help you understand how your customers engage with your website
+description: Platform to help you understand how your customers engage with your website
   or product.
 link: http://www.whatusersdo.com
 category:

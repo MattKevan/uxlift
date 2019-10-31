@@ -2,7 +2,7 @@
 date: 2019-09-03 11:06:39 +0100
 title: 'UX Strategy: How to Devise Innovative Digital Products That People Want'
 image: "/assets/images/ux-strategy.jpg"
-intro: 'User experience (UX) strategy requires a careful blend of business strategy
+description: 'User experience (UX) strategy requires a careful blend of business strategy
   and UX design, but until now, there hasn’t been an easy-to-apply framework for executing
   it. '
 link: https://amzn.to/2Pym6fV
@@ -13,7 +13,7 @@ pubdate:
 publisher: O'Reilly
 
 ---
-This hands-on guide introduces lightweight strategy tools and techniques to help you and your team craft innovative multi-device products that people want to use.
+This hands-on guide descriptionduces lightweight strategy tools and techniques to help you and your team craft innovative multi-device products that people want to use.
 
 Whether you’re an entrepreneur, UX/UI designer, product manager, or part of an intrapreneurial team, this book teaches simple-to-advanced strategies that you can use in your work right away. Along with business cases, historical context, and real-world examples throughout, you’ll also gain different perspectives on the subject through interviews with top strategists.
 

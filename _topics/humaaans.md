@@ -1,6 +1,6 @@
 ---
 title: Humaaans
-intro: "Mix-&-match illustrations of people with a design library."
+description: "Mix-&-match illustrations of people with a design library."
 link: http://www.humaaans.com
 tags:
 - Free

@@ -1,6 +1,6 @@
 ---
 title: Abstract
-intro: One place to version, manage, and collaborate on your Sketch files.
+description: One place to version, manage, and collaborate on your Sketch files.
 link: http://www.goabstract.com
 category:
 - Design version control

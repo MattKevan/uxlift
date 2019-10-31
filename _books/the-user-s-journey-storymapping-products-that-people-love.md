@@ -2,7 +2,7 @@
 date: 2019-09-03 12:48:23 +0100
 title: 'The User''s Journey: Storymapping Products That People Love'
 image: "/assets/images/users-journey.jpg"
-intro: 'The User''s Journey will show you how, when, and why to use narrative structure,
+description: 'The User''s Journey will show you how, when, and why to use narrative structure,
   technique, and principles to ideate, craft, and test a cohesive vision for an engaging
   outcome. '
 link: https://amzn.to/2ZI2NAF

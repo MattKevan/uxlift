@@ -1,5 +1,5 @@
 ---
 title: User testing
-intro: Go from design to working code in a single step.
+description: Go from design to working code in a single step.
 layout: tool-listing
 ---

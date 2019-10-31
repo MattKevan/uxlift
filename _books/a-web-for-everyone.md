@@ -2,7 +2,7 @@
 date: 2019-10-16 12:47:53 +0100
 title: A Web for Everyone
 image: "/assets/images/a-web-for-everyone.jpg"
-intro: 'If you are in charge of the user experience, development, or strategy for
+description: 'If you are in charge of the user experience, development, or strategy for
   a web site, A Web for Everyone will help you make your site accessible without sacrificing
   design or innovation. '
 free: false

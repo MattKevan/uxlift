@@ -3,7 +3,7 @@ date: 2019-10-16 12:38:33 +0100
 title: 'Articulating Design Decisions: Communicate with Stakeholders, Keep Your Sanity,
   and Deliver the Best User Experience'
 image: "/assets/images/articulating-design-decisions.jpg"
-intro: Talking to people about your designs might seem like a basic skill, but it
+description: Talking to people about your designs might seem like a basic skill, but it
   can be difficult to do efficiently and well.
 free: false
 link: https://amzn.to/2OSO98c

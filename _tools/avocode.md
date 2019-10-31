@@ -1,6 +1,6 @@
 ---
 title: Avocode
-intro: Handoff Sketch, XD, Photoshop or Illustrator designs to developers.
+description: Handoff Sketch, XD, Photoshop or Illustrator designs to developers.
 link: https://avocode.com
 category:
 - Handoff

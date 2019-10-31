@@ -1,6 +1,6 @@
 ---
 title: Principle
-intro: Create animated user interfaces and prototypes.
+description: Create animated user interfaces and prototypes.
 link: http://principleformac.com
 category:
 - Prototyping

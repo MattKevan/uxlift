@@ -1,6 +1,6 @@
 ---
 title: Design Tooling at Scale
-intro: How Dropbox migrated to Figma and structured our cross-platform design system.
+description: How Dropbox migrated to Figma and structured our cross-platform design system.
 category:
 - Design systems
 tool:

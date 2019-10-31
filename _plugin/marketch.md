@@ -1,6 +1,6 @@
 ---
 title: Marketch
-intro: Generates a HTML page where you can get measures, CSS styles and asset exports.
+description: Generates a HTML page where you can get measures, CSS styles and asset exports.
 link: https://github.com/tudou527/marketch
 image:
 category: 

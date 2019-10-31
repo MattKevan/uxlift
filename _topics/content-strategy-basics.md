@@ -1,6 +1,6 @@
 ---
 title: Content strategy basics
-intro: Ensuring that you have useful and usable content, that is well structured,
+description: Ensuring that you have useful and usable content, that is well structured,
   and easily found is vital to improving the user experience of a website.
 category:
 - Content strategy

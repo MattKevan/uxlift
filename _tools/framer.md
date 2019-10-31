@@ -1,6 +1,6 @@
 ---
 title: Framer
-intro: Advanced web and app design tool, with React integration.
+description: Advanced web and app design tool, with React integration.
 link: http://www.framer.com
 category:
 - Visual design

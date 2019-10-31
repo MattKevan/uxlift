@@ -17,7 +17,7 @@
 				{% endfor %}
 			</p>
 			
-			<p>{{ item.intro }}</p>	
+			<p>{{ item.description }}</p>	
 			
 		    <p class="tags xs">
 		    	{% for cat in item.category %}<span><a href="/topics/{{ cat | slugify }}">{{ cat }}</a></span>{% endfor %}

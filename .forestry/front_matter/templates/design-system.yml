@@ -9,8 +9,8 @@ fields:
   name: image
   label: Image
 - type: text
-  name: intro
-  label: Introduction
+  name: description
+  label: Description
 - type: text
   name: link
   label: Link

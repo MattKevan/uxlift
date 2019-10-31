@@ -2,7 +2,7 @@
 date: 2019-10-16 13:12:52 +0100
 title: Form Design Patterns
 image: "/assets/images/form-design-patterns-shop-image.png"
-intro: A practical guide to designing and coding simple and inclusive forms for the
+description: A practical guide to designing and coding simple and inclusive forms for the
   web.
 free: false
 link: https://amzn.to/32mviGe

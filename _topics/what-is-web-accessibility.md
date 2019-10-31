@@ -1,6 +1,6 @@
 ---
 title: What Is Web Accessibility?
-intro: 'Who you need to consider when making your website accessible and what their
+description: 'Who you need to consider when making your website accessible and what their
   unique requirements are. '
 link: https://alistapart.com/article/wiwa/
 site: A List Apart

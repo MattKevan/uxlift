@@ -1,7 +1,7 @@
 ---
 date: 2019-09-13 10:53:29 +0100
 title: Inspired UI
-intro: A showcase of the best examples of beautifully designed mobile apps - iPhone,
+description: A showcase of the best examples of beautifully designed mobile apps - iPhone,
   iPad, Android, UI Patterns.
 link: https://inspired-ui.com
 site: Inspired UI

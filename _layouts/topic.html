@@ -19,7 +19,7 @@ layout: default
 					{% if t == "Article" %} – {{ page.date | date: "%-d %B %Y" }}{% endif %}
 				{% endfor %}
 			</p>
-				<p class="lead">{{ page.intro }}</p>
+				<p class="lead">{{ page.description }}</p>
 				<a class="btn btn-primary" href="{{ page.link }}" target="_blank">View {{ page.type | downcase }} »</a>
 
 			</div>

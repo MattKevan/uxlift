@@ -2,7 +2,7 @@
 date: 2019-10-16 12:50:26 +0100
 title: Accessibility for Everyone
 image: "/assets/images/accessibility.png"
-intro: You make the web more inclusive for everyone, everywhere, when you design with
+description: You make the web more inclusive for everyone, everywhere, when you design with
   accessibility in mind.
 free: false
 link: https://abookapart.com/products/accessibility-for-everyone

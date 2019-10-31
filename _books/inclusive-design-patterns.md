@@ -2,7 +2,7 @@
 date: 2019-10-16 13:17:01 +0100
 title: Inclusive Design Patterns
 image: "/assets/images/idp.jpg"
-intro: This book covers all the techniques, gotchas and front-end strategies you need
+description: This book covers all the techniques, gotchas and front-end strategies you need
   to be aware of when building accessible, inclusive interfaces
 free: false
 link: https://amzn.to/2oCECHF

@@ -1,6 +1,6 @@
 ---
 title: Button design best practices
-intro: Buttons are a vital part of any interaction design, yet they're easy to get wrong. Here's how to create good ones.
+description: Buttons are a vital part of any interaction design, yet they're easy to get wrong. Here's how to create good ones.
 date: 2019-03-12
 author: Matt Kevan
 tags:

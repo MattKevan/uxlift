@@ -2,7 +2,7 @@
 date: 2019-10-15 14:25:36 +0100
 title: The What How and Why of Design Systems
 image: "/assets/images/design-systems-what-how-why.jpg"
-intro: 'Design systems create consistency, help teams scale design processes, and
+description: 'Design systems create consistency, help teams scale design processes, and
   make it easy to collaborate through shared patterns and language. '
 link: https://www.adobe.com/products/xd/design-systems/design-systems-what-how-why.html
 category:

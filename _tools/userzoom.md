@@ -1,6 +1,6 @@
 ---
 title: UserZoom
-intro: All-in-one platform for agile UX insights.
+description: All-in-one platform for agile UX insights.
 link: http://www.userzoom.com
 category:
 - User testing

@@ -8,7 +8,7 @@ category:
 - Usability
 publisher: New Riders
 image: "/assets/images/dont-make-me-think.jpg"
-intro: Don't Make Me Think is an essential guide to usability and website design.
+description: Don't Make Me Think is an essential guide to usability and website design.
 date: 2018-07-15 09:37:46 +0100
 ---
 

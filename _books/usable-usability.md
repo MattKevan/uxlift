@@ -10,7 +10,7 @@ category:
 publisher: John Wiley & Sons
 imprint:
 image: "/assets/images/usable-usability.jpg"
-intro: 'Frustrated by pop–ups? Forms that make you start over if you miss a field? Nonsensical error messages? You′re not alone!'
+description: 'Frustrated by pop–ups? Forms that make you start over if you miss a field? Nonsensical error messages? You′re not alone!'
 ---
 
 This book helps you simply get it right the first time (or fix what′s broken).

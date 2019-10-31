@@ -1,6 +1,6 @@
 ---
 title: Sympli Versions
-intro: Git for designers.
+description: Git for designers.
 link: https://versions.sympli.io
 category:
 - Design version control

@@ -1,7 +1,7 @@
 ---
 date: 2019-10-15 14:08:04 +0100
 title: Color Tool
-intro: Create, share, and apply color palettes to your UI, as well as measure the
+description: Create, share, and apply color palettes to your UI, as well as measure the
   accessibility level of any color combination.
 link: https://material.io/resources/color
 site: Google Material Design

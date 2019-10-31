@@ -2,7 +2,7 @@
 date: 2019-09-03T08:58:35.000+00:00
 title: Hugo
 image: "/assets/images/iu.png"
-intro: Hugo is one of the most popular open-source static site generators. With its
+description: Hugo is one of the most popular open-source static site generators. With its
   amazing speed and flexibility, Hugo makes building websites fun again.
 link: https://gohugo.io
 category:

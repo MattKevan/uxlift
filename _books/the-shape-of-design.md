@@ -2,7 +2,7 @@
 date: 2019-10-15 14:42:29 +0100
 title: The Shape of Design
 image: "/assets/images/cover.svg"
-intro: 'Shape is a book about objectives, and it zooms out to answer a couple big
+description: 'Shape is a book about objectives, and it zooms out to answer a couple big
   questions: How does it feel to make things for other people? And how can we do so
   in a meaningful, engaged way?'
 link: https://shapeofdesignbook.com

@@ -9,7 +9,7 @@ category:
 publisher: O'Reilly Media
 image: "/assets/images/lean-ux.jpg"
 type: book
-intro: The Lean UX approach to interaction design is tailor-made for today’s web-driven reality.
+description: The Lean UX approach to interaction design is tailor-made for today’s web-driven reality.
 date: 2018-07-15 09:37:46 +0100
 ---
 

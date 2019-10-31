@@ -3,7 +3,7 @@ date: 2019-09-03 11:50:55 +0100
 title: 'Strategic Writing for UX: Drive Engagement, Conversion, and Retention with
   Every Word'
 image: "/assets/images/strategic-writing.jpg"
-intro: When you depend on users to perform specific actions-like buying tickets, playing
+description: When you depend on users to perform specific actions-like buying tickets, playing
   a game, or riding public transit-well-placed words are most effective. But how do
   you choose the right words? And how do you know if they work?
 link: https://amzn.to/2LhUGaj

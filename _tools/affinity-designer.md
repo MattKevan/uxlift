@@ -1,6 +1,6 @@
 ---
 title: Affinity Designer
-intro: The fastest, smoothest, most precise vector graphic design software available for Mac, Windows and iPad.
+description: The fastest, smoothest, most precise vector graphic design software available for Mac, Windows and iPad.
 link: https://affinity.serif.com/en-gb/designer/
 category:
 - Visual design

@@ -10,8 +10,8 @@ fields:
   name: image
   label: Image
 - type: textarea
-  name: intro
-  label: Intro
+  name: description
+  label: Description
 - name: free
   type: boolean
   label: Free

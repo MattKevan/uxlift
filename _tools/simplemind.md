@@ -2,7 +2,7 @@
 date: 2019-09-06 09:49:33 +0100
 title: SimpleMind
 image: "/assets/images/simplemind.png"
-intro: SimpleMind is the world leader in cross platform Mind Mapping tools.
+description: SimpleMind is the world leader in cross platform Mind Mapping tools.
 link: https://simplemind.eu
 category:
 - Diagramming

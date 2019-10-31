@@ -1,6 +1,6 @@
 ---
 title: The role of UX writing in design ethics
-intro: Dark patterns are user interface patterns specifically designed to trick a
+description: Dark patterns are user interface patterns specifically designed to trick a
   person into making a choice they wouldn’t want to make. When the words in your product
   frustrate, shame, or manipulate people into taking actions they wouldn’t otherwise
   have taken, the user experience fails.

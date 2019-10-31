@@ -1,6 +1,6 @@
 ---
 title: 'Cooper Crash Course: Design Thinking in 3 Steps'
-intro: 'Understand your audience, envision a creative solution, and test your prototype by award-winning UX design firm Cooper'
+description: 'Understand your audience, envision a creative solution, and test your prototype by award-winning UX design firm Cooper'
 preview: 2.jpg
 institution: Udemy
 type: Course

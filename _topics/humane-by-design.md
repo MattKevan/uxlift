@@ -4,7 +4,7 @@ category:
 - Information architecture
 - Design ethics
 link: https://humanebydesign.com/
-intro: 'Humane by Design is a resource that provides guidance for designing ethically humane digital products through patterns focused on user well-being.'
+description: 'Humane by Design is a resource that provides guidance for designing ethically humane digital products through patterns focused on user well-being.'
 site: Humane by Design
 type: Resource
 

@@ -1,6 +1,6 @@
 ---
 title: 'Effective Collaboration: How to Design Work Sessions that Work'
-intro: Collaboration sounds great—until someone schedules another aimless “brainstorming”
+description: Collaboration sounds great—until someone schedules another aimless “brainstorming”
   meeting. Bringing diverse people together can unleash their collective powers, but
   it takes more than a white board and Post-its.
 link: https://www.uxbooth.com/articles/effective-collaboration/

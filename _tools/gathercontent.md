@@ -1,6 +1,6 @@
 ---
 title: GatherContent
-intro: Unify content creation, workflow, and collaboration.
+description: Unify content creation, workflow, and collaboration.
 link: https://gathercontent.com
 category:
 - Collaboration

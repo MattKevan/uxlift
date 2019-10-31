@@ -2,7 +2,7 @@
 date: 2019-10-15 09:34:03 +0100
 title: Sim Daltonism
 image: "/assets/images/logo16.svg"
-intro: 'The color blindness simulator. '
+description: 'The color blindness simulator. '
 link: https://michelf.ca/projects/sim-daltonism/
 category:
 - Visual design

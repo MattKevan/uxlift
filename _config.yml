@@ -22,7 +22,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.uxlift.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
-
+lang: en_GB
 # Build settings
 markdown: kramdown
 plugins:
@@ -71,7 +71,7 @@ defaults:
     values:
       layout: topic
       title: ""
-      intro: ""
+      description: ""
       tags: []
       linkurl: ""
       authors: ""
@@ -82,7 +82,7 @@ defaults:
       type: books
     values:
       title: ""
-      intro: ""
+      description: ""
       category: []
       link: ""
       authors: ""
@@ -97,7 +97,7 @@ defaults:
       layout: tool
       image: ""
       title: ""
-      intro: ""
+      description: ""
       tags: []
       link: ""
   -
@@ -108,7 +108,7 @@ defaults:
       layout: tool
       image: ""
       title: ""
-      intro: ""
+      description: ""
       link: ""
   -
     scope:
@@ -118,7 +118,7 @@ defaults:
       layout: tool
       image: ""
       title: ""
-      intro: ""
+      description: ""
       link: ""
       category: []
       tool: []

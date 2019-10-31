@@ -6,8 +6,8 @@ fields:
   name: title
   label: title
 - type: text
-  name: intro
-  label: intro
+  name: description
+  label: description
 - type: text
   name: link
   label: link

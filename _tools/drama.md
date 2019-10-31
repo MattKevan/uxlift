@@ -1,6 +1,6 @@
 ---
 title: Drama
-intro: Draw user interfaces, create interactive prototypes and make animations.
+description: Draw user interfaces, create interactive prototypes and make animations.
 link: https://www.drama.app/beta
 category:
 - Prototyping

@@ -2,7 +2,7 @@
 date: 2019-10-01 10:31:28 +0100
 title: Playbook UX
 image: "/assets/images/playbookux.jpg"
-intro: Watch videos of real people interacting with your product, prototype, website,
+description: Watch videos of real people interacting with your product, prototype, website,
   concept, and more. PlaybookUX allows you to unlock powerful video-based feedback
   your target audience.
 link: https://www.playbookux.com

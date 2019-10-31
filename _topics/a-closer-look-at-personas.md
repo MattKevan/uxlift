@@ -1,6 +1,6 @@
 ---
 title: A Closer Look at Personas - Part 1
-intro: A persona is a way to model, summarize and communicate research about people
+description: A persona is a way to model, summarize and communicate research about people
   who have been observed or researched in some way.
 category:
 - Personas

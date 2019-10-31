@@ -1,6 +1,6 @@
 ---
 title: InVision
-intro: Share prototypes, get feedback and hand-off to developers.
+description: Share prototypes, get feedback and hand-off to developers.
 link: http://www.invisionapp.com
 category:
 - Prototyping

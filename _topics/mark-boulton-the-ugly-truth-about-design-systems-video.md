@@ -1,6 +1,6 @@
 ---
 title: The Ugly Truth about Design Systems – Mark Boulton (video)
-intro: Design systems are great for scaling design across complex organisations and
+description: Design systems are great for scaling design across complex organisations and
   products. But in our drive for scale, consistency and standards, have we considered
   the risks and the cost? What are the problems we may face and how can we overcome
   them?

@@ -2,7 +2,7 @@
 date: 2019-09-03 10:56:42 +0100
 title: Trello
 image: "/assets/images/trello.png"
-intro: Trello lets you work more collaboratively and get more done.
+description: Trello lets you work more collaboratively and get more done.
 link: https://trello.com/home
 category:
 - Collaboration

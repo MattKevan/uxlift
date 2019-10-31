@@ -2,7 +2,7 @@
 date: 2019-10-15 14:38:26 +0100
 title: Butterick's Practical Typography
 image: "/assets/images/butterick.png"
-intro: Typography is the visual component of the written word. Thus, being a publisher
+description: Typography is the visual component of the written word. Thus, being a publisher
   of the written word necessarily means being a typographer. This book will make you
   a better typographer.
 link: https://practicaltypography.com

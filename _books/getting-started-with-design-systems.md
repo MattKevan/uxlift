@@ -2,7 +2,7 @@
 date: 2019-10-15 14:31:18 +0100
 title: Getting Started With Design Systems
 image: "/assets/images/getting-started-with-design-systems.jpg"
-intro: A free guide that's simple in structure, human in explanation and packed with
+description: A free guide that's simple in structure, human in explanation and packed with
   insight.
 link: https://marvelapp.com/ebook-design-systems
 category:
@@ -14,7 +14,7 @@ publisher: Marvel Labs
 ---
 ### **What does it take to build a Design System?**
 
-They've been proven to help teams drive faster development, eliminate inconsistency, save money and reduce knowledge silos. Un-arguably, it's a win-win situation. But how do you get started? We're proud to present an introductory guide to Design Systems, created to remove the overwhelming overhead a task like this can have.
+They've been proven to help teams drive faster development, eliminate inconsistency, save money and reduce knowledge silos. Un-arguably, it's a win-win situation. But how do you get started? We're proud to present an descriptionductory guide to Design Systems, created to remove the overwhelming overhead a task like this can have.
 
 ### What you'll learn
 

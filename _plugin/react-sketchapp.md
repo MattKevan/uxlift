@@ -1,6 +1,6 @@
 ---
 title: React Sketchapp
-intro: Implement your designs in code as React components and render them into Sketch.
+description: Implement your designs in code as React components and render them into Sketch.
 link: http://airbnb.io/react-sketchapp/
 category:
 - Design-to-code

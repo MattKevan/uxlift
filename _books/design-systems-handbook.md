@@ -2,7 +2,7 @@
 date: 2019-10-17 12:31:51 +0100
 title: Design Systems Handbook
 image: "/assets/images/systems-thumb.png"
-intro: Best practices around planning, designing, building, and implementing a design
+description: Best practices around planning, designing, building, and implementing a design
   system, with insights and first-hand experiences from experts who have gone through
   the journey.
 free: true
@@ -18,7 +18,7 @@ publisher: DesignBetter by InVision
 
 **01**
 
-##### Introducing design systems
+##### descriptionducing design systems
 
 Marco Suarez covers basics of component-based design, misconceptions, and enabling design at scale.
 

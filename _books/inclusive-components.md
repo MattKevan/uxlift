@@ -2,7 +2,7 @@
 date: 2019-10-16 13:08:07 +0100
 title: Inclusive Components
 image: "/assets/images/inclusivecomponents.png"
-intro: 'Inclusive Components examines common web UI patterns through the lens of inclusion. '
+description: 'Inclusive Components examines common web UI patterns through the lens of inclusion. '
 free: false
 link: http://book.inclusive-components.design
 category:

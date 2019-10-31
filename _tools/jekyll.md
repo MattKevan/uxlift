@@ -2,7 +2,7 @@
 date: 2019-09-03T08:53:23.000+00:00
 title: Jekyll
 image: "/assets/images/jekyll-logo-black-red-transparent.png"
-intro: Transform your plain text into static websites and blogs.
+description: Transform your plain text into static websites and blogs.
 link: https://jekyllrb.com
 category:
 - Web development

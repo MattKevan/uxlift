@@ -2,7 +2,7 @@
 date: 2019-09-10 17:03:31 +0100
 title: The guide to UX leadership
 image: "/assets/images/book-knowledge-262x375.png"
-intro: 'Best practices for: crafting UX strategy, building teams, evangelizing UX,
+description: 'Best practices for: crafting UX strategy, building teams, evangelizing UX,
   mentoring designers, planning resources, and more.'
 link: https://www.uxpin.com/studio/ebooks/ux-design-management-and-leadership/
 category:

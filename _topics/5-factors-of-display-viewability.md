@@ -1,6 +1,6 @@
 ---
 title: 5 Factors of Display Viewability
-intro: An ad served doesn't necessarily equal an ad viewed, and digital advertisers
+description: An ad served doesn't necessarily equal an ad viewed, and digital advertisers
   and publishers are catching onto this as the industry shifts toward valuing viewability.
 category:
 - Optimisation

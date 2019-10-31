@@ -1,6 +1,6 @@
 ---
 title: HotGloo
-intro: Cross platform tool for creating low fidelity wireframes and prototypes.
+description: Cross platform tool for creating low fidelity wireframes and prototypes.
 link: http://www.hotgloo.com
 category:
 - Wireframing

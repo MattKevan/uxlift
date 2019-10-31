@@ -1,6 +1,6 @@
 ---
 title: Figma
-intro: Where teams design together. Design, prototype, and collaborate all in the
+description: Where teams design together. Design, prototype, and collaborate all in the
   browser.
 link: http://www.figma.com
 category:

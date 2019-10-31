@@ -2,7 +2,7 @@
 date: 2019-10-01 09:38:56 +0100
 title: Lookback
 image: "/assets/images/lookback.svg"
-intro: Talk to your users. See how they’re using your app or website.
+description: Talk to your users. See how they’re using your app or website.
 link: https://lookback.io
 category:
 - User research

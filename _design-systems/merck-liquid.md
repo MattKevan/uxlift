@@ -1,7 +1,7 @@
 ---
 title: Merck Liquid
 image: "/assets/images/merck.png"
-intro: https://www.merck.design
+description: https://www.merck.design
 link: Use Liquid to create and develop digital products to make science faster, treatments
   more personalized, and everyday work more enjoyable.
 

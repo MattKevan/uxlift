@@ -1,6 +1,6 @@
 ---
 title: Lucidchart
-intro: A visual workspace that combines diagramming, data visualization, and collaboration to accelerate understanding and drive innovation.
+description: A visual workspace that combines diagramming, data visualization, and collaboration to accelerate understanding and drive innovation.
 link: http://www.lucidchart.com
 category:
 - Wireframing

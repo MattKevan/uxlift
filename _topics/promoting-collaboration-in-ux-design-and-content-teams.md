@@ -1,6 +1,6 @@
 ---
 title: Promoting collaboration in UX, design, and content teams
-intro: We all know how important collaboration is, but how many of us actually collaborate
+description: We all know how important collaboration is, but how many of us actually collaborate
   effectively with our teams?
 link: https://www.invisionapp.com/inside-design/ux-design-content-collaboration/
 site: Inside Design by InVision

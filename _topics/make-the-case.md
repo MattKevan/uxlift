@@ -1,6 +1,6 @@
 ---
 title: 'Make the case: How to get buy-in for building a design system'
-intro: How to start the conversation with stakeholders and get a design system off
+description: How to start the conversation with stakeholders and get a design system off
   the ground.
 category:
 - Design systems

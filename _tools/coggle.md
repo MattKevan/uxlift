@@ -2,7 +2,7 @@
 date: 2019-09-06 11:00:53 +0100
 title: Coggle
 image: "/assets/images/coggle.png"
-intro: Coggle is an online tool for creating and sharing mindmaps. Produce beautiful
+description: Coggle is an online tool for creating and sharing mindmaps. Produce beautiful
   notes quickly and easily. Share them with friends and colleagues to work on your
   ideas together.
 link: https://coggle.it

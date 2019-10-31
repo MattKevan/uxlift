@@ -2,7 +2,7 @@
 date: 2019-10-16 13:03:44 +0100
 title: 'Mismatch: How Inclusion Shapes Design'
 image: "/assets/images/mismatch.jpg"
-intro: 'How inclusive methods can build elegant design solutions that work for all. '
+description: 'How inclusive methods can build elegant design solutions that work for all. '
 free: false
 link: https://amzn.to/32kXqtv
 category:

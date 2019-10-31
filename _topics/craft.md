@@ -1,6 +1,6 @@
 ---
 title: Craft
-intro: Integrate Sketch with InvisionApp and design with real data.
+description: Integrate Sketch with InvisionApp and design with real data.
 link: https://www.invisionapp.com/craft
 tags:
 - Free

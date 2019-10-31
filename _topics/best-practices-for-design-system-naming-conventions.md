@@ -1,6 +1,6 @@
 ---
 title: Best practices for design system naming conventions
-intro: 'A foundational part of your design system is how you choose to name styles
+description: 'A foundational part of your design system is how you choose to name styles
   and components. Giving your components reasonable—dare I say, consistent—names isn’t
   just about developers, it’s for your teammates and future designers. '
 link: https://www.invisionapp.com/inside-design/naming-conventions/
