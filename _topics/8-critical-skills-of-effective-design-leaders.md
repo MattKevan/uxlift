@@ -12,6 +12,5 @@ category:
 - UX leadership
 type: Article
 preview: ''
-published: false
 
 ---
