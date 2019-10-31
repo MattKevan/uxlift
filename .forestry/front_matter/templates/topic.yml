@@ -66,10 +66,10 @@ fields:
     required: false
     options: []
     source:
-      type: pages
-      section: tools
-      file: 
-      path: 
+      type: documents
+      section: data
+      file: _data/categories.yml
+      path: tool
   label: Tool
 pages:
 - _topics/design-patterns.md
