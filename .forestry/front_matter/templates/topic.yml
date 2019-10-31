@@ -59,6 +59,18 @@ fields:
   config:
     maxSize: 250
   label: Preview
+- name: tool
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: tools
+      file: 
+      path: 
+  label: Tool
 pages:
 - _topics/design-patterns.md
 - _topics/how-to-use-the-best-ui-design-patterns.md
