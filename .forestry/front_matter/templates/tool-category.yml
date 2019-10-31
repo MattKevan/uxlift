@@ -13,3 +13,5 @@ fields:
   label: Layout
   hidden: true
   default: tool-listing
+pages:
+- _tool-categories/design-systems.md
