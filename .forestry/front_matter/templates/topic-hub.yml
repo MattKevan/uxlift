@@ -30,5 +30,5 @@ fields:
   label: Page type
   hidden: true
 pages:
-- _topic-categories/collaboration.md
 - _topic-categories/handoff.md
+- _topic-categories/collaboration.md
