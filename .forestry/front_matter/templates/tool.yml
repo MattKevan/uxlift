@@ -42,6 +42,7 @@ fields:
   hidden: true
   default: now
 pages:
+- _tools/storybook.md
 - _tools/soundingbox.md
 - _tools/jekyll.md
 - _tools/dscout.md
