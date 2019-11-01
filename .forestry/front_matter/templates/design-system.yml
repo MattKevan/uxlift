@@ -26,6 +26,7 @@ fields:
   hidden: true
   default: now
 pages:
+- _design-systems/bloomberg-bna-fish-tank.md
 - _design-systems/mailchimp-patterns.md
 - _design-systems/atlassain.md
 - _design-systems/firefox-photon.md
