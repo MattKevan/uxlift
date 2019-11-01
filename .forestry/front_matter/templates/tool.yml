@@ -42,6 +42,7 @@ fields:
   hidden: true
   default: now
 pages:
+- _tools/fractal.md
 - _tools/catalog.md
 - _tools/storybook.md
 - _tools/soundingbox.md
