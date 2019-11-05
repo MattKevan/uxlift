@@ -4,7 +4,8 @@ title: Simple Analytics
 image: "/assets/images/simpleanalytics.svg"
 description: Simple, clean, and friendly analytics for businesses, marketers and developers.
 link: https://simpleanalytics.com
-category: []
+category: 
+- Analytics
 
 ---
 We show you the essentials: page views, referrers, top pages, and screen sizes. We enrich this data with useful info like original Tweets.
