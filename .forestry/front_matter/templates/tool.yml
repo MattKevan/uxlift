@@ -42,6 +42,7 @@ fields:
   hidden: true
   default: now
 pages:
+- _tools/simple-analytics.md
 - _tools/visualeyes.md
 - _tools/fractal.md
 - _tools/storybook.md
@@ -49,7 +50,6 @@ pages:
 - _tools/matomo.md
 - _tools/clicky.md
 - _tools/catalog.md
-- _tools/simple-analytics.md
 - _tools/soundingbox.md
 - _tools/jekyll.md
 - _tools/dscout.md
