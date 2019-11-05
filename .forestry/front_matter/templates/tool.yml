@@ -42,6 +42,7 @@ fields:
   hidden: true
   default: now
 pages:
+- _tools/matomo.md
 - _tools/fathom.md
 - _tools/clicky.md
 - _tools/simple-analytics.md
