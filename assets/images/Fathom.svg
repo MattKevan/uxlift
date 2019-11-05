@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="241px" height="241px" viewBox="0 0 241 241" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Fathom</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 241 0 241 241 0 241"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Fathom">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Path"></g>
+            <g id="Group" mask="url(#mask-2)" fill-rule="nonzero">
+                <polygon id="Path" fill="#A89EF5" points="0 80.33735 120.5 120.5 96.4 48.2"></polygon>
+                <polygon id="Path" fill="#533FEB" points="200.83735 120.5 241 0 96.4 48.2 120.5 120.5 192.8 144.6"></polygon>
+                <polygon id="Path" fill="#8EFDD2" points="192.8 144.6 120.5 120.5 160.66265 241"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
