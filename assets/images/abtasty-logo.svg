@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="101px" height="48px" viewBox="0 0 101 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>abtasty-logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-200.625184%" y1="146.345029%" x2="566.1959%" y2="-151.629073%" id="linearGradient-1">
+            <stop stop-color="#006C8A" offset="0%"></stop>
+            <stop stop-color="#217981" offset="25%"></stop>
+            <stop stop-color="#009CB2" offset="50%"></stop>
+            <stop stop-color="#00D4D4" offset="75%"></stop>
+            <stop stop-color="#00F3F3" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-92.8363636%" y1="105.904846%" x2="602.545455%" y2="-119.930473%" id="linearGradient-2">
+            <stop stop-color="#006C8A" offset="0%"></stop>
+            <stop stop-color="#217981" offset="25%"></stop>
+            <stop stop-color="#009CB2" offset="50%"></stop>
+            <stop stop-color="#00D4D4" offset="75%"></stop>
+            <stop stop-color="#00F3F3" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="abtasty-logo" fill-rule="nonzero">
+            <path d="M95.87,21 C96.3723561,20.5862545 96.8223483,20.1127553 97.21,19.59 C98.6757828,17.8094948 99.7033229,15.709888 100.21,13.46 C100.947266,9.86311286 99.8877604,6.13245967 97.37,3.46 C95,1 92,0 87,0 L66.89,0 L63.72,18 L55,18 L57.32,27.3 L62.08,27.3 L58.45,47.88 L81.77,47.88 C87.38,47.88 91.56,46.5 95.04,43.54 C98.1223008,40.8509629 100.140632,37.1477332 100.73,33.1 C101.506637,29.1858194 100.323205,25.1390056 97.56,22.26 C97.0724589,21.7469047 96.5009193,21.3207865 95.87,21 Z M76.72,9.31 L84.39,9.31 C87.12,9.31 88.01,9.98 88.56,10.7 C89.1422002,11.5162883 89.3661259,12.534789 89.18,13.52 C88.9429152,14.6591281 88.3429219,15.6906955 87.47,16.46 C86.61,17.24 85.47,17.96 82.64,17.96 L75.19,17.96 L76.72,9.31 Z M89.65,32.8 C89.3739421,34.3090973 88.5949683,35.6802322 87.44,36.69 C86.05,37.99 84.23,38.57 81.55,38.57 L71.55,38.57 L73.18,29.34 L73.54,27.26 L83.77,27.26 C87.18,27.26 88.3,28.26 88.86,29.05 L88.86,29.05 C89.6550388,30.1261319 89.9433264,31.4945858 89.65,32.8 Z" id="Shape" fill="url(#linearGradient-1)"></path>
+            <path d="M32.3,0 L0,47.88 L12.87,47.88 L20.5,36.57 L39.35,36.57 L42.17,47.88 L55,47.88 L43,0 L32.3,0 Z M26.78,27.26 L34.27,16.16 L37,27.26 L26.78,27.26 Z" id="Shape" fill="url(#linearGradient-2)"></path>
+            <polygon id="Path" fill="#B2B2B2" style="mix-blend-mode: multiply;" points="41.11 43.62 52.62 38.5 52.14 36.57 39.35 36.57"></polygon>
+            <polygon id="Path" fill="#B2B2B2" style="mix-blend-mode: multiply;" points="60.74 34.89 73.19 29.34 73.55 27.26 62.08 27.26"></polygon>
+        </g>
+    </g>
+</svg>
