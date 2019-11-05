@@ -8,11 +8,38 @@ section: Tools
 
 
 	<div class="container">
-		<div class="row filter-grid">
+
+		<div class="section clearfix">
+			<div class="row">
+				<div class="col-xs-12">
+				<h2>Explore tools</h2>
+			</div>
 			{% assign sorted_items = site.tool-categories | sort:'title' %}
 			{% for item in sorted_items %}
-				{% include grid-hub.html %}
+				<div class="col-xs-6 col-md-3 col-sm-4">
+					
+				 <p class="topic-title"><a href="{{ item.url }}">{{ item.title }}</a></p>
+				
+				</div>
 			{% endfor %}
 		</div>
+		</div>
+
+		<div class=" clearfix section">
+		<div class="row">
+			<div class="col-xs-12">
+				<h2>Latest tools</h2>
+			</div>
+
+			{% assign tool = site.tools | sort:'date' | reverse %}
+			{% for item in tool limit:9 %}
+				
+					{% include grid-item.html %}
+				
+			{% endfor %}	
+
+		</div>	
 	</div>
+	</div>
+
 
