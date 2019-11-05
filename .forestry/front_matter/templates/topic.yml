@@ -72,17 +72,17 @@ fields:
       path: tool
   label: Tool
 pages:
-- _topics/5-pitfalls-to-avoid-when-reading-analytics.md
-- _topics/5-myths-about-data-driven-design.md
-- _topics/google-analytics-how-to-perform-user-research.md
-- _topics/ux-analytics-what-they-are-and-why-they-matter.md
-- _topics/complete-beginner-s-guide-to-analytics.md
-- _topics/unmoderated-user-tests-how-and-why-to-do-them.md
-- _topics/guided-by-style.md
-- _topics/how-to-manage-a-design-team.md
-- _topics/bringing-the-power-of-styles-preprocessing-to-sketch.md
 - _topics/easily-create-adaptive-buttons-using-sketch-s-smart-layout.md
+- _topics/complete-beginner-s-guide-to-analytics.md
+- _topics/google-analytics-how-to-perform-user-research.md
+- _topics/5-myths-about-data-driven-design.md
+- _topics/5-pitfalls-to-avoid-when-reading-analytics.md
+- _topics/bringing-the-power-of-styles-preprocessing-to-sketch.md
+- _topics/guided-by-style.md
+- _topics/unmoderated-user-tests-how-and-why-to-do-them.md
 - _topics/truly-fluid-typography.md
+- _topics/how-to-manage-a-design-team.md
+- _topics/ux-analytics-what-they-are-and-why-they-matter.md
 - _topics/three-simple-rules-of-good-touch-design.md
 - _topics/understanding-css-grid.md
 - _topics/how-do-you-keep-people-updated-with-what-is-being-worked-on.md
