@@ -1,8 +1,9 @@
 ---
-date: 2019-11-05 11:35:25 +0000
+date: 2019-11-05T11:35:25.000+00:00
 title: Netlify Analytics
 image: "/assets/images/netlify.png"
-description: See what we see—Netlify Analytics brings you data captured directly from our servers, presented simply and beautifully.
+description: See what we see – Netlify Analytics brings you data captured directly
+  from our servers, presented simply and beautifully.
 link: https://www.netlify.com/products/analytics/
 category:
 - Analytics
@@ -19,3 +20,15 @@ Most 3rd-party analytics programs need tracking pixels, JavaScript and cookies t
 #### Better performance
 
 Netlify Analytics will never impact the render time of your web applications since the work of capturing requests happens on our infrastructure, not in the browser. There’s nothing to add to your code; nothing to be downloaded by your visitors. It just works, silently and reliably, without any impact to page performance.
+
+#### More accurate numbers
+
+With client-side analytics systems, sessions can be lost when users employ ad blockers or disable JavaScript. Since it runs on the server and not the client, Netlify Analytics paints a more accurate, complete picture of your users—we never use sampling.
+
+#### Better privacy
+
+Netlify Analytics is fully GDPR compliant. You get the data you’d expect without passing it on to a third party or making your users feel tracked across the internet.
+
+#### Even capture what can’t be found
+
+Netlify Analytics will let you know about routes on your site or app that are returning 404 (not found) errors. Use the top pages not found report to discover pages, images, or other content your visitors are requesting but not receiving.
