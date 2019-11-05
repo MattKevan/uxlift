@@ -72,6 +72,7 @@ fields:
       path: tool
   label: Tool
 pages:
+- _topics/5-pitfalls-to-avoid-when-reading-analytics.md
 - _topics/5-myths-about-data-driven-design.md
 - _topics/google-analytics-how-to-perform-user-research.md
 - _topics/ux-analytics-what-they-are-and-why-they-matter.md
