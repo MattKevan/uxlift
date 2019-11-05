@@ -72,6 +72,7 @@ fields:
       path: tool
   label: Tool
 pages:
+- _topics/google-analytics-how-to-perform-user-research.md
 - _topics/ux-analytics-what-they-are-and-why-they-matter.md
 - _topics/complete-beginner-s-guide-to-analytics.md
 - _topics/unmoderated-user-tests-how-and-why-to-do-them.md
