@@ -42,6 +42,7 @@ fields:
   hidden: true
   default: now
 pages:
+- _tools/visualeyes.md
 - _tools/fractal.md
 - _tools/storybook.md
 - _tools/fathom.md
