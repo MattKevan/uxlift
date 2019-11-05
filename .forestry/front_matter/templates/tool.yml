@@ -42,6 +42,7 @@ fields:
   hidden: true
   default: now
 pages:
+- _tools/ab-tasty.md
 - _tools/optimizely.md
 - _tools/crazy-egg.md
 - _tools/vwo.md
