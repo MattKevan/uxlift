@@ -2,8 +2,8 @@
 date: 2019-11-05T11:35:25.000+00:00
 title: Netlify Analytics
 image: "/assets/images/netlify.png"
-description: See what we see—Netlify Analytics brings you data captured directly from
-  our servers, presented simply and beautifully.
+description: See what we see – Netlify Analytics brings you data captured directly
+  from our servers, presented simply and beautifully.
 link: https://www.netlify.com/products/analytics/
 category:
 - Analytics
