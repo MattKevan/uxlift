@@ -13,12 +13,12 @@ Optimize your digital experiences and achieve the greatest return on investment 
 
 ### Built for the enterprise
 
-A single platform for both experimentation and personalization, where ideas, tests and results are easily prioritized and shared across teams
+A single platform for both experimentation and personalization, where ideas, tests and results are easily prioritized and shared across teams.
 
 ### Best in class usability
 
-Consumer-grade usability that lets you start anywhere, then rapidly scale up experiments and share data across your organization
+Consumer-grade usability that lets you start anywhere, then rapidly scale up experiments and share data across your organization.
 
 ### Eliminate digital guesswork forever
 
-Apply the scientific method and patented stats to see yields jump by 5x or more across all your digital products, commerce and campaigns
+Apply the scientific method and patented stats to see yields jump by 5x or more across all your digital products, commerce and campaigns.
