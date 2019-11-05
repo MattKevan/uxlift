@@ -42,6 +42,7 @@ fields:
   hidden: true
   default: now
 pages:
+- _tools/bodymovin.md
 - _tools/lottie.md
 - _tools/simple-analytics.md
 - _tools/visualeyes.md
