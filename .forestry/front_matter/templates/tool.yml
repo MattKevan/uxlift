@@ -42,6 +42,7 @@ fields:
   hidden: true
   default: now
 pages:
+- _tools/crazy-egg.md
 - _tools/optimizely.md
 - _tools/vwo.md
 - _tools/bodymovin.md
