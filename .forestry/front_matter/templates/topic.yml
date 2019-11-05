@@ -72,6 +72,7 @@ fields:
       path: tool
   label: Tool
 pages:
+- _topics/complete-beginner-s-guide-to-analytics.md
 - _topics/unmoderated-user-tests-how-and-why-to-do-them.md
 - _topics/guided-by-style.md
 - _topics/how-to-manage-a-design-team.md
