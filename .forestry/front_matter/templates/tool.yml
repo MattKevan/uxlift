@@ -42,6 +42,7 @@ fields:
   hidden: true
   default: now
 pages:
+- _tools/browsee.md
 - _tools/loceye.md
 - _tools/diez.md
 - _tools/spirit.md
