@@ -42,6 +42,7 @@ fields:
   hidden: true
   default: now
 pages:
+- _tools/userships.md
 - _tools/realeye.md
 - _tools/browsee.md
 - _tools/loceye.md
