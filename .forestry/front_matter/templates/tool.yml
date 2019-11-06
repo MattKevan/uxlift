@@ -42,6 +42,7 @@ fields:
   hidden: true
   default: now
 pages:
+- _tools/spirit.md
 - _tools/convert.md
 - _tools/ab-tasty.md
 - _tools/optimizely.md
