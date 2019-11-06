@@ -55,6 +55,7 @@ fields:
   hidden: true
   default: now
 pages:
+- _books/researching-ux-analytics.md
 - _books/visual-grammar.md
 - _books/a-web-for-everyone.md
 - _books/getting-started-with-design-systems.md
