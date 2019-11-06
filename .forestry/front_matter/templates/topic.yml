@@ -72,6 +72,7 @@ fields:
       path: tool
   label: Tool
 pages:
+- _topics/moulding-yourself-into-a-leader-part-1.md
 - _topics/easily-create-adaptive-buttons-using-sketch-s-smart-layout.md
 - _topics/complete-beginner-s-guide-to-analytics.md
 - _topics/google-analytics-how-to-perform-user-research.md
