@@ -1,7 +1,7 @@
 ---
 date: 2019-11-06 09:45:29 +0000
 title: Browsee
-image: "/assets/images/browsee.png"
+image: "/assets/images/browsee-1.png"
 description: Crowd animation, session replays and heatmaps to help you visualise what
   your users like in your product and how they use it.
 link: https://browsee.io
