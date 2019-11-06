@@ -1,5 +1,5 @@
 ---
-date: 2019-11-06 09:25:38 +0000
+date: 2019-11-04 09:25:38 +0000
 tool: ''
 title: Moulding yourself into a leader, part 1
 description: In this column, which is part 1 in a multipart series, I’ll discuss the
