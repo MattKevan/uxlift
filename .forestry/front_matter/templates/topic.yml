@@ -72,6 +72,7 @@ fields:
       path: tool
   label: Tool
 pages:
+- _topics/information-architecture-definition-tips-and-best-practices.md
 - _topics/six-signup-form-techniques-to-convert-more-customers.md
 - _topics/moulding-yourself-into-a-leader-part-1.md
 - _topics/easily-create-adaptive-buttons-using-sketch-s-smart-layout.md
