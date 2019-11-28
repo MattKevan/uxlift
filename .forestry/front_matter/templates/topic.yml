@@ -72,6 +72,7 @@ fields:
       path: tool
   label: Tool
 pages:
+- _topics/wireframing-for-beginners.md
 - _topics/wireframes-the-beginner-s-guide.md
 - _topics/wireframing.md
 - _topics/how-do-you-measure-delight.md
