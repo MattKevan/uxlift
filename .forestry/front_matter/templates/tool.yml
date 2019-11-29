@@ -42,6 +42,7 @@ fields:
   hidden: true
   default: now
 pages:
+- _tools/vectornator.md
 - _tools/realeye.md
 - _tools/browsee.md
 - _tools/userships.md
