@@ -42,6 +42,7 @@ fields:
   hidden: true
   default: now
 pages:
+- _tools/notion.md
 - _tools/figma.md
 - _tools/vectornator.md
 - _tools/realeye.md
