@@ -4,11 +4,10 @@ description: Handoff Sketch, XD, Photoshop or Illustrator designs to developers.
 link: https://avocode.com
 category:
 - Handoff
-- Collaboration
 image: "/assets/images/avo.svg"
-date: 2018-07-15 09:37:46 +0100
----
+date: 2018-07-15T08:37:46.000+00:00
 
+---
 ## About Avocode 
 
 ### Inspect designs and export assets.
