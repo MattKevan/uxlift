@@ -1,16 +1,15 @@
 ---
 title: Figma
-description: Where teams design together. Design, prototype, and collaborate all in the
-  browser.
+description: Where teams design together. Design, prototype, and collaborate all in
+  the browser.
 link: http://www.figma.com
 category:
-- Design systems
 - Visual design
 - Prototyping
 - Collaboration
 - Handoff
 image: "/assets/images/figma.png"
-date: 2019-09-03 11:29:24 +0100
+date: 2019-09-03T10:29:24.000+00:00
 
 ---
 ### Collaborate with everyone, at every phase

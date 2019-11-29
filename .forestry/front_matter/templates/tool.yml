@@ -42,6 +42,7 @@ fields:
   hidden: true
   default: now
 pages:
+- _tools/figma.md
 - _tools/vectornator.md
 - _tools/realeye.md
 - _tools/browsee.md
@@ -74,7 +75,6 @@ pages:
 - _tools/userbrain.md
 - _tools/lookback.md
 - _tools/hugo.md
-- _tools/figma.md
 - _tools/userfeel.md
 - _tools/sim-daltonism.md
 - _tools/whimsical.md
