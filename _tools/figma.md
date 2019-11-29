@@ -4,6 +4,7 @@ description: Where teams design together. Design, prototype, and collaborate all
   the browser.
 link: http://www.figma.com
 category:
+- Design systems
 - Visual design
 - Prototyping
 - Collaboration
