@@ -30,5 +30,6 @@ fields:
   label: Page type
   hidden: true
 pages:
+- _tool-categories/design-principles.md
 - _topic-categories/collaboration.md
 - _topic-categories/handoff.md
