@@ -198,7 +198,22 @@ p.tags {
 		margin: 0 10px 10px 10px;
 	}
 }
+
 }
+#mc_embed_signup {
+	padding: 0!important;
+}
+.response {
+	margin-bottom: 15px;
+}
+
+#mc_embed_signup div.mce_inline_error {
+	background-color: #666!important;
+}
+#mc_embed_signup input.mce_inline_error {
+	border-color: #666!important;
+}
+
 .btn-primary {
 	margin-bottom: 5px;
 	&.is-checked { 

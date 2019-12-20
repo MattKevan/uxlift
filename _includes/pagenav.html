@@ -27,6 +27,16 @@
 	{% endfor %}
 {% endfor %}
 
+{% assign has_toolboxes = 'no' %}
+
+{% for item in site.toolboxes %}
+	{% for cat in item.category %}
+		{% if page.title == cat %}
+			{% assign has_toolboxes = 'yes' %}
+		{% endif %}
+	{% endfor %}
+{% endfor %}
+
 {% assign has_resources = 'no' %}
 
 {% for item in site.topics %}
@@ -67,6 +77,10 @@
 				{% endif %}
 
 				<li class=""><a href="#Articles" class="scrollLink">Articles</a></li>
+
+				{% if has_toolboxes == 'yes' %}
+					<li class=""><a href="#Toolboxes" class="scrollLink">Design toolboxes</a></li>
+				{% endif %}
 
 				{% if has_resources == 'yes' %}
 					<li class=""><a href="#Resources" class="scrollLink">Resources</a></li>

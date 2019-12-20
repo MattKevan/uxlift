@@ -25,7 +25,7 @@ layout: default
  	<div class="listing">
 		<div class="container">
 			<div class="row filter-grid">
-				{% assign sorted_items = site.tools | sort:'date' %}
+				{% assign sorted_items = site.tools | sort:'title' %}
 
 				{% for item in sorted_items %}
 					{% for cat in item.category %}
