@@ -4,21 +4,50 @@ hide_body: true
 fields:
 - type: text
   name: title
-  label: title
-- type: text
-  name: description
-  label: description
+  label: Title
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Description
 - type: text
   name: link
-  label: link
+  label: Link
+  config:
+    required: true
 - type: list
   name: category
-  label: category
+  label: Category
+  config:
+    use_select: true
+    source:
+      type: documents
+      section: data
+      file: _data/categories.yml
+      path: category
 - type: file
   name: image
-  label: image
+  label: Image
 - type: list
   name: tool
-  label: tool
+  label: Tool
+  config:
+    use_select: true
+    source:
+      type: documents
+      section: data
+      file: _data/categories.yml
+      path: tool
+- name: layout
+  type: text
+  config:
+    required: false
+  label: Layout
+  hidden: true
+  default: plugin
 pages:
 - _plugin/sketch-cluse.md
