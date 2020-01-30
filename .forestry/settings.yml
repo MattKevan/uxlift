@@ -42,6 +42,8 @@ sections:
   label: Plugins
   create: documents
   match: "**/*"
+  templates:
+  - plugin
 - type: directory
   path: _books
   label: Books
