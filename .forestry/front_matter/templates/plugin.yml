@@ -20,3 +20,5 @@ fields:
 - type: list
   name: tool
   label: tool
+pages:
+- _plugin/sketch-cluse.md
