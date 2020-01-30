@@ -42,12 +42,5 @@ fields:
       section: data
       file: _data/categories.yml
       path: tool
-- name: layout
-  type: text
-  config:
-    required: false
-  label: Layout
-  hidden: true
-  default: plugin
 pages:
 - _plugin/sketch-cluse.md
