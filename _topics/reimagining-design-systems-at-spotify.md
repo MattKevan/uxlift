@@ -1,5 +1,5 @@
 ---
-date: 2020-02-18 10:00:21 +0000
+date: 2019-12-16 10:00:21 +0000
 tool: ''
 title: Reimagining design systems at Spotify
 description: How we build design systems that fit our culture of autonomy.
