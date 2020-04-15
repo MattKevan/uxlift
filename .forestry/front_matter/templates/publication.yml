@@ -5,20 +5,48 @@ fields:
 - type: text
   name: title
   label: Title
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Description
 - type: file
   name: image
   label: Image
 - type: text
-  name: description
-  label: Description
-- type: text
   name: link
   label: Link
+- name: source
+  type: select
+  default: Publication
+  config:
+    required: true
+    options: []
+    source:
+      type: documents
+      section: data
+      file: _data/categories.yml
+      path: source
+  label: Source
 - type: datetime
   name: date
   label: Date
   hidden: true
   default: now
 pages:
+- _publications/abstract.md
+- _publications/css-tricks.md
+- _publications/dear-design-student.md
+- _publications/design-sketch.md
 - _publications/design-with-figma.md
+- _publications/inside-design-by-invision.md
+- _publications/matthew-ström.md
+- _publications/sitepoint.md
+- _publications/smashing-magazine.md
+- _publications/suleyn-yu.md
+- _publications/think-with-google.md
 - _publications/ux-for-the-masses.md
