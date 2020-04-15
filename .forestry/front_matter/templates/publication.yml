@@ -2,18 +2,20 @@
 label: Publication
 hide_body: false
 fields:
-- type: datetime
-  name: date
-  label: date
 - type: text
   name: title
-  label: title
+  label: Title
 - type: file
   name: image
-  label: image
+  label: Image
 - type: text
   name: description
-  label: description
+  label: Description
 - type: text
   name: link
-  label: link
+  label: Link
+- type: datetime
+  name: date
+  label: Date
+  hidden: true
+  default: now
