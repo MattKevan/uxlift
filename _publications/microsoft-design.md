@@ -5,6 +5,5 @@ title: Microsoft Design
 description: Putting technology on a more human path, one design story at a time.
 image: "/assets/images/ms.png"
 link: https://medium.com/microsoft-design
-published: false
 
 ---
