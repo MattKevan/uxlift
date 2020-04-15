@@ -38,6 +38,7 @@ fields:
   hidden: true
   default: now
 pages:
+- _publications/abstract.md
 - _publications/design-sketch.md
 - _publications/design-with-figma.md
 - _publications/sitepoint.md
