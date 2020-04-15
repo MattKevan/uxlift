@@ -39,6 +39,7 @@ fields:
   default: now
 pages:
 - _publications/abstract.md
+- _publications/css-tricks.md
 - _publications/design-sketch.md
 - _publications/design-with-figma.md
 - _publications/matthew-ström.md
