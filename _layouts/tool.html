@@ -20,7 +20,8 @@ layout: default
 			</div>
 		</div>
 
-		{% if content %}
+		{% assign con = content | strip_newlines %}
+		{% if con != "" %}
 		<div class="section clearfix">
 			<div class="row">	
 
