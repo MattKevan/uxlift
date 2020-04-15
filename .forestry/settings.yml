@@ -23,6 +23,8 @@ sections:
   label: Publications
   create: documents
   match: "**/*"
+  templates:
+  - publication
 - type: directory
   path: _design-systems
   label: Design systems
