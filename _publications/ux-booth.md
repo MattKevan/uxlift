@@ -3,7 +3,7 @@ source: Publication
 date: 2020-04-15 17:21:32 +0100
 title: UX Booth
 description: A publication by and for the user experience community.
-image: "/assets/images/uxbooth.svg"
+image: "/assets/images/uxbooth-1.svg"
 link: https://www.uxbooth.com
 
 ---
