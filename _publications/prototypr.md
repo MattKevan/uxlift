@@ -4,4 +4,6 @@ title: Prototypr
 image: "/assets/images/prototypr.png"
 description: "Find the tools, make your thing."
 link: https://blog.prototypr.io
+source:
+- Publication
 ---

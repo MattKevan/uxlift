@@ -16,6 +16,11 @@
 			    {% for cat in item.category %}
 					<span>{{ cat }}</span>
 				{% endfor %}
+				{% if item.source %}
+					{% for src in item.source %}
+						<span>{{ src }}</span>
+					{% endfor %}
+				{% endif %}
 			</p>
 
 		</div>

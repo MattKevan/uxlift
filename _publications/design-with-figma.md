@@ -5,5 +5,7 @@ image: "/assets/images/dwf.png"
 description: The best collection of resources, tutorials, and tips on designing with
   Figma
 link: https://medium.com/design-with-figma
+source:
+- Publication
 
 ---

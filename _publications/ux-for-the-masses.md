@@ -4,7 +4,8 @@ title: UX For the Masses
 image: "/assets/images/uxm.png"
 description: Welcome to UX for the Masses, the digital home of me, Neil Turner.
 link: http://www.uxforthemasses.com
-
+source:
+- Personal blog
 ---
 A former techy turned UX Jedi, for over 15 years I’ve been harnessing the power of user-centred design to deliver compelling and successful user experiences. I have a Human-Computer Interaction MSc (Distinction) from [University College London](https://www.ucl.ac.uk/) along with a Computer Science BSc (First Class) from the [University of Warwick](https://warwick.ac.uk/).
 

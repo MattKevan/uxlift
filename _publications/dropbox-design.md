@@ -4,6 +4,8 @@ title: Dropbox Design
 image: "/assets/images/dropboxdesign.png"
 description: "Welcome, we are Dropbox Design."
 link: https://dropbox.design/
+source:
+- UX team
 ---
 We believe simple is magic, and business software should be elegant and intuitive—your tools for work should work for you.
 
