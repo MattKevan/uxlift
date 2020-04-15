@@ -39,6 +39,7 @@ fields:
   default: now
 pages:
 - _publications/abstract.md
+- _publications/brad-frost.md
 - _publications/css-tricks.md
 - _publications/dear-design-student.md
 - _publications/design-council.md
