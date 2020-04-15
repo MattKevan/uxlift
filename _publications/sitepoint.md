@@ -5,6 +5,6 @@ title: Sitepoint
 description: 'A hub for web developers to share their passion for building incredible
   Internet things. '
 image: "/assets/images/sitepoint.png"
-link: https://www.sitepoint.com/
+link: https://www.sitepoint.com/blog/
 
 ---
