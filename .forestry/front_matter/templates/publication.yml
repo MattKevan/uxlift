@@ -21,3 +21,4 @@ fields:
   default: now
 pages:
 - _publications/design-with-figma.md
+- _publications/ux-for-the-masses.md
