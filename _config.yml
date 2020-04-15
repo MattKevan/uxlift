@@ -65,6 +65,9 @@ collections:
   toolboxes:
     output: true
     permalink: /toolboxes/:path/
+  publications:
+    output: true
+    permalink: /publications/:path/
 
 defaults:
   -
@@ -137,3 +140,14 @@ defaults:
       link: ""
       category: []
       tool: []
+  -
+    scope:
+      path: ""
+      type: publications
+    values:
+      layout: publication
+      image: ""
+      title: ""
+      description: ""
+      link: ""
+      category: []

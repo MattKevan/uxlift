@@ -1,0 +1,61 @@
+---
+layout: default
+---
+<div class="page publication">
+	<div class="container">
+
+		<div class="top clearfix">
+			<div class="row">
+
+				<div class="col-xs-12">
+					<div class="page-title">
+						<p class="s"><a href="{{ site.baseurl }}/">Home</a> » <a href="{{ site.baseurl }}/publications">Publications & blogs</a> »</p>
+						<h1 class="page-title"><img src="{{ page.image }}">{{ page.title }}</h1>
+						
+						<p class="lead">{{ page.description }}</p>
+						<a class="btn btn-primary" href="{{ page.link }}/?ref=uxlift.org" target="_blank">Visit site »</a>
+					</div>
+				</div>
+				
+			</div>
+		</div>
+
+		{% if content %}
+		<div class="section clearfix">
+			<div class="row">	
+
+				<div class="col-xs-12 col-sm-10 col-sm-push-1">
+ 					{{ content }}
+
+				</div>
+
+			</div>
+		</div>	
+		{% endif %}
+
+		<div class="section clearfix">
+			<div class="row">
+
+				<div class="col-xs-12 col-sm-10 col-sm-push-1">
+
+					<h2>Featured articles</h2>
+				
+					{% assign sorted_items = site.topics | sort:'date' | reverse %}
+					{% for item in sorted_items %}
+						{% if item.site == page.title %}
+							{% include list-link.html %}	
+						{% endif %}
+					{% endfor %}
+
+				</div>
+
+			</div>
+		</div>
+
+	</div>
+</div>
+
+
+
+
+
