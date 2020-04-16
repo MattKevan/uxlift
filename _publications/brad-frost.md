@@ -1,9 +1,9 @@
 ---
 source: Personal blog
-date: 2020-04-15 17:12:43 +0100
+date: 2020-04-15T16:12:43.000+00:00
 title: Brad Frost
 description: ''
 image: "/assets/images/atomic-1.png"
-link: www.bradfrost.com
+link: https://www.bradfrost.com
 
 ---
