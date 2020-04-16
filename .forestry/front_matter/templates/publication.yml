@@ -39,14 +39,17 @@ fields:
   default: now
 pages:
 - _publications/abstract.md
+- _publications/airbnb-design.md
 - _publications/brad-frost.md
 - _publications/cloud-four.md
 - _publications/css-tricks.md
 - _publications/dear-design-student.md
+- _publications/design-at-monzo.md
 - _publications/design-council.md
 - _publications/design-sketch.md
 - _publications/design-systems.md
 - _publications/design-with-figma.md
+- _publications/facebook-design.md
 - _publications/geri-reid.md
 - _publications/inside-design-by-invision.md
 - _publications/matthew-ström.md
