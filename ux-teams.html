@@ -1,15 +1,14 @@
 ---
 layout: grid
-title: Publications
-permalink: /publications/
+title: UX teams
+permalink: /ux-teams/
 
 ---
 
 	<div class="container">
 		<div class="row filter-grid">
-			{% assign sorted_items = site.publications | sort:'title' %}
+			{% assign sorted_items = site.publications | where: "source", "UX team" | sort:'title' %}
 			{% for item in sorted_items %}
-
 				{% include grid-item.html %}
 			{% endfor %}
 		</div>
