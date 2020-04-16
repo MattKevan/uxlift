@@ -39,6 +39,7 @@ fields:
   default: now
 pages:
 - _publications/abstract.md
+- _publications/airbnb-design.md
 - _publications/brad-frost.md
 - _publications/cloud-four.md
 - _publications/css-tricks.md
