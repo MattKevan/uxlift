@@ -21,8 +21,9 @@
 						{% assign count = count | plus: 1 %}
 					{% endif %}
 				{% endfor %}
+				{% if count == 0 %}
 
-				{% if count <= 1 %}
+				{% elsif count == 1 %}
 					<p class="featured s">{{ count }} featured article</p>
 				{% else %}
 					<p class="featured s">{{ count }} featured articles</p>
