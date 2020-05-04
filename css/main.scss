@@ -66,8 +66,12 @@ h1, h2, h3, h4 {
 }
 h1 {
 
-	font-size: 3em;
+	font-size: 2.25em;
 	margin: 0;
+
+	@media (min-width: 768px) {
+		font-size: 3em;
+	}
 
 }
 h2 {
@@ -447,6 +451,16 @@ float:left;
 	a:hover {
 		color: #fff;
 		text-decoration: underline;
+	}
+	nav {
+		ul {
+			margin: 0;
+			padding: 0;
+			li {
+				list-style-type: none;
+				padding-left: 20px;
+			}
+		}
 	}
 }
 .sub-footer {

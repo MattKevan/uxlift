@@ -1,0 +1,18 @@
+---
+layout: grid
+title: Company blogs
+permalink: /company-blogs/
+
+---
+
+	<div class="container">
+		<div class="row filter-grid">
+			{% assign sorted_items = site.publications | where: "source", "Company blog" | sort:'title' %}
+			{% for item in sorted_items %}
+				{% include grid-item.html %}
+			{% endfor %}
+		</div>
+	</div>
+
+
+

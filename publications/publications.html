@@ -7,9 +7,9 @@ permalink: /publications/
 
 	<div class="container">
 		<div class="row filter-grid">
-			{% assign sorted_items = site.publications | sort:'title' %}
-			{% for item in sorted_items %}
+			{% assign sorted_items = site.publications | where: "source", "Publication" | sort:'title' %}
 
+			{% for item in sorted_items %}
 				{% include grid-item.html %}
 			{% endfor %}
 		</div>

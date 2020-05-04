@@ -14,13 +14,17 @@ layout: default
 				{% if page.image %}
 					<img class="list-logo" src="{{ page.image }}" alt="{{ page.title }}" />
 				{% endif %}
-				<a href="{{ page.link }}" target="_blank">{{ page.site }}</a>
+				<a href="/publications/{{ page.site | slugify }}">{{ page.site }}</a>
 				{% for t in page.type %}
 					{% if t == "Article" %} – {{ page.date | date: "%-d %B %Y" }}{% endif %}
 				{% endfor %}
 			</p>
+			<p class="tags xs">
+			   	{% for cat in page.category %}<span><a href="/topics/{{ cat | slugify }}">{{ cat }}</a></span>{% endfor %}
+			</p>
 				<p class="lead">{{ page.description }}</p>
-				<a class="btn btn-primary" href="{{ page.link }}" target="_blank">View {{ page.type | downcase }} »</a>
+
+				<p><a class="btn btn-primary" href="{{ page.link }}/?ref=uxlift.org" target="_blank">View full story »</a></p>
 
 			</div>
 		</div>
@@ -29,6 +33,28 @@ layout: default
 
 
 <div class="container">
+	{% include newsletter-form.html %}
+	<div class="section top clearfix">
+			<div class="row">
+
+				<div class="col-xs-12 col-sm-10 col-sm-push-1">
+
+					<h2>Related articles</h2>
+				
+					{% assign sorted_items = site.topics | sort:'date' | reverse %}
+					{% for item in sorted_items %}
+						
+						{% if item.category == page.category %}
+							{% include list-link.html %}	
+						{% endif %}
+
+					{% endfor %}
+
+				</div>
+
+			</div>
+		</div>
+
 	{% if content %}
 		<div class="row">
 			<div class="col-xs-12 col-sm-10 col-sm-push-1">
@@ -38,6 +64,7 @@ layout: default
 	{% endif%}
 </div>
 	
+
 
 
 
