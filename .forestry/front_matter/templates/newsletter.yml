@@ -2,9 +2,13 @@
 label: Newsletter
 hide_body: false
 fields:
-- type: datetime
-  name: title
-  label: title
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
 - type: datetime
   name: date
-  label: date
+  label: Date
+  config:
+    required: true
