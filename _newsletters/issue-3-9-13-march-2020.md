@@ -1,9 +1,10 @@
 ---
-title: 9-13 March 2020
+title: Issue 3
+description: 9-13 March 2020
 date: 2020-03-13 00:00:00 +0000
 
 ---
-### UX writing
+#### UX writing
 
 It’s not enough to design with dummy text and fill in the real copy later – the text needs to be considered early in the process as often text problems reveal design problems. If you’re having a problem with the text, there’s a good chance there’s a problem with the design too.
 
@@ -16,7 +17,7 @@ Here’s some good resources on how to write better for user experience:
 * [Learn UX writing](https://learnuxwriting.xyz/) – good collection of UX writing videos
 * [Strategic writing for UX (book)](https://www.oreilly.com/library/view/strategic-writing-for/9781492049388/) – I have a copy if you’d like to borrow
 
-### Working remotely
+#### Working remotely
 
 Looks like working remotely might be something that happens more. Here’s some guides on how it relates to UX:
 

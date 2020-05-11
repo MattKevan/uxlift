@@ -1,9 +1,10 @@
 ---
-title: 16-20 March 2020
+title: Issue 4
+description: 16-20 March 2020
 date: 2020-03-21 00:00:00 +0000
 
 ---
-### Designing for delight
+#### Designing for delight
 
 * [**The Psychology of Color and Emotional Design**](https://www.uxbooth.com/articles/the-psychology-of-color-and-emotional-design/) – Understanding the full spectrum of emotions that drive behaviour.
 * [**Is there a formula for delight?**](https://uxmastery.com/formula-delight/) – Aim for the Minimum Delightful Product
@@ -12,7 +13,7 @@ date: 2020-03-21 00:00:00 +0000
 * [**Understanding the Kano Model – A Tool for Sophisticated Designers**](https://articles.uie.com/kano_model/) – Jared Spool is always worth reading.
 * [**Designing for Emotion**](https://abookapart.com/products/designing-for-emotion) (book) by Aaron Walter
 
-### Cool tools
+#### Cool tools
 
 [**Affinity**](https://affinity.serif.com/en-gb/store/) currently have a 3 month free trial and half-price sale on their Photoshop / InDesign / Illustrator alternatives. Seriously good software and a steal at less than £24 each. Switched from Adobe to Affinity for all my personal projects a while ago and haven’t looked back.
 
