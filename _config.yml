@@ -154,12 +154,9 @@ defaults:
       description: ""
       link: ""
       category: []
--
+  -
     scope:
       path: ""
       type: newsletters
     values:
       layout: post
-      title: ""
-      description: ""
-      link: ""
