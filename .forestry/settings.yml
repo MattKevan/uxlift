@@ -63,6 +63,8 @@ sections:
   label: Newsletters
   create: documents
   match: "**/*"
+  templates:
+  - newsletter
 - type: jekyll-pages
   label: Pages
   create: all
