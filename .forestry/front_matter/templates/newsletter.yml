@@ -12,3 +12,5 @@ fields:
   label: Date
   config:
     required: true
+pages:
+- _newsletters/28-february-2020.md
