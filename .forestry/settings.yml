@@ -5,11 +5,6 @@ admin_path: "/admin/"
 webhook_url: 
 sections:
 - type: directory
-  path: _newsletters
-  label: Newsletters
-  create: documents
-  match: "**/*"
-- type: directory
   path: _topics
   label: Topics
   create: documents
@@ -63,6 +58,11 @@ sections:
   match: "**/*"
   templates:
   - book
+- type: directory
+  path: _newsletters
+  label: Newsletters
+  create: documents
+  match: "**/*"
 - type: jekyll-pages
   label: Pages
   create: all
