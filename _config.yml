@@ -68,6 +68,9 @@ collections:
   publications:
     output: true
     permalink: /publications/:path/
+  newsletters:
+    output: true
+    permalink: /newsletters/:path/
 
 defaults:
   -
@@ -151,3 +154,12 @@ defaults:
       description: ""
       link: ""
       category: []
+-
+    scope:
+      path: ""
+      type: newsletters
+    values:
+      layout: post
+      title: ""
+      description: ""
+      link: ""
