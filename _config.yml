@@ -159,4 +159,4 @@ defaults:
       path: ""
       type: newsletters
     values:
-      layout: post
+      layout: newsletter

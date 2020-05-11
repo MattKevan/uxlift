@@ -2,15 +2,36 @@
 layout: default
 ---
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+<div class="top">
+	<div class="container">
+		<div class="row">
+			<div class="col-xs-12 col-sm-10 col-sm-push-1">
+				
+				<h1 class="title" itemprop="name headline">{{ page.title }}</h1>
+				<p class="lead">{{ page.description }}</p>
+			</div>
+		</div>
+	</div>
+</div>
 
-		    <h1 class="title" itemprop="name headline">{{ page.title }}</h1>
+<div class="content">
+	<div class="container">
+		<div class="col-xs-12 col-sm-10 col-sm-push-1 content-inner">
+
+
+
+		    
 		    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
 			<div class="post-content" itemprop="articleBody">
 				{{ content }}
 			</div>
 		
-</article>
 
+			</div><!--/col-->
+		</div><!--/row-->
+	</div><!--/content-->
+
+</article>
 
   
 
