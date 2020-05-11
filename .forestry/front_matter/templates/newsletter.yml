@@ -1,0 +1,10 @@
+---
+label: Newsletter
+hide_body: false
+fields:
+- type: datetime
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
