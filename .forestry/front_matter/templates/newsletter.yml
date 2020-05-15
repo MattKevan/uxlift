@@ -13,8 +13,4 @@ fields:
   config:
     required: true
 pages:
-- _newsletters/14-17-april.md
-- _newsletters/16-20-march-2020.md
-- _newsletters/2-6-march-2020.md
-- _newsletters/28-february-2020.md
-- _newsletters/9-13-march-2020.md
+- _newsletters/issue-7.md
