@@ -1,46 +1,16 @@
 ---
 layout: default
 ---
-<div class="page grid">
 
-	<div class="top">
-		<div class="container">
-			<div class="row">
-				<div class="col-xs-12">
-					<div class="page-title">
-						{% assign crumb = page.permalink | split: '/' %}
-					<p class="s"><a href="{{ site.baseurl }}/">Home</a> » <a href="{{ site.baseurl }}/tools">Tools</a> »</p>
-						<h1 class="page-title">{{ page.title }}</h1>
-						<p class="lead">{{ page.description }}</p>
-							
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
+{{ content }}
 
-
- {{ content }}
-
- 	<div class="listing">
-		<div class="container">
-			<div class="row filter-grid">
-				{% assign sorted_items = site.tools | sort:'title' %}
-
-				{% for item in sorted_items %}
-					{% for cat in item.category %}
-						{% if page.title == cat %}
-							{% include grid-item.html %}
-						{% endif %}
-					{% endfor %}	
-				{% endfor %}
-			</div>
-		</div>
-	</div>
-
+<div class="row">
+	{% assign sorted_items = site.tools | sort:'title' %}
+	{% for item in sorted_items %}
+		{% for cat in item.category %}
+			{% if page.title == cat %}
+				{% include grid-item.html %}
+			{% endif %}
+		{% endfor %}	
+	{% endfor %}
 </div>
-
-
-
-
-

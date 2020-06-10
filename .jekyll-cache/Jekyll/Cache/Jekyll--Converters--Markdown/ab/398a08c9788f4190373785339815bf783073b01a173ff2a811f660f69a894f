@@ -1,0 +1,35 @@
+I"�<h3 id="they-should-look-like-buttons">They should look like buttons</h3>
+
+<p>Buttons help people do things - submit a form, add a product to the cart, read more information. But if your users don’t know your buttons are buttons, how can they do anything?</p>
+
+<p>Shadows, shines and gradients are out and flat design is in, but make sure your buttons still stand out. With iOS 7, Apple got rid of all that stuff and went totally flat. It looked cleaner but was <a href="https://www.nngroup.com/articles/ios-7/">less usable</a> as buttons looked too similar to everything else. While out of control by iOS 6 (<a href="https://www.cnet.com/news/find-my-friends-ios-5-versus-google-latitude-android/">Find My Friends?</a> – ouch), the skeuomorphism served a purpose.</p>
+
+<p>Use colour, shading, white space and, optionally, shadows to make buttons stand out.</p>
+
+<h3 id="they-should-be-big-enough">They should be big enough</h3>
+
+<p>Fingers are fat sausages compared to mouse pointers. Buttons, especially important ones, should be big enough to hit easily.</p>
+
+<p>A study at the <a href="http://www.cs.umd.edu/hcil/trs/2006-11/2006-11.htm">University of Maryland</a> found that touch targets need to be between 9.2 and 9.6mm square, while Apple suggests they should be at least 44 by 44 pixels (or points on a retina screen). They can be smaller, but make sure there’s enough clickable white space around them to make up the difference.</p>
+
+<h3 id="they-should-say-what-they-do">They should say what they do</h3>
+
+<p>Tell people what’s going to happen if they click. ‘Yes, delete my account’ is a much more usable label than ‘Ok’. It doesn’t matter that the text is longer.</p>
+
+<h3 id="they-should-be-easy-to-find">They should be easy to find</h3>
+
+<p>If you want a customer to buy your stuff, make sure they can find the ‘Add to cart’ button. The same goes for other actions too.</p>
+
+<h3 id="they-should-be-consistent">They should be consistent</h3>
+
+<p>Keep the design and placement of your buttons consistent. This helps users develop familiarity – this type of button does that, clicking here takes me there etc.</p>
+
+<p>iOS is a good example – Apple have strong guidelines for how buttons are used so it’s pretty easy to navigate a new app for the first time. However they do get it wrong in the Clock app – the cancel alarm button is in the same place as the repeat timer button. It’s done to keep the design system, but makes for bad usability as a stop action is in the same place and looks the same as a start action. Muscle memory developed for quickly stopping alarms in the morning often causes me to restart a timer.</p>
+
+<h3 id="they-should-be-in-the-right-order">They should be in the right order</h3>
+
+<p>Pay attention to the order of corresponding pairs like ‘previous’ and ‘next’.</p>
+
+<p>In a group of actions, the most important one should be have most emphasis. And put it first. For example ‘Buy now’, followed by ‘Save for later’. The exceptions to this are when that action is destructive or irreversable. Then, the cancel button should go first, as it’s easy to click the default location without paying full attention.</p>
+
+:ET

@@ -2,37 +2,13 @@
 layout: default
 ---
 
-<div class="page book">
-	<div class="container">
-
-		<div class="top clearfix">
-			<div class="row">
-
-				<div class="col-xs-12">
-					<p class="s"><a href="{{ site.baseurl }}/">Home</a> » <a href="{{ site.baseurl }}/books">Books</a> »</p>
-					<h1 class="title">{{ page.title }}</h1>
-					<p class="lead">{{ page.description}}</p>
-					<a href="{{ page.link }}" target="_blank" class="btn btn-primary" role="button">View more »</a>		
-				</div>
-
-			</div>
-		</div>
-
-		<div class="section clearfix">
-			<div class="row">
-				<div class="col-xs-9">	
-					{{ content }}
-					<p class="author"><strong>By:</strong> {{ page.authors }}</p>
-					<p class="publisher"><strong>Publisher:</strong> {{ page.publisher }}, {{ page.pubdate }}</p>
-				</div>
-				<div class="col-xs-3">
-					<img src="{{ page.image }}" alt="{{ page.title }}" class="imgfit" />
-				</div>
-			</div>
-		</div><!--/section-->
-
-	</div><!--/container-->
-</div><!--/page-->
-
-
-
+<div class="row">
+	<div class="col-9">	
+		{{ content }}
+		<p class="author"><strong>By:</strong> {{ page.authors }}</p>
+		<p class="publisher"><strong>Publisher:</strong> {{ page.publisher }}, {{ page.pubdate }}</p>
+	</div>
+	<div class="col-3">
+		<img src="{{ page.image }}" alt="{{ page.title }}" class="imgfit" />
+	</div>
+</div>

@@ -2,7 +2,7 @@
 title: A study of the design process (PDF)
 description: For our most in-depth study ever, Design Council researchers visited the design
   departments of eleven companies, all world-leaders in their fields.
-link: http://www.designcouncil.org.uk/sites/default/files/asset/document/ElevenLessons_Design_Council%20(2).pdf
+link: https://www.designcouncil.org.uk/news-opinion/what-framework-innovation-design-councils-evolved-double-diamond
 image: 
 category: Design thinking
 site: Design Council

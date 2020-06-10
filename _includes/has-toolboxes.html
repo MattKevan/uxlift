@@ -10,25 +10,17 @@
 
 {% if has_toolboxes == 'yes' %}
 
-<div class="row">
-	<div class="col-xs-12">
-		<div class="section clearfix" id="Toolboxes">
+	<h2 id="Toolboxes">Design toolboxes</h2>
 
-			<h2>Design toolboxes</h2>
-
-			<div class="row">
-		
-
-				{% assign sorted_toolboxes = site.toolboxes %}
-				{% for item in sorted_toolboxes %}
-					{% for cat in item.category %}
-						{% if page.title == cat %}
-							{% include grid-item.html %}
-						{% endif %}
-					{% endfor %}
-				{% endfor %}
-			</div>
-		</div>
+	<div class="row">
+		{% assign sorted_toolboxes = site.toolboxes %}
+		{% for item in sorted_toolboxes %}
+			{% for cat in item.category %}
+				{% if page.title == cat %}
+					{% include grid-item.html %}
+				{% endif %}
+			{% endfor %}
+		{% endfor %}
 	</div>
-</div>
+
 {% endif %}

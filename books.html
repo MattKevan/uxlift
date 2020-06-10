@@ -1,18 +1,18 @@
 ---
-layout: grid
+layout: default
 title: UX & design books
 permalink: /books/
 description: Recommended reading on UX, design and usability.
 ---
 
-	<div class="container">
-		<div class="row filter-grid">
-			{% assign sorted_items = site.books | sort:'title' %}
-			{% for item in sorted_items %}
-				{% include grid-item.html %}
-			{% endfor %}
-		</div>
-	</div>
+
+<div class="row">
+	{% assign sorted_items = site.books | sort:'title' %}
+	{% for item in sorted_items %}
+		{% include grid-item.html %}
+	{% endfor %}
+</div>
+
 
 
 

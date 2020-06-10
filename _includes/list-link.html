@@ -1,8 +1,5 @@
-<div class="filter-item {% for tag in item.tags %}{{ tag | replace: ' ', '-' | append: ' ' }}{% endfor %}">
-	<div class="list-item" data-mh="col-text">
+	<div class="list-item">
 
-
-		<div class="grid-content">
 		
 			
 			<h4><a href="{{ item.link }}/?ref=uxlift.org" target="_blank">{{ item.title }}</a></h4>	
@@ -18,13 +15,12 @@
 			</p>
 			
 			<p>{{ item.description }}</p>	
-			
+
 		    <p class="tags xs">
 		    	{% for cat in item.category %}<span><a href="/topics/{{ cat | slugify }}">{{ cat }}</a></span>{% endfor %}
 		    	{% for t in item.tool %}<span><a href="/tools/{{ t | slugify}}">{{ t }}</a></span>{% endfor %}
 			</p>
 
-		</div>
+
 
 	</div>
-</div>

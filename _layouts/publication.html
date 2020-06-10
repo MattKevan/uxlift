@@ -1,64 +1,38 @@
 ---
 layout: default
 ---
-<div class="page publication">
-	<div class="container">
 
-		<div class="top clearfix">
-			<div class="row">
+{% assign con = content | strip_newlines %}
+{% if con != "" %}
 
-				<div class="col-xs-12">
-					<div class="page-title">
-						<p class="s"><a href="{{ site.baseurl }}/">Home</a> » <a href="{{ site.baseurl }}/publications">Publications & blogs</a> »</p>
-						<h1 class="page-title">
-							{% if page.image != '' %}
-								<img src="{{ page.image }}" alt="{{ page.title }}" />
-							{% endif %}{{ page.title }}
-						</h1>
-						
-						<p class="lead">{{ page.description }}</p>
-						<a class="btn btn-primary" href="{{ page.link }}/?ref=uxlift.org" target="_blank">Visit site »</a>
-					</div>
-				</div>
-				
-			</div>
+	<div class="row">
+		<div class="col col-sm-10 col-sm-offset-1">
+			{{ content }}
 		</div>
-		
-		{% assign con = content | strip_newlines %}
-		{% if con != "" %}
-			<div class="section clearfix">
-				<div class="row">	
-					<div class="col-xs-12 col-sm-10 col-sm-push-1">
-	 					{{ content }}
-					</div>
-				</div>
-			</div>	
-		{% endif %}
+	</div>
 
-		<div class="section clearfix">
-			<div class="row">
+	<hr>
 
-				<div class="col-xs-12 col-sm-10 col-sm-push-1">
+{% endif %}
 
-					<h2>Featured articles</h2>
-				
-					{% assign sorted_items = site.topics | sort:'date' | reverse %}
-					{% for item in sorted_items %}
-						{% if item.site == page.title %}
-							{% include list-link.html %}	
-						{% endif %}
-					{% endfor %}
+<h2>Featured articles</h2>
 
-				</div>
-
-			</div>
-		</div>
-		
-		
-		{% include newsletter-form.html %}
-		
+<div class="row">
+	<div class="col-12 col-sm-8">
+		{% assign sorted_items = site.topics | sort:'date' | reverse %}
+		{% for item in sorted_items %}
+			{% if item.site == page.title %}
+				{% include list-link.html %}	
+			{% endif %}
+		{% endfor %}
 	</div>
 </div>
+
+<hr>
+		
+{% include newsletter-form.html %}
+		
+
 
 
 

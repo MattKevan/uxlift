@@ -1,45 +1,30 @@
 ---
-layout: grid
+layout: default
 title: Tools
 permalink: /tools/
 description: Recommended tools and services for your UX and design workflow.
 section: Tools
 ---
 
+<h2>Explore tools</h2>
 
-	<div class="container">
-
-		<div class="section clearfix">
-			<div class="row">
-				<div class="col-xs-12">
-				<h2>Explore tools</h2>
-			</div>
-			{% assign sorted_items = site.tool-categories | sort:'title' %}
-			{% for item in sorted_items %}
-				<div class="col-xs-6 col-md-3 col-sm-4">
-					
-				 <p class="topic-title"><a href="{{ item.url }}">{{ item.title }}</a></p>
-				
-				</div>
-			{% endfor %}
+<div class="row">
+	{% assign sorted_items = site.tool-categories | sort:'title' %}
+	{% for item in sorted_items %}
+		<div class="col-6 col-md-3 col-sm-4">
+			<p class="topic-title"><a href="{{ item.url }}">{{ item.title }}</a></p>
 		</div>
-		</div>
+	{% endfor %}
+</div>
 
-		<div class=" clearfix section">
-		<div class="row">
-			<div class="col-xs-12">
-				<h2>Latest additions</h2>
-			</div>
+<hr>
 
-			{% assign tool = site.tools | sort:'date' | reverse %}
-			{% for item in tool limit:9 %}
-				
-					{% include grid-item.html %}
-				
-			{% endfor %}	
+<h2>Latest additions</h2>
 
-		</div>	
-	</div>
-	</div>
-
+<div class="row">
+	{% assign tool = site.tools | sort:'date' | reverse %}
+	{% for item in tool limit:9 %}
+		{% include grid-item.html %}
+	{% endfor %}	
+</div>
 

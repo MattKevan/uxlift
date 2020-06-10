@@ -1,0 +1,20 @@
+I"�<h3 id="design-token-components">Design Token Components</h3>
+
+<p>Use TypeScript to compose design tokens into deeply customizable, reusable, and developer-friendly Design Token Components.</p>
+
+<p>Design Token Components enable a “write once, use anywhere” paradigm for your design language, across codebases.</p>
+
+<h3 id="cross-platform-native-compiler">Cross-Platform Native Compiler</h3>
+
+<p>More precisely a <em>transpiler</em>: Diez builds your TypeScript component definitions into pure native SDKs for iOS, Android, and the Web — complete with type definitions and autocomplete.</p>
+
+<p><strong>Diez works with your codebase(s):</strong> Diez carries zero opinions about rendering, requires no runtime or VMs, and is designed for progressive adoption.</p>
+
+<h3 id="design-file-extractors">Design File Extractors</h3>
+
+<p>Diez includes command-line tools for extracting normalized, strongly typed styles and images from many modern design tools.</p>
+
+<h3 id="hot-updates">Hot Updates</h3>
+
+<p>The Diez compiler ships with a <code class="highlighter-rouge">**hot**</code> mode, which allows for hot updates at development time — even inside native iOS and Android apps.</p>
+:ET

@@ -1,56 +1,23 @@
 ---
 layout: default
 ---
-<article class="newsletter" itemscope itemtype="http://schema.org/BlogPosting">
 
-
-	<div class="top">
-		<div class="container">
-			<div class="row">
-				<div class="col-xs-12 ">
-					<p class=""><a href="/">Home</a> » <a href="/newsletters">Newsletters</a> »</p>
-					<h1 class="title" itemprop="name headline">{{ page.title }}</h1>
-					<p class="lead">{{ page.description }}</p>
-				</div>
-			</div>
-		</div>
-	</div>
-
-	<div class="container">
-
-		<div class="section">
-			<div class="row">
-				<div class="col-xs-12 col-sm-10 col-sm-push-1 content-inner">
-
-					<div class="post-content" itemprop="articleBody">
-						{{ content }}
-					</div>
-				
-				</div>
-			</div>
-		</div>
-
-		{% include newsletter-form.html %}
-
-		<div class="section top clearfix">
-			<div class="row">
-
-				<div class="col-xs-12">
-					<h2>All issues</h2>
-				</div>
-
-				{% assign sorted_items = site.newsletters | sort:'date' | reverse %}
-				{% for item in sorted_items %}
-						
-					 {% include grid-item.html %}
-			
-				{% endfor %}
-			
-			</div>
-		</div>
-	</div>
-
-</article>
+<div class="row">
+<div class="col-12 col-sm-8">
+{{ content }}
+</div>
+</div>
+<hr>
+{% include newsletter-form.html %}
+<hr>
+		
+<h2>All issues</h2>
+<div class="row">
+	{% assign sorted_items = site.newsletters | sort:'date' | reverse %}
+	{% for item in sorted_items %}
+		{% include grid-item.html %}
+	{% endfor %}
+</div>
 
   
 

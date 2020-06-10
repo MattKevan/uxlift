@@ -1,0 +1,4 @@
+I"4<p>Animations are exported as .json files that use the bodymovin.js player that comes along with the plugin.</p>
+
+<p>You can render animations in the browser on svg, canvas and html. It supports a subset of After Effects features. Animations can also be played natively on iOS and Android through Lottie</p>
+:ET

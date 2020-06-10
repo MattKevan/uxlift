@@ -1,41 +1,16 @@
 ---
 layout: default
 ---
-<div class="page grid">
-
-	<div class="top">
-		<div class="container">
-			<div class="row">
-				<div class="col-xs-12">
-					<div class="page-title">
-						{% assign crumb = page.url | split: '/' %}
-					<p class="s"><a href="{{ site.baseurl }}/">Home</a> » <a href="{{ site.baseurl }}/{{ crumb[1] }}">{{ crumb[1] | replace: '-',' ' | capitalize }}</a> »</p>
-						<h1 class="page-title">{{ page.title }}</h1>
-						<p class="lead">{{ page.description }}</p>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
 
 
-	{{ content }}
+{% include has-design-systems.html %}
+{% include has-articles.html %}
+{% include has-resources.html %}
+{% include has-toolboxes.html %}
+{% include has-tools.html %}
+{% include has-books.html %}
+{% include has-plugins.html %}
 
 
-
-	<div class="container">
-			
-		{% include has-design-systems.html %}
-		{% include has-articles.html %}
-		{% include has-resources.html %}
-		{% include has-toolboxes.html %}
-		{% include has-tools.html %}
-		{% include has-books.html %}
-		{% include has-plugins.html %}
-						
-		
-	</div>
-
-</div>
 
 {% include pagenav.html %}

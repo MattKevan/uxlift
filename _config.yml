@@ -34,6 +34,9 @@ permalink: pretty
 exclude:
   - Gemfile
   - Gemfile.lock
+  
+sass:
+  sass_dir: _sass
 
 page_gen-dirs: true
 

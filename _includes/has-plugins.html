@@ -8,53 +8,41 @@
 	{% endfor %}
 {% endfor %}
 
-
-
 {% if has_plugins == 'yes' %}
+<div class="row" id="Plugins">
+	<div class="col-12">
+<h2>Plugins</h2>
 
-<div class="row">
-	<div class="col-xs-12">
-		<div class="section cleafix" id="Plugins">
-			<h2>Plugins</h2>
+{% assign sorted_items = site.plugin | sort:'title' %}
+{% for item in sorted_items %}
+	{% for cat in item.category %}
+		{% if page.title == cat %}
+
+
+
+				<p class="item-list"><a href="{{ item.link }}" target="_blank">
+
+				{% for t in item.tool %}
+					{% if t == "Sketch" %}
+						<img class="list-logo" src="/assets/images/sketch.png" alt="Sketch" />
+					{% elsif t == 'Figma' %}
+						<img class="list-logo" src="/assets/images/Figma.png" alt="Figma" />
+					{% elsif t == 'XD' %}
+						<img class="list-logo" src="/assets/images/xd.png" alt="XD" />
+					{% endif %}
+				{% endfor %} 
+				<strong> {{ item.title }}</strong></a> 
+
+				 – {{ item.description }} </p>
 	
 
-			<div class="row">
 
 
 
-				{% assign sorted_items = site.plugin | sort:'title' %}
-				{% for item in sorted_items %}
-					{% for cat in item.category %}
-						{% if page.title == cat %}
-
-
-							<div class="col-xs-12">
-								<p class="item-list"><a href="{{ item.link }}" target="_blank">
-
-								{% for t in item.tool %}
-									{% if t == "Sketch" %}
-										<img class="list-logo" src="/assets/images/sketch.png" alt="Sketch" />
-									{% elsif t == 'Figma' %}
-										<img class="list-logo" src="/assets/images/Figma.png" alt="Figma" />
-									{% elsif t == 'XD' %}
-										<img class="list-logo" src="/assets/images/xd.png" alt="XD" />
-									{% endif %}
-								{% endfor %} 
-								<strong> {{ item.title }}</strong></a> 
-
-								 – {{ item.description }} </p>
-							</div>
-
-
-
-
-						{% endif %}
-					{% endfor %}
-				{% endfor %}
-
-			</div>
-		</div>
-	</div>
+		{% endif %}
+	{% endfor %}
+{% endfor %}
+</div>
 </div>
 
 {% endif %}

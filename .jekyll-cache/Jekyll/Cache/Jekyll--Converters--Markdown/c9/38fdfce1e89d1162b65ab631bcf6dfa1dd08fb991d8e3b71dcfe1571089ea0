@@ -1,0 +1,24 @@
+I"�<h3 id="data-without-the-downsides">Data without the downsides</h3>
+
+<p>Better accuracy, better performance, and better privacy for your users. A one-click install with no scripts required on your websites. We really like these trends.</p>
+
+<h4 id="data-right-from-the-source-of-truth">Data right from the source of truth</h4>
+
+<p>Most 3rd-party analytics programs need tracking pixels, JavaScript and cookies to keep count of visitors. But Netlify Analytics is fueled by server-side data collected directly from our worldwide edge nodes—without requiring any code running on the client. That means we can provide more accurate data, right from our server logs, with zero impact to the performance of your site or the privacy of your users.</p>
+
+<h4 id="better-performance">Better performance</h4>
+
+<p>Netlify Analytics will never impact the render time of your web applications since the work of capturing requests happens on our infrastructure, not in the browser. There’s nothing to add to your code; nothing to be downloaded by your visitors. It just works, silently and reliably, without any impact to page performance.</p>
+
+<h4 id="more-accurate-numbers">More accurate numbers</h4>
+
+<p>With client-side analytics systems, sessions can be lost when users employ ad blockers or disable JavaScript. Since it runs on the server and not the client, Netlify Analytics paints a more accurate, complete picture of your users—we never use sampling.</p>
+
+<h4 id="better-privacy">Better privacy</h4>
+
+<p>Netlify Analytics is fully GDPR compliant. You get the data you’d expect without passing it on to a third party or making your users feel tracked across the internet.</p>
+
+<h4 id="even-capture-what-cant-be-found">Even capture what can’t be found</h4>
+
+<p>Netlify Analytics will let you know about routes on your site or app that are returning 404 (not found) errors. Use the top pages not found report to discover pages, images, or other content your visitors are requesting but not receiving.</p>
+:ET

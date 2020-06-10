@@ -5,44 +5,25 @@ description: UX Lift is a curated collection of articles, resources, books and t
 permalink: /about/
 ---
 
-<div class="top">
-	<div class="container">
-		<div class="row">
-			<div class="col-xs-12 ">
-				<div class="page-title">
-					<h1 class="page-title">{{ page.title }}</h1>
-					{% if page.description %}<p class="lead">{{ page.description }}</p>{% endif %}
-				</div>
-			</div>
-		</div>
+
+<div class="row">
+	<div class="col col-md-10 col-md-push-1">
+
+		<h3>Welcome to UX Lift</h3>
+
+		<p>I started this site as a way to organise the collection of useful links I'd been building for years, more for my own benefit than anything. However as it came together, I realised it might be a handy resource for others. I hope you find it useful.</p>
+
+		<p>I'm always interested in new content, so if you've made something great or have any links to share, <a href="https://uxlift.typeform.com/to/F4PDel" target="_blank">I'd love to hear from you</a>.</p>
+
+		<h3>Made in Manchester by <a href="https://www.kevan.tv" target="_blank">Matt Kevan</a></h3>
+
+		<p>I'm a UX and visual designer with many years experience designing and building digital products. I'm currently a lead UX designer at <a href="https://www.ao.com" target="_blank">ao.com</a> and I've previously led the UX and product teams at <a href="https://www.mumsnet.com" target="_blank">Mumsnet</a> and worked for a wide range of national and international clients.</p> 	
+
+		<h3>Technical notes</h3>
+
+		<p>This site is built with <a href="https://www.jekyllrb.com" target="_blank">Jekyll</a> and <a href="https://www.getbootstrap.com" target="_blank">Bootstrap</a>, stored in <a href="https://www.github.com" target="_blank">Github</a> and hosted by <a href="https://www.netlify.com" target="_blank">Netlify</a>. The font is <a href="https://github.com/IBM/plex" target="_blank">Plex Sans</a>.</p>
+
 	</div>
 </div>
 
-<div class="content">
-	<div class="container">
-		
-		<div class="clearfix section">
-			<div class="row">
-				<div class="col-xs-12 col-md-10 col-md-push-1">
-
-					<h3>Welcome to UX Lift</h3>
-
-					<p>I started this site as a way to organise the collection of useful links I'd been building for years, more for my own benefit than anything. However as it came together, I realised it might be a handy resource for others. I hope you find it useful.</p>
-
-					<p>I'm always interested in new content, so if you've made something great or have any links to share, <a href="https://uxlift.typeform.com/to/F4PDel" target="_blank">I'd love to hear from you</a>.</p>
-
-					<h3>Made in Manchester by <a href="https://www.kevan.tv" target="_blank">Matt Kevan</a></h3>
-
-					<p>I'm a UX and visual designer with many years experience designing and building digital products. I'm currently a lead UX designer at <a href="https://www.ao.com" target="_blank">ao.com</a> and I've previously led the UX and product teams at <a href="https://www.mumsnet.com" target="_blank">Mumsnet</a> and worked for a wide range of national and international clients.</p> 	
-
-					<h3>Technical notes</h3>
-
-					<p>This site is built with <a href="https://www.jekyllrb.com" target="_blank">Jekyll</a> and <a href="https://www.getbootstrap.com" target="_blank">Bootstrap</a>, stored in <a href="https://www.github.com" target="_blank">Github</a> and hosted by <a href="https://www.netlify.com" target="_blank">Netlify</a>. The font is <a href="https://github.com/IBM/plex" target="_blank">Plex Sans</a>.</p>
-
-				</div>
-			</div>
-		</div>
-		{% include newsletter-form.html %}
-	</div>	
-</div>
-
+{% include newsletter-form.html %}

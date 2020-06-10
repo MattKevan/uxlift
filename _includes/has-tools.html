@@ -9,25 +9,23 @@
 {% endfor %}
 
 {% if has_tools == 'yes' %}
-<div class="row">
-	<div class="col-xs-12">
-		<div class="section clearfix" id="Tools">
-
-			<h2>Tools</h2>
-
-			<div class="row">
-		
-
-				{% assign sorted_tools = site.tools %}
-				{% for item in sorted_tools %}
-					{% for cat in item.category %}
-						{% if page.title == cat %}
-							{% include grid-item.html %}
-						{% endif %}
-					{% endfor %}
-				{% endfor %}
-			</div>
+	<div class="row" id="Tools">
+		<div class="col-12">
+			<h2 >Tools</h2>
 		</div>
+
+		{% assign sorted_tools = site.tools %}
+		{% for item in sorted_tools %}
+			{% for cat in item.category %}
+				{% if page.title == cat %}
+
+					{% include grid-item.html %}
+
+				{% endif %}
+			{% endfor %}
+		{% endfor %}
+
 	</div>
-</div>
+	<hr>
+
 {% endif %}

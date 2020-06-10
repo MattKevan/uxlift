@@ -1,32 +1,32 @@
-<nav class="navbar navbar-default off" id="pagetop">
+<nav class="navbar navbar-expand-sm navbar-light bg-light" id="pagetop">
   <div class="container">
-    <div class="navbar-header">
+  <a class="navbar-brand" href="/"><i class="fas fa-angle-double-up"></i> {{ site.title }}</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav ml-auto">
+          <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}/topics">Topics</a></li>
+          <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}/books">Books</a></li>
+      
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Publications 
+              </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="{{ site.baseurl }}/publications">Publications</a>
+              <a class="dropdown-item" href="{{ site.baseurl }}/ux-teams">UX teams</a>
+              <a class="dropdown-item" href="{{ site.baseurl }}/personal-blogs">Personal blogs</a>
+              <a class="dropdown-item" href="{{ site.baseurl }}/company-blogs">Company blogs</a>
+              <a class="dropdown-item" href="{{ site.baseurl }}/organisations">Organisations</a>
+        </div>
+      </li>
+                <li class="nav-item"><a  class="nav-link" href="{{ site.baseurl }}/tools">Tools</a></li>
+          <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}/newsletters">Newsletter</a></li>
+
+    </ul>
     
-      <a class="navbar-brand" href="{{ site.baseurl }}/"><i class="fas fa-angle-double-up"></i> {{ site.title }}</a>
-    </div>
-
-     <div id="navbar" class="navbar-collapse collapse off clearfix" aria-expanded="false" style="height: 1px;">
-        <ul class="nav navbar-nav navbar-right no-collapse">
-          <li><a href="{{ site.baseurl }}/topics">Topics</a></li>
-          <li><a href="{{ site.baseurl }}/books">Books</a></li>
-
-
-
-          <li class="dropdown">
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Publications <span class="caret"></span></a>
-            <ul class="dropdown-menu">
-              <li><a href="{{ site.baseurl }}/publications">Publications</a></li>
-              <li><a href="{{ site.baseurl }}/ux-teams">UX teams</a></li>
-              <li><a href="{{ site.baseurl }}/personal-blogs">Personal blogs</a></li>
-              <li><a href="{{ site.baseurl }}/company-blogs">Company blogs</a></li>
-              <li><a href="{{ site.baseurl }}/organisations">Organisations</a></li>
-              </ul>
-          </li>
-          <li><a href="{{ site.baseurl }}/tools">Tools</a></li>
-          <li><a href="{{ site.baseurl }}/newsletters">Newsletter</a></li>
-      
-      </ul>
-      
-    </div>
   </div>
+</div>
 </nav>

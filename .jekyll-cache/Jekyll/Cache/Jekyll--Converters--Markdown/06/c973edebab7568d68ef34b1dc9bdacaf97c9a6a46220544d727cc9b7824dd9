@@ -1,0 +1,9 @@
+I"�<h2 id="what-can-i-do-with-it">What can I do with it?</h2>
+
+<ul>
+  <li><strong>Manage design systems</strong> — react-sketchapp was built for Airbnb’s design system; this is the easiest way to manage Sketch assets in a large design system</li>
+  <li><strong>Use real components for designs</strong> — Implement your designs in code as React components and render them into Sketch</li>
+  <li><strong>Design with real data</strong> — Designing with data is important but challenging; react-sketchapp makes it simple to fetch and incorporate real data into your Sketch files</li>
+  <li><strong>Build new tools on top of Sketch</strong> — the easiest way to use Sketch as a canvas for custom design tooling.</li>
+</ul>
+:ET

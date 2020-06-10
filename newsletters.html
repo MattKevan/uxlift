@@ -6,54 +6,33 @@ description: A weekly roundup of the best UX articles, resources and tools.
 
 ---
 
-<div class="top">
-	<div class="container">
-		<div class="row">
-			<div class="col-xs-12 ">
-				<div class="page-title">
-					<h1 class="page-title">{{ page.title }}</h1>
-					<p class="lead">{{ page.description }}</p>
-				</div>
-			</div>
-		</div>
-	</div>
+
+<div class="row">
+	<div class="col-12 col-sm-8">
+		
+		{% assign sorted_items = site.newsletters | sort:'date' | reverse %}
+		{% for item in sorted_items limit:1 %}
+			<div class="content-block">
+				<p><strong>Current issue</strong></p>
+				<h2>{{ item.title }} - {{ item.description }}</h2>
+				{{ item.content }}
+			</div>				
+		{% endfor %}
+
+	</div>	
 </div>
 
-	<div class="container">
-	
-		<div class="section">
-		<div class="row">
-			<div class="col-xs-12 col-sm-10 col-sm-push-1">
-				
-				{% assign sorted_items = site.newsletters | sort:'date' | reverse %}
-				{% for item in sorted_items limit:1 %}
-					<div class="content-block">
-						<p><strong>Current issue</strong></p>
-						<h2>{{ item.title }} - {{ item.description }}</h2>
-						{{ item.content }}
-					</div>				
-				{% endfor %}
+<hr>
 
-			</div>	
-		</div>
-	</div>
 {% include newsletter-form.html %}
-	<div class="section top clearfix">
-		<div class="row">
-			<div class="col-xs-12">
-				<h2>All issues</h2>
-			</div>
-			{% assign sorted_items = site.newsletters | sort:'date' | reverse %}
-			{% for item in sorted_items %}
-					
-					
-				 {% include grid-item.html %}
-				
-				
-						
-					
-			{% endfor %}
-		
-		</div>
-	</div>
+
+<hr>
+
+<h2>All issues</h2>
+
+<div class="row">
+	{% assign sorted_items = site.newsletters | sort:'date' | reverse %}
+	{% for item in sorted_items %}
+		{% include grid-item.html %}
+	{% endfor %}	
 </div>

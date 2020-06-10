@@ -1,24 +1,18 @@
 
 {% if page.title == 'Design systems' %}
-
-<div class="row">
-	<div class="col-xs-12">
-		<div class="section clearfix" id="Systems">
+	<div class="row" id="Systems">
+		<div class="col-12">
 			<h2>Example systems</h2>
-	
+		</div>
 
-			<div class="row">
-			{% assign sorted_items = site.design-systems | sort:'title' %}
-			{% for item in sorted_items %}
+		{% assign sorted_items = site.design-systems | sort:'title' %}
+		{% for item in sorted_items %}
 			<div class="col-xs-6 col-md-4">
-				
-					<p class="item-list"><a href="{{ item.link }}" target="_blank"><img class="list-logo" src="{{ item.image }}" alt="{{ item.title }}" /><strong> {{ item.title }}</strong></a></p>
-				</div>
-				
-			{% endfor %}
-		</div>
-		</div>
+				<p class="item-list"><a href="{{ item.link }}" target="_blank"><img class="list-logo" src="{{ item.image }}" alt="{{ item.title }}" /><strong> {{ item.title }}</strong></a></p>
+			</div>
+		{% endfor %}
 	</div>
-</div>
+
+
 
 {% endif %}

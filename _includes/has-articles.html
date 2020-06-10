@@ -11,11 +11,9 @@
 
 
 {% if has_articles == 'yes' %}
-<div class="section clearfix"  id="Articles">
-<div class="row">
-	
-				<div class="col-xs-12 col-sm-10 col-sm-push-1">
-				
+
+				<div class="row" id="Articles">
+					<div class="col-12 col-md-8">
 					<h2>Articles</h2>		
 					{% assign sorted_items = site.topics | sort:'date' | reverse %}
 					{% for item in sorted_items %}
@@ -25,8 +23,8 @@
 							{% endif %}
 						{% endfor %}
 					{% endfor %}
+				</div>
+			</div>
 					
-		</div>
-	</div>
-</div>
+<hr>
 {% endif %}

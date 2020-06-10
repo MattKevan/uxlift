@@ -1,17 +1,15 @@
 ---
-layout: grid
+layout: default
 title: Articles
 permalink: /articles/
 
 
 ---
 
-<div class="section bgg">
-	<div class="container">
-		<div class="row">
+
 
 			{% for article in site.articles %}
-					<div class="col-xs-12 block">
+					<div class="block">
 						<a href="{{ article.url }}">
 							<div class="block-inner">
 								<h3>{{ article.title }}</h3>
@@ -20,7 +18,5 @@ permalink: /articles/
 						</a>
 					</div>
 			{% endfor %}	
-		</div>
-	</div>
-</div>
+
 

@@ -58,49 +58,47 @@
 {% endfor %}
 
 
+<nav class="navbar navbar-expand-sm navbar-light bg-light fixed-top" id="navbar-pagenav">
+  <div class="container">
+  	<a class="navbar-brand" href="#"> {{ page.title }}</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
 
-<nav class="navbar navbar-default navbar-fixed-top" id="navbar-pagenav"> 
-	<div class="container"> 
-		<div class="navbar-header"> 
-			<button class="collapsed navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-example-js-navbar-scrollspy"> 
-				<span class="sr-only">Toggle navigation</span> 
-				<span class="icon-bar"></span> 
-				<span class="icon-bar"></span> 
-				<span class="icon-bar"></span> 
-			</button> 
-			<a href="#pagetop" class="navbar-brand">{{ page.title }}</a> 
-		</div> 
-		<div class="collapse navbar-collapse bs-example-js-navbar-scrollspy"> 
-			<ul class="nav navbar-nav"> 
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+
+
+<ul class="ml-auto navbar-nav"> 
 				{% if page.title == 'Design systems' %}
-					<li class=""><a href="#Systems" class="scrollLink">Systems</a></li>
+					<li class="nav-item"><a href="#Systems" class="nav-link crollLink">Systems</a></li>
 				{% endif %}
 
-				<li class=""><a href="#Articles" class="scrollLink">Articles</a></li>
+				<li class="nav-item"><a href="#Articles" class="nav-link scrollLink">Articles</a></li>
 
 				{% if has_toolboxes == 'yes' %}
-					<li class=""><a href="#Toolboxes" class="scrollLink">Design toolboxes</a></li>
+					<li class="nav-item"><a href="#Toolboxes" class="nav-link scrollLink">Design toolboxes</a></li>
 				{% endif %}
 
 				{% if has_resources == 'yes' %}
-					<li class=""><a href="#Resources" class="scrollLink">Resources</a></li>
+					<li class="nav-item"><a href="#Resources" class="nav-link scrollLink">Resources</a></li>
 				{% endif %}
 
 				{% if has_tools == 'yes' %}
-					<li class=""><a href="#Tools" class="scrollLink">Tools</a></li>
+					<li class="nav-item"><a href="#Tools" class="nav-link scrollLink">Tools</a></li>
 				{% endif %}
 
 				{% if has_books == 'yes' %}
-					<li class=""><a href="#Books" class="scrollLink">Books</a></li>
+					<li class="nav-item"><a href="#Books" class="nav-link scrollLink">Books</a></li>
 				{% endif %}
 				
 				{% if has_plugins == 'yes' %}
-					<li class=""><a href="#Plugins" class="scrollLink">Plugins</a></li>
+					<li class="nav-item"><a href="#Plugins" class="nav-link scrollLink">Plugins</a></li>
 				{% endif %}
 		
 				
 			</ul> 
-		</div> 
-	</div>
+    
+  </div>
+</div>
 </nav>
 

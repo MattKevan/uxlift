@@ -1,0 +1,60 @@
+I"#	<h3 id="deliver-robust-uis">Deliver robust UIs</h3>
+
+<p>Storybook provides a sandbox to build UI components in isolation so you can develop hard-to-reach states and edge cases.</p>
+
+<p><strong>Build components in isolation</strong></p>
+
+<p>Create components without needing to stand up screens, fuss with data, or build business logic.</p>
+
+<p><strong>Mock hard to reach use cases</strong></p>
+
+<p>Render components in key states that are tricky to reproduce in an app.</p>
+
+<p><strong>Document use cases as stories</strong></p>
+
+<p>Save use cases as stories in plain JavaScript to revisit during development, testing, and QA.</p>
+
+<p><strong>Supercharge your workflow with addons</strong></p>
+
+<p>Use addons to build UI faster, document a component library, and streamline your workflow.</p>
+
+<h3 id="ship-components-with-confidence">Ship components with confidence</h3>
+
+<p>Storybook makes it easy to keep track of edge cases and as a result you get tests for free.</p>
+
+<p><strong>Ensure consistent user experiences</strong></p>
+
+<p>Whenever you write a story you get a handy visual spec. Quickly browse stories to make sure your UI looks right.</p>
+
+<p><strong>Auto-detect code regressions</strong></p>
+
+<p>Get code snapshot tests out of the box with Storyshots, an official addon.</p>
+
+<p><strong>Unit test components</strong></p>
+
+<p>Reuse stories in your unit tests to confirm nuanced functionality.</p>
+
+<p><strong>Catch UI changes down to the pixel every commit</strong></p>
+
+<p>Pinpoint UI changes with visual testing tools.</p>
+
+<h3 id="share-and-reuse-everything">Share and reuse everything</h3>
+
+<p>Stop reinventing the wheel. Get a birds-eye view of your UI library to find components to reuse in your project.</p>
+
+<p><strong>Find any component in your app</strong></p>
+
+<p>Storybook is a searchable, single source of truth for your UI components.</p>
+
+<p><strong>Get timely feedback during development</strong></p>
+
+<p>Collaborate on UI implementation with your team by deploying Storybook to the cloud.</p>
+
+<p><strong>Share components across screens and apps</strong></p>
+
+<p>Every story is a use case that your team can find and reuse.</p>
+
+<p><strong>Generate a styleguide automatically</strong></p>
+
+<p>Write Markdown/MDX to generate a customizable site that is perfect for component libraries and design systems.</p>
+:ET

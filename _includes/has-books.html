@@ -9,25 +9,19 @@
 {% endfor %}
 
 {% if has_books == 'yes' %}
-<div class="row">
-	<div class="col-xs-12">
-		<div class="section clearfix" id="Books">
-
+	<div class="row" id="Books">
+		<div class="col-12">
 			<h2>Books</h2>
-
-			<div class="row">
-		
-
-				{% assign sorted_books = site.books %}
-				{% for item in sorted_books %}
-					{% for cat in item.category %}
-						{% if page.title == cat %}
-							{% include grid-item.html %}
-						{% endif %}
-					{% endfor %}
-				{% endfor %}
-			</div>
 		</div>
+		
+		{% assign sorted_books = site.books %}
+		{% for item in sorted_books %}
+			{% for cat in item.category %}
+				{% if page.title == cat %}
+					{% include grid-item.html %}
+				{% endif %}
+			{% endfor %}
+		{% endfor %}
 	</div>
-</div>
+	<hr>
 {% endif %}

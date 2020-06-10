@@ -8,14 +8,11 @@
 	{% endfor %}
 {% endfor %}
 
-
-
 {% if has_resources == 'yes' %}
-<div class="row">
-	<div class="section clearfix" id="Resources">
-		<div class="col-xs-12">
-			<h2>Resources</h2>
-		</div>
+	<div class="row" id="Resources">
+		<div class="col-12">
+	<h2>Resources</h2>
+	</div>
 
 		{% assign sorted_items = site.topics | sort:'title' %}
 		{% for item in sorted_items %}
@@ -25,7 +22,6 @@
 				{% endif %}
 			{% endfor %}
 		{% endfor %}
-
 	</div>
-</div>
+	<hr>
 {% endif %}
