@@ -30,7 +30,7 @@ fields:
 - name: image
   type: file
   config:
-    maxSize: 250
+    maxSize: 64
   label: Image
 - type: list
   name: category
@@ -54,11 +54,6 @@ fields:
       file: _data/categories.yml
       path: type
   label: Type
-- name: preview
-  type: file
-  config:
-    maxSize: 250
-  label: Preview
 - name: tool
   type: select
   default: []
@@ -71,6 +66,18 @@ fields:
       file: _data/categories.yml
       path: tool
   label: Tool
+- name: site_reference
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: publications
+      file: 
+      path: 
+  label: Site reference
 pages:
 - _topics/10-tips-on-making-magic-with-writers.md
 - _topics/10-tips-on-using-components-in-figma.md
