@@ -3,7 +3,7 @@ title: How UX Professionals Collaborate on Deliverables
 description: 'Creating and refining UX deliverables is typically not a solitary act, and
   we frequently see UX professionals working with other team members to create documentation
   and design artifacts. '
-link: https://www.nngroup.com/articles/ux-deliverables-collaboration/
+link: https://www.nngroup.com/articles/ux-deliverables-collaboration
 site: Nielsen Norman Group
 category:
 - Collaboration
