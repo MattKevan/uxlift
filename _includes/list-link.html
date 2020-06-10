@@ -5,10 +5,25 @@
 			<h4><a href="{{ item.link }}/?ref=uxlift.org" target="_blank">{{ item.title }}</a></h4>	
 			
 			<p class="weblink s"><a href="/publications/{{ item.site | slugify }}">
-				{% if item.image %}
-					<img class="list-logo" src="{{ item.image }}" alt="{{ item.title }}" />
+
+				{% if item.site_reference %}
+					{% for sites in site.publications %}
+						{% if sites.path == item.site_reference %}
+							<img class="list-logo" src="{{ sites.image }}" alt="{{ sites.title }}" />
+							{{ sites.title }}</a>
+					  	{% endif %}
+					{% endfor %}
+
+				{% else%}
+
+					{% if item.image %}
+						<img class="list-logo" src="{{ item.image }}" alt="{{ item.title }}" />
+					{% endif %}
+
+					{{ item.site }}</a>
+
 				{% endif %}
-				{{ item.site }}</a>
+
 				{% for t in item.type %}
 					{% if t == "Article" %} – {{ item.date | date: "%-d %B %Y" }}{% endif %}
 				{% endfor %}
@@ -20,7 +35,5 @@
 		    	{% for cat in item.category %}<span><a href="/topics/{{ cat | slugify }}">{{ cat }}</a></span>{% endfor %}
 		    	{% for t in item.tool %}<span><a href="/tools/{{ t | slugify}}">{{ t }}</a></span>{% endfor %}
 			</p>
-
-
 
 	</div>

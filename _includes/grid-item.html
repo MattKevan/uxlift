@@ -2,7 +2,7 @@
 	<div class="card h-100">
 
 		<div class="grid-content">
-			{% if item.image %}
+			{% if item.image != "" %}
 			<a href="{{ item.url }}" target="_blank">
 				<img class="logo" src="{{ item.image }}" alt="{{ item.title }}" />
 			</a>{% endif %}
