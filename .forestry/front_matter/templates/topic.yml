@@ -104,6 +104,7 @@ pages:
 - _topics/complete-beginner-s-guide-to-analytics.md
 - _topics/cookie-cutter-design-systems.md
 - _topics/cooperative-design-systems.md
+- _topics/creating-depth-in-sketch.md
 - _topics/critiquing-design.md
 - _topics/dark-patterns-12-tricks-you-should-never-use-in-your-products.md
 - _topics/dark-patterns-at-scale-findings-from-a-crawl-of-11k-shopping-websites.md
@@ -129,6 +130,7 @@ pages:
 - _topics/how-do-you-keep-people-updated-with-what-is-being-worked-on.md
 - _topics/how-do-you-measure-delight.md
 - _topics/how-to-avoid-5-of-the-most-common-design-system-mistakes.md
+- _topics/how-to-convince-others-not-to-use-dark-patterns.md
 - _topics/how-to-give-and-receive-a-good-design-critique.md
 - _topics/how-to-look-before-you-leap-a-guide-to-mapping-assumptions-for-product-development-teams.md
 - _topics/how-to-manage-a-design-team.md
@@ -148,6 +150,7 @@ pages:
 - _topics/liberating-structures.md
 - _topics/managing-talent-strategically-using-career-roadmaps.md
 - _topics/mark-boulton-the-ugly-truth-about-design-systems-video.md
+- _topics/modern-touch-friendly-design.md
 - _topics/moulding-yourself-into-a-leader-part-1.md
 - _topics/moulding-yourself-into-a-leader-part-2.md
 - _topics/moving-from-sketch-to-figma-a-case-study-of-migrating-design-systems.md
@@ -187,6 +190,7 @@ pages:
 - _topics/unmoderated-user-tests-how-and-why-to-do-them.md
 - _topics/user-interface-design-patterns.md
 - _topics/user-journey-planning-what-is-an-empathy-map.md
+- _topics/using-ux-testing-to-dramatically-improve-your-a-b-testing-results.md
 - _topics/ux-analytics-what-they-are-and-why-they-matter.md
 - _topics/ux-design-patterns-what-why-and-how.md
 - _topics/ux-leadership-everyone-is-a-designer.md
