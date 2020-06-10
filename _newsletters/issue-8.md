@@ -1,28 +1,32 @@
 ---
-title: Issue 7
+title: Issue 8
 date: 2020-05-15 00:00:00 +0100
 description: 11-15 May 2020
 ---
+
 #### Articles
 
-[**Micro-typography: how to space and kern punctuation marks and other symbols**](https://www.smashingmagazine.com/2020/05/micro-typography-space-kern-punctuation-marks-symbols/) – Nice primer on an often overlooked aspect of typography.
+[Using UX testing to improve A/B testing results](https://usabilitygeek.com/using-ux-testing-to-dramatically-improve-your-a-b-testing-results/)– designing tests based on the outcomes of user testing saves money and time and leads to better results.
 
-[**Microinteractions in user experience**](https://www.nngroup.com/articles/microinteractions/) – to be enjoyable, a digital experience needs to be both engaging and usable. Here’s how to get it right.
+[Creating depth in Sketch](https://medium.com/sketch-app-sources/creating-depth-in-sketch-c5941512248c) – a primer on emulating light sources to better convey depth in your designs.
 
-[**How you can Improve UX with microinteractions**](https://uxmag.com/articles/how-you-can-improve-ux-with-microinteractions-part-i) – from small and boring to small and exciting.
+[Jobs to be done](https://alistapart.com/article/jobs-to-be-done/)– how to use jobs-to-be-done to test assumptions and solve customer problems.
 
-[**Designing emotional UI **](https://uxplanet.org/designing-emotional-ui-b11fa0fda5c)– little details that make users feel good.
+[Modern touch-friendly design](https://addyosmani.com/blog/touch-friendly-design/) – guidelines for working with large touch screens.
 
-[**Reducing design risk **](https://www.smashingmagazine.com/2020/05/reducing-design-risk/)– techniques for making better design decisions.
+[How to convince others not to use dark patterns](https://www.smashingmagazine.com/2020/05/convince-others-against-dark-patterns/)
 
-#### Book
+[How to feel more energised even when you’re stuck at a desk all day](https://www.smashingmagazine.com/2020/05/more-energized-stuck-at-desk-all-day/)
 
-[**Microinteractions: Designing with details**](https://microinteractions.com/)
+#### Tools
 
-#### Resources
+[Above the Fold](https://www.visualeyes.design/tools/above-the-fold)– Sketch plugin to test whether important elements are visible at different breakpoints.
 
-[**Miro template for running a remote design sprint**](https://miro.com/templates/remote-design-sprint/) – plus some [best practice tips](http://www.uxforthemasses.com/remote-design-sprints/).
+[Figurative](https://figurative.design/) – free iPad app for Figma. Really interesting proof of concept, but only really works when you’ve got a bluetooth mouse. Worth trying out though.  
 
-#### And finally
+[Keyframes.app](https://keyframes.app/animate/) – CSS keyframe animator.
 
-[**Sure, the velociraptors are still on the loose, but that’s no reason not to reopen Jurassic Park**](https://www.mcsweeneys.net/articles/sure-the-velociraptors-are-still-on-the-loose-but-thats-no-reason-not-to-reopen-jurassic-park)
+#### Cool stuff
+
+[Jazz Keys](https://jazzkeys.plan8.co/) – enjoy some mellow jazz while writing your next email.
+

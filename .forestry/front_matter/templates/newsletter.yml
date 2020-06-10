@@ -12,5 +12,15 @@ fields:
   label: Date
   config:
     required: true
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Description
 pages:
 - _newsletters/issue-7.md
+- _newsletters/issue-8.md
