@@ -1,5 +1,5 @@
 ---
-date: 2020-05-27 11:28:22 +0100
+date: 2020-05-27T11:28:22.000+01:00
 tool: Sketch
 title: Creating Depth in Sketch
 description: Have you ever noticed elements in an interface that feel raised off of
@@ -11,5 +11,6 @@ category:
 - Visual design
 type: Article
 preview: ''
+site_reference: _publications/design-sketch.md
 
 ---
