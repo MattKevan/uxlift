@@ -1,9 +1,0 @@
----
-title: tool export
----
-post_type,post_title,post_excerpt, field_5e136db83cf77, field_5e13a1bc6dc3f,post_date,post_category,post_content
-{% for t in site.tools %}
-
-"tools","{{ t.title }}","{{ t.description }}","{{ t.link }}","https://www.uxlift.org{{ t.image }}",{{ t.date }},"{% for c in t.category %}{{ c | slugify }},{% endfor %}",""{{ t.content }}""
-
-{% endfor %}

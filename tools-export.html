@@ -1,9 +1,0 @@
----
-title: tool export
----
-Title,Excerpt,Link,Image,Date,Category
-{% for t in site.tools %}
-
-{{ t.title }},"{{ t.description }}",{{ t.link }},https://www.uxlift.org{{ t.image }},{{ t.date }},"{% for c in t.category %}{{ c }},{% endfor %}"¥
-
-{% endfor %}
