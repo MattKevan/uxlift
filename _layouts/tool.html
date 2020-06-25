@@ -13,6 +13,37 @@ layout: default
 	</div>
 	<hr>
 {% endif %}
+
+{% assign has_articles = 'no' %}
+
+{% for item in site.topics %}
+	{% for cat in item.tool %}
+		{% if page.title == cat and item.type == 'Article'%}
+			{% assign has_articles = 'yes' %}
+		{% endif %}
+	{% endfor %}
+{% endfor %}
+
+
+
+{% if has_articles == 'yes' %}
+
+				<div class="row" id="Articles">
+					<div class="col-12 col-md-8">
+					<h2>Articles</h2>		
+					{% assign sorted_items = site.topics | sort:'date' | reverse %}
+					{% for item in sorted_items %}
+						{% for cat in item.tool %}
+							{% if page.title == cat and item.type == 'Article'%}
+								{% include list-link.html %}
+							{% endif %}
+						{% endfor %}
+					{% endfor %}
+				</div>
+			</div>
+					
+<hr>
+{% endif %}
 		
 <h2>Alternatives to {{ page.title }}</h2>
 		
