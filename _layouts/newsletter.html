@@ -11,7 +11,7 @@ layout: default
 {% include newsletter-form.html %}
 <hr>
 		
-<h2>All issues</h2>
+<h2>Newsletter archive</h2>
 <div class="row">
 	{% assign sorted_items = site.newsletters | sort:'date' | reverse %}
 	{% for item in sorted_items %}

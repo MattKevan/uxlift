@@ -4,6 +4,9 @@ date: 2020-06-19 00:00:00 +0100
 description: 19 June 2020
 
 ---
+
+### Articles
+
 [Bootstrap 5 alpha launched](https://blog.getbootstrap.com/2020/06/16/bootstrap-5-alpha/) – Dropping support for Internet Explorer and jQuery feels like landmark developments in the history of web development.
 
 [Is your website stressing out visitors?](https://www.smashingmagazine.com/2020/06/website-stressing-out-visitors/) – The very last thing you want is to design a website that stresses visitors out, leading them to dread the experience or abandon it entirely.
@@ -16,7 +19,7 @@ description: 19 June 2020
 
 [Product Lists: Display Extra Product Info and Images on Hover (70% of Sites Don’t)](https://baymard.com/blog/secondary-hover-information?ref=uxdesignweekly) – Displaying additional list item information on mouse hover leads to less time spent on irrelevant products, and more time spent with relevant ones.
 
-#### Cool tools
+### Cool tools
 
 [MakeSpace](https://makespace.fun/) – Collaborative working and video chat taken to the next level. Still at concept phase, but super interesting.
 
