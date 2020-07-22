@@ -6,15 +6,16 @@ description: 13-17 July
 ---
 #### Articles
 
-[Make me think](https://ralphammer.com/make-me-think/) – Beautifully animated thoughts on the role of design in technology and simplification vs complexity.  
-  
+[Make me think](https://ralphammer.com/make-me-think/) – Beautifully animated thoughts on the role of design in technology and simplification vs complexity.
+
 [The state of pixel perfection](https://ishadeed.com/article/pixel-perfection/) – What does pixel-perfect mean in today’s multi-device world?
 
 [Communicating changes throughout the buyer's journey](https://www.nngroup.com/articles/emergency-covid/) – How to effectively communicate changes to customer services across all channels.
 
 [UX feedback template](https://blog.prototypr.io/use-this-template-to-receive-better-more-valuable-ux-feedback-b33c5d16565d) – Use this template to receive better, more valuable UX feedback.
 
-[The 6 most common accessibility problems (and how to fix them)](https://blog.scottlogic.com/2020/07/02/6-most-common-accessibility-problems.html)  
+[The 6 most common accessibility problems (and how to fix them)](https://blog.scottlogic.com/2020/07/02/6-most-common-accessibility-problems.html)
+
 [How to create a user research plan](https://www.userzoom.com/blog/how-to-create-a-ux-research-plan/) – Good advice from UserZoom.
 
 #### Cool stuff
