@@ -12,9 +12,10 @@ description: 29 June - 3 July
 
 [What’s new in Sketch 67](https://medium.com/sketch-app-sources/sketch-67-embed-fonts-in-documents-d1e89040d3a7) – Sketch now lets you embed fonts in documents. This will be very useful.
 
-[Why I Don’t Believe in Empathic Design](https://xd.adobe.com/ideas/perspectives/leadership-insights/why-i-dont-believe-in-empathic-design-don-norman/) – Don Norman, who coined the term ‘user experience,’ explains why he’s not convinced by the current obsession with empathy and what we should do instead.  
-  
-[15 Principles of Good Service Design](https://good.services/15-principles-of-good-service-design) – A set of 15 universal principles for designing services that work for users. Use them to design, assess or monitor the quality of any service.  
+[Why I Don’t Believe in Empathic Design](https://xd.adobe.com/ideas/perspectives/leadership-insights/why-i-dont-believe-in-empathic-design-don-norman/) – Don Norman, who coined the term ‘user experience,’ explains why he’s not convinced by the current obsession with empathy and what we should do instead.
+
+[15 Principles of Good Service Design](https://good.services/15-principles-of-good-service-design) – A set of 15 universal principles for designing services that work for users. Use them to design, assess or monitor the quality of any service.
+
 [UX Debt](https://www.usersknow.com/podcast/2020/7/1/ux-debt) – A terrible gift from the past (podcast).
 
 #### Cool stuff
