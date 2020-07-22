@@ -23,6 +23,7 @@ fields:
   label: Description
 pages:
 - _newsletters/issue-10.md
+- _newsletters/issue-11.md
 - _newsletters/issue-7.md
 - _newsletters/issue-8.md
 - _newsletters/issue-9.md
