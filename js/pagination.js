@@ -94,9 +94,9 @@
                     refreshPageforItems($(this), settings.currentPage, settings.limit, settings.link, settings.formElement);
                 } else {
                     if ($(this).parent().hasClass('prev')) {
-                        [settings.currentPage, rpmPageNext] = preparePageItems(settings.currentPage, rpmPageNext, settings.limit, rpmCustomDomElem, 'prev');
+                        [settings.currentPage, rpmPageNext] = preparePageItems(settings.currentPage, rpmPageNext, settings.limit, rpmCustomDomElem, 'Prev');
                     } else if ($(this).parent().hasClass('next')) {
-                        [settings.currentPage, rpmPageNext] = preparePageItems(settings.currentPage, rpmPageNext, settings.limit, rpmCustomDomElem, 'next');
+                        [settings.currentPage, rpmPageNext] = preparePageItems(settings.currentPage, rpmPageNext, settings.limit, rpmCustomDomElem, 'Next');
                     } else {
                         let cl = $(this).data('page_no');
                         settings.currentPage = parseInt(cl);

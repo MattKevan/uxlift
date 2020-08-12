@@ -369,7 +369,6 @@ p.weblink {
 .box {
 	background-color: #EFEFEF;
 	padding: 30px;
-	border-radius: 15px;
 	h3 {margin-top: 0;}
 
 	.form-control {
@@ -381,8 +380,7 @@ p.weblink {
 		float: left;
 	}
 	.btn.btn-primary {
-		border-radius: 0 5px 5px 0;
-		float: left;
+		
 	}
 
 }
