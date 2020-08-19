@@ -1,10 +1,11 @@
 ---
-date: 2020-04-20 10:24:20 +0100
+date: 2020-04-20T10:24:20.000+01:00
 title: Mural
 image: "/assets/images/mural.png"
 description: MURAL is a digital workspace for visual collaboration.
 link: https://mural.co
 category:
+- Mind mapping
 - Diagramming
 - Collaboration
 
