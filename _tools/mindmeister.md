@@ -1,11 +1,12 @@
 ---
-date: 2019-09-06 09:37:50 +0100
+date: 2019-09-06T09:37:50.000+01:00
 title: MindMeister
 image: "/assets/images/mindmeister.png"
 description: 'MindMeister is an online mind mapping tool that lets you capture, develop
   and share ideas visually. '
 link: https://www.mindmeister.com
 category:
+- Mind mapping
 - Diagramming
 
 ---
