@@ -1,5 +1,5 @@
 ---
-date: 2020-06-29 09:26:42 +0100
+date: 2020-06-29T09:26:42.000+01:00
 tool: ''
 site_reference: _publications/uie.md
 title: Why UX outcomes make better goals than business outcomes
@@ -9,6 +9,7 @@ link: https://articles.uie.com/why-ux-outcomes-make-better-goals-than-business-o
 site: ''
 image: ''
 category:
+- UX process
 - User research
 - Analytics
 - Customer discovery
