@@ -41,18 +41,6 @@ fields:
     display_utc: false
   hidden: true
   default: now
-- name: cats
-  type: select
-  default: []
-  config:
-    required: false
-    options: []
-    source:
-      type: pages
-      section: tool-categories
-      file: 
-      path: 
-  label: Cats
 pages:
 - _tools/ab-tasty.md
 - _tools/bodymovin.md
