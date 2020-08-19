@@ -1,10 +1,11 @@
 ---
-date: 2019-09-06 09:49:33 +0100
+date: 2019-09-06T09:49:33.000+01:00
 title: SimpleMind
 image: "/assets/images/simplemind.png"
 description: SimpleMind is the world leader in cross platform Mind Mapping tools.
 link: https://simplemind.eu
 category:
+- Mind mapping
 - Diagramming
 
 ---
