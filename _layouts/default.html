@@ -26,6 +26,21 @@
 		    				{% endif %}
 	    				{% endif %}
 
+	    				{% if page.category %}
+						    <p class="fullpage tags xs">
+							    
+							    {% for cat in page.category %}
+									<span>{{ cat }}</span>
+								{% endfor %}
+								{% if page.source %}
+									{% for src in page.source %}
+										<span>{{ src }}</span>
+									{% endfor %}
+								{% endif %}
+
+							</p>
+						{% endif %}
+
 						{% if page.link %}
 		    				{% if page.link != '' %}
 		    					<a class="btn btn-primary" href="{{ page.link }}/?ref=uxlift.org" target="_blank">Visit site »</a>

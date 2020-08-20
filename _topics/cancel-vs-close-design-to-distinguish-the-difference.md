@@ -12,5 +12,5 @@ type: Article
 date: 2019-08-31T23:00:00.000+00:00
 preview: ''
 image: "/assets/images/nielsen.png"
-
+site_reference: _publications/nielsen-norman-group.md
 ---

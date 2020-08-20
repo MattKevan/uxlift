@@ -60,6 +60,7 @@ h1 {
 }
 h2 {
 	font-size: 1.8em;
+	margin-bottom: 1rem;
 }
 .meta p {
 	font-size: 14px;
@@ -182,6 +183,12 @@ p.tags {
 		a {color: #444;}
 	}
 }
+
+p.fullpage.tags {
+	margin-bottom: 20px;
+	display: block;
+}
+
 .filter-grid {
 
 }

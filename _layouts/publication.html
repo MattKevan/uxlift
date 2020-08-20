@@ -19,10 +19,12 @@ layout: default
 
 <div class="row">
 	<div class="col-12 col-sm-8">
+
+
 		{% assign sorted_items = site.topics | sort:'date' | reverse %}
 		{% for item in sorted_items %}
-			{% if item.site == page.title %}
-				{% include list-link.html %}	
+			{% if item.site_reference == page.path %}
+					{% include list-link.html %}
 			{% endif %}
 		{% endfor %}
 	</div>

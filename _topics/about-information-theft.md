@@ -11,5 +11,5 @@ description: Don’t ask for more attention than your product’s place in someo
 type: Article
 date: 2018-06-07T23:00:00.000+00:00
 image: "/assets/images/noteworthy.png"
-
+site_reference: _publications/noteworthy.md
 ---

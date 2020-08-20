@@ -11,5 +11,5 @@ category:
 - Design ethics
 type: Article
 preview: ''
-
+site_reference: _publications/thoughtworks.md
 ---

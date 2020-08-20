@@ -12,5 +12,4 @@ category:
 type: Article
 preview: ''
 site_reference: _publications/design-sketch.md
-
 ---

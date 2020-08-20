@@ -4,7 +4,18 @@
 			
 			<h4><a href="{{ item.link }}/?ref=uxlift.org" target="_blank">{{ item.title }}</a></h4>	
 			
-			<p class="weblink s"><a href="/publications/{{ item.site | slugify }}">
+			<p class="weblink s">
+
+				{% if item.site_reference %}
+					{% for sites in site.publications %}
+						{% if sites.path == item.site_reference %}
+							
+							<a href="{{ sites.url }}">
+					  	{% endif %}
+					{% endfor %}
+				{% endif %}
+
+				
 
 				{% if item.site_reference %}
 					{% for sites in site.publications %}
@@ -27,6 +38,11 @@
 				{% for t in item.type %}
 					{% if t == "Article" %} – {{ item.date | date: "%-d %B %Y" }}{% endif %}
 				{% endfor %}
+
+				{% if item.site_reference %}
+					</a>
+				{% endif %}
+
 			</p>
 			
 			<p>{{ item.description }}</p>	

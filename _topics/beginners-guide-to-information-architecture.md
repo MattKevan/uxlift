@@ -8,5 +8,5 @@ description: Information architecture is the creation of a structure for a websi
 site: UX Booth
 type: Article
 date: 2015-12-01 00:00:00 +0000
-
+site_reference: _publications/ux-booth.md
 ---

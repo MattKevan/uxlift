@@ -11,5 +11,7 @@ type: Article
 date: 2019-08-12 00:00:00 +0100
 preview: ''
 image: "/assets/images/abstract.png"
-
+site_reference: _publications/abstract.md
+tool:
+- Abstract
 ---

@@ -3,45 +3,24 @@ layout: default
 ---
 
 
-				<p class="s"><a href="{{ site.baseurl }}/">Home</a> » <a href="{{ site.baseurl }}/topics">Topics</a> »</p>
-				<h1 class="title">{{ page.title }}</h1>
-				<p class="weblink">
-				{% if page.image %}
-					<img class="list-logo" src="{{ page.image }}" alt="{{ page.title }}" />
-				{% endif %}
-				<a href="/publications/{{ page.site | slugify }}">{{ page.site }}</a>
-				{% for t in page.type %}
-					{% if t == "Article" %} – {{ page.date | date: "%-d %B %Y" }}{% endif %}
-				{% endfor %}
-			</p>
-			<p class="tags xs">
-			   	{% for cat in page.category %}<span><a href="/topics/{{ cat | slugify }}">{{ cat }}</a></span>{% endfor %}
-			</p>
-				<p class="lead">{{ page.description }}</p>
+{% include newsletter-form.html %}
 
-				<p><a class="btn btn-primary" href="{{ page.link }}/?ref=uxlift.org" target="_blank">View full story »</a></p>
+<hr>
 
-	{% include newsletter-form.html %}
+<h2>Related articles</h2>
+
+{% assign sorted_items = site.topics | sort:'date' | reverse %}
+{% for item in sorted_items %}
 	
+	{% if item.category == page.category %}
+		{% include list-link.html %}	
+	{% endif %}
 
-					<h2>Related articles</h2>
-				
-					{% assign sorted_items = site.topics | sort:'date' | reverse %}
-					{% for item in sorted_items %}
-						
-						{% if item.category == page.category %}
-							{% include list-link.html %}	
-						{% endif %}
+{% endfor %}
 
-					{% endfor %}
 
-			
 
-	{% if content %}
 
-				{{ content }}
-
-	{% endif%}
 
 	
 
