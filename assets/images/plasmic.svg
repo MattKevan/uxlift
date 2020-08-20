@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="639px" height="321px" viewBox="0 0 639 321" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Plasmic</title>
+    <defs>
+        <linearGradient x1="5.24768804%" y1="100%" x2="49.9999675%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#1877F2" offset="0%"></stop>
+            <stop stop-color="#04A4F4" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="8.20054167%" y1="100%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#2ABBA7" offset="0%"></stop>
+            <stop stop-color="#45BD62" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="16.2725%" y1="100%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#F02849" offset="0%"></stop>
+            <stop stop-color="#F5533D" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Plasmic">
+            <path d="M33.9353727,321 C14.2213314,321 -1.96831978,304.969617 0.194273419,285.3904 C17.9248365,124.86472 154.118803,0 319.499792,0 C484.88096,0 621.07564,124.86472 638.805632,285.3904 C640.968784,304.969617 624.779056,321 605.06439,321 L569.368816,321 C569.368816,183.112667 457.498884,71.3333333 319.499792,71.3333333 C181.5007,71.3333333 69.6309474,183.112667 69.6309474,321 L33.9353727,321 Z" id="Path" fill="url(#linearGradient-1)"></path>
+            <path d="M105,321 C105,202.811367 200.811367,107 319,107 C437.188633,107 533,202.811367 533,321 L461.666667,321 C461.666667,242.206983 397.793017,178.333333 319,178.333333 C240.206983,178.333333 176.333333,242.206983 176.333333,321 L105,321 Z" id="Path" fill="url(#linearGradient-2)"></path>
+            <path d="M212,321 C212,261.905683 259.905683,214 319,214 C378.094317,214 426,261.905683 426,321 L372.5,321 C362.65065,321 355.035817,312.538083 350.306417,303.897833 C344.250217,292.835817 332.501617,285.333333 319,285.333333 C305.498383,285.333333 293.749783,292.835817 287.693583,303.897833 C282.964183,312.538083 275.34935,321 265.5,321 L212,321 Z" id="Path" fill="url(#linearGradient-3)"></path>
+        </g>
+    </g>
+</svg>
