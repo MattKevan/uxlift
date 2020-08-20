@@ -5,10 +5,8 @@ layout: default
 {% assign con = content | strip_newlines %}
 {% if con != "" %}
 	<div class="row">	
-		<div class="col col-sm-8">
+		<div class="col-12 col-sm-8">
 				{{ content }}
-		</div>
-		<div class="col col-sm-4">
 		</div>
 	</div>
 	<hr>
@@ -24,7 +22,9 @@ layout: default
 	{% endfor %}
 {% endfor %}
 
+{% include newsletter-form.html %}
 
+<hr />
 
 {% if has_articles == 'yes' %}
 

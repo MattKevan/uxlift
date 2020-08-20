@@ -11,11 +11,15 @@ section: Tools
 <div class="row">
 	{% assign sorted_items = site.tool-categories | sort:'title' %}
 	{% for item in sorted_items %}
-		<div class="col-6 col-md-3 col-sm-4">
+		<div class="col col-md-3 col-sm-4">
 			<p class="topic-title"><a href="{{ item.url }}">{{ item.title }}</a></p>
 		</div>
 	{% endfor %}
 </div>
+
+<hr>
+
+{% include newsletter-form.html %}
 
 <hr>
 
