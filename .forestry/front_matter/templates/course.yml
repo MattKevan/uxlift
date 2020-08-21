@@ -1,0 +1,34 @@
+---
+label: Course
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: textarea
+  name: description
+  label: description
+- type: file
+  name: preview
+  label: preview
+- type: text
+  name: institution
+  label: institution
+- type: text
+  name: course
+  label: course
+- type: text
+  name: cost
+  label: cost
+- type: text
+  name: qualification
+  label: qualification
+- type: text
+  name: link
+  label: link
+- type: text
+  name: category
+  label: category
+- type: text
+  name: image
+  label: image
