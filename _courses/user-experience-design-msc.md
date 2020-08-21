@@ -10,7 +10,8 @@ cost: Paid
 qualification: MSc
 link: https://www.brighton.ac.uk/courses/study/user-experience-design-msc-pgcert-pgdip.aspx
 category: 
-image: "/assets/images/brighton.png"
+- UX design
+icon: "/assets/images/brighton.png"
 
 ---
 The course is for designers and software developers wishing to enhance their knowledge of user-centred design and usability evaluation of software-enabled products.

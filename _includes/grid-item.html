@@ -18,10 +18,12 @@
 
 
 			{% if item.institution %}
-				<p class="weblink s">{{ item.institution }} 
-					{% if item.course %}
-						- {{ item.course }}</p>
+				<p class="weblink s">
+					{% if item.icon %}
+						<img class="list-logo" src="{{ item.icon }}" alt="{{ item.institution }}" />
 					{% endif %}
+
+					{{ item.institution }} 
 				</p>
 			{% endif %}
 
@@ -48,7 +50,9 @@
 			
 			{% if item.category %}
 		    <p class="tags xs">
-			    
+			    {% if item.course %}
+					<span>{{ item.course }}</span>
+				{% endif %}
 			    {% for cat in item.category %}
 					<span>{{ cat }}</span>
 				{% endfor %}
