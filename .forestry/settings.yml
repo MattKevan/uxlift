@@ -30,6 +30,8 @@ sections:
   label: Courses
   create: documents
   match: "**/*"
+  templates:
+  - course
 - type: directory
   path: _design-systems
   label: Design systems
