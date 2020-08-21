@@ -54,3 +54,5 @@ fields:
 - type: text
   name: cost
   label: cost
+pages:
+- _courses/user-experience-design-msc-1.md
