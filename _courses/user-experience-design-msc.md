@@ -9,8 +9,7 @@ course: Postgraduate
 cost: Paid
 qualification: MSc
 link: https://www.brighton.ac.uk/courses/study/user-experience-design-msc-pgcert-pgdip.aspx
-category: 
-- UX design
+category: UX design
 icon: "/assets/images/brighton.png"
 
 ---
