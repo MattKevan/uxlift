@@ -1,4 +1,10 @@
-<div class="col-12 col-md-4 grid-item mb-3 mt-3">
+<div class="col-12 col-sm-6 col-lg-4 grid-item mb-3 mt-3 all
+	{% if item.source %}
+		{% for tag in item.source %}
+			{{ tag | slugify }}
+		{% endfor %}
+	{% endif%}
+">
 	<div class="card h-100">
 
 		<div class="grid-content">

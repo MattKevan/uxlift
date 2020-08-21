@@ -31,5 +31,12 @@ $headings-font-weight:		700 !default;
 $font-weight-base:          400;
 $line-height-base:          1.5 !default;
 
+$blue:    					#2962FF !default;
+$link-color:                $blue;
+$link-hover-color:          darken($link-color, 25%) !default;
+$component-active-bg:       $link-hover-color;
+$input-btn-focus-color:  	$link-hover-color;
 
-$primary:       			#2962FF !default;
+.btn-primary.active		{
+	background-color: $link-hover-color !important;
+}

@@ -4,9 +4,17 @@ title: Publications
 permalink: /publications/
 
 ---
+<div class="filters">
+	<button type="button" class="btn btn-primary category-button active" data-filter = "all"> All </button>
+	{% for tag in site.data.categories.source %}
+		 <button type="button" class="btn btn-primary category-button" data-filter = "{{ tag | slugify }}"> {{ tag }} </button>
+	{% endfor %}
+</div>     
+           
 
+        
 <div class="row filter-grid">
-	{% assign sorted_items = site.publications | where: "source", "Publication" | sort:'title' %}
+	{% assign sorted_items = site.publications | sort:'title' %}
 	{% for item in sorted_items %}
 		{% include grid-item.html %}
 	{% endfor %}
