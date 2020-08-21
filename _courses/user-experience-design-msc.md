@@ -13,3 +13,15 @@ category:
 image: "/assets/images/brighton.png"
 
 ---
+The course is for designers and software developers wishing to enhance their knowledge of user-centred design and usability evaluation of software-enabled products.
+
+Course content has been designed for maximum relevancy to the marketplace.
+
+Upon completion, you'll be able to apply your knowledge and interaction design skills to novel interaction paradigms; make effective use of a broad range of design methods; obtain in-depth knowledge of developments in mobile, ubiquitous or wearable systems and understand the commercial contexts of interaction design.
+
+### Key facts
+
+**Location** Brighton: Moulsecoomb
+
+**Full-time** 1 year  
+**Part-time** 2–6 years
