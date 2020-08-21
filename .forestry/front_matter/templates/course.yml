@@ -4,31 +4,52 @@ hide_body: true
 fields:
 - type: text
   name: title
-  label: title
+  label: Title
 - type: textarea
   name: description
-  label: description
-- type: file
-  name: preview
-  label: preview
+  label: Description
+- name: category
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: documents
+      section: data
+      file: _data/categories.yml
+      path: category
+  label: Category
 - type: text
   name: institution
-  label: institution
+  label: Institution
+  config:
+    required: true
+- name: course
+  type: select
+  default: []
+  config:
+    required: true
+    options: []
+    source:
+      type: documents
+      section: data
+      file: _data/categories.yml
+      path: course
+  label: Course type
 - type: text
-  name: course
-  label: course
+  name: link
+  label: Link
+  config:
+    required: true
+- type: text
+  name: qualification
+  label: Qualification
 - type: text
   name: cost
   label: cost
-- type: text
-  name: qualification
-  label: qualification
-- type: text
-  name: link
-  label: link
-- type: text
-  name: category
-  label: category
-- type: text
-  name: image
-  label: image
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: Image
