@@ -5,11 +5,6 @@ admin_path: "/admin/"
 webhook_url: 
 sections:
 - type: directory
-  path: _courses
-  label: Courses
-  create: documents
-  match: "**/*"
-- type: directory
   path: _topics
   label: Topics
   create: documents
@@ -30,6 +25,11 @@ sections:
   match: "**/*"
   templates:
   - publication
+- type: directory
+  path: _courses
+  label: Courses
+  create: documents
+  match: "**/*"
 - type: directory
   path: _design-systems
   label: Design systems
