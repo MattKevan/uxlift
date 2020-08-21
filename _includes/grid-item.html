@@ -16,6 +16,15 @@
 
 			<h4><a href="{{ item.url }}">{{ item.title }}</a></h4>	      
 
+
+			{% if item.institution %}
+				<p class="weblink s">{{ item.institution }} 
+					{% if item.course %}
+						- {{ item.course }}</p>
+					{% endif %}
+				</p>
+			{% endif %}
+
 			<p>{{ item.description }}</p>	
 			{% if item.authors %}
 				<p class="author s">{{ item.authors }}{% if item.year %}, {{ item.year }}{% endif %}</p>

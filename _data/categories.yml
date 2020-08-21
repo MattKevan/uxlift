@@ -45,7 +45,6 @@ type:
 - Article
 - Resource
 - Font
-- Course
 tool:
 - Abstract
 - Figma
@@ -56,3 +55,9 @@ source:
 - Personal blog
 - Company blog
 - Organisation
+course:
+- Short course
+- Certificate
+- Bootcamp
+- Undergraduate
+- Postgraduate

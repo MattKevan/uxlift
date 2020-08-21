@@ -74,6 +74,9 @@ collections:
   newsletters:
     output: true
     permalink: /newsletters/:path/
+  courses:
+    output: true
+    permalink: /courses/:path/
 
 defaults:
   -
@@ -163,3 +166,9 @@ defaults:
       type: newsletters
     values:
       layout: newsletter
+  -
+    scope:
+      path: ""
+      type: courses
+    values:
+      layout: course
