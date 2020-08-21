@@ -55,4 +55,5 @@ fields:
   name: cost
   label: cost
 pages:
+- _courses/ma-user-experience-design-degree.md
 - _courses/user-experience-design-msc-1.md
