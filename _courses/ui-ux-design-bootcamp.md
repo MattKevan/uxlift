@@ -1,5 +1,7 @@
 ---
-category: UX design
+category:
+- UX design
+- Interface design
 course: Short course
 title: UI/UX Design Bootcamp
 description: Become a UI/UX Designer. Job Guaranteed.
