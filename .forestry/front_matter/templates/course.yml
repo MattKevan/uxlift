@@ -21,11 +21,6 @@ fields:
       file: _data/categories.yml
       path: category
   label: Category
-- name: icon
-  type: file
-  config:
-    maxSize: 64
-  label: Icon
 - name: site_reference
   type: select
   default: []
@@ -53,7 +48,7 @@ fields:
       type: documents
       section: data
       file: _data/categories.yml
-      path: course
+      path: qualification
   label: Qualification
 - name: course-type
   type: select
