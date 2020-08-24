@@ -76,10 +76,13 @@ collections:
     permalink: /newsletters/:path/
   courses:
     output: true
-    permalink: /courses/:path/
+    permalink: /education/:path/
   institutions:
     output: true
-    permalink: /institutions/:path/
+    permalink: /education/:path/
+  course-types:
+    output: true
+    permalink: /education/:path/
 
 defaults:
   -
@@ -181,3 +184,9 @@ defaults:
       type: institutions
     values:
       layout: institution
+  -
+    scope:
+      path: ""
+      type: course-types
+    values:
+      layout: course-listing
