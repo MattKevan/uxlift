@@ -56,8 +56,9 @@ source:
 - Personal blog
 - Company blog
 - Organisation
-course:
-- Short course
-- Bootcamp
-- Undergraduate
-- Postgraduate
+qualification:
+- Certificate
+- Undergraduate degree
+- Postgraduate degree
+- Doctorate
+- Unaccredited
