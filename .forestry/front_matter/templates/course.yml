@@ -31,6 +31,18 @@ fields:
   label: Institution
   config:
     required: true
+- name: site_reference
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: institutions
+      file: 
+      path: 
+  label: Institution
 - type: text
   name: link
   label: Link
