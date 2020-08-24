@@ -67,8 +67,8 @@ fields:
     - Self-directed
     - Bootcamp
     source:
-      type: simple
-      section: 
+      type: pages
+      section: course-types
       file: 
       path: 
   label: Course type
