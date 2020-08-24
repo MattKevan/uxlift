@@ -10,11 +10,11 @@ fields:
   name: description
   label: Description
 - name: category
-  type: select
-  default: []
+  type: list
   config:
-    required: false
-    options: []
+    use_select: true
+    min: 
+    max: 
     source:
       type: documents
       section: data
