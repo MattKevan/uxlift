@@ -31,7 +31,12 @@ fields:
   label: Institution
   config:
     required: true
-- name: course
+- type: text
+  name: link
+  label: Link
+  config:
+    required: true
+- name: qualification
   type: select
   default: []
   config:
@@ -42,18 +47,32 @@ fields:
       section: data
       file: _data/categories.yml
       path: course
-  label: Course type
-- type: text
-  name: link
-  label: Link
-  config:
-    required: true
-- type: text
-  name: qualification
   label: Qualification
+- name: course-type
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - Short course
+    - Undergraduate
+    - Postgraduate
+    - Self-directed
+    - Bootcamp
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Course type
+- name: length
+  type: text
+  config:
+    required: false
+  label: Length
 - type: text
   name: cost
-  label: cost
+  label: Cost
 pages:
 - _courses/introduction-to-user-experience-design.md
 - _courses/ma-user-experience-design-degree.md
