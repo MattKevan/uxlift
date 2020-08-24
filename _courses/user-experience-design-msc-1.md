@@ -1,5 +1,6 @@
 ---
-category: UX design
+category: 
+- UX design
 course: Postgraduate
 title: User Experience Design MSc
 description: The aim of this course is to equip you with the behavioural theory, design
@@ -7,6 +8,7 @@ description: The aim of this course is to equip you with the behavioural theory,
   usability engineer, user researcher, or head of user experience.
 icon: "/assets/images/kingston.png"
 institution: Kingston University London
+site_reference: 
 link: https://www.kingston.ac.uk/postgraduate/courses/user-experience-design-msc/
 qualification: MSc
 cost: ''

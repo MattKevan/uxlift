@@ -77,6 +77,9 @@ collections:
   courses:
     output: true
     permalink: /courses/:path/
+  courses:
+    output: true
+    permalink: /institutions/:path/
 
 defaults:
   -
@@ -172,3 +175,9 @@ defaults:
       type: courses
     values:
       layout: course
+  -
+    scope:
+      path: ""
+      type: institutions
+    values:
+      layout: institution
