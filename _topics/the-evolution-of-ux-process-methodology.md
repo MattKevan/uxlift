@@ -10,5 +10,4 @@ image: ''
 category:
 - UX process
 type: Article
-
 ---

@@ -12,5 +12,5 @@ type: Article
 date: 2019-09-01T23:00:00.000+00:00
 preview: ''
 image: "/assets/images/smashing.png"
-
+site_reference: _publications/smashing-magazine.md
 ---

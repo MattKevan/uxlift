@@ -11,5 +11,5 @@ image: ''
 category:
 - Design ethics
 type: Article
-
+site_reference: _publications/matthew-ström.md
 ---

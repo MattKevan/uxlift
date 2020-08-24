@@ -119,7 +119,13 @@ h2 {
 #pagetop {
 	background: #fff !important;
 }
-
+.course-meta p {
+	margin: 0;
+	padding: 15px 0;
+	border-width: 0 0 1px 0;
+	border-style: solid;
+	border-color: rgba(0, 0, 0, 0.1);
+}
 #navbar-pagenav {
 	display: none;
 	border-style: solid;

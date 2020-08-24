@@ -3,6 +3,39 @@ layout: default
 ---
 
 
+<div class="row">
+
+	<div class="col-12 col-md-8">
+		{{ content }}
+	</div>
+
+	<div class="col-12 col-md-4">
+
+		<div class="course-meta">
+
+			<h3>Course details</h3>
+
+			<p><strong>Institution</strong><br>
+				{% if page.icon %}
+					<img class="list-logo" src="{{ page.icon }}" alt="{{ page.institution }}" />
+				{% endif %}
+
+				{{ page.institution }} 
+			</p>
+						
+
+			<p><strong>Course type</strong> <br>{{ page.course-type }}</p>
+			<p><strong>Qualification</strong> <br>{{ page.qualification }}</p>
+			<p><strong>Length</strong> <br>{{ page.length }}</p>
+			<p><strong>Cost</strong> <br>{{ page.cost }}</p>
+
+		</div>
+	</div>
+
+</div>
+
+<hr>
+
 {% include newsletter-form.html %}
 
 <hr>

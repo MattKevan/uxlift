@@ -9,5 +9,5 @@ category:
 type: Article
 date: 2004-04-30 00:00:00 +0100
 preview: ''
-
+site_reference: _publications/a-list-apart.md
 ---

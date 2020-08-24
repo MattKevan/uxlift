@@ -9,5 +9,5 @@ description: Let's take a look at what UX writing is (and isn't), what companies
 type: Article
 date: 2017-01-24 00:00:00 +0000
 image: "/assets/images/favicon.ico-1.png"
-
+site_reference: _publications/ux-booth.md
 ---

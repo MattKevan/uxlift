@@ -9,5 +9,5 @@ category: Design thinking
 site: Thoughtworks
 type: Article
 date: 2015-02-03 00:00:00 +0000
-
+site_reference: _publications/thoughtworks.md
 ---
