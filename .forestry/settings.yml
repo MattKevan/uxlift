@@ -33,6 +33,11 @@ sections:
   templates:
   - course
 - type: directory
+  path: _institutions
+  label: Institutions
+  create: documents
+  match: "**/*"
+- type: directory
   path: _design-systems
   label: Design systems
   create: documents
