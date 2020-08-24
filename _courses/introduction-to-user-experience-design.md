@@ -7,10 +7,11 @@ description: The focus of this course is to introduce the learner to User Experi
 icon: "/assets/images/coursera.svg"
 institution: Coursera
 link: https://www.coursera.org/learn/user-experience-design
-qualification: Certificate
-cost: 'From free'
-length: '~7 hours'
+qualification: Short course
+cost: From free
+length: "~7 hours"
 course-type: Short course
+site_reference: _institutions/coursera.md
 
 ---
 User Experience design is design that is user centered. The goal is to design artifacts that allow the users to meet their needs in the most effective efficient and satisfying manner. The course introduces the novice to a cycle of discovery and evaluation and a set of techniques that meet the user's needs. 
