@@ -2,7 +2,7 @@
 date: 2020-04-15T16:12:43.000+00:00
 title: Coursera
 description: Your Course to Success – Build skills with courses, certificates, and degrees online from world-class universities and companies.
-image: "/assets/images/atomic-1.png"
+image: "/assets/images/coursera.svg"
 link: https://www.coursera.org
 
 ---

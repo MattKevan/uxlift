@@ -1,5 +1,6 @@
 ---
-category: UX design
+category: 
+- UX design
 course: Short course
 title: Introduction to User Experience Design
 description: The focus of this course is to introduce the learner to User Experience
@@ -7,7 +8,7 @@ description: The focus of this course is to introduce the learner to User Experi
 icon: "/assets/images/coursera.svg"
 institution: Coursera
 link: https://www.coursera.org/learn/user-experience-design
-qualification: Short course
+qualification: Certificate
 cost: From free
 length: "~7 hours"
 course-type: Short course

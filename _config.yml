@@ -77,7 +77,7 @@ collections:
   courses:
     output: true
     permalink: /courses/:path/
-  courses:
+  institutions:
     output: true
     permalink: /institutions/:path/
 

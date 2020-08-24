@@ -10,6 +10,15 @@
 	    	<div class="container">
 	    		<div class="row">
 	    			<div class="col">
+	    				{% unless page.url == '/' %}
+	    				<p class="xs"><a href="/">Home </a> »
+	    					{% assign url = page.url | remove_first: '/' | split: '/' %}
+	    					{% if url[1] %}
+	    					<a href="/{{ url[0] }}">{{ url[0] | capitalize }}</a> » 
+	    					{% endif %}
+	    				</p>
+	    				{% endunless %}
+	    				
 	    				<h1>
 	    					{% if page.image %}
 								{% if page.image != '' %}

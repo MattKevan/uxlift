@@ -42,16 +42,13 @@ layout: default
 
 <h2>Related courses</h2>
 
-{% assign sorted_items = site.courses | sort:'date' | reverse %}
-{% for item in sorted_items %}
-	
-	{% if item.category == page.category %}
-		{% include list-link.html %}	
-	{% endif %}
-
-{% endfor %}
-
-
+<div class="row">
+	{% for item in site.courses %}
+		{% if item.site_reference == page.site_reference %}
+			{% include grid-item.html %}	
+		{% endif %}
+	{% endfor %}
+</div>
 
 
 

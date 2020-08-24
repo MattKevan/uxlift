@@ -1,5 +1,6 @@
 ---
-category: UX design
+category: 
+- UX design
 course: Postgraduate
 title: MA User Experience Design degree
 description: Our degree will develop your critical awareness of major issues in interaction
