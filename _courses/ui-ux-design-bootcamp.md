@@ -2,7 +2,6 @@
 category:
 - UX design
 - Interface design
-course: Short course
 title: UI/UX Design Bootcamp
 description: Become a UI/UX Designer. Job Guaranteed.
 link: https://www.springboard.com/courses/ui-ux-design-career-track/
@@ -10,7 +9,7 @@ qualification: Unaccredited
 cost: "$10-15,000"
 location:
 - Online
-length: 9 months
+length: 9 months, full time
 course-type: _course-types/bootcamps.md
 site_reference: ''
 

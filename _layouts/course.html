@@ -24,7 +24,13 @@ layout: default
 			</p>
 						
 
-			<p><strong>Course type</strong> <br>{{ page.course-type }}</p>
+			<p><strong>Course type</strong> <br>
+				{% for item in site.course-types %}
+					{% if item.path == page.course-type %}
+						{{ item.course-type }}
+					{% endif %}
+				{% endfor %}
+			</p>
 			<p><strong>Qualification</strong> <br>{{ page.qualification }}</p>
 			<p><strong>Length</strong> <br>{{ page.length }}</p>
 			<p><strong>Cost</strong> <br>{{ page.cost }}</p>
