@@ -62,7 +62,7 @@ fields:
       file: _data/categories.yml
       path: qualification
   label: Qualification
-- name: course-type
+- name: course_type
   type: select
   default: []
   config:
