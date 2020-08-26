@@ -87,6 +87,17 @@ fields:
 - type: text
   name: cost
   label: Cost
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  hidden: true
+  default: now
 pages:
 - _courses/introduction-to-user-experience-design.md
 - _courses/ma-user-experience-design-degree.md
