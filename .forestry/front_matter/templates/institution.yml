@@ -2,18 +2,20 @@
 label: Institution
 hide_body: false
 fields:
+- type: text
+  name: title
+  label: Ttitle
+- type: textarea
+  name: description
+  label: Description
+- type: file
+  name: image
+  label: Image
+- type: text
+  name: link
+  label: Link
 - type: datetime
   name: date
   label: date
-- type: text
-  name: title
-  label: title
-- type: textarea
-  name: description
-  label: description
-- type: file
-  name: image
-  label: image
-- type: text
-  name: link
-  label: link
+  default: now
+  hidden: true
