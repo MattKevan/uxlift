@@ -1,5 +1,5 @@
 ---
-date: 2013-05-29 16:50:49 +0100
+date: 2013-05-29T16:50:49.000+01:00
 tool: ''
 title: Wireframing
 description: 'A wireframe is a two-dimensional illustration of a page’s interface
@@ -12,5 +12,6 @@ category:
 - Wireframing
 type: Article
 preview: ''
-site_reference: _publications/usability.gov.md
+site_reference: _organisations/usability-gov.md
+
 ---
