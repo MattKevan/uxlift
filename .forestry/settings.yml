@@ -92,6 +92,11 @@ sections:
   label: Data
   create: all
   match: "**/*"
+- type: directory
+  path: ''
+  label: All files
+  create: documents
+  match: "**/*"
 upload_dir: assets/images
 public_path: "/assets/images"
 front_matter_path: ''
