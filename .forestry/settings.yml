@@ -93,6 +93,21 @@ sections:
   create: all
   match: "**/*"
 - type: directory
+  path: _people
+  label: People
+  create: documents
+  match: "**/*"
+- type: directory
+  path: _organisations
+  label: Organisations
+  create: all
+  match: "**/*"
+- type: directory
+  path: _agencies
+  label: Agencies
+  create: documents
+  match: "**/*"
+- type: directory
   path: ''
   label: All files
   create: documents
