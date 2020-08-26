@@ -111,7 +111,7 @@ sections:
   path: ''
   label: References
   create: all
-  match: _people/*.md,_publications/*.md,_organisations/*.md,_agencies/*.md
+  match: _people/*,_publications/*,_organisations/*,_agencies/*
 upload_dir: assets/images
 public_path: "/assets/images"
 front_matter_path: ''
