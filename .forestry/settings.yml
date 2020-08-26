@@ -107,6 +107,11 @@ sections:
   label: Agencies
   create: documents
   match: "**/*"
+- type: directory
+  path: ''
+  label: References
+  create: all
+  match: _people/*.md,_publications/*.md,_organisations/*.md,_agencies/*.md
 upload_dir: assets/images
 public_path: "/assets/images"
 front_matter_path: ''
