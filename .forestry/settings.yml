@@ -42,6 +42,8 @@ sections:
   label: Institutions
   create: documents
   match: "**/*"
+  templates:
+  - institution
 - type: directory
   path: _design-systems
   label: Design systems
