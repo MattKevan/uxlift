@@ -44,4 +44,6 @@ fields:
       path: tool
 pages:
 - _plugin/above-the-fold.md
+- _plugin/above-the-fold.md
+- _plugin/sketch-cluse.md
 - _plugin/sketch-cluse.md
