@@ -5,6 +5,18 @@ fields:
 - type: text
   name: title
   label: Ttitle
+- name: location
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: documents
+      section: data
+      file: _data/categories.yml
+      path: location
+  label: Location
 - type: textarea
   name: description
   label: Description
