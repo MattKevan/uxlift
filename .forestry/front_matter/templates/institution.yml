@@ -19,3 +19,5 @@ fields:
   label: date
   default: now
   hidden: true
+pages:
+- _institutions/springboard.md
