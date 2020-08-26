@@ -111,7 +111,8 @@ sections:
   path: ''
   label: References
   create: all
-  match: _people/*,_publications/*,_organisations/*,_agencies/*
+  match: _organisations/**/*,_publications/**/*
+  exclude: "*.html"
 upload_dir: assets/images
 public_path: "/assets/images"
 front_matter_path: ''
