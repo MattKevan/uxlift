@@ -7,11 +7,16 @@ preview: 2.jpg
 institution: University of Brighton
 course: Postgraduate
 cost: Paid
-qualification: MSc
+qualification: Certificate
 link: https://www.brighton.ac.uk/courses/study/user-experience-design-msc-pgcert-pgdip.aspx
-category: 
+category:
 - UX design
 icon: "/assets/images/brighton.png"
+site_reference: _institutions/university-of-brighton.md
+location:
+- United Kingdom
+course-type: _course-types/postgraduate.md
+length: 1-6 years
 
 ---
 The course is for designers and software developers wishing to enhance their knowledge of user-centred design and usability evaluation of software-enabled products.
