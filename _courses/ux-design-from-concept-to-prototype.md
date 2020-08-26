@@ -11,7 +11,7 @@ course-type: _course-types/short-courses.md
 site_reference: _institutions/coursera.md
 location:
 - Online
-
+date: 2020-08-26 09:58:34 +0100
 ---
 In this UX course, you will explore the process of taking a basic concept, grounded in user needs, and developing it into a design that will address those needs. 
 

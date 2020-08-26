@@ -15,7 +15,7 @@ location:
 - United Kingdom
 course-type: _course-types/postgraduate.md
 length: 1-6 years
-
+date: 2020-08-26 09:56:34 +0100
 ---
 The course is for designers and software developers wishing to enhance their knowledge of user-centred design and usability evaluation of software-enabled products.
 

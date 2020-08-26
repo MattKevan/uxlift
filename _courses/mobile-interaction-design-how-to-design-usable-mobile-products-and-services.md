@@ -10,7 +10,7 @@ cost: From free
 site_reference: _institutions/coursera.md
 course-type: Short course
 length: "~117 hours"
-
+date: 2020-08-26 09:51:34 +0100
 ---
 Every mobile app gives you something. It could be not only something tangible like the pair of jeans you've ordered using the app but also a piece of work like waking you up in the morning. It could be a feeling, for instance, a feeling of enjoyment obtained from watching a video clip or a feeling of closeness flashed out after receiving an old photo from a loving person via some instant messenger. That 'something' is actually the reason why you use the app, it is the heart of the product, and in this course we will not talk about it. Surprised? You shouldn’t be. There are always two sides of a coin. There should be a person who makes that 'something' accessible. It is astonishingly important because the use of the product loses its meaning if users can’t get what they want.
 

@@ -24,7 +24,7 @@ permalink: /education/
 <hr>
 <h2>Featured institutions</h2>
 <div class="row filter-grid">
-	{% assign sorted_items = site.institutions | sort: 'date' %}
+	{% assign sorted_items = site.organisations | sort: 'date' %}
 	{% for item in sorted_items limit: 3 %}
 		{% include grid-item.html %}
 	{% endfor %}

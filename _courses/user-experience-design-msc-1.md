@@ -14,7 +14,7 @@ location:
 - United Kingdom
 course-type: _course-types/postgraduate.md
 length: 1-3 years
-
+date: 2020-08-26 09:55:34 +0100
 ---
 It focuses upon the analysis, design, prototyping and evaluation of multimedia, multi-modal, and multi-platform user interfaces that are easy to use and support a great user experience.
 

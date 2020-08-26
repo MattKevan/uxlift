@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+{% assign con = content | strip_newlines %}
+{% if con != "" %}
+
+	<div class="row">
+		<div class="col col-sm-10 col-sm-offset-1">
+			{{ content }}
+		</div>
+	</div>
+
+	<hr>
+
+{% endif %}
+
+<h2>Courses</h2>
+
+<div class="row">
+	
+
+
+		{% assign sorted_items = site.courses | sort:'title' %}
+		{% for item in sorted_items %}
+			{% if item.site_reference == page.path %}
+					{% include grid-item.html %}
+			{% endif %}
+		{% endfor %}
+	
+</div>
+
+<hr>
+		
+{% include newsletter-form.html %}
+		
+
+
+
+
+
+

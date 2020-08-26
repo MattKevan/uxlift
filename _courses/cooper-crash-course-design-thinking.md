@@ -10,5 +10,5 @@ qualification: Short course
 link: https://www.udemy.com/cooper-crash-course/
 category: ''
 layout: course
-
+date: 2020-08-26 09:45:34 +0100
 ---

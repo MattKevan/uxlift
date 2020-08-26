@@ -13,7 +13,7 @@ length: "~14 hours"
 cost: From free
 location:
 - Online
-date: 
+date: 2020-08-26 09:57:34 +0100
 
 ---
 You will be led through a condensed process that acts as a roadmap for developing robust UI/UX design: from ideation and sitemapping, to the creation of paper and digital prototypes. Building on the design skills learned in Visual Elements of User Interface Design, you will apply this methodology to produce a digital prototype for a multi-screen app of your own invention.

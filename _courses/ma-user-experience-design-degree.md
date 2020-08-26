@@ -12,6 +12,7 @@ cost: 'From free'
 length: '1-4 years'
 course-type: Postgraduate
 site_reference: _institutions/loughborough-university.md
+date: 2020-08-26 09:50:34 +0100
 ---
 The content of the programme enables you to develop your skills and competencies in both the creative and analytical aspects of UX whilst working on a diverse range of projects. This includes the opportunity to design experiences that embed digital in the physical world or use new and emerging technologies, such as artificial intelligence (AI) and augmented reality (AR).
 

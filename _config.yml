@@ -77,12 +77,21 @@ collections:
   courses:
     output: true
     permalink: /education/:path/
-  institutions:
-    output: true
-    permalink: /education/:path/
   course-types:
     output: true
     permalink: /education/:path/
+  organisations:
+    output: true
+    permalink: /organisations/:path/
+  people:
+    output: true
+    permalink: /people/:path
+  agencies:
+    output: true
+    permalink: /agencies/:path
+  institutions:
+    output: true
+    permalink: /education/institutions/:path
 
 defaults:
   -
@@ -181,12 +190,27 @@ defaults:
   -
     scope:
       path: ""
-      type: institutions
+      type: organisations
     values:
-      layout: institution
+      layout: organisation
   -
     scope:
       path: ""
       type: course-types
     values:
       layout: course-listing
+  -
+    scope:
+      type: people
+    values:
+      layout: people
+  -
+    scope:
+      type: agencies
+    values:
+      layout: agency
+  -
+    scope:
+      type: institutions
+    values:
+      layout: institution
