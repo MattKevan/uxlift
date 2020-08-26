@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Company blogs
-permalink: /company-blogs/
+title: Institutions
+permalink: /education/institutions
 
 ---
 
 
 <div class="row filter-grid">
-	{% assign sorted_items = site.publications | where: "source", "Company blog" | sort:'title' %}
+	{% assign sorted_items = site.institutions | sort:'title' %}
 	{% for item in sorted_items %}
 		{% include grid-item.html %}
 	{% endfor %}

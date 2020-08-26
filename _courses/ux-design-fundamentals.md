@@ -7,8 +7,6 @@ title: UX Design Fundamentals
 description: 'This hands-on course examines how content is organized and structured
   to create an experience for a user, and what role the designer plays in creating
   and shaping user experience. '
-icon: ''
-institution: Coursera
 link: https://www.coursera.org/learn/ux-design-fundamentals
 length: "~14 hours"
 cost: From free

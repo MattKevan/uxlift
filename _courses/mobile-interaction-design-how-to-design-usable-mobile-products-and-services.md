@@ -4,8 +4,6 @@ course: Short course
 title: 'Mobile Interaction Design: How to Design Usable Mobile Products and Services'
 description: This course will teach you to shape mobile products and services for
   people’s use.
-icon: ''
-institution: Coursera
 link: https://www.coursera.org/learn/mobile-interaction-design
 qualification: Short course
 cost: From free

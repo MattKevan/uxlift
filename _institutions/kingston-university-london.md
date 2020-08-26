@@ -1,19 +1,13 @@
 ---
-category: []
 course: Short course
 title: Kingston University London
 description: We are passionate about enhancing our students' life chances by helping
   them make the most of their learning opportunity and equipping them with the skills
   and knowledge needed in the 21st Century's demanding workplace.
 link: https://www.kingston.ac.uk/
-qualification: ''
-cost: ''
 location:
 - United Kingdom
 image: "/assets/images/kingston.png"
-site_reference: ''
-course-type: ''
-length: ''
 
 ---
 ### Did you know?

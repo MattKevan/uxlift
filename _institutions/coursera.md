@@ -5,6 +5,7 @@ description: Your Course to Success – Build skills with courses, certificates
   degrees online from world-class universities and companies.
 image: "/assets/images/coursera.png"
 link: https://www.coursera.org
+location: Online
 
 ---
 **Learn the latest skills** like business analytics, graphic design, Python, and more

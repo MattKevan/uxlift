@@ -3,8 +3,6 @@ category: ''
 title: 'UX Design: From Concept to Prototype'
 description: Great design doesn’t come out of nowhere; it is born, nurtured, and grown
   – all through a systematic, learnable process.
-icon: "/assets/images/coursera.svg"
-institution: Coursera
 link: https://www.coursera.org/learn/ux-design-concept-wireframe
 qualification: Certificate
 cost: From free

@@ -6,13 +6,12 @@ title: MA User Experience Design degree
 description: Our degree will develop your critical awareness of major issues in interaction
   design, user experience (UX) design and service design to improve your effectiveness
   as a user-centred designer within industry.
-icon: "/assets/images/loughborough.png"
-institution: Loughborough University
 link: https://www.lboro.ac.uk/study/postgraduate/masters-degrees/a-z/user-experience-design/
 qualification: MA
 cost: 'From free'
 length: '1-4 years'
 course-type: Postgraduate
+site_reference: _institutions/loughborough-university.md
 ---
 The content of the programme enables you to develop your skills and competencies in both the creative and analytical aspects of UX whilst working on a diverse range of projects. This includes the opportunity to design experiences that embed digital in the physical world or use new and emerging technologies, such as artificial intelligence (AI) and augmented reality (AR).
 

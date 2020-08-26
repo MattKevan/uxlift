@@ -4,14 +4,12 @@ description: A flexible course that you can tailor to your own professional inte
   It will help to train you for roles that range from usability, interaction and interface
   design through to general project management and consulting.
 preview: 2.jpg
-institution: University of Brighton
 course: Postgraduate
 cost: Paid
 qualification: Certificate
 link: https://www.brighton.ac.uk/courses/study/user-experience-design-msc-pgcert-pgdip.aspx
 category:
 - UX design
-icon: "/assets/images/brighton.png"
 site_reference: _institutions/university-of-brighton.md
 location:
 - United Kingdom

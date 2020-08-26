@@ -17,14 +17,13 @@
 			<h4><a href="{{ item.url }}">{{ item.title }}</a></h4>	      
 
 
-			{% if item.institution %}
-				<p class="weblink s">
-					{% if item.icon %}
-						<img class="list-logo" src="{{ item.icon }}" alt="{{ item.institution }}" />
-					{% endif %}
-
-					{{ item.institution }} 
-				</p>
+			{% if item.site_reference %}
+					{% for sites in site.institutions %}
+						{% if sites.path == item.site_reference %}
+							<img class="list-logo" src="{{ sites.image }}" alt="{{ sites.title }}" />
+							{{ sites.title }}</a>
+					  	{% endif %}
+					{% endfor %}
 			{% endif %}
 
 			<p>{{ item.description }}</p>	

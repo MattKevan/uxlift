@@ -1,17 +1,11 @@
 ---
-category: []
-course: Short course
 title: Springboard
 description: Springboard’s part-time bootcamps get you job-ready in 6-9 months, from
   the comfort of your home. Launch your new tech career, or your tuition is on us.
 link: www.springboard.com
-qualification: Certificate
-cost: ''
 image: "/assets/images/springboard.png"
-site_reference: ''
-location: []
-course-type: ''
-length: ''
+location: 
+- Online
 date: 2020-08-26 09:38:13 +0100
 
 ---
