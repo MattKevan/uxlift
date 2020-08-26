@@ -13,5 +13,5 @@ type: Article
 preview: ''
 tool:
 - Figma
-
+site_reference: _teams/design-with-figma.md
 ---

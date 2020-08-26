@@ -13,5 +13,5 @@ category:
 - Visual design
 type: Article
 preview: ''
-site_reference: _publications/matthew-ström.md
+site_reference: _people/matthew-ström.md
 ---
