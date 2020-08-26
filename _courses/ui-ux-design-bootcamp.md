@@ -11,7 +11,7 @@ location:
 - Online
 length: 9 months, full time
 course-type: _course-types/bootcamps.md
-site_reference: ''
+site_reference: _institutions/springboard.md
 
 ---
 **Learn both UI and UX to build a versatile skill set, no design background required**
