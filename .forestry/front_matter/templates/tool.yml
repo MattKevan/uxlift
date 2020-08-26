@@ -41,6 +41,18 @@ fields:
     display_utc: false
   hidden: true
   default: now
+- name: org_ref
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: organisations
+      file: 
+      path: 
+  label: Organisation
 pages:
 - _tools/ab-tasty.md
 - _tools/ab-tasty.md
