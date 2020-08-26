@@ -96,7 +96,7 @@ sections:
   path: ''
   label: All files
   create: documents
-  match: "**/*"
+  match: "**/*.md"
 upload_dir: assets/images
 public_path: "/assets/images"
 front_matter_path: ''
