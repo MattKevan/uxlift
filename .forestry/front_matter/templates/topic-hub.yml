@@ -31,10 +31,6 @@ fields:
   hidden: true
 pages:
 - _tool-categories/design-principles.md
-- _tool-categories/design-principles.md
-- _topic-categories/collaboration.md
 - _topic-categories/collaboration.md
 - _topic-categories/handoff.md
-- _topic-categories/handoff.md
-- _topic-categories/ux-process.md
 - _topic-categories/ux-process.md

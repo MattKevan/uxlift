@@ -23,18 +23,10 @@ fields:
   label: Description
 pages:
 - _newsletters/issue-10.md
-- _newsletters/issue-10.md
-- _newsletters/issue-11-1.md
 - _newsletters/issue-11-1.md
 - _newsletters/issue-11.md
-- _newsletters/issue-11.md
-- _newsletters/issue-7.md
 - _newsletters/issue-7.md
 - _newsletters/issue-8.md
-- _newsletters/issue-8.md
-- _newsletters/issue-9.md
 - _newsletters/issue-9.md
 - _tools/react-sketch.app.md
-- _tools/react-sketch.app.md
-- _tools/usertrack.md
 - _tools/usertrack.md
