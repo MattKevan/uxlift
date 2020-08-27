@@ -1,6 +1,6 @@
 ---
 site_reference: _institutions/interaction-design-foundation.md
-qualification: Certificate
+qualification: Certificate of completion
 course_type: _course-types/short-courses.md
 date: 2020-08-27 11:25:13 +0100
 title: 'Design Thinking: The Beginner’s Guide'
@@ -13,6 +13,7 @@ location:
 link: https://www.interaction-design.org/courses/design-thinking-the-beginner-s-guide
 length: '18 hours 12 mins over 6 weeks '
 cost: "£144/yr or £30/month"
+level: Beginner
 
 ---
 ### What you’ll learn
