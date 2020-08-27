@@ -1,5 +1,11 @@
 ---
-location: Online
+location:
+- Singapore
+- France
+- United Kingdom
+- United States
+- Australia
+- Online
 date: 2020-08-27 14:27:28 +0100
 title: General Assembly
 description: Get ahead with expert-led training in coding, data, design, digital marketing,
