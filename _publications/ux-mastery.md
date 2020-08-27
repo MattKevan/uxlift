@@ -7,7 +7,7 @@ description: We're a community of learners, practitioners, mentors and design le
   we share and help each other grow the skills needed for a successful career in the
   user experience profession.
 link: https://uxmastery.com
-qualification: ''
+qualification: Accredited certificate
 cost: ''
 source: Publication
 image: "/assets/images/ux-mastery.png"
@@ -16,5 +16,6 @@ location: []
 course_type: ''
 length: ''
 date: 
+level: ''
 
 ---
