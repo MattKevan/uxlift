@@ -1,5 +1,14 @@
 ---
-location: Online
+location:
+- France
+- Portugal
+- Brazil
+- Germany
+- Mexico
+- Netherlands
+- United States
+- Spain
+- Online
 date: 2020-08-27 14:32:44 +0100
 title: Ironhack
 description: Intensive courses & bootcamps in Web Development, UX/UI Design & Data
