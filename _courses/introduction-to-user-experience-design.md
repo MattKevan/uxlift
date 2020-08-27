@@ -1,5 +1,6 @@
 ---
-category: UX design
+category: 
+- UX design
 course: Short course
 title: Introduction to User Experience Design
 description: The focus of this course is to introduce the learner to User Experience
