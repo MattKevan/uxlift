@@ -5,21 +5,21 @@ fields:
 - type: text
   name: title
   label: Ttitle
+- type: textarea
+  name: description
+  label: Description
 - name: location
-  type: select
-  default: []
+  type: list
   config:
-    required: false
-    options: []
+    use_select: true
+    min: 
+    max: 
     source:
       type: documents
       section: data
       file: _data/categories.yml
       path: location
   label: Location
-- type: textarea
-  name: description
-  label: Description
 - type: file
   name: image
   label: Image
