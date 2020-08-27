@@ -114,6 +114,7 @@ fields:
   hidden: true
   default: now
 pages:
+- _courses/bsc-hons-user-experience-design.md
 - _courses/design-thinking-the-beginner-s-guide.md
 - _courses/introduction-to-user-experience-design.md
 - _courses/ma-user-experience-design-degree.md
