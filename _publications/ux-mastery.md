@@ -15,7 +15,7 @@ site_reference: ''
 location: []
 course_type: ''
 length: ''
-date: 
+date: 2020-08-27 11:34:34 +0100
 level: ''
 
 ---
