@@ -45,6 +45,21 @@ fields:
       file: _data/categories.yml
       path: location
   label: Location
+- name: level
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - Beginner
+    - Intermediate
+    - Advanced
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Level
 - type: text
   name: link
   label: Link
