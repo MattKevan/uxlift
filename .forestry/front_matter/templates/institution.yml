@@ -33,5 +33,6 @@ fields:
   hidden: true
 pages:
 - _institutions/career-foundry.md
+- _institutions/general-assembly.md
 - _institutions/interaction-design-foundation.md
 - _institutions/norwich-university-of-the-arts.md
