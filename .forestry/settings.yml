@@ -38,13 +38,6 @@ sections:
   create: documents
   match: "**/*"
 - type: directory
-  path: _institutions
-  label: Institutions
-  create: documents
-  match: "**/*"
-  templates:
-  - institution
-- type: directory
   path: _design-systems
   label: Design systems
   create: documents
@@ -98,6 +91,13 @@ sections:
   create: documents
   match: "**/*"
 - type: directory
+  path: _institutions
+  label: Institutions
+  create: documents
+  match: "**/*"
+  templates:
+  - institution
+- type: directory
   path: _organisations
   label: Organisations
   create: all
@@ -109,9 +109,10 @@ sections:
   match: "**/*"
 - type: directory
   path: ''
-  label: All files
-  create: documents
-  match: "**/*.md"
+  label: References
+  create: all
+  match: _organisations/**/*,_publications/**/*
+  exclude: "*.html"
 upload_dir: assets/images
 public_path: "/assets/images"
 front_matter_path: ''
