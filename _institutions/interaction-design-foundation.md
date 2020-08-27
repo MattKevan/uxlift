@@ -4,15 +4,15 @@ course: Short course
 title: Interaction Design Foundation
 description: Your one-stop design school to learn new design skills.
 link: https://www.interaction-design.org
-qualification: ''
+qualification: Accredited certificate
 cost: ''
-location:
-- Online
+location: Online
 image: "/assets/images/interaction-design-foundation.svg"
 site_reference: ''
 course_type: ''
 length: ''
-date: 
+date: 2020-08-27 11:36:14 +0100
+level: ''
 
 ---
 #### Online Design Courses
