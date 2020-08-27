@@ -19,13 +19,6 @@ sections:
   templates:
   - topic-hub
 - type: directory
-  path: _publications
-  label: Publications
-  create: documents
-  match: "**/*"
-  templates:
-  - publication
-- type: directory
   path: _courses
   label: Courses
   create: documents
@@ -90,6 +83,13 @@ sections:
   label: People
   create: documents
   match: "**/*"
+- type: directory
+  path: _publications
+  label: Publications
+  create: documents
+  match: "**/*"
+  templates:
+  - publication
 - type: directory
   path: _institutions
   label: Institutions
