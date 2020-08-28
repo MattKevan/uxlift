@@ -41,4 +41,4 @@ This class is geared to a wide range of professionals, whether you’re a busine
 
 * Individuals who have heard about design thinking but don't know exactly what it is or how it works.
 * Those who need to refresh and solidify their understanding of design thinking.
-* Business leaders wanting to better understand what the designers at your company do, or how design can help your company achieve their goals
+* Business leaders wanting to better understand what the designers at your company do, or how design can help your company achieve their goals.
