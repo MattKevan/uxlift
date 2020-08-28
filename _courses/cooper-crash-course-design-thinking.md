@@ -7,7 +7,7 @@ institution: Udemy
 course_type: _course_types/short-courses.md
 cost: Paid
 qualification: Certificate of completion
-link: https://www.udemy.com/cooper-crash-course/
+link: https://www.udemy.com/course/designit-design-thinking/
 category:
 - Design thinking
 layout: course
