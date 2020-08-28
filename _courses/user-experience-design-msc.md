@@ -13,7 +13,7 @@ category:
 site_reference: _institutions/university-of-brighton.md
 location:
 - United Kingdom
-course-type: _course-types/postgraduate.md
+course_type: _course_types/postgraduate.md
 length: 1-6 years
 date: 2020-08-26 09:56:34 +0100
 ---

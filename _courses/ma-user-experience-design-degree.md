@@ -10,7 +10,7 @@ link: https://www.lboro.ac.uk/study/postgraduate/masters-degrees/a-z/user-experi
 qualification: MA
 cost: 'From free'
 length: '1-4 years'
-course-type: Postgraduate
+course_type: _course_types/postgraduate.md
 site_reference: _institutions/loughborough-university.md
 date: 2020-08-26 09:50:34 +0100
 ---

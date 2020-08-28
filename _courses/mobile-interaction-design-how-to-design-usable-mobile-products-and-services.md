@@ -8,7 +8,7 @@ link: https://www.coursera.org/learn/mobile-interaction-design
 qualification: Short course
 cost: From free
 site_reference: _institutions/coursera.md
-course-type: Short course
+course_type: _course_types/short-courses.md
 length: "~117 hours"
 date: 2020-08-26 09:51:34 +0100
 ---

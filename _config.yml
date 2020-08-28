@@ -77,7 +77,7 @@ collections:
   courses:
     output: true
     permalink: /education/:path/
-  course-types:
+  course_types:
     output: true
     permalink: /education/:path/
   organisations:
@@ -196,7 +196,7 @@ defaults:
   -
     scope:
       path: ""
-      type: course-types
+      type: course_types
     values:
       layout: course-listing
   -

@@ -47,6 +47,16 @@
 	{% endfor %}
 {% endfor %}
 
+{% assign has_courses = 'no' %}
+
+{% for item in site.courses %}
+	{% for cat in item.category %}
+		{% if page.title == cat '%}
+			{% assign has_courses = 'yes' %}
+		{% endif %}
+	{% endfor %}
+{% endfor %}
+
 {% assign has_tools = 'no' %}
 
 {% for item in site.tools %}
@@ -85,6 +95,10 @@
 
 				{% if has_tools == 'yes' %}
 					<li class="nav-item"><a href="#Tools" class="nav-link scrollLink">Tools</a></li>
+				{% endif %}
+
+				{% if has_courses == 'yes' %}
+					<li class="nav-item"><a href="#Courses" class="nav-link scrollLink">Courses</a></li>
 				{% endif %}
 
 				{% if has_books == 'yes' %}

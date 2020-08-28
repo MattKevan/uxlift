@@ -1,5 +1,5 @@
 ---
 title: Short courses
 description:
-course-type: Short course
+course_type: Short course
 ---

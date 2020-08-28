@@ -1,4 +1,4 @@
 ---
 title: Undergraduate
-course-type: Undergraduate
+course_type: Undergraduate
 ---

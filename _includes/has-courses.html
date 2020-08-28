@@ -9,18 +9,23 @@
 {% endfor %}
 
 {% if has_courses == 'yes' %}
+	<div class="row" id="Courses">
+		<div class="col-12">
+			<h2 >Courses</h2>
+		</div>
 
-	<div class="col-xs-12">
-		<h2>Courses</h2>
-	</div>
+		{% assign sorted_courses = site.courses %}
+		{% for item in sorted_courses %}
+			{% for cat in item.category %}
+				{% if page.title == cat %}
 
-	{% assign sorted_courses = site.courses %}
-	{% for item in sorted_courses %}
-		{% for cat in item.category %}
-			{% if page.title == cat %}
-				{% include grid-large-link.html %}
-			{% endif %}
+					{% include grid-item.html %}
+
+				{% endif %}
+			{% endfor %}
 		{% endfor %}
-	{% endfor %}
+
+	</div>
+	<hr>
 
 {% endif %}

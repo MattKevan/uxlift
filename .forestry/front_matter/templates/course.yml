@@ -90,7 +90,7 @@ fields:
     - Bootcamp
     source:
       type: pages
-      section: course-types
+      section: course_types
       file: 
       path: 
   label: Course type
@@ -125,4 +125,3 @@ pages:
 - _courses/ux-design-fundamentals.md
 - _courses/ux-design-program.md
 - _courses/web-design-for-usability.md
-- _publications/creative-bloq.md

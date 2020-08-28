@@ -1,5 +1,5 @@
 ---
 title: Bootcamps
 description:
-course-type: Bootcamp
+course_type: Bootcamp
 ---

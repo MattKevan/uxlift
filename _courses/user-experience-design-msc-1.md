@@ -12,7 +12,7 @@ qualification: Postgraduate degree
 cost: "£5-9,000"
 location:
 - United Kingdom
-course-type: _course-types/postgraduate.md
+course_type: _course_types/postgraduate.md
 length: 1-3 years
 date: 2020-08-26 09:55:34 +0100
 ---

@@ -4,7 +4,7 @@ description: Understand your audience, envision a creative solution, and test yo
   prototype by award-winning UX design firm Cooper
 preview: 2.jpg
 institution: Udemy
-course: Short course
+course_type: _course_types/short-courses.md
 cost: Paid
 qualification: Short course
 link: https://www.udemy.com/cooper-crash-course/

@@ -5,7 +5,7 @@ permalink: /education/
 ---
 <h2>Course types</h2>
 <div class="row">
-	{% assign sorted_items = site.course-types | sort:'title' %}
+	{% assign sorted_items = site.course_types | sort:'title' %}
 		{% for item in sorted_items %}
 		<div class="col-6 col-md-3 col-sm-4">
 			<p class="topic-title"><a href="{{ item.url }}">{{ item.title }}</a></p>

@@ -7,7 +7,7 @@ link: https://www.coursera.org/learn/ux-design-concept-wireframe
 qualification: Certificate
 cost: From free
 length: "~20 hours"
-course-type: _course-types/short-courses.md
+course_type: _course_types/short-courses.md
 site_reference: _institutions/coursera.md
 location:
 - Online

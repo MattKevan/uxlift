@@ -5,14 +5,20 @@ layout: default
 {{ content }}
 
 <div class="row">
+
+
 	{% assign sorted_items = site.courses | sort:'title' %}
+
 	{% for item in sorted_items %}
-		{% for cat in item.course-type %}
-			{% if page.course-type == cat %}
+
+		{% for cat in item.course_type %}
+		
+			{% if page.path == cat %}
 				{% include grid-item.html %}
 			{% endif %}
 		{% endfor %}	
 	{% endfor %}
 </div>
 <hr>
+
 {% include newsletter-form.html %}

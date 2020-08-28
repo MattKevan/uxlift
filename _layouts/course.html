@@ -16,14 +16,16 @@ layout: default
 			<h3>Course details</h3>
 
 			<p><strong>Institution</strong><br>
-				{% if page.icon %}
-					<img class="list-logo" src="{{ page.icon }}" alt="{{ page.institution }}" />
-				{% endif %}
-
-				{{ page.institution }} 
+		
+				{% for sites in site.institutions %}
+					{% if sites.path == page.site_reference %}
+						<a href="{{ sites.url }}"><img class="list-logo" src="{{ sites.image }}" alt="{{ sites.title }}" />
+						{{ sites.title }}</a>
+				  	{% endif %}
+				{% endfor %}
 			</p>
-						
 
+						
 			<p><strong>Course type</strong> <br>
 				{% for item in site.course-types %}
 					{% if item.path == page.course-type %}

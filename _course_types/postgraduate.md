@@ -1,5 +1,5 @@
 ---
 title: Postgraduate
 description: 
-course-type: Postgraduate
+course_type: Postgraduate
 ---

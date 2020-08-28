@@ -1,7 +1,7 @@
 ---
 site_reference: _institutions/interaction-design-foundation.md
 qualification: Certificate of completion
-course_type: _course-types/short-courses.md
+course_type: _course_types/short-courses.md
 date: 2020-08-27 11:25:13 +0100
 title: 'Design Thinking: The Beginner’s Guide'
 description: This course will help you design better products, services, processes,
