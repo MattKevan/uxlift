@@ -6,12 +6,14 @@ description: Your one-stop design school to learn new design skills.
 link: https://www.interaction-design.org
 qualification: Accredited certificate
 cost: ''
-location: Online
+location:
+- Online
 image: "/assets/images/interaction-design-foundation.svg"
 site_reference: ''
-course_type: ''
+course_type:
+- _course_types/short-courses.md
 length: ''
-date: 2020-08-27 11:36:14 +0100
+date: 2020-08-27T11:36:14.000+01:00
 level: ''
 
 ---

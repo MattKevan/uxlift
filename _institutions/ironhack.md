@@ -9,12 +9,14 @@ location:
 - United States
 - Spain
 - Online
-date: 2020-08-27 14:32:44 +0100
+date: 2020-08-27T14:32:44.000+01:00
 title: Ironhack
 description: Intensive courses & bootcamps in Web Development, UX/UI Design & Data
   Analytics
 image: "/assets/images/iron-hack.svg"
 link: https://www.ironhack.com/
+course_type:
+- _course_types/bootcamps.md
 
 ---
 ### Why should you study at Ironhack?
