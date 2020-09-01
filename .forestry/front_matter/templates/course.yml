@@ -65,6 +65,18 @@ fields:
   label: Link
   config:
     required: true
+- name: tool
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: tools
+      file: 
+      path: 
+  label: Tool
 - name: qualification
   type: select
   default: []
