@@ -8,6 +8,9 @@ link: https://www.kingston.ac.uk/
 location:
 - United Kingdom
 image: "/assets/images/kingston.png"
+course_type:
+- _course_types/undergraduate.md
+- _course_types/postgraduate.md
 
 ---
 ### Did you know?

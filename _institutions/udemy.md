@@ -12,9 +12,10 @@ location:
 - Online
 site_reference: ''
 level: ''
-course_type: ''
+course_type:
+- _course_types/short-courses.md
 length: ''
-date: 2020-08-27 15:13:28 +0100
+date: 2020-08-27T15:13:28.000+01:00
 
 ---
 ### The leading global marketplace for learning and instruction

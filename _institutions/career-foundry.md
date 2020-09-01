@@ -1,10 +1,13 @@
 ---
-location: Online
-date: 2020-08-27 14:02:39 +0100
+location:
+- Online
+date: 2020-08-27T14:02:39.000+01:00
 title: Career Foundry
 description: We believe anyone can build a career they love
 image: "/assets/images/career-foundry.png"
 link: https://careerfoundry.com/
+course_type:
+- _course_types/bootcamps.md
 
 ---
 CareerFoundry is a diverse global community of over 300 educational experts, career specialists, mentors and tutors, united in the belief that, given the right tools, anyone can develop the skills they need to build a career they love.

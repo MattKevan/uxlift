@@ -6,12 +6,14 @@ location:
 - United States
 - Australia
 - Online
-date: 2020-08-27 14:27:28 +0100
+date: 2020-08-27T14:27:28.000+01:00
 title: General Assembly
 description: Get ahead with expert-led training in coding, data, design, digital marketing,
   and more.
 image: "/assets/images/general-assembly.svg"
 link: https://generalassemb.ly
+course_type:
+- _course_types/bootcamps.md
 
 ---
 Since 2011, General Assembly has transformed tens of thousands of careers through pioneering, experiential education in today’s most in-demand skills. When you learn web development, data, design, business, and more with GA, you get:

@@ -6,6 +6,8 @@ description: Your Course to Success – Build skills with courses, certificates
 image: "/assets/images/coursera.png"
 link: https://www.coursera.org
 location: Online
+course_type:
+- _course_types/short-courses.md
 
 ---
 **Learn the latest skills** like business analytics, graphic design, Python, and more

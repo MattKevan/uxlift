@@ -4,9 +4,11 @@ description: Springboard’s part-time bootcamps get you job-ready in 6-9 months
   the comfort of your home. Launch your new tech career, or your tuition is on us.
 link: www.springboard.com
 image: "/assets/images/springboard.png"
-location: 
+location:
 - Online
-date: 2020-08-26 09:38:13 +0100
+date: 2020-08-26T09:38:13.000+01:00
+course_type:
+- _course_types/bootcamps.md
 
 ---
 ### Get your dream job faster, cheaper, better. Guaranteed.

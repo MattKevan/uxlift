@@ -1,13 +1,13 @@
 ---
-title: 'Cooper Crash Course: Design Thinking in 3 Steps'
+title: Design Thinking in 3 Steps
 description: Understand your audience, envision a creative solution, and test your
-  prototype by award-winning UX design firm Cooper
+  prototype.
 preview: 2.jpg
 institution: Udemy
 course_type: _course_types/short-courses.md
 cost: Paid
 qualification: Certificate of completion
-link: https://www.udemy.com/cooper-crash-course/
+link: https://www.udemy.com/course/designit-design-thinking/
 category:
 - Design thinking
 layout: course

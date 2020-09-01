@@ -20,6 +20,16 @@ fields:
       file: _data/categories.yml
       path: location
   label: Location
+- name: course_type
+  type: list
+  config:
+    use_select: true
+    min: 
+    max: 
+    source:
+      type: pages
+      section: course-types
+  label: Course type
 - type: file
   name: image
   label: Image
@@ -33,6 +43,7 @@ fields:
   hidden: true
 pages:
 - _institutions/career-foundry.md
+- _institutions/design-code.md
 - _institutions/general-assembly.md
 - _institutions/interaction-design-foundation.md
 - _institutions/ironhack.md

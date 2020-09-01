@@ -65,6 +65,18 @@ fields:
   label: Link
   config:
     required: true
+- name: tool
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: tools
+      file: 
+      path: 
+  label: Tool
 - name: qualification
   type: select
   default: []
@@ -90,7 +102,7 @@ fields:
     - Bootcamp
     source:
       type: pages
-      section: course_types
+      section: course-types
       file: 
       path: 
   label: Course type
@@ -115,6 +127,7 @@ fields:
   default: now
 pages:
 - _courses/bsc-hons-user-experience-design.md
+- _courses/design-and-code-in-framer-x.md
 - _courses/design-thinking-the-beginner-s-guide.md
 - _courses/introduction-to-user-experience-design.md
 - _courses/ma-user-experience-design-degree.md
@@ -122,7 +135,10 @@ pages:
 - _courses/ui-design-program.md
 - _courses/ui-ux-design-bootcamp.md
 - _courses/user-experience-design-msc-1.md
+- _courses/ux-design-course.md
 - _courses/ux-design-fundamentals.md
+- _courses/ux-design-immersive.md
 - _courses/ux-design-program.md
+- _courses/ux-ui-design-bootcamp.md
 - _courses/web-design-for-usability.md
 - _publications/creative-bloq.md
