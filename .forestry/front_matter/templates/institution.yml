@@ -43,6 +43,7 @@ fields:
   hidden: true
 pages:
 - _institutions/career-foundry.md
+- _institutions/design-code.md
 - _institutions/general-assembly.md
 - _institutions/interaction-design-foundation.md
 - _institutions/ironhack.md
