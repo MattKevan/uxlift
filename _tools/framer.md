@@ -12,8 +12,7 @@ date: 2019-07-15T09:37:46.000+01:00
 
 And it’s got all the team collaboration features you’d expect from a high-fidelity prototyping tool: multi-player editing, easy sharing, inline commenting, reusable components, and developer handoff. But let’s cut right to what makes this the best prototyping tool on the market.
 
-###   
-An advanced prototyping tool, minus the code.
+### An advanced prototyping tool, minus the code.
 
 So how does it work? Import from any of your favorite   
 UI design tools or start from scratch in Framer. Simply right-click to swap out static elements and replace them with interactive components.
