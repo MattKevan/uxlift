@@ -43,7 +43,39 @@ layout: default
 			</div>
 					
 <hr>
+
+{% assign has_courses = 'no' %}
+
+{% for item in site.courses %}
+	{% for cat in item.tool %}
+		{% if page.path == cat.tool %}
+			{% assign has_articles = 'yes' %}
+		{% endif %}
+	{% endfor %}
+{% endfor %}
+
+{% include newsletter-form.html %}
+
+<hr />
+
+{% if has_articles == 'yes' %}
+
+				<div class="row" id="Articles">
+					<div class="col-12 col-md-8">
+					<h2>Articles</h2>		
+					{% assign sorted_items = site.courses | sort:'title' %}
+					{% for item in sorted_items %}
+						{% for cat in item.tool %}
+							{% if page.path == cat.tool %}
+								{% include grid.item.html %}
+							{% endif %}
+						{% endfor %}
+					{% endfor %}
+				</div>
+			</div>
+
 {% endif %}
+<hr>
 		
 <h2>Alternatives to {{ page.title }}</h2>
 		
