@@ -24,57 +24,52 @@ layout: default
 
 {% include newsletter-form.html %}
 
-<hr />
+<hr>
 
 {% if has_articles == 'yes' %}
 
-				<div class="row" id="Articles">
-					<div class="col-12 col-md-8">
-					<h2>Articles</h2>		
-					{% assign sorted_items = site.topics | sort:'date' | reverse %}
-					{% for item in sorted_items %}
-						{% for cat in item.tool %}
-							{% if page.title == cat and item.type == 'Article'%}
-								{% include list-link.html %}
-							{% endif %}
-						{% endfor %}
-					{% endfor %}
-				</div>
-			</div>
-					
-<hr>
+	<div class="row" id="Articles">
+		<div class="col-12 col-md-8">
+			<h2>Articles</h2>		
+			{% assign sorted_items = site.topics | sort:'date' | reverse %}
+			{% for item in sorted_items %}
+				{% for cat in item.tool %}
+					{% if page.title == cat and item.type == 'Article'%}
+						{% include list-link.html %}
+					{% endif %}
+				{% endfor %}
+			{% endfor %}
+		</div>
+	</div>
+
+{% endif %}				
 
 {% assign has_courses = 'no' %}
 
 {% for item in site.courses %}
-	{% for cat in item.tool %}
-		{% if page.path == cat.tool %}
-			{% assign has_articles = 'yes' %}
-		{% endif %}
-	{% endfor %}
+	{% if page.path == item.tool %}
+		{% assign has_courses = 'yes' %}
+	{% endif %}
 {% endfor %}
 
-{% include newsletter-form.html %}
 
-<hr />
+{% if has_courses == 'yes' %}
+	
 
-{% if has_articles == 'yes' %}
+	<h2>Related courses</h2>
 
-				<div class="row" id="Articles">
-					<div class="col-12 col-md-8">
-					<h2>Articles</h2>		
-					{% assign sorted_items = site.courses | sort:'title' %}
-					{% for item in sorted_items %}
-						{% for cat in item.tool %}
-							{% if page.path == cat.tool %}
-								{% include grid.item.html %}
-							{% endif %}
-						{% endfor %}
-					{% endfor %}
-				</div>
-			</div>
+	<div class="row" id="Courses">
+			
+		{% assign sorted_items = site.courses | sort:'title' %}
+		{% for item in sorted_items %}
+			{% if page.path == item.tool %}
+				{% include grid-item.html %}
+			{% endif %}
+		{% endfor %}
+	</div>
 
 {% endif %}
+
 <hr>
 		
 <h2>Alternatives to {{ page.title }}</h2>
