@@ -2,7 +2,7 @@
 site_reference: _institutions/ironhack.md
 level: Beginner
 qualification: Unaccredited
-course_type: []
+course_type: _course_types/bootcamps.md
 date: 2020-09-01 10:48:25 +0100
 title: UX/UI design bootcamp
 description: 'Become a UX/UI designer: Learn all about User Experience (UX) and Interface
