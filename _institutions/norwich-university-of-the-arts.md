@@ -1,11 +1,15 @@
 ---
-location: United Kingdom
-date: 2020-08-27 11:59:23 +0100
+location:
+- United Kingdom
+date: 2020-08-27T11:59:23.000+01:00
 title: Norwich University of the Arts
 description: A dynamic and creative community providing arts, design, architecture
   and media education.
 image: "/assets/images/nua-logo.svg"
 link: https://www.nua.ac.uk
+course_type:
+- _course_types/postgraduate.md
+- _course_types/undergraduate.md
 
 ---
 Norwich University of the Arts (NUA) has established itself in arts, design and media education for over 170 years. But while our history can be traced back to 1845, our outlook is forward-thinking.
