@@ -10,7 +10,7 @@ category:
 type: Article
 date: 2018-02-26T00:00:00.000+00:00
 preview: ''
-organisation: _publications/ux-planet.md
+organisation: _organisations/ux-planet.md
 image: ''
 tool: ''
 
