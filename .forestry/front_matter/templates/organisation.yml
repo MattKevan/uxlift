@@ -1,0 +1,28 @@
+---
+label: Organisation
+hide_body: false
+fields:
+- type: text
+  name: location
+  label: location
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: title
+  label: title
+- type: textarea
+  name: description
+  label: description
+- type: file
+  name: image
+  label: image
+- type: text
+  name: link
+  label: link
+- type: list
+  name: course-type
+  label: course-type
+- type: list
+  name: org-type
+  label: org-type
