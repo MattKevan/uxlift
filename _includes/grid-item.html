@@ -6,19 +6,29 @@
 	{% endif%}
 ">
 	<div class="card h-100">
-
 		<div class="grid-content">
+
+			{% if item.course_type %}
+				{% for type in site.course_types %}
+					{% if type.path == item.course_type%}
+						<p class="weblink s"><a href="{{ type.url }}">{{ type.title }}</a></p>
+					{% endif%}
+				{% endfor %}
+			{% endif %}
+
 			{% if item.image %}
-			{% if item.image != "" %}
-			<a href="{{ item.url }}" target="_blank">
-				<img class="logo" src="{{ item.image }}" alt="{{ item.title }}" />
-			</a>{% endif %}{% endif %}
+				{% if item.image != "" %}
+					<a href="{{ item.url }}" target="_blank">
+						<img class="logo" src="{{ item.image }}" alt="{{ item.title }}" />
+					</a>
+				{% endif %}
+			{% endif %}
 
 			<h4><a href="{{ item.url }}">{{ item.title }}</a></h4>	      
 
 
 			{% if item.site_reference %}
-			<p class="weblink s">
+				<p class="weblink s">
 					{% for sites in site.institutions %}
 						{% if sites.path == item.site_reference %}
 							<a href="{{ sites.url }}"><img class="list-logo" src="{{ sites.image }}" alt="{{ sites.title }}" />
@@ -28,7 +38,8 @@
 				</p>
 			{% endif %}
 
-			<p>{{ item.description }}</p>	
+			<p>{{ item.description }}</p>
+
 			{% if item.authors %}
 				<p class="author s">{{ item.authors }}{% if item.year %}, {{ item.year }}{% endif %}</p>
 			{% endif %}
@@ -50,20 +61,20 @@
 			{% endif %}
 			
 			{% if item.category %}
-		    <p class="tags xs">
-			    {% if item.course %}
-					<span>{{ item.course }}</span>
-				{% endif %}
-			    {% for cat in item.category %}
-					<span>{{ cat }}</span>
-				{% endfor %}
-				{% if item.source %}
-					{% for src in item.source %}
-						<span>{{ src }}</span>
+			    <p class="tags xs">
+				    {% if item.course %}
+						<span>{{ item.course }}</span>
+					{% endif %}
+				    {% for cat in item.category %}
+						<span>{{ cat }}</span>
 					{% endfor %}
-				{% endif %}
+					{% if item.source %}
+						{% for src in item.source %}
+							<span>{{ src }}</span>
+						{% endfor %}
+					{% endif %}
 
-			</p>
+				</p>
 			{% endif %}
 
 		</div>

@@ -76,10 +76,10 @@ collections:
     permalink: /newsletters/:path/
   courses:
     output: true
-    permalink: /education/:path/
+    permalink: /courses/:path/
   course_types:
     output: true
-    permalink: /education/:path/
+    permalink: /courses/:path/
   organisations:
     output: true
     permalink: /organisations/:path/
@@ -91,7 +91,7 @@ collections:
     permalink: /agencies/:path
   institutions:
     output: true
-    permalink: /education/institutions/:path
+    permalink: /organisations/:path
 
 defaults:
   -

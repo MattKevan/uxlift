@@ -1,17 +1,35 @@
 ---
 layout: default
-title: Courses
-permalink: /education/courses
-
+title: UX courses
+permalink: /courses/
 ---
-
+<h2>Course types</h2>
 <div class="row">
-	{% assign sorted_items = site.courses | sort:'date' %}
-	{% for item in sorted_items %}
+	{% assign sorted_items = site.course_types | sort:'title' %}
+		{% for item in sorted_items %}
+		<div class="col-6 col-md-3 col-sm-4">
+			<p class="topic-title"><a href="{{ item.url }}">{{ item.title }}</a></p>
+		</div>
+	{% endfor %}
+</div>
+<hr>
+<h2>Featured courses</h2>
+<div class="row filter-grid">
+	{% assign sorted_items = site.courses | sort: 'date' | reverse %}
+	{% for item in sorted_items limit: 6 %}
 		{% include grid-item.html %}
 	{% endfor %}
 </div>
-
+<p><a href="/courses/all-courses">See all courses »</a></p>
+<hr>
+<h2>Learning providers</h2>
+<div class="row filter-grid">
+	{% assign sorted_items = site.institutions | sort: 'date' %}
+	{% for item in sorted_items limit: 3 %}
+		{% include grid-item.html %}
+	{% endfor %}
+</div>
+<p><a href="/organisations/learning-providers">See all learning providers »</a></p>
 
 
 

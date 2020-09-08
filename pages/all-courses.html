@@ -1,0 +1,17 @@
+---
+layout: default
+title: Courses
+permalink: /courses/all-courses
+
+---
+
+<div class="row">
+	{% assign sorted_items = site.courses | sort:'date' %}
+	{% for item in sorted_items %}
+		{% include grid-item.html %}
+	{% endfor %}
+</div>
+
+
+
+
