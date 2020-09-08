@@ -17,26 +17,22 @@ length: 6 months, 5 hours per week
 cost: "£2,250"
 
 ---
-### Why become a UX designer?
+### Outcomes for you
 
-#### Be in demand
+You’ll follow the real life cycle of a UX project during the course, covering topics such as UX principles, user research, analysis frameworks, interaction design, prototyping and wireframing.
 
-UX is a high-growth sector. The demand for UX designers far outstrips the supply of qualified professionals.
+You’ll follow the real life cycle of a UX project during the course, covering topics such as UX principles, user research, analysis frameworks, interaction design, prototyping and wireframing.
 
-#### Get well paid
-
-UX designers are highly paid. The average entry-level salary for a UX designer in United Kingdom   
-for example, is £35,465.
-
-PayScale, 2019
-
-#### Love your job
-
-UX designers make an impact. They solve real-world problems using an exciting mix of research, design, technology and psychology.
+* A better ability to see software products from your end-user’s perspective
+* Speak with the confidence that comes from a true, deep understanding of UX
+* Think like a UX designer; adopt the mindset that sets them apart
+* Learn to communicate and collaborate more effectively on software projects
+* Feel energised and enthused about UX through a highly enjoyable learning environment
+* Advance your career with job-ready skills
 
 ### Learn with us
 
-We’ve worked hard to design the best possible online learning experience for you.   
+We’ve worked hard to design the best possible online learning experience for you.  
 As well as an unrivalled syllabus, our approach includes:
 
 #### Projects & portfolio
