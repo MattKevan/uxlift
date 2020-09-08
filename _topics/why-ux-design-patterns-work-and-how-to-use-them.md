@@ -12,6 +12,6 @@ category:
 type: Article
 preview: ''
 tool: ''
-organisation: _publications/creative-bloq.md
+organisation: _organisations/creative-bloq.md
 
 ---
