@@ -50,6 +50,16 @@ sections:
   create: documents
   match: "**/*"
 - type: directory
+  path: _organisations
+  label: Organisations
+  create: all
+  match: "**/*"
+- type: directory
+  path: _organisation-types
+  label: Organisation types
+  create: documents
+  match: "**/*"
+- type: directory
   path: _plugin
   label: Plugins
   create: documents
@@ -83,36 +93,6 @@ sections:
   label: People
   create: documents
   match: "**/*"
-- type: directory
-  path: _publications
-  label: Publications
-  create: documents
-  match: "**/*"
-  templates:
-  - publication
-- type: directory
-  path: _institutions
-  label: Institutions
-  create: documents
-  match: "**/*"
-  templates:
-  - institution
-- type: directory
-  path: _organisations
-  label: Organisations
-  create: all
-  match: "**/*"
-- type: directory
-  path: _agencies
-  label: Agencies
-  create: documents
-  match: "**/*"
-- type: directory
-  path: ''
-  label: References
-  create: all
-  match: _organisations/**/*,_publications/**/*
-  exclude: "*.html"
 upload_dir: assets/images
 public_path: "/assets/images"
 front_matter_path: ''
