@@ -54,6 +54,8 @@ sections:
   label: Organisations
   create: all
   match: "**/*"
+  templates:
+  - organisation
 - type: directory
   path: _organisation-types
   label: Organisation types
