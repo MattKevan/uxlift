@@ -1,9 +1,9 @@
 ---
-site_reference: _institutions/interaction-design-foundation.md
+organisation: _organisations/ux-design-institute.md
 level: Beginner
 tool: []
 qualification: Diploma
-course_type: _course_types/bootcamps.md
+course-type: _course-types/bootcamps.md
 date: 2020-09-08 09:46:50 +0100
 title: Professional Diploma in UX Design
 description: Acquire the mindset, the skills and the confidence that make UX designers

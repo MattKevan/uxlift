@@ -6,5 +6,6 @@ description: The future of design is open. We’re building it. Stories, news, a
   from behind the Artboards.
 image: "/assets/images/abstract.png"
 link: https://www.abstract.com/blog/
-
+org-type: 
+- _organisation-types/software-company.md
 ---

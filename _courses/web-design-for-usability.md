@@ -1,8 +1,8 @@
 ---
-site_reference: _institutions/interaction-design-foundation.md
+organisation: _organisations/interaction-design-foundation.md
 level: Beginner
 qualification: Certificate of completion
-course_type: _course_types/short-courses.md
+course-type: _course-types/short-courses.md
 date: 2020-08-27 11:29:52 +0100
 title: Web Design for Usability
 description: Learn the principles of user-centred design and apply them to your designs

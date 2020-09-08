@@ -13,5 +13,5 @@ category:
 - Analytics
 type: Article
 preview: ''
-site_reference: _publications/sitepoint.md
+organisation: _publications/sitepoint.md
 ---

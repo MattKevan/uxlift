@@ -11,5 +11,5 @@ type: Article
 date: 2019-08-25T23:00:00.000+00:00
 preview: ''
 image: "/assets/images/uxmatters.png"
-site_reference: _publications/ux-matters.md
+organisation: _publications/ux-matters.md
 ---

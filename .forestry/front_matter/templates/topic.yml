@@ -66,7 +66,7 @@ fields:
       file: _data/categories.yml
       path: tool
   label: Tool
-- name: site_reference
+- name: organisation
   type: select
   default: []
   config:

@@ -23,7 +23,7 @@ layout: default
 
 		{% assign sorted_items = site.topics | sort:'date' | reverse %}
 		{% for item in sorted_items %}
-			{% if item.site_reference == page.path %}
+			{% if item.organisation == page.path %}
 					{% include list-link.html %}
 			{% endif %}
 		{% endfor %}

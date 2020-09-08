@@ -1,8 +1,8 @@
 ---
-site_reference: _institutions/career-foundry.md
+organisation: _organisations/career-foundry.md
 level: Beginner
 qualification: Certificate of completion
-course_type: _course_types/bootcamps.md
+course-type: _course-types/bootcamps.md
 date: 2020-08-27 14:10:22 +0100
 title: UI Design Program
 description: Learn all of the skills, tools, and processes necessary to become a UI

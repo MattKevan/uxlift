@@ -23,7 +23,7 @@ layout: default
 
 		{% assign sorted_items = site.courses | sort:'title' %}
 		{% for item in sorted_items %}
-			{% if item.site_reference == page.path %}
+			{% if item.organisation == page.path %}
 					{% include grid-item.html %}
 			{% endif %}
 		{% endfor %}

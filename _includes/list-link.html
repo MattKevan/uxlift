@@ -6,9 +6,9 @@
 			
 			<p class="weblink s">
 
-				{% if item.site_reference %}
+				{% if item.organisation %}
 					{% for sites in site.publications %}
-						{% if sites.path == item.site_reference %}
+						{% if sites.path == item.organisation %}
 							
 							<a href="{{ sites.url }}">
 					  	{% endif %}
@@ -17,9 +17,9 @@
 
 				
 
-				{% if item.site_reference %}
+				{% if item.organisation %}
 					{% for sites in site.publications %}
-						{% if sites.path == item.site_reference %}
+						{% if sites.path == item.organisation %}
 							<img class="list-logo" src="{{ sites.image }}" alt="{{ sites.title }}" />
 							{{ sites.title }}</a>
 					  	{% endif %}
@@ -39,7 +39,7 @@
 					{% if t == "Article" %} – {{ item.date | date: "%-d %B %Y" }}{% endif %}
 				{% endfor %}
 
-				{% if item.site_reference %}
+				{% if item.organisation %}
 					</a>
 				{% endif %}
 

@@ -6,13 +6,13 @@ title: User Experience Design MSc
 description: The aim of this course is to equip you with the behavioural theory, design
   practice and technology know-how that is necessary for a career as interaction designer,
   usability engineer, user researcher, or head of user experience.
-site_reference: _institutions/kingston-university-london.md
+organisation: _organisations/kingston-university-london.md
 link: https://www.kingston.ac.uk/postgraduate/courses/user-experience-design-msc/
 qualification: Postgraduate degree
 cost: "£5-9,000"
 location:
 - United Kingdom
-course_type: _course_types/postgraduate.md
+course-type: _course-types/postgraduate.md
 length: 1-3 years
 date: 2020-08-26 09:55:34 +0100
 ---

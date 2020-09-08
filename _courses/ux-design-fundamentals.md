@@ -1,9 +1,9 @@
 ---
 category:
 - UX design
-site_reference: _institutions/coursera.md
+organisation: _organisations/coursera.md
 qualification: Certificate
-course_type: _course_types/short-courses.md
+course-type: _course-types/short-courses.md
 title: UX Design Fundamentals
 description: 'This hands-on course examines how content is organized and structured
   to create an experience for a user, and what role the designer plays in creating

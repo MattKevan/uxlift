@@ -18,7 +18,7 @@ layout: default
 			<p><strong>Institution</strong><br>
 		
 				{% for sites in site.institutions %}
-					{% if sites.path == page.site_reference %}
+					{% if sites.path == page.organisation %}
 						<a href="{{ sites.url }}"><img class="list-logo" src="{{ sites.image }}" alt="{{ sites.title }}" />
 						{{ sites.title }}</a>
 				  	{% endif %}
@@ -52,7 +52,7 @@ layout: default
 
 <div class="row">
 	{% for item in site.courses %}
-		{% if item.site_reference == page.site_reference %}
+		{% if item.organisation == page.organisation %}
 			{% include grid-item.html %}	
 		{% endif %}
 	{% endfor %}

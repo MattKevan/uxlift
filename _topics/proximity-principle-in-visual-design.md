@@ -1,7 +1,7 @@
 ---
 date: 2020-08-02T17:37:41.000+01:00
 tool: ''
-site_reference: _publications/nielsen-norman-group.md
+organisation: _publications/nielsen-norman-group.md
 site: Nielsen Norman Group
 title: Proximity principle in visual design
 description: Design elements near each other are perceived as related, while elements
@@ -13,5 +13,5 @@ category:
 - Visual design
 - Visual grammar
 type: Article
-site_reference: _publications/nielsen-norman.md
+organisation: _publications/nielsen-norman.md
 ---

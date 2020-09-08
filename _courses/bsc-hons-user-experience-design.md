@@ -1,8 +1,8 @@
 ---
-site_reference: _institutions/norwich-university-of-the-arts.md
+organisation: _organisations/norwich-university-of-the-arts.md
 level: Intermediate
 qualification: Undergraduate degree
-course_type: _course_types/undergraduate.md
+course-type: _course-types/undergraduate.md
 date: 2020-08-27 12:02:33 +0100
 title: BSc (Hons) User Experience Design
 description: Our BSc (Hons) in User Experience Design is rooted in NUA’s traditional

@@ -1,8 +1,8 @@
 ---
-site_reference: _institutions/general-assembly.md
+organisation: _organisations/general-assembly.md
 level: Beginner
 qualification: Certificate of completion
-course_type: _course_types/bootcamps.md
+course-type: _course-types/bootcamps.md
 date: 2020-09-01 11:03:14 +0100
 title: UX Design Course
 description: Translate user wants and needs into intuitive digital experiences that

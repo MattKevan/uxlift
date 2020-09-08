@@ -5,7 +5,8 @@ title: Design Council
 description: Design Council’s purpose is to make life better by design.
 image: "/assets/images/designcouncil.svg"
 link: https://www.designcouncil.org.uk
-
+org-type: 
+- _organisation-types/professional-body.md
 ---
 We are an independent charity and the government’s advisor on design. 
 

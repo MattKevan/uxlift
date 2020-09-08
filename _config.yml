@@ -68,30 +68,21 @@ collections:
   toolboxes:
     output: true
     permalink: /toolboxes/:path/
-  publications:
-    output: true
-    permalink: /publications/:path/
-  newsletters:
-    output: true
-    permalink: /newsletters/:path/
   courses:
     output: true
     permalink: /courses/:path/
-  course_types:
+  course-types:
     output: true
     permalink: /courses/:path/
   organisations:
     output: true
     permalink: /organisations/:path/
+  organisation-type:
+    output: true
+    permalink: /:path
   people:
     output: true
     permalink: /people/:path
-  agencies:
-    output: true
-    permalink: /agencies/:path
-  institutions:
-    output: true
-    permalink: /organisations/:path
 
 defaults:
   -
@@ -167,23 +158,6 @@ defaults:
   -
     scope:
       path: ""
-      type: publications
-    values:
-      layout: publication
-      image: ""
-      title: ""
-      description: ""
-      link: ""
-      category: []
-  -
-    scope:
-      path: ""
-      type: newsletters
-    values:
-      layout: newsletter
-  -
-    scope:
-      path: ""
       type: courses
     values:
       layout: course
@@ -196,7 +170,7 @@ defaults:
   -
     scope:
       path: ""
-      type: course_types
+      type: course-types
     values:
       layout: course-listing
   -
@@ -206,11 +180,6 @@ defaults:
       layout: people
   -
     scope:
-      type: agencies
+      type: organisation-type
     values:
-      layout: agency
-  -
-    scope:
-      type: institutions
-    values:
-      layout: institution
+      layout: default

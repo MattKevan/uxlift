@@ -6,5 +6,6 @@ description: A blog about web design and development, creative design inspiratio
   and updates to the Shopify Partners Program.
 image: "/assets/images/shopify.svg"
 link: https://www.shopify.com/partners/blog
-
+org-type: 
+- _organisation-types/software-company.md
 ---

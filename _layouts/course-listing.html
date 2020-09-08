@@ -11,7 +11,7 @@ layout: default
 
 	{% for item in sorted_items %}
 
-		{% for cat in item.course_type %}
+		{% for cat in item.course-type %}
 		
 			{% if page.path == cat %}
 				{% include grid-item.html %}

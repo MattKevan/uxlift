@@ -1,8 +1,8 @@
 ---
-site_reference: _institutions/general-assembly.md
+organisation: _organisations/general-assembly.md
 level: Beginner
 qualification: Certificate of completion
-course_type: _course_types/bootcamps.md
+course-type: _course-types/bootcamps.md
 date: 2020-09-01 11:00:02 +0100
 title: UX Design Immersive
 description: Your best course for career transformation in design. This full-time

@@ -8,9 +8,9 @@
 	<div class="card h-100">
 		<div class="grid-content">
 
-			{% if item.course_type %}
-				{% for type in site.course_types %}
-					{% if type.path == item.course_type%}
+			{% if item.course-type %}
+				{% for type in site.course-types %}
+					{% if type.path == item.course-type%}
 						<p class="weblink s"><a href="{{ type.url }}">{{ type.title }}</a></p>
 					{% endif%}
 				{% endfor %}
@@ -27,10 +27,10 @@
 			<h4><a href="{{ item.url }}">{{ item.title }}</a></h4>	      
 
 
-			{% if item.site_reference %}
+			{% if item.organisation %}
 				<p class="weblink s">
 					{% for sites in site.institutions %}
-						{% if sites.path == item.site_reference %}
+						{% if sites.path == item.organisation %}
 							<a href="{{ sites.url }}"><img class="list-logo" src="{{ sites.image }}" alt="{{ sites.title }}" />
 							{{ sites.title }}</a>
 					  	{% endif %}

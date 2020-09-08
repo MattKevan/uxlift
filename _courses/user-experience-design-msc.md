@@ -10,10 +10,10 @@ qualification: Certificate
 link: https://www.brighton.ac.uk/courses/study/user-experience-design-msc-pgcert-pgdip.aspx
 category:
 - UX design
-site_reference: _institutions/university-of-brighton.md
+organisation: _organisations/university-of-brighton.md
 location:
 - United Kingdom
-course_type: _course_types/postgraduate.md
+course-type: _course-types/postgraduate.md
 length: 1-6 years
 date: 2020-08-26 09:56:34 +0100
 ---

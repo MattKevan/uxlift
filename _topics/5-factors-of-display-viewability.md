@@ -9,5 +9,5 @@ link: https://www.thinkwithgoogle.com/infographics/5-factors-of-viewability.html
 type: Article
 date: 2014-12-01 00:00:00 +0000
 preview: 'think-with-google'
-site_reference: _publications/think-with-google.md
+organisation: _publications/think-with-google.md
 ---

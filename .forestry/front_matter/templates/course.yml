@@ -21,7 +21,7 @@ fields:
       file: _data/categories.yml
       path: category
   label: Category
-- name: site_reference
+- name: organisation
   type: select
   default: []
   config:
@@ -89,7 +89,7 @@ fields:
       file: _data/categories.yml
       path: qualification
   label: Qualification
-- name: course_type
+- name: course-type
   type: select
   default: []
   config:

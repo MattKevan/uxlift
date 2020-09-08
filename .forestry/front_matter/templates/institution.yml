@@ -20,7 +20,7 @@ fields:
       file: _data/categories.yml
       path: location
   label: Location
-- name: course_type
+- name: course-type
   type: list
   config:
     use_select: true

@@ -7,7 +7,7 @@ permalink: /agencies/
 
 	<div class="container">
 		<div class="row filter-grid">
-			{% assign sorted_items = site.agencies | sort:'title' %}
+			{% assign sorted_items = site.organisations | where: 'org-type','_organisation-types/ux-agency.md' | sort:'title' %}
 			{% for item in sorted_items %}
 				{% include grid-item.html %}
 			{% endfor %}

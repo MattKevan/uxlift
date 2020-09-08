@@ -10,8 +10,8 @@ cost: "$10-15,000"
 location:
 - Online
 length: 9 months, full time
-course_type: _course_types/bootcamps.md
-site_reference: _institutions/springboard.md
+course-type: _course-types/bootcamps.md
+organisation: _organisations/springboard.md
 date: 2020-08-26 09:52:34 +0100
 ---
 **Learn both UI and UX to build a versatile skill set, no design background required**

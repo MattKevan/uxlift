@@ -13,5 +13,5 @@ category:
 - UX leadership
 type: Article
 preview: ''
-site_reference: _publications/abstract.md
+organisation: _publications/abstract.md
 ---

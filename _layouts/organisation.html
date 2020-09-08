@@ -15,20 +15,58 @@ layout: default
 
 {% endif %}
 
+
+
+{% assign has_articles = 'no' %}
+
+{% for item in site.topics %}
+	{% if item.organisation == page.path %}
+			{% assign has_articles = 'yes' %}
+	{% endif %}
+{% endfor %}
+
+
+{% assign has_courses = 'no' %}
+
+{% for item in site.courses%}
+	{% if item.organisation == page.path %}
+		{% assign has_courses = 'yes' %}
+	{% endif %}
+{% endfor %}
+
+{% if has_articles == 'yes' %}
+	<hr>
+	<h2>Articles</h2>
+
+	<div class="row">
+		<div class="col-12 col-md-8">
+			{% assign sorted_items = site.topics | sort:'date' | reverse %}
+			{% for item in sorted_items %}
+				{% if item.organisation == page.path %}
+					{% include list-link.html %}
+				{% endif %}
+			{% endfor %}
+		</div>
+	</div>
+{% endif %}
+
+{% if has_courses == 'yes' %}
+
 <h2>Courses</h2>
 
 <div class="row">
-	
-
-
-		{% assign sorted_items = site.courses | sort:'title' %}
-		{% for item in sorted_items %}
-			{% if item.site_reference == page.path %}
-					{% include grid-item.html %}
-			{% endif %}
-		{% endfor %}
-	
+{% assign sorted_items = site.courses | sort:'title' %}
+{% for item in sorted_items %}
+	{% if item.organisation == page.path %}
+		{% include grid-item.html %}
+	{% endif %}
+{% endfor %}
 </div>
+{% endif %}
+
+	
+
+
 
 <hr>
 		

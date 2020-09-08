@@ -11,5 +11,5 @@ type: Article
 date: 2019-08-30 00:00:00 +0100
 preview: ''
 image: "/assets/images/inv.png" 
-site_reference: _publications/inside-design-by-invision.md
+organisation: _publications/inside-design-by-invision.md
 ---

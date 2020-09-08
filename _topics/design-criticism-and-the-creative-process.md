@@ -13,5 +13,5 @@ category:
 - Visual design
 type: Article
 preview: ''
-site_reference: _publications/a-list-apart.md
+organisation: _publications/a-list-apart.md
 ---

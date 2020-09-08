@@ -12,5 +12,5 @@ category:
 - UX leadership
 type: Article
 preview: ''
-site_reference: _publications/ux-matters.md
+organisation: _publications/ux-matters.md
 ---

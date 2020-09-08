@@ -9,8 +9,8 @@ link: https://www.coursera.org/learn/user-experience-design
 qualification: Certificate
 cost: From free
 length: "~7 hours"
-course_type: _course_types/short-courses.md
-site_reference: _institutions/coursera.md
+course-type: _course-types/short-courses.md
+organisation: _organisations/coursera.md
 location:
 - Online
 date: 2020-08-26 09:59:34 +0100
