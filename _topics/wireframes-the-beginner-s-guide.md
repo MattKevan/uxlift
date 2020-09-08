@@ -12,6 +12,6 @@ category:
 - Wireframing
 type: Article
 preview: ''
-organisation: ''
+organisation: _organisations/uxmentor.me.md
 
 ---
