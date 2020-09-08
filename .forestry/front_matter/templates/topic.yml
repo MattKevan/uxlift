@@ -5,6 +5,10 @@ fields:
 - type: text
   name: title
   label: Title
+- type: datetime
+  name: date
+  label: Date
+  default: now
 - name: description
   type: textarea
   default: ''
@@ -14,6 +18,16 @@ fields:
     schema:
       format: markdown
   label: Description
+- type: list
+  name: category
+  label: Categories
+  config:
+    use_select: true
+    source:
+      type: documents
+      section: data
+      file: _data/categories.yml
+      path: category
 - type: text
   name: link
   label: Link
@@ -31,25 +45,6 @@ fields:
       file: 
       path: 
   label: Site
-- type: datetime
-  name: date
-  label: Date
-  default: now
-- name: image
-  type: file
-  config:
-    maxSize: 64
-  label: Image
-- type: list
-  name: category
-  label: Categories
-  config:
-    use_select: true
-    source:
-      type: documents
-      section: data
-      file: _data/categories.yml
-      path: category
 - name: type
   type: select
   default: ''
