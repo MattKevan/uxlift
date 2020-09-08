@@ -3,26 +3,39 @@ label: Organisation
 hide_body: false
 fields:
 - type: text
-  name: location
-  label: location
+  name: title
+  label: Title
 - type: datetime
   name: date
-  label: date
-- type: text
-  name: title
-  label: title
+  label: Date
+  hidden: true
+  default: now
+- name: location
+  type: list
+  config:
+    use_select: true
+    min: 
+    max: 
+    source:
+      type: documents
+      section: data
+      file: _data/categories.yml
+      path: location
+  label: Location
 - type: textarea
   name: description
-  label: description
+  label: Description
 - type: file
   name: image
-  label: image
+  label: Image
 - type: text
   name: link
-  label: link
-- type: list
-  name: course-type
-  label: course-type
+  label: Link
 - type: list
   name: org-type
-  label: org-type
+  label: Organisation type
+  config:
+    use_select: true
+    source:
+      type: pages
+      section: organisation-types
