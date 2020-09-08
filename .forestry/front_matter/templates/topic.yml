@@ -19,10 +19,18 @@ fields:
   label: Link
   config:
     required: true
-- type: text
-  name: site
+- name: organisation
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: ''
+      file: 
+      path: 
   label: Site
-  description: The name of the site the content came from
 - type: datetime
   name: date
   label: Date
@@ -61,23 +69,11 @@ fields:
     required: false
     options: []
     source:
-      type: documents
-      section: data
+      type: pages
+      section: tools
       file: _data/categories.yml
       path: tool
   label: Tool
-- name: organisation
-  type: select
-  default: []
-  config:
-    required: false
-    options: []
-    source:
-      type: pages
-      section: ''
-      file: 
-      path: 
-  label: Site reference
 pages:
 - _topics/10-tips-on-making-magic-with-writers.md
 - _topics/10-tips-on-using-components-in-figma.md
