@@ -1,5 +1,5 @@
 ---
-organisation: []
+organisation: _organisations/interaction-design-foundation.md
 level: Beginner
 tool: []
 qualification: Certificate of completion
