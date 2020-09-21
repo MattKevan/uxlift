@@ -4,7 +4,7 @@ description: Understand your audience, envision a creative solution, and test yo
   prototype.
 preview: 2.jpg
 institution: Udemy
-course-type: _course-types/short-courses.md
+course-type: _course-types/short-course.md
 cost: Paid
 qualification: Certificate of completion
 link: https://www.udemy.com/course/designit-design-thinking/
