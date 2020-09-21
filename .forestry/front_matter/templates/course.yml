@@ -79,7 +79,7 @@ fields:
   label: Tool
 - name: qualification
   type: select
-  default: []
+  default: Unaccredited
   config:
     required: true
     options: []
