@@ -29,7 +29,7 @@ fields:
     options: []
     source:
       type: pages
-      section: institutions
+      section: organisations
       file: 
       path: 
   label: Institution
