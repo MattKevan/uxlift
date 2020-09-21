@@ -2,18 +2,19 @@
 organisation: _organisations/interaction-design-foundation.md
 level: Beginner
 qualification: Certificate of completion
-course-type: _course-types/short-courses.md
-date: 2020-08-27 11:29:52 +0100
+course-type: _course-types/short-course.md
+date: 2020-08-27T11:29:52.000+01:00
 title: Web Design for Usability
 description: Learn the principles of user-centred design and apply them to your designs
   to improve usability
-category: 
+category:
 - Usability
 location:
 - Online
 link: https://www.interaction-design.org/courses/web-design-for-usability
 length: '17 hours 13 mins over 8 weeks '
 cost: "£144/yr or £30/month"
+tool: ''
 
 ---
 ### What you’ll learn
