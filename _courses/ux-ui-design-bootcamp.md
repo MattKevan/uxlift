@@ -2,8 +2,8 @@
 organisation: _organisations/ironhack.md
 level: Beginner
 qualification: Unaccredited
-course-type: _course-types/bootcamps.md
-date: 2020-09-01 10:48:25 +0100
+course-type: _course-types/bootcamp.md
+date: 2020-09-01T10:48:25.000+01:00
 title: UX/UI design bootcamp
 description: 'Become a UX/UI designer: Learn all about User Experience (UX) and Interface
   Design (UI). From User Research to testing. In full-time or part-time format.'
@@ -22,6 +22,7 @@ location:
 link: https://www.ironhack.com/en/ux-ui-design
 length: 3-6 months
 cost: ''
+tool: ''
 
 ---
 ### Why should you study at Ironhack?
