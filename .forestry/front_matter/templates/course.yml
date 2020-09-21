@@ -102,7 +102,7 @@ fields:
     - Bootcamp
     source:
       type: pages
-      section: course-types
+      section: course-types-00c2f214-0b9a-47aa-996b-3ba322311f8e
       file: 
       path: 
   label: Course type
