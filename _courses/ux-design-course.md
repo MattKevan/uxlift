@@ -2,8 +2,8 @@
 organisation: _organisations/general-assembly.md
 level: Beginner
 qualification: Certificate of completion
-course-type: _course-types/bootcamps.md
-date: 2020-09-01 11:03:14 +0100
+course-type: _course-types/bootcamp.md
+date: 2020-09-01T11:03:14.000+01:00
 title: UX Design Course
 description: Translate user wants and needs into intuitive digital experiences that
   power revenue, loyalty, and product success. Build confidence and credibility to
@@ -15,6 +15,7 @@ location:
 link: https://generalassemb.ly/education/user-experience-design/
 length: 1 month
 cost: "£2,800"
+tool: ''
 
 ---
 70% of design teams increased headcount in the past year. Employers rate UX/UI as the No. 1 most in-demand product design title.
