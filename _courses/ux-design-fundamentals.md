@@ -2,8 +2,8 @@
 category:
 - UX design
 organisation: _organisations/coursera.md
-qualification: Certificate
-course-type: _course-types/short-courses.md
+qualification: Diploma
+course-type: _course-types/bootcamp.md
 title: UX Design Fundamentals
 description: 'This hands-on course examines how content is organized and structured
   to create an experience for a user, and what role the designer plays in creating
@@ -13,7 +13,9 @@ length: "~14 hours"
 cost: From free
 location:
 - Online
-date: 2020-08-26 09:57:34 +0100
+date: 2020-08-26T09:57:34.000+01:00
+level: ''
+tool: ''
 
 ---
 You will be led through a condensed process that acts as a roadmap for developing robust UI/UX design: from ideation and sitemapping, to the creation of paper and digital prototypes. Building on the design skills learned in Visual Elements of User Interface Design, you will apply this methodology to produce a digital prototype for a multi-screen app of your own invention.
