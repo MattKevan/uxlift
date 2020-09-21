@@ -3,7 +3,7 @@ organisation: _organisations/interaction-design-foundation.md
 level: Beginner
 tool: []
 qualification: Certificate of completion
-course-type: []
+course-type: _course-types/short-course.md
 date: 2020-09-21 09:57:16 +0100
 title: 'Creativity: methods to design better products and services'
 description: Design better products, services and experiences by helping you and your
