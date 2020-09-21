@@ -1,19 +1,22 @@
 ---
-category: 
+category:
 - UX design
 course: Short course
 title: Introduction to User Experience Design
 description: The focus of this course is to introduce the learner to User Experience
   (UX) Design
 link: https://www.coursera.org/learn/user-experience-design
-qualification: Certificate
+qualification: Certificate of completion
 cost: From free
 length: "~7 hours"
-course-type: _course-types/short-courses.md
+course-type: _course-types/short-course.md
 organisation: _organisations/coursera.md
 location:
 - Online
-date: 2020-08-26 09:59:34 +0100
+date: 2020-08-26T09:59:34.000+01:00
+level: ''
+tool: ''
+
 ---
 User Experience design is design that is user centered. The goal is to design artifacts that allow the users to meet their needs in the most effective efficient and satisfying manner. The course introduces the novice to a cycle of discovery and evaluation and a set of techniques that meet the user's needs. 
 
