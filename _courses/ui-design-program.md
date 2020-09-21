@@ -2,8 +2,8 @@
 organisation: _organisations/career-foundry.md
 level: Beginner
 qualification: Certificate of completion
-course-type: _course-types/bootcamps.md
-date: 2020-08-27 14:10:22 +0100
+course-type: _course-types/bootcamp.md
+date: 2020-08-27T14:10:22.000+01:00
 title: UI Design Program
 description: Learn all of the skills, tools, and processes necessary to become a UI
   designer
@@ -14,6 +14,7 @@ location:
 link: https://careerfoundry.com/en/courses/become-a-ui-designer/
 length: 4.5 months at 30 hrs/week or up to 9 months at 15 hrs/week
 cost: "£5-6,000"
+tool: ''
 
 ---
 Work with a Mentor who has over 5 years of industry experience and a Tutor for your day-to-day feedback
