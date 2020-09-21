@@ -26,13 +26,12 @@
 
 			<h4><a href="{{ item.url }}">{{ item.title }}</a></h4>	      
 
-
 			{% if item.organisation %}
 				<p class="weblink s">
-					{% for sites in site.institutions %}
-						{% if sites.path == item.organisation %}
-							<a href="{{ sites.url }}"><img class="list-logo" src="{{ sites.image }}" alt="{{ sites.title }}" />
-							{{ sites.title }}</a>
+					{% for org in site.organisations %}
+						{% if org.path == item.organisation %}
+							<a href="{{ org.url }}"><img class="list-logo" src="{{ org.image }}" alt="{{ org.title }}" />
+							{{ org.title }}</a>
 					  	{% endif %}
 					{% endfor %}
 				</p>

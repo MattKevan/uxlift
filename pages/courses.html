@@ -24,7 +24,7 @@ permalink: /courses/
 <hr>
 <h2>Learning providers</h2>
 <div class="row filter-grid">
-	{% assign sorted_items = site.organisations | where: 'org-type','_organisation-types/learning-provider.md' | sort: 'date' %}
+	{% assign sorted_items = site.organisations | where: 'org-type','_organisation-types/learning-provider.md' | sort: 'date' | reverse %}
 	{% for item in sorted_items limit: 3 %}
 		{% include grid-item.html %}
 	{% endfor %}

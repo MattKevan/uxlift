@@ -7,7 +7,8 @@ date: 2020-08-27 11:29:52 +0100
 title: Web Design for Usability
 description: Learn the principles of user-centred design and apply them to your designs
   to improve usability
-category: []
+category: 
+- Usability
 location:
 - Online
 link: https://www.interaction-design.org/courses/web-design-for-usability

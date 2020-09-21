@@ -1,4 +1,4 @@
 ---
-title: Undergraduate
-course-type: Undergraduate
+title: Diplomas
+course-type: Diploma
 ---

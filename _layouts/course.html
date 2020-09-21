@@ -17,10 +17,10 @@ layout: default
 
 			<p><strong>Institution</strong><br>
 		
-				{% for sites in site.institutions %}
-					{% if sites.path == page.organisation %}
-						<a href="{{ sites.url }}"><img class="list-logo" src="{{ sites.image }}" alt="{{ sites.title }}" />
-						{{ sites.title }}</a>
+				{% for item in site.organisations %}
+					{% if item.path == page.organisation %}
+						<a href="{{ item.url }}"><img class="list-logo" src="{{ item.image }}" alt="{{ item.title }}" />
+						{{ item.title }}</a>
 				  	{% endif %}
 				{% endfor %}
 			</p>

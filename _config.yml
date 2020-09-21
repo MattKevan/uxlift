@@ -83,6 +83,9 @@ collections:
   people:
     output: true
     permalink: /people/:path
+  resources:
+    output: true
+    permalink: /resources/:path
 
 defaults:
   -
@@ -91,24 +94,17 @@ defaults:
       type: topics
     values:
       layout: topic
-      title: ""
-      description: ""
-      tags: []
-      linkurl: ""
-      authors: ""
-      year: ""
   -
+    scope:
+      path: ""
+      type: resources
+    values:
+      layout: topic
+  -    
     scope:
       path: ""
       type: books
     values:
-      title: ""
-      description: ""
-      category: []
-      link: ""
-      authors: ""
-      pubdate: ""
-      image: ""
       layout: book
   -
     scope:
@@ -116,45 +112,24 @@ defaults:
       type: tools
     values:
       layout: tool
-      image: ""
-      title: ""
-      description: ""
-      tags: []
-      link: ""
   -
     scope:
       path: ""
       type: design-systems
     values:
       layout: tool
-      image: ""
-      title: ""
-      description: ""
-      link: ""
   -
     scope:
       path: ""
       type: plugin
     values:
       layout: tool
-      image: ""
-      title: ""
-      description: ""
-      link: ""
-      category: []
-      tool: []
   -
     scope:
       path: ""
       type: toolboxes
     values:
       layout: tool
-      image: ""
-      title: ""
-      description: ""
-      link: ""
-      category: []
-      tool: []
   -
     scope:
       path: ""

@@ -1,8 +1,8 @@
 {% assign has_resources = 'no' %}
 
-{% for item in site.topics %}
+{% for item in site.resources %}
 	{% for cat in item.category %}
-		{% if page.title == cat and item.type == 'Resource'%}
+		{% if page.title == cat %}
 			{% assign has_resources = 'yes' %}
 		{% endif %}
 	{% endfor %}
@@ -14,10 +14,10 @@
 	<h2>Resources</h2>
 	</div>
 
-		{% assign sorted_items = site.topics | sort:'title' %}
+		{% assign sorted_items = site.resources | sort:'title' %}
 		{% for item in sorted_items %}
 			{% for cat in item.category %}
-				{% if page.title == cat and item.type == 'Resource'%}
+				{% if page.title == cat %}
 					{% include grid-link.html %}
 				{% endif %}
 			{% endfor %}
