@@ -3,8 +3,8 @@ organisation: _organisations/design-code.md
 level: Intermediate
 tool: _tools/framer.md
 qualification: Unaccredited
-course-type: _course-types/short-courses.md
-date: 2020-09-01 12:51:08 +0100
+course-type: _course-types/short-course.md
+date: 2020-09-01T12:51:08.000+01:00
 title: Design and code in Framer X
 description: Create powerful design and code components for your app and design system.
 category:
