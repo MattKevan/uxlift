@@ -1,6 +1,6 @@
 ---
 date: 2019-09-02T18:14:16.000+01:00
-title: High-Fi Prototyping with ProtoPie
+title: Advanced Prototyping with ProtoPie
 description: A free course to quickly prototype advanced animations and interactions
   for mobile and Web.
 link: https://designcode.io/protopie
