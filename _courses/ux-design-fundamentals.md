@@ -3,7 +3,7 @@ category:
 - UX design
 organisation: _organisations/coursera.md
 qualification: Diploma
-course-type: _course-types/bootcamp.md
+course-type: _course-types/short-course.md
 title: UX Design Fundamentals
 description: 'This hands-on course examines how content is organized and structured
   to create an experience for a user, and what role the designer plays in creating
