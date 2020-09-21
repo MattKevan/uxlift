@@ -13,6 +13,6 @@ category:
 - Wireframing
 type: Article
 preview: ''
-organisation: _publications/ux-mastery.md
+organisation: _organisations/ux-mastery.md
 
 ---

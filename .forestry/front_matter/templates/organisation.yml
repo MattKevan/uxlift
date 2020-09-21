@@ -1,0 +1,43 @@
+---
+label: Organisation
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Title
+- type: datetime
+  name: date
+  label: Date
+  hidden: true
+  default: now
+- name: location
+  type: list
+  config:
+    use_select: true
+    min: 
+    max: 
+    source:
+      type: documents
+      section: data
+      file: _data/categories.yml
+      path: location
+  label: Location
+- type: textarea
+  name: description
+  label: Description
+- type: file
+  name: image
+  label: Image
+- type: text
+  name: link
+  label: Link
+- type: list
+  name: org-type
+  label: Organisation type
+  config:
+    use_select: true
+    source:
+      type: pages
+      section: organisation-types
+pages:
+- _organisations/uxmentor.me.md

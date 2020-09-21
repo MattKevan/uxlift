@@ -5,6 +5,10 @@ fields:
 - type: text
   name: title
   label: Title
+- type: datetime
+  name: date
+  label: Date
+  default: now
 - name: description
   type: textarea
   default: ''
@@ -14,24 +18,6 @@ fields:
     schema:
       format: markdown
   label: Description
-- type: text
-  name: link
-  label: Link
-  config:
-    required: true
-- type: text
-  name: site
-  label: Site
-  description: The name of the site the content came from
-- type: datetime
-  name: date
-  label: Date
-  default: now
-- name: image
-  type: file
-  config:
-    maxSize: 64
-  label: Image
 - type: list
   name: category
   label: Categories
@@ -42,6 +28,23 @@ fields:
       section: data
       file: _data/categories.yml
       path: category
+- type: text
+  name: link
+  label: Link
+  config:
+    required: true
+- name: organisation
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: organisations
+      file: 
+      path: 
+  label: Site
 - name: type
   type: select
   default: ''
@@ -61,23 +64,11 @@ fields:
     required: false
     options: []
     source:
-      type: documents
-      section: data
+      type: pages
+      section: tools
       file: _data/categories.yml
       path: tool
   label: Tool
-- name: organisation
-  type: select
-  default: []
-  config:
-    required: false
-    options: []
-    source:
-      type: pages
-      section: ''
-      file: 
-      path: 
-  label: Site reference
 pages:
 - _topics/10-tips-on-making-magic-with-writers.md
 - _topics/10-tips-on-using-components-in-figma.md
