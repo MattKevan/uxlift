@@ -1,16 +1,21 @@
 ---
-category: UX design
+category:
+- UX design
 course: Short course
 title: 'Mobile Interaction Design: How to Design Usable Mobile Products and Services'
 description: This course will teach you to shape mobile products and services for
   people’s use.
 link: https://www.coursera.org/learn/mobile-interaction-design
-qualification: Short course
+qualification: Certificate of completion
 cost: From free
 organisation: _organisations/coursera.md
-course-type: _course-types/short-courses.md
+course-type: _course-types/short-course.md
 length: "~117 hours"
-date: 2020-08-26 09:51:34 +0100
+date: 2020-08-26T09:51:34.000+01:00
+location: []
+level: ''
+tool: ''
+
 ---
 Every mobile app gives you something. It could be not only something tangible like the pair of jeans you've ordered using the app but also a piece of work like waking you up in the morning. It could be a feeling, for instance, a feeling of enjoyment obtained from watching a video clip or a feeling of closeness flashed out after receiving an old photo from a loving person via some instant messenger. That 'something' is actually the reason why you use the app, it is the heart of the product, and in this course we will not talk about it. Surprised? You shouldn’t be. There are always two sides of a coin. There should be a person who makes that 'something' accessible. It is astonishingly important because the use of the product loses its meaning if users can’t get what they want.
 
