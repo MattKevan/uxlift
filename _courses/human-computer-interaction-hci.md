@@ -3,7 +3,7 @@ organisation: _organisations/interaction-design-foundation.md
 level: Beginner
 tool: []
 qualification: Certificate of completion
-course-type: []
+course-type: _course-types/short-course.md
 date: 2020-09-21 10:36:07 +0100
 title: Human-Computer Interaction - HCI
 description: 'This course provides a comprehensive introduction and deep dive into
