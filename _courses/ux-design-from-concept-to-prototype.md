@@ -4,14 +4,15 @@ title: 'UX Design: From Concept to Prototype'
 description: Great design doesn’t come out of nowhere; it is born, nurtured, and grown
   – all through a systematic, learnable process.
 link: https://www.coursera.org/learn/ux-design-concept-wireframe
-qualification: Certificate
+qualification: Certificate of completion
 cost: From free
 length: "~20 hours"
-course-type: _course-types/short-courses.md
+course-type: _course-types/short-course.md
 organisation: _organisations/coursera.md
 location:
 - Online
-date: 2020-08-26 09:58:34 +0100
+date: 2020-08-26T09:58:34.000+01:00
+
 ---
 In this UX course, you will explore the process of taking a basic concept, grounded in user needs, and developing it into a design that will address those needs. 
 
