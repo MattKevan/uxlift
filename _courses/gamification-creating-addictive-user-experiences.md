@@ -5,31 +5,30 @@ qualification: Certificate of completion
 course-type: _course-types/short-course.md
 date: 2020-08-27T14:29:52.000+01:00
 title: 'Gamification: creating addictive user experiences'
-description: In this course, we will explore the ins and outs of UX maturity by looking
-  at the way your organization is structured and developed.
+description: This course is designed to give you the confidence and skills to undertake
+  gamification design projects.
 category:
-- UX strategy
-- UX leadership
+- Optimisation
+- User engagement
 location:
 - Online
-link: https://www.interaction-design.org/courses/ux-management-strategy-and-tactics
-length: 8 hours over six weeks
+link: https://www.interaction-design.org/courses/gamification-creating-addictive-user-experience
+length: 18 hours over 10 weeks
 cost: "£144/yr or £30/month"
 tool: ''
-published: false
 
 ---
 ### What you’ll learn
 
-* How to hire for, position, and empower a UX team effectively
-* Best practices to manage and support a UX designer and wider UX team
-* How management of UX professionals directly affects ROI—both positively and negatively
-* What your UX team should be doing in order to grow your UX efforts across the organization
-* Why it’s important that your senior management team gets educated on, and possibly involved in, UX
-* UX management best practices, from interviews and case studies with experts.
+* The power of gamification and how it can increase user engagement and fulfilment
+* Why and how gamification is not the same as game design
+* How to create player experiences that drive business missions
+* How to manage, monitor, and measure of the impact of gamification work
+* How to ensure that your gamification projects produce work which is legally compliant and ethically sound
+* Examples of gamification projects in enterprise settings, so that you can better explain the benefits of gamification to corporate sponsors and decision makers.
 
-In this course, we will explore the ins and outs of UX maturity by looking at the way your organization is structured and developed. We will give you the chance to grasp UX management as not just a people issue but also a design methodology… **all so that you can manage UX as a smart leader, and get the very best from the UX professionals you work with**. Even if you’re currently a more junior UX, UI or interaction designer, the strategies you will learn in this course will enable you to truly realize the value that your work will provide to your organization.
+Gamification, the process of adding game-like elements to real-world or productive activities, is a growing market. By making a product or service fit into the lives of users, and doing so in an engaging manner, gamification promises to create unique, competition-beating experiences that deliver immense value. In fact, TechSci Research estimates that the global gamification industry will grow to reach $40 billion by 2024.
 
-You will be taught by Frank Spillers, CEO of the award-winning UX firm Experience Dynamics. By taking this course, you’ll leverage his experience from two decades of working with enterprise, midsize and start-up companies across a wide range of industries. Given that, you will be able to learn from, and avoid, the mistakes he’s come across, and apply the best practices he’s developed over time in order to move towards managing your UX team in an optimal way.
+Venture capitalists, industry analysts, and academics alike see gamification as an industry with huge growth potential. It is transforming business models by creating new ways to ensure longer-term engagement, extending relationships, and driving customer and employee loyalty. As it’s a young industry, it should be easier to get a foot in the door with gamification companies. With demand for experienced designers far outstripping supply, businesses are going to be keen to take a chance on less-experienced but well-qualified designers.
 
-The course also includes interviews with experts—including a UX Director, Chief Experience Officer, Product Manager, and User Research Director. These will give you another practical opportunity to learn from people who are highly experienced in managing UX across organizations. All of this means that you will learn how an Outside-In design approach operates, and what it looks and feels like in practice—be it from a product management, executive or stakeholder perspective. Upon completing the course, you will have the knowledge required to avoid unnecessary growing pains, and ultimately accelerate your company’s UX maturity so that you win sooner and enjoy a more consistently high level of performance within the market.
+This course is designed to give you the confidence and skills to undertake gamification design projects. It contains all you need to know about player-centered design and the skills that enable it. It has been developed by Janaki Kumar of SAP, one of the world’s foremost authorities on gamification in an enterprise context.
