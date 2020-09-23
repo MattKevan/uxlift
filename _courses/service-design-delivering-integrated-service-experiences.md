@@ -8,7 +8,7 @@ title: 'Service design: delivering integrated service experiences'
 description: Learn how to go through a robust service design process and which methods
   to use at each step along the way.
 category:
-- UX design
+- Service design
 location:
 - Online
 link: https://www.interaction-design.org/courses/service-design-delivering-integrated-service-experiences
