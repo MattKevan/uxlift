@@ -8,6 +8,7 @@ title: 'Psychology of interaction design: the ultimate guide'
 description: This course will equip you with the knowledge to relate to your users
   psychologically, thus allowing you to create stand-out products.
 category:
+- Psychology
 - Interaction design
 location:
 - Online
