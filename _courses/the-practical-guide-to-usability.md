@@ -7,7 +7,8 @@ date: 2020-08-27T14:29:52.000+01:00
 title: The practical guide to usability
 description: Turn your good intentions into great products through a mixture of teaching
   both the theoretical guidelines as well as practical applications surrounding usability.
-category: []
+category:
+- Usability
 location:
 - Online
 link: https://www.interaction-design.org/courses/the-practical-guide-to-usability
