@@ -1,0 +1,21 @@
+<div class="col-12 col-sm-6 col-lg-4 grid-item mb-3 mt-3 all">
+	<div class="card h-100">
+		<div class="grid-content">
+
+			<h5><a href="{{ item.url }}">{{ item.title }}</a></h5>	      
+
+			<p>{{ item.description }}</p>
+
+			{% if item.category %}
+			    <p class="tags xs">
+			    
+				    {% for cat in item.category %}
+						<span>{{ cat }}</span>
+					{% endfor %}
+
+				</p>
+			{% endif %}
+
+		</div>
+	</div>
+</div>

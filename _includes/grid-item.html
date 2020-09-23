@@ -8,14 +8,6 @@
 	<div class="card h-100">
 		<div class="grid-content">
 
-			{% if item.course-type %}
-				{% for type in site.course-types %}
-					{% if type.path == item.course-type%}
-						<p class="weblink s"><a href="{{ type.url }}">{{ type.title }}</a></p>
-					{% endif%}
-				{% endfor %}
-			{% endif %}
-
 			{% if item.image %}
 				{% if item.image != "" %}
 					<a href="{{ item.url }}" target="_blank">
@@ -61,6 +53,14 @@
 			
 			{% if item.category %}
 			    <p class="tags xs">
+			    	{% if item.course-type %}
+						{% for type in site.course-types %}
+							{% if type.path == item.course-type%}
+								<span><a href="{{ type.url }}">{{ type.title }}</a></span>
+							{% endif%}
+						{% endfor %}
+					{% endif %}
+
 				    {% if item.course %}
 						<span>{{ item.course }}</span>
 					{% endif %}

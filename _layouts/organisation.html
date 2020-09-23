@@ -58,10 +58,11 @@ layout: default
 {% assign sorted_items = site.courses | sort:'title' %}
 {% for item in sorted_items %}
 	{% if item.organisation == page.path %}
-		{% include grid-item.html %}
+		{% include grid-item-small.html %}
 	{% endif %}
 {% endfor %}
 </div>
+<p><a href="/courses">See all courses »</a></p>
 {% endif %}
 
 	
