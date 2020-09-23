@@ -1,18 +1,18 @@
 ---
 organisation: _organisations/interaction-design-foundation.md
-level: Beginner
+level: Intermediate
 qualification: Certificate of completion
 course-type: _course-types/short-course.md
 date: 2020-08-27T14:29:52.000+01:00
 title: How to become a freelance designer
-description: Turn your good intentions into great products through a mixture of teaching
-  both the theoretical guidelines as well as practical applications surrounding usability.
+description: 'This course will show you how to create a freelance business from scratch—from
+  overcoming your fears, to the practicalities of making a brand name of yourself. '
 category:
-- Usability
+- UX design
 location:
 - Online
-link: https://www.interaction-design.org/courses/the-practical-guide-to-usability
-length: 18 hours over eight weeks
+link: https://www.interaction-design.org/courses/how-to-become-a-freelance-designer
+length: 18 hours over seven weeks
 cost: "£144/yr or £30/month"
 tool: ''
 published: false
@@ -20,14 +20,14 @@ published: false
 ---
 ### What you’ll learn
 
-* Why usability matters, and what the key user interface design principles and usability considerations are
-* How to best position yourself as the user in order to spot usability problems
-* How to test the usability of a design through usability evaluations and cognitive walk-throughs
-* Best practices for conducting user testing
-* How to practically apply usability into your daily design work.
+* Whether freelancing or entrepreneurship is for you
+* How to set up a successful freelance business
+* How to market and sell your business services effectively
+* How to handle all the day-to-day management of a freelancer’s and entrepreneur’s practice.
+* 
 
-Every product or website should be easy and pleasurable to use, but designing an effective, efficient and enjoyable product is hardly the result of good intentions alone. Only through careful execution of certain usability principles can you achieve this and avoid user dissatisfaction, too. This course is designed to help you turn your good intentions into great products through a mixture of teaching both the theoretical guidelines as well as practical applications surrounding usability.
+Freelancers and entrepreneurs often get to choose where they work. By redefining the way you work, you can also redesign the way you live. **Once you have the contracts, you can set up wherever you have your heart set on—be it Prague, Delhi, Koh Phangan, Cape Town, or Rio, to name just a few.**It doesn’t matter if you don’t have a ton of savings in the bank—tens of thousands of other freelancers built their freelance businesses from nothing. The founders of the Interaction Design Foundation can attest to this—Mads Soegaard and Rikke Friis Dam built the platform while living in low-cost countries, traveling the world as digital nomads as soon as the internet would allow them to. This enabled them to focus on creating high-quality educational content while having low expenses. It’s an ingenious way of having the best of both worlds (freedom of work _and_ seeing the world), all while keeping the wolves away from the door money-wise. In fact, most of our employees and loyal freelancers now live and work as dedicated and hardworking digital nomads all over the world.
 
-Countless pieces of research have shown that usability is important in product choice, but perhaps not as much as users themselves believe; it may be the case that people have come to _expect_ usability in their products. This growing expectation puts even more pressure on designers to find the sweet spot between function and form. It is meanwhile critical that product and web developers retain their focus on the user; getting too lost within the depths of their creation could lead to the users and their usability needs getting waylaid. Through the knowledge of how best to position yourself _as_the user, you can dodge this hazard. Thanks to that wisdom, your product will end up with such good usability that the latter goes unnoticed!
+**This course will show you how to create a freelance business from scratch—from overcoming your fears, to the practicalities of making a brand name of yourself.** We will share knowledge regarding how you can start your own design agency or start working as a freelancer from pretty much anywhere, at any time. You will be able to live the life of your dreams while providing high-quality services and products for the benefit of your clients. We will introduce you to the best and most relevant research, as well as ideas and best practices, derived from others who were once in your shoes but who are now living and working the way they always wanted to.
 
-Ultimately, a usable website or product that nobody can access isn’t really usable. A usable website, for example, is often overlooked when considering the expansion of a business. Even with the grandest intentions or most “revolutionary” notions, the hard truth is that a usable site will always be the windpipe of commerce—if users can’t spend enough time on the site to _buy_ something, then the business will not survive. Usability is key to growth, user retention, and satisfaction. So, we must fully incorporate it into anything we design. Learn how to design products with awesome usability through being led through the most important concepts, methods, best practices, and theories from some of the most successful designers in our industry with “The Practical Guide to Usability.”
+This course is created and presented by one of the founders of the Interaction Design Foundation, Rikke Friis Dam. Rikke is Editor-in-Chief and in charge of our educational profile. She hires and works closely with highly skilled freelancers and entrepreneurs on a daily basis. So, what are you waiting for? There’s no reason for you to sit in an office, counting down the clock and taking orders unless you truly want to live like that. Your clients can be based anywhere on Earth, and so can you; it’s time to quit dreaming and start _doing_.
