@@ -5,28 +5,30 @@ qualification: Certificate of completion
 course-type: _course-types/short-course.md
 date: 2020-08-27T14:29:52.000+01:00
 title: 'Get your product used: adoption and appropriation'
-description: This course explores how we can improve designs to support human vision
-  better and improve usability as a direct result.
+description: Master the concepts and practice of designing for adoption and appropriation,
+  blending theory and practice to ensure you get to grips with these essential design
+  processes.
 category:
-- Visual design
+- Product management
 location:
 - Online
 link: https://www.interaction-design.org/courses/the-ultimate-guide-to-visual-perception-and-design
-length: 13 hours over five weeks
+length: 12 hours over two weeks
 cost: "£144/yr or £30/month"
 tool: ''
-published: false
 
 ---
 ### What you’ll learn
 
-* How visual perception is formed, based on an understanding of the anatomy of the eye
-* What the theories of human color vision are, as well as important color considerations for your designs
-* How to apply color information to designs
-* How to apply Gestalt principles, such as the law of proximity and the figure/ground organization, so as to create effective designs
-* How imagery, context, and attention form important considerations for all kinds of designs
-* How humans perceive objects, and how to use that knowledge for screen-based interfaces.
+* Why adoption and appropriation matter to a product’s success
+* How to place adoption and appropriation in context with UX and usability work
+* How to engage users to adopt your products by designing for adoption
+* How to design for appropriation of a product by users in order to increase its use, and how “expecting the unexpected” isn’t quite as challenging as it might sound.
 
-Human vision is an amazing ability; we are capable of interpreting our surroundings so as to interact safely and accurately with little conscious effort. However, we are well attuned to nature and things that occur naturally in our environment, which has **significant implications for design**. Unless man-made products are attuned to, and support, human visual perception, the viewing experience suffers and there is significant potential that users will be unable to **use your products quickly, safely, or without error**. For this reason, it is essential that we investigate _how_ we see the world and _why_ we see things in the way we do in order to know _what_ we can do to ensure our products provide the best viewing experience possible. This is why we have developed “The Ultimate Guide to Visual Perception and Design,” and why it is such an important topic for designers to master.
+Designing for user experience and usability is not enough. If products are not used—and it doesn’t matter _how_ good they are—they will be consigned to the trash can of history.
 
-For those of us who are blessed with good eyesight, we seldom consider it. That’s why going off to investigate the whys and hows involved is a little like trying to get behind the wind for the sake of finding the exact spot where it comes from. Happily, getting to the bottom of the phenomena involved in visual perception is a lot less laborious, and perhaps infinitely more fascinating. During the course, we will first cover the basic anatomy of the human eye so as to understand how vision is formed. We will then look at lots of different designs, evaluating each one according to specific aspects of the human visual experience. We will also identify **how we can improve designs** to support human vision better and **improve usability** as a direct result. Using the knowledge it imparts earlier on, this course will then analyze the design of icons in screen-based interfaces.
+Sony’s Betamax, Coca-Cola’s New Coke, Pepsi’s Crystal Pepsi, and McDonald’s Arch Deluxe are among the most famous products which made it into production but failed to wow their audiences, according to Business Insider. In fact, _Harvard Business Review_ dedicated a long piece to “Why most product launches fail”—so it’s not just big brands that aren’t getting their design process right but a lot of businesses and individuals, too.
+
+So, what _is_ the way forward? Well, once you’re sure that the user experience and usability of your product work the way you want them to, you’ve got to get your designs **adopted** by users (i.e., they have to start using them). Ideally, you want them to **appropriate** your designs, too; you want the users to start using your designs in ways you didn’t intend or foresee. How do we get our designs adopted and appropriated? We **_design_** for adoption and appropriation.
+
+This course is presented by Alan Dix, a former professor at Lancaster University in the UK and a world-renowned authority in Human-Computer Interaction. Alan is also the author the university-level textbook “Human-Computer Interaction.” It is a short course designed to help you master the concepts and practice of designing for adoption and appropriation. It contains all the basics to get you started on this path and the practical tips to implement the ideas. Alan blends theory and practice to ensure you get to grips with these essential design processes.
