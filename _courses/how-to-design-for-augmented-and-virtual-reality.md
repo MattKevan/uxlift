@@ -9,27 +9,28 @@ description: Master the concepts and practice of designing for adoption and appr
   blending theory and practice to ensure you get to grips with these essential design
   processes.
 category:
-- Product design
+- Augmented and virtual reality
 location:
 - Online
-link: https://www.interaction-design.org/courses/the-ultimate-guide-to-visual-perception-and-design
-length: 12 hours over two weeks
+link: https://www.interaction-design.org/courses/how-to-design-for-augmented-and-virtual-reality
+length: Eight hours over six weeks
 cost: "£144/yr or £30/month"
 tool: ''
-published: false
 
 ---
 ### What you’ll learn
 
-* Why adoption and appropriation matter to a product’s success
-* How to place adoption and appropriation in context with UX and usability work
-* How to engage users to adopt your products by designing for adoption
-* How to design for appropriation of a product by users in order to increase its use, and how “expecting the unexpected” isn’t quite as challenging as it might sound.
+* How to design for AR and VR from novel and unique perspectives
+* The three keys to designing for this new medium: Storytelling, Imagineering, and Improvisation
+* How to enhance immersion in order to improve your users’ experience
+* How to create 3D personas to improve spatial navigation, layout, and content
+* How to incorporate the brain’s responses to 3D interfaces by taking visual, auditory, and kinesthetic interactions into account
+* Practical tips to avoid known UX problems when designing for AR and VR.
 
-Designing for user experience and usability is not enough. If products are not used—and it doesn’t matter _how_ good they are—they will be consigned to the trash can of history.
+Augmented reality (AR) and virtual reality (VR) are quickly becoming huge areas of technology, with giants like Apple, Microsoft and Google competing to provide the next big AR or VR experience. Statista predicts that the worldwide user base for AR and VR will reach 443 million by 2025, meaning that **it is becoming increasingly important for UX designers to know how to create amazing VR and AR experiences**. Designing for 3D experiences will require completely new ways of thinking about UX design—and the question is, are you well equipped to tackle this new field of design?
 
-Sony’s Betamax, Coca-Cola’s New Coke, Pepsi’s Crystal Pepsi, and McDonald’s Arch Deluxe are among the most famous products which made it into production but failed to wow their audiences, according to Business Insider. In fact, _Harvard Business Review_ dedicated a long piece to “Why most product launches fail”—so it’s not just big brands that aren’t getting their design process right but a lot of businesses and individuals, too.
+The good news is that while AR and VR hardware and software is changing dramatically, UX principles and techniques for 3D interaction design will remain consistent. It’s just that new opportunities and sensitivities will present themselves to designers and developers. This course will give you the 3D UX skills to remain relevant in the next decade and beyond. **You’ll be able to create immersive experiences that tap into the novel opportunities that AR and VR generate**. For example, you will need to bring together key UX concepts such as emotional design, social UX, and gamification in order to create an immersive AR or VR creation.
 
-So, what _is_ the way forward? Well, once you’re sure that the user experience and usability of your product work the way you want them to, you’ve got to get your designs **adopted** by users (i.e., they have to start using them). Ideally, you want them to **appropriate** your designs, too; you want the users to start using your designs in ways you didn’t intend or foresee. How do we get our designs adopted and appropriated? We **_design_** for adoption and appropriation.
+AR and VR need to be easy to use in order to provide users with experiences that wow. Avoiding common usability mistakes and applying the principles of storytelling will help you carefully craft 3D experiences that delight, intrigue, amuse, and most of all evoke the response you intended. You’ll need to engage users in first-person narratives by making use of spatially dynamic UI’s, including gaze, gesture, movement, speech, and sound—often used in combination.
 
-This course is presented by Alan Dix, a former professor at Lancaster University in the UK and a world-renowned authority in Human-Computer Interaction. Alan is also the author the university-level textbook “Human-Computer Interaction.” It is a short course designed to help you master the concepts and practice of designing for adoption and appropriation. It contains all the basics to get you started on this path and the practical tips to implement the ideas. Alan blends theory and practice to ensure you get to grips with these essential design processes.
+During the course, you will come across **many examples and case studies from spatial and holographic interface designers**. You will master how to create immersive 3D content for AR and VR that provides rich user experiences. The course offers exercises and challenges throughout, all aimed at helping you and/or your team practice your emerging or existing AR/VR skills. You will be taught by Frank Spillers, who is a distinguished speaker, author, and internationally respected senior usability practitioner with over 15 years of experience in the field.
