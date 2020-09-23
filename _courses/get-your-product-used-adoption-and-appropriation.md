@@ -9,7 +9,7 @@ description: Master the concepts and practice of designing for adoption and appr
   blending theory and practice to ensure you get to grips with these essential design
   processes.
 category:
-- Product management
+- Product design
 location:
 - Online
 link: https://www.interaction-design.org/courses/the-ultimate-guide-to-visual-perception-and-design
