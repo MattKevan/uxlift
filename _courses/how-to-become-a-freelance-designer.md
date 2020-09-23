@@ -8,7 +8,7 @@ title: How to become a freelance designer
 description: 'This course will show you how to create a freelance business from scratch—from
   overcoming your fears, to the practicalities of making a brand name of yourself. '
 category:
-- UX design
+- UX careers
 location:
 - Online
 link: https://www.interaction-design.org/courses/how-to-become-a-freelance-designer
