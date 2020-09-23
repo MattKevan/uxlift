@@ -5,9 +5,8 @@ qualification: Certificate of completion
 course-type: _course-types/short-course.md
 date: 2020-08-27T14:29:52.000+01:00
 title: How to design for augmented and virtual reality
-description: Master the concepts and practice of designing for adoption and appropriation,
-  blending theory and practice to ensure you get to grips with these essential design
-  processes.
+description: Master how to create immersive 3D content for AR and VR that provides
+  rich user experiences
 category:
 - Augmented and virtual reality
 location:
