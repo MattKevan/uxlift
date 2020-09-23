@@ -5,30 +5,30 @@ qualification: Certificate of completion
 course-type: _course-types/short-course.md
 date: 2020-08-27T14:29:52.000+01:00
 title: 'Service design: delivering integrated service experiences'
-description: Hands-on experience with all stages of a usability test project—how to
-  plan, run, analyze and report on usability tests.
+description: Learn how to go through a robust service design process and which methods
+  to use at each step along the way.
 category:
-- User testing
+- UX design
 location:
 - Online
-link: https://www.interaction-design.org/courses/conducting-usability-testing
-length: Five hours over three weeks
+link: https://www.interaction-design.org/courses/service-design-delivering-integrated-service-experiences
+length: 11 hours over six weeks
 cost: "£144/yr or £30/month"
 tool: ''
-published: false
 
 ---
 ### What you’ll learn
 
-* How to conduct effective usability testing
-* How to configure a usability test and set test goals
-* How to build a usability test plan using best practices
-* How to carry out a usability test smoothly and effectively by avoiding common mistakes
-* How to report on your usability test observations
-* Best practice tips for running usability tests.
+* What Service Design is, where it came from and how it compares to User Experience (UX) design and Customer Experience (CX) design
+* What a Service Design process looks like and how to use it to create great service experiences
+* How the scope of Service Design encompasses customer interactions as well as behind-the-scenes business operations, and multiple delivery channels
+* What the most useful Service Design methods and approaches are, how to do them and how to avoid the most common mistakes, all with the help of examples, explanatory videos, templates and step-by-step guides
+* How to transition your career from UX Design to Service Design
+* How to build a Service Design team and then increase its skills and maturity in your organization
+* How to tackle Service Design in an agile or lean organization.
 
-reat usability is one of the key factors to keep your users engaged and satisfied with your website or app. It is _crucial_ you continually undertake usability testing and perceive it as a core part of your development process if you want to **prevent abandonment and dissatisfaction.** This is especially important when 79% of users will abandon a website if the usability is poor, according to Google! As a designer, you also have another vital duty—you need to take the time to step back, place the _user_ at the center of the development process and evaluate any underlying assumptions. It’s not the easiest thing to achieve, particularly when you’re in a product bubble, and that makes usability testing even _more_ important. You need to ensure your users aren’t left behind!
+In a service design process, you use an in-depth understanding of the business and its customers to ensure that **all the touchpoints of your service are perfect** and, just as importantly, that your organization can **deliver a great service experience every time**. It’s not just about designing the customer interactions; you also need to design the entire ecosystem surrounding those interactions.
 
-As with most things in life, the best way to become good at usability testing is to practice! That’s why this course contains not only lessons built on evidence-based approaches, but also a **_practical_ project**. This will give you the opportunity to **apply what you’ve learned** from internationally respected Senior Usability practitioner, Frank Spillers, and **carry out your own usability tests**.
+In this course, you’ll learn how to go through **a robust service design process** and which methods to use at each step along the way. You’ll also learn how to **create a service design culture** in your organization and **set up a service design team**. We’ll provide you with **lots of case studies** to learn from as well as **interviews with top designers** in the field. For each practical method, you’ll get **downloadable templates that guide you** on how to use the methods in your own work.
 
-By the end of the course, you’ll have **hands-on experience** with all stages of a usability test project—**how to plan, run, analyze _and_ report on usability tests**. You can even use the work you create during the practical project to form a **case study for your portfolio,** to showcase your usability test skills and experience to future employers!
+This course contains a series of **practical exercises that build on one another to create a complete service design project**. The exercises are optional, but you’ll get invaluable hands-on experience with the methods you encounter in this course if you complete them, because they will teach you to take your first steps as a service designer. What’s equally important is that you can use your work as a case study for your **portfolio to showcase your abilities** to future employers! A portfolio is essential if you want to step into or move ahead in a career in service design.
