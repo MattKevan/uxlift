@@ -5,31 +5,27 @@ qualification: Certificate of completion
 course-type: _course-types/short-course.md
 date: 2020-08-27T14:29:52.000+01:00
 title: The ultimate guide to visual perception and design
-description: This course merges brain science and computer science in order to teach
-  you the field of Human-Computer Interaction (HCI).
+description: This course explores how we can improve designs to support human vision
+  better and improve usability as a direct result.
 category:
-- Human-computer interaction
-- Interaction design
+- Visual design
 location:
 - Online
-link: https://www.interaction-design.org/courses/the-brain-and-technology-brain-science-in-interface-design
-length: 18 hours over seven weeks
+link: https://www.interaction-design.org/courses/the-ultimate-guide-to-visual-perception-and-design
+length: 13 hours over five weeks
 cost: "£144/yr or £30/month"
 tool: ''
-published: false
 
 ---
 ### What you’ll learn
 
-* Human attention—in particular, how the brain decides what is most important and therefore what we should look at first
-* How to create effective designs, through basing them on how the brain manages and prioritizes the sensory information it receives
-* The link between intuition and the evolution of our brains, as well as how to apply this knowledge so as to build software that engages with human intuition
-* How to compose screens that work visually, by tapping into the brain science behind visual recognition
-* Human recollection, and its implications on designing documents and software that support memory
-* How to create products that cater to the brain’s feedback loop, as well as screen controls that tap into our sense of purpose
-* How to build technology that makes learning easier, thus becoming more successful
-* An understanding of how human and social factors affect technology—including future social and technical evolutions.
+* How visual perception is formed, based on an understanding of the anatomy of the eye
+* What the theories of human color vision are, as well as important color considerations for your designs
+* How to apply color information to designs
+* How to apply Gestalt principles, such as the law of proximity and the figure/ground organization, so as to create effective designs
+* How imagery, context, and attention form important considerations for all kinds of designs
+* How humans perceive objects, and how to use that knowledge for screen-based interfaces.
 
-When people use technology, a biological information processor (i.e., the brain) interacts with a mechanical information processor (i.e., the computer)—and this _interaction_ will fail if there is no common ground. If you, as a designer, miss the mark between these two worlds of natural and artificial intelligence, they will collide jarringly. This course will therefore **merge brain science and computer science** in order to teach you the field of Human-Computer Interaction (HCI). You will **learn optimal approaches todesigning** better software, mobile applications, and websites, including online communities, by learning how to create software that interacts with human _intuitions_. Such knowledge of HCI is now a critical skill—building new hardware and software goods will result in _negative returns on investment_ (ROI) if users can’t or don’t want to use them. **Designers must know the basics of brain science** in order to practice computer science, not only for people but for communities, too.
+Human vision is an amazing ability; we are capable of interpreting our surroundings so as to interact safely and accurately with little conscious effort. However, we are well attuned to nature and things that occur naturally in our environment, which has **significant implications for design**. Unless man-made products are attuned to, and support, human visual perception, the viewing experience suffers and there is significant potential that users will be unable to **use your products quickly, safely, or without error**. For this reason, it is essential that we investigate _how_ we see the world and _why_ we see things in the way we do in order to know _what_ we can do to ensure our products provide the best viewing experience possible. This is why we have developed “The Ultimate Guide to Visual Perception and Design,” and why it is such an important topic for designers to master.
 
-The course is created and presented by Brian Whitworth, a registered psychologist who is also trained in computing and has a wealth of experience and qualifications in both fields: BA (Psych), BSc (Maths), MA (Psych), PhD (IS), and Major (Retd.). Each lesson highlights a particular brain-technology difference and uses it to explain what works—and what doesn’t—when people use technology. Every lesson is further divided into ten-minute video blocks, that you can watch independently, so as to fit your learning experience into a busy schedule.
+For those of us who are blessed with good eyesight, we seldom consider it. That’s why going off to investigate the whys and hows involved is a little like trying to get behind the wind for the sake of finding the exact spot where it comes from. Happily, getting to the bottom of the phenomena involved in visual perception is a lot less laborious, and perhaps infinitely more fascinating. During the course, we will first cover the basic anatomy of the human eye so as to understand how vision is formed. We will then look at lots of different designs, evaluating each one according to specific aspects of the human visual experience. We will also identify **how we can improve designs** to support human vision better and **improve usability** as a direct result. Using the knowledge it imparts earlier on, this course will then analyze the design of icons in screen-based interfaces.
