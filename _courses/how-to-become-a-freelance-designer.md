@@ -15,7 +15,6 @@ link: https://www.interaction-design.org/courses/how-to-become-a-freelance-desig
 length: 18 hours over seven weeks
 cost: "£144/yr or £30/month"
 tool: ''
-published: false
 
 ---
 ### What you’ll learn
