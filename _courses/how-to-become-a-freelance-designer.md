@@ -24,7 +24,6 @@ published: false
 * How to set up a successful freelance business
 * How to market and sell your business services effectively
 * How to handle all the day-to-day management of a freelancer’s and entrepreneur’s practice.
-* 
 
 Freelancers and entrepreneurs often get to choose where they work. By redefining the way you work, you can also redesign the way you live. **Once you have the contracts, you can set up wherever you have your heart set on—be it Prague, Delhi, Koh Phangan, Cape Town, or Rio, to name just a few.**It doesn’t matter if you don’t have a ton of savings in the bank—tens of thousands of other freelancers built their freelance businesses from nothing. The founders of the Interaction Design Foundation can attest to this—Mads Soegaard and Rikke Friis Dam built the platform while living in low-cost countries, traveling the world as digital nomads as soon as the internet would allow them to. This enabled them to focus on creating high-quality educational content while having low expenses. It’s an ingenious way of having the best of both worlds (freedom of work _and_ seeing the world), all while keeping the wolves away from the door money-wise. In fact, most of our employees and loyal freelancers now live and work as dedicated and hardworking digital nomads all over the world.
 
