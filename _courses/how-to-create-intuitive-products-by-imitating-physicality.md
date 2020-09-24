@@ -5,27 +5,29 @@ qualification: Certificate of completion
 course-type: _course-types/short-course.md
 date: 2020-08-27T14:29:52.000+01:00
 title: How to create intuitive products by imitating physicality
-description: This course will equip you with an understanding of how to use Javascript
-  to turn a static webpage into a dynamic one.
+description: In this course you will how to make the use of your product “feel right”
+  and how to incorporate users' existing knowledge within your designs, thereby making
+  your product intuitive.
 category:
-- Web development
+- Usability
 location:
 - Online
-link: https://www.interaction-design.org/courses/dynamic-user-experience-ajax-design-and-usability
-length: Eight hours over eight weeks
+link: https://www.interaction-design.org/courses/how-to-create-intuitive-products-by-imitating-physicality
+length: Four hours over two weeks
 cost: "£144/yr or £30/month"
 tool: ''
-published: false
 
 ---
 ### What you’ll learn
 
-* How to identify and improve static web designs through the use of dynamic web content
-* How to make web pages more interactive without sacrificing usability or accessibility
-* How to design for progressive enhancement and graceful degradation
-* How to employ dynamic designs on touch-screen devices
-* How to give on-screen feedback effectively.
+* What physicality is and how it affects whether a design is intuitive to use
+* How to design with physicality in mind
+* What is regarded as “physical” in time and space
+* How to model devices for natural interactions through physigrams
+* How to use feedback loops to examine and improve your designs.
 
-Web technologies make it easy for websites to become more interactive and behave more like native applications. For instance, content on a website can now be loaded dynamically without the browser having to load or refresh the page. However, mindlessly increasing the interactivity of websites can sometimes damage the user experience rather than improve it. How can a designer make use of dynamic content to improve user experience, while making sure that the website is both usable and accessible?
+The iPhone, iPad, and other successful Apple products are good examples of how digital and physical design can be woven together, namely through taking something complex and making it intuitive. Not only can users transfer the knowledge they have gained from past experiences between products, but they also can do the same with the contexts in which those products are used (Blackler et al). This creates a need for designers to incorporate intuition into their creations; a great user experience—and ensuing product success—is more and more often the result of a perfectly designed combination of digital and physical dimensions.
 
-This course will equip you with an understanding of how the use of Ajax (Asynchronous Javascript and XML) can turn a static webpage into a dynamic one. In particular, we will cover how to use Ajax appropriately, so that you can identify areas of a static webpage that the application of dynamic content can improve. At the same time, this course will teach you how to do so without sacrificing usability and accessibility, and hence achieve the optimal user experience. No technical knowledge of Ajax or coding is required, as this course is more focused on the design, rather than implementation, of dynamic web content. Implementation details are hence mentioned only briefly.
+This trend can be seen in all types of consumer products from toys to washing machines, which are increasingly becoming both digital _and_physical. Terms such as “the internet of things” and “smart cities,” as well as technologies such as wearables and self-driven cars, are examples of how the physical-digital divide is getting smaller. The interface and overall experience design of your product can follow the same approach, with your product able to meet users’ needs through intuition and exploration.
+
+The obvious question for a designer is how to design for this ever-growing market and avoid its pitfalls in the process. You cannot, for example, claim a product is intuitive when it’s not—you will lose people’s trust ahead of your next release. In this course, you will learn how to overcome this by making the use of your product “feel right”; better still, you will learn how to incorporate existing knowledge within your designs, thereby making your product intuitive.
