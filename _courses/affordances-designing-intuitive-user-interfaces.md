@@ -5,29 +5,27 @@ qualification: Certificate of completion
 course-type: _course-types/short-course.md
 date: 2020-08-27T14:29:52.000+01:00
 title: 'Affordances: designing intuitive user interfaces'
-description: Learn how various forms of formal notation and methods can help you catch
-  potentially disastrous problems early in a design process.
+description: 'This course will teach you both the theory of affordances and also how
+  to build instantly perceptible affordances into your own designs. '
 category:
-- Information architecture
+- Interface design
 location:
 - Online
-link: https://www.interaction-design.org/courses/formal-design-methods-formalism-and-design
-length: Seven hours over five weeks
+link: https://www.interaction-design.org/courses/affordances-designing-intuitive-user-interfaces
+length: 15 hours over five weeks
 cost: "£144/yr or £30/month"
 tool: ''
-published: false
 
 ---
 ### What you’ll learn
 
-* An introduction to formal methods, and how formalism can help in design problems
-* A brief history of the development of formalisms (in logic, mathematics, and science)
-* What states are, and what the various kinds of states that can exist in an interactive product are
-* How to model and specify the states of a design in a detailed manner
-* How to use dialogue notation, such as state transition networks, to present the different states in your designs as well as annotate any danger states that might be present.
+* What affordance is, and how to apply it to create intuitive and usable products
+* The role of affordance in Human-Computer Interaction
+* How to distinguish between real and perceived affordances and avoid usability problems in your designs
+* How to use concepts such as visibility, findability, constraints, mapping, feedback, and conceptual models to improve the usability of a product.
 
-Formal methods are usually employed in mathematical and scientific fields, as the preferred way of presenting information. Many mathematical and scientific theories we know today are in fact written in a formal manner. The scientific theory of gravity, for instance, is presented with all variables, parameters, and factors clearly named and defined, and all assumptions explicitly stated. The power of formalism is that it allows a concept, theory, or model to be completely and clearly defined, so anyone who reads it can easily spot any gaps in logic or exceptions to the rule.
+Affordances are a key concept for designers. If you want to build products that are **intuitive** and **easy to use**, fully understanding the relationship between the human mind and technology is crucial. An “affordance” refers to the possibility of an action on an object; for instance, we say that an elevator button affords being pressed, and a chair affords being sat on. The concept was popularized by HCI (human-computer interaction) expert Don Norman in the late 1980s, and it has since played an essential role for user experience professionals and researchers. Understanding this term is essential for anyone who wants to get a deeper appreciation of what it means for a product to be “intuitive.”
 
-When applied to design, formal methods allow designers to flesh out the entire product (e.g., all the states of an app) explicitly and completely. This allows designers to spot potential flaws in the design (e.g., incomplete user flows, links, or buttons that are not defined in the design, etc.) in less time.
+Taking this course will teach you both the theory of affordances and also how to build instantly perceptible affordances into your own designs. Your users should be able to identify the actions afforded by a design with speed and accuracy. Thus, the better you can make your affordances, the more likely you will prevent the user from becoming frustrated (which can happen very quickly). In order to achieve this, you as a designer must appreciate how users perceive the world and how experience, context, culture, constraints and other factors affect our ability to detect the possibilities of actions on offer. This is at the heart of why those interested in a design career and established designers alike must gain a firm grounding in the meaning and potential application of affordances as a designer’s tool.
 
-In this course, you will learn how various forms of formal notation and methods can help you catch potentially disastrous problems early in a design process. Formal design methods will also give you confidence that the delivered systems are both what you intended and as free from major usability flaws as possible. You will also learn how to use formal methods to increase the probability that the developers will deliver precisely the design you intended.
+Throughout the course, we identify the major milestones in the evolution of the term “affordance” and outline how it applies to practical user experience (UX) design. Along the way, we look at the affordances of objects in the real world and screen-based interfaces so as to reinforce the concepts and principles covered in each lesson. You will soon realize how vital a solid grasp of affordances is—the name of the game is to make designs that users can take to naturally and without having to hesitate to ask themselves, “What happens if I do this?”.
