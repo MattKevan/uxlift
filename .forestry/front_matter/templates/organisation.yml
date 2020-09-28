@@ -40,4 +40,5 @@ fields:
       type: pages
       section: organisation-types
 pages:
+- _organisations/northern-user-experience.md
 - _organisations/uxmentor.me.md
