@@ -9,7 +9,9 @@ image: ''
 link: https://contentandux.org
 org-type:
 - _organisation-types/communities.md
-category: []
+category:
+- UX writing
+- Content strategy
 
 ---
 ### Find your people
