@@ -39,5 +39,23 @@ fields:
     source:
       type: pages
       section: organisation-types
+- name: category
+  type: list
+  config:
+    use_select: true
+    min: 
+    max: 
+    source:
+      type: documents
+      section: data
+      file: _data/categories.yml
+      path: category
+  label: Category
 pages:
+- _organisations/content-ux.md
+- _organisations/designer-hangout.md
+- _organisations/hexagon.md
+- _organisations/iterate-ux.md
+- _organisations/mixed-methods.md
+- _organisations/northern-user-experience.md
 - _organisations/uxmentor.me.md

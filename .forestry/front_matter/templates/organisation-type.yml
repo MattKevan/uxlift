@@ -9,4 +9,5 @@ fields:
   name: description
   label: Description
 pages:
+- _organisation-types/communities.md
 - _organisation-types/professional-services.md
