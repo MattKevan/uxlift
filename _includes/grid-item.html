@@ -53,16 +53,18 @@
 			
 			{% if item.category %}
 			    <p class="tags xs">
+			    	
+
 			    	{% if item.course-type %}
 						{% for type in site.course-types %}
 							{% if type.path == item.course-type%}
-								<span><a href="{{ type.url }}">{{ type.title }}</a></span>
+								<span><a href="{{ type.url }}">{{ type.course-type }}</a></span>
 							{% endif%}
 						{% endfor %}
 					{% endif %}
 
-				    {% if item.course %}
-						<span>{{ item.course }}</span>
+				    {% if item.level %}
+						<span>{{ item.level }}</span>
 					{% endif %}
 				    {% for cat in item.category %}
 						<span>{{ cat }}</span>

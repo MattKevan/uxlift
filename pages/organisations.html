@@ -4,15 +4,27 @@ title: Organisations
 permalink: /organisations/
 
 ---
+<h2>Explore organisations</h2>
 
-	<div class="container">
-		<div class="row filter-grid">
-			{% assign sorted_items = site.organisations | sort:'title' %}
-			{% for item in sorted_items %}
-				{% include grid-item.html %}
-			{% endfor %}
+<div class="row">
+	{% assign sorted_items = site.organisation-types | sort:'title' %}
+		{% for item in sorted_items %}
+		<div class="col-6 col-md-3 col-sm-4">
+			<p class="topic-title"><a href="{{ item.url }}">{{ item.title }}</a></p>
 		</div>
-	</div>
+	{% endfor %}
+</div>
+
+<h2>Featured organisations</h2>
+
+
+<div class="row filter-grid">
+	{% assign sorted_items = site.organisations | sort:'title' %}
+	{% for item in sorted_items %}
+		{% include grid-item.html %}
+	{% endfor %}
+</div>
+
 
 
 

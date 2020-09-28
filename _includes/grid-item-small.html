@@ -1,4 +1,11 @@
-<div class="col-12 col-sm-6 col-lg-4 grid-item mb-3 mt-3 all">
+<div class="col-12 col-sm-6 col-lg-4 grid-item mb-3 mt-3 all
+	{% if item.level %}
+		{{ item.level }}
+	{% endif %}
+    {% for cat in item.category %}
+		{{ cat | slugify }} 
+	{% endfor %}
+">
 	<div class="card h-100">
 		<div class="grid-content">
 
@@ -8,7 +15,17 @@
 
 			{% if item.category %}
 			    <p class="tags xs">
-			    
+			    {% if item.course-type %}
+						{% for type in site.course-types %}
+							{% if type.path == item.course-type%}
+								<span><a href="{{ type.url }}">{{ type.course-type }}</a></span>
+							{% endif%}
+						{% endfor %}
+					{% endif %}
+
+				    {% if item.level %}
+						<span>{{ item.level }}</span>
+					{% endif %}
 				    {% for cat in item.category %}
 						<span>{{ cat }}</span>
 					{% endfor %}
