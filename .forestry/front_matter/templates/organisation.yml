@@ -52,6 +52,7 @@ fields:
       path: category
   label: Category
 pages:
+- _organisations/content-ux.md
 - _organisations/designer-hangout.md
 - _organisations/mixed-methods.md
 - _organisations/northern-user-experience.md
