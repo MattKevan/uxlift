@@ -10,6 +10,8 @@ image: "/assets/images/mixed-methods.png"
 link: https://www.mixed-methods.org
 org-type:
 - _organisation-types/communities.md
+category:
+- User research
 
 ---
 Expect to test assumptions, examine methods, and engage in some old fashion At Mixed Methods, we indulge and celebrate curiosity. We aim to provide curated content to anyone interested in the hows and whys of user experience research. 
