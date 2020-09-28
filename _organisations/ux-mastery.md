@@ -9,4 +9,5 @@ source: Publication
 image: "/assets/images/ux-mastery.png"
 org-type: 
 - _organisation-types/publication.md
+date: 2020-08-27T11:59:23.000+01:00
 ---

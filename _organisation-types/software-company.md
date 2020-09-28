@@ -1,4 +1,4 @@
 ---
-title: Software company
+title: Software companies
 description:
 ---

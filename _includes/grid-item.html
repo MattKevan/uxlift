@@ -51,9 +51,13 @@
 				{% endif %}
 			{% endif %}
 			
-			{% if item.category %}
+			
 			    <p class="tags xs">
 			    	
+					
+
+						
+					
 
 			    	{% if item.course-type %}
 						{% for type in site.course-types %}
@@ -66,17 +70,14 @@
 				    {% if item.level %}
 						<span>{{ item.level }}</span>
 					{% endif %}
+					{% if item.category %}
 				    {% for cat in item.category %}
 						<span>{{ cat }}</span>
 					{% endfor %}
-					{% if item.source %}
-						{% for src in item.source %}
-							<span>{{ src }}</span>
-						{% endfor %}
 					{% endif %}
 
 				</p>
-			{% endif %}
+			
 
 		</div>
 	</div>

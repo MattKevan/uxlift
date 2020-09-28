@@ -79,7 +79,7 @@ collections:
     permalink: /organisations/:path/
   organisation-types:
     output: true
-    permalink: /:path
+    permalink: organisations/:path
   people:
     output: true
     permalink: /people/:path
@@ -157,4 +157,4 @@ defaults:
     scope:
       type: organisation-types
     values:
-      layout: default
+      layout: org-listing

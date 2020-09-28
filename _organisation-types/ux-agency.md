@@ -1,4 +1,4 @@
 ---
-title: UX agency
+title: UX agencies
 description:
 ---

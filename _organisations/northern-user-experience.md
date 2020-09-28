@@ -8,7 +8,6 @@ image: "/assets/images/nux.png"
 link: https://nuxuk.org/
 org-type:
 - _organisation-types/communities.md
-
 ---
 ### A bit about NUX
 

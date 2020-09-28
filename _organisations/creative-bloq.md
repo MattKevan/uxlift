@@ -7,6 +7,6 @@ link: https://www.creativebloq.com
 image: "/assets/images/creative-bloq.svg"
 org-type: 
 - _organisation-types/publication.md
-
+date: 2020-08-27T11:59:23.000+01:00
 ---
 We bring the very best creative work to our audience and offer the insight that enables them to keep up to date with the latest trends and developments in global design and to create their best work.
