@@ -53,6 +53,7 @@ fields:
   label: Category
 pages:
 - _organisations/content-ux.md
+- _organisations/design-buddies.md
 - _organisations/designer-hangout.md
 - _organisations/hexagon.md
 - _organisations/iterate-ux.md
