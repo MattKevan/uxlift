@@ -54,11 +54,17 @@
 			
 			    <p class="tags xs">
 			    	
-					
+					{% if item.org-type%}
 
-						
+				    	{% for org in site.organisation-types %}
+				    		{% for type-path in item.org-type %}
+					    		{% if  org.path == type-path %}
+									<span><a href="{{ org.url }}">{{ org.short-title }}</a></span>
+					    		{% endif [%}
+							{% endfor %}
+				    	{% endfor %}
+					{% endif %}
 					
-
 			    	{% if item.course-type %}
 						{% for type in site.course-types %}
 							{% if type.path == item.course-type%}
@@ -70,10 +76,11 @@
 				    {% if item.level %}
 						<span>{{ item.level }}</span>
 					{% endif %}
+					
 					{% if item.category %}
-				    {% for cat in item.category %}
-						<span>{{ cat }}</span>
-					{% endfor %}
+					    {% for cat in item.category %}
+							<span>{{ cat }}</span>
+						{% endfor %}
 					{% endif %}
 
 				</p>

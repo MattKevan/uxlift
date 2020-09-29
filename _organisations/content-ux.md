@@ -7,8 +7,7 @@ description: A community of professionals celebrating content strategy, content 
   and its role in the user experience.
 image: ''
 link: https://contentandux.org
-org-type:
-- _organisation-types/communities.md
+org-type: _organisation-types/communities.md
 category:
 - UX writing
 - Content strategy

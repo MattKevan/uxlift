@@ -76,10 +76,10 @@ collections:
     permalink: /courses/:path/
   organisations:
     output: true
-    permalink: /organisations/:path/
+    permalink: /directory/:path/
   organisation-types:
     output: true
-    permalink: organisations/:path
+    permalink: directory/:path
   people:
     output: true
     permalink: /people/:path
