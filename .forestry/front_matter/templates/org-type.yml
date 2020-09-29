@@ -1,0 +1,19 @@
+---
+label: Org type
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: text
+  name: description
+  label: Description
+- type: text
+  name: short-title
+  label: Short title
+  config:
+    required: true
+pages:
+- _organisation-types/jobs-boards.md
