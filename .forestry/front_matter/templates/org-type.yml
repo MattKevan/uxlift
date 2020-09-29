@@ -1,0 +1,13 @@
+---
+label: Org type
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+- type: text
+  name: short-title
+  label: short-title
