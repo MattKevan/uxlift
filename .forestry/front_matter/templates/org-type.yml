@@ -16,5 +16,4 @@ fields:
   config:
     required: true
 pages:
-- _organisation-types/conferences.md
 - _organisation-types/jobs-boards.md
