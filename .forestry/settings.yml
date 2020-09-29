@@ -59,7 +59,7 @@ sections:
 - type: directory
   path: _organisations
   label: Organisations
-  create: all
+  create: documents
   match: "**/*"
   templates:
   - organisation
@@ -68,6 +68,8 @@ sections:
   label: Organisation types
   create: documents
   match: "**/*"
+  templates:
+  - org-type
 - type: directory
   path: _plugin
   label: Plugins
