@@ -2,7 +2,7 @@
 date: 2020-09-29 13:10:07 +0100
 title: User Experience Professionals Association
 location:
-- Online
+- Global
 description: Supporting people who research, design, and evaluate the user experience
   (UX) of products and services.
 image: "/assets/images/uxpa.png"
