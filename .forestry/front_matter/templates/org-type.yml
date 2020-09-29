@@ -15,3 +15,5 @@ fields:
   label: Short title
   config:
     required: true
+pages:
+- _organisation-types/jobs-boards.md
