@@ -11,5 +11,5 @@ link: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 type: Article
 date: 2019-09-03T23:00:00.000+00:00
 image: "/assets/images/csstricks.png"
-organisation: _publications/css-tricks.md
+organisation: _organisations/css-tricks.md
 ---

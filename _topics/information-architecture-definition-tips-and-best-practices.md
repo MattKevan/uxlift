@@ -12,5 +12,5 @@ category:
 - Information architecture
 type: Article
 preview: ''
-organisation: _publications/inside-design-by-invision.md
+organisation: _organisations/inside-design-by-invision.md
 ---

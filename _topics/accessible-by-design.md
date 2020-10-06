@@ -12,5 +12,5 @@ category:
 - Accessibility
 type: Article
 preview: ''
-organisation: _publications/prototypr.md
+organisation: _organisations/prototypr.md
 ---

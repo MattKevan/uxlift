@@ -11,5 +11,5 @@ type: Article
 date: 2016-01-03T00:00:00.000+00:00
 preview: ''
 image: "/assets/images/nielsen.png"
-organisation: _publications/nielsen-norman.md
+organisation: _organisations/nielsen-norman.md
 ---

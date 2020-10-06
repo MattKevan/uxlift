@@ -11,5 +11,5 @@ type: Article
 date: 2019-08-06T23:00:00.000+00:00
 preview: ''
 image: "/assets/images/dropboxdesign.png"
-organisation: _teams/dropbox-design.md
+organisation: _organisations/dropbox-design.md
 ---

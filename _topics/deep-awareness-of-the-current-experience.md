@@ -14,5 +14,5 @@ category:
 - UX strategy
 type: Article
 preview: ''
-organisation: _publications/uie.md
+organisation: _organisations/uie.md
 ---

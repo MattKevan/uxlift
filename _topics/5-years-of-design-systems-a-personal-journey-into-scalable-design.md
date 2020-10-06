@@ -10,5 +10,5 @@ type: Article
 date: 2017-07-13T23:00:00.000+00:00
 preview: ''
 image: "/assets/images/designsketch.png"
-organisation: _publications/design-sketch.md
+organisation: _organisations/design-sketch.md
 ---

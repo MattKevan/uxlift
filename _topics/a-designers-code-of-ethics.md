@@ -8,5 +8,5 @@ description: By choosing to be a designer you are choosing to impact the people 
 site: Dear Design Student
 type: Article
 date: 2016-07-06 00:00:00 +0100
-organisation: _publications/dear-design-student.md
+organisation: _organisations/dear-design-student.md
 ---

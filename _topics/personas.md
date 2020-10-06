@@ -10,5 +10,5 @@ site: Usability.gov
 type: Article
 date: 2013-09-10 00:00:00 +0100
 image: "/assets/images/usabilitygov-1.png"
-organisation: _publications/usability-gov.md
+organisation: _organisations/usability-gov.md
 ---

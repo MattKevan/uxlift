@@ -12,5 +12,5 @@ category:
 - Communication
 type: Article
 preview: ''
-organisation: _publications/thoughtworks.md
+organisation: _organisations/thoughtworks.md
 ---

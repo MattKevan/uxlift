@@ -12,5 +12,5 @@ category:
 - Design ethics
 type: Article
 preview: ''
-organisation: _publications/smashing-magazine.md
+organisation: _organisations/smashing-magazine.md
 ---

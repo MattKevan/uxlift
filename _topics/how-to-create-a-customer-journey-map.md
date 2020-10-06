@@ -13,5 +13,5 @@ tags:
 type: Article
 date: 2014-09-16 00:00:00 +0100
 image: "/assets/images/uxmastery.com.png"
-
+organisation: _organisations/ux-mastery.md
 ---

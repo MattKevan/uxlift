@@ -12,5 +12,5 @@ site: Dropbox Design
 type: Article
 image: "/assets/images/dropboxdesign.png"
 date: 2019-04-02 00:00:00 +0100
-organisation: _publications/dropbox-design.md
+organisation: _organisations/dropbox-design.md
 ---

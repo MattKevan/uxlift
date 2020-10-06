@@ -11,5 +11,5 @@ category:
 - Design patterns
 type: Article
 preview: ''
-organisation: _publications/princeton-webtap.md
+organisation: _organisations/princeton-webtap.md
 ---

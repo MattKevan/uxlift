@@ -1,7 +1,7 @@
 ---
 date: 2020-06-29 09:25:50 +0100
 tool: ''
-organisation: _publications/matthew-ström.md
+organisation: _organisations/matthew-ström.md
 title: Know Thyself
 description: Tools for designers to to apply in their everyday work to make more ethically
   aware decisions.
@@ -11,5 +11,5 @@ image: ''
 category:
 - Design ethics
 type: Article
-organisation: _publications/matthew-ström.md
+organisation: _organisations/matthew-ström.md
 ---

@@ -11,5 +11,5 @@ category:
 - Analytics
 type: Article
 preview: ''
-organisation: _publications/ux-booth.md
+organisation: _organisations/ux-booth.md
 ---

@@ -11,5 +11,5 @@ link: https://www.abstract.com/blog/design-system-buy-in/
 site: Abstract
 type: Article
 image: "/assets/images/abstract.png"
-organisation: _publications/abstract.md
+organisation: _organisations/abstract.md
 ---

@@ -10,7 +10,7 @@ category:
 - UX writing
 type: Article
 preview: ''
-organisation: _publications/ux-matters.md
+organisation: _organisations/ux-matters.md
 tool: ''
 
 ---

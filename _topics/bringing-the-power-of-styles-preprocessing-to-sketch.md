@@ -12,5 +12,5 @@ category:
 - Design systems
 type: Article
 preview: ''
-organisation: _publications/design-sketch.md
+organisation: _organisations/design-sketch.md
 ---

@@ -10,5 +10,5 @@ category:
 - UX strategy
 type: Article
 preview: ''
-organisation: _publications/ux-planet.md
+organisation: _organisations/ux-planet.md
 ---

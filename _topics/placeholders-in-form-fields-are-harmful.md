@@ -12,5 +12,5 @@ category:
 - Accessibility
 type: Article
 preview: ''
-organisation: _publications/nielsen-norman.md
+organisation: _organisations/nielsen-norman.md
 ---
