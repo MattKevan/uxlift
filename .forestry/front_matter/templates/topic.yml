@@ -69,6 +69,15 @@ fields:
       file: _data/categories.yml
       path: tool
   label: Tool
+- name: resource-type
+  type: list
+  config:
+    use_select: true
+    min: 
+    max: 
+    source:
+      type: pages
+  label: Resource type
 pages:
 - _topics/10-tips-on-making-magic-with-writers.md
 - _topics/10-tips-on-using-components-in-figma.md
@@ -93,7 +102,6 @@ pages:
 - _topics/cookie-cutter-design-systems.md
 - _topics/cooperative-design-systems.md
 - _topics/creating-depth-in-sketch.md
-- _topics/critiquing-design.md
 - _topics/dark-patterns-12-tricks-you-should-never-use-in-your-products.md
 - _topics/dark-patterns-at-scale-findings-from-a-crawl-of-11k-shopping-websites.md
 - _topics/deep-awareness-of-the-current-experience.md
@@ -169,7 +177,6 @@ pages:
 - _topics/understanding-css-grid.md
 - _topics/unexpected-accessibility-tips.md
 - _topics/unmoderated-user-tests-how-and-why-to-do-them.md
-- _topics/user-interface-design-patterns.md
 - _topics/user-journey-planning-what-is-an-empathy-map.md
 - _topics/using-ux-testing-to-dramatically-improve-your-a-b-testing-results.md
 - _topics/ux-analytics-what-they-are-and-why-they-matter.md
