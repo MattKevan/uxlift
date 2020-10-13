@@ -68,6 +68,7 @@ fields:
       path: 
   label: Site
 pages:
+- _resources/nobl-academy.md
 - _resources/re-work.md
 - _resources/the-design-sprint.md
 - _topics/10-tips-on-making-magic-with-writers.md
