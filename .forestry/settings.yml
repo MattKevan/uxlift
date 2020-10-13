@@ -19,7 +19,7 @@ sections:
   templates:
   - topic
 - type: directory
-  path: _resource_types
+  path: _resource-types
   label: Resource types
   create: documents
   match: "**/*"
