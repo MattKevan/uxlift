@@ -1,35 +1,27 @@
 ---
 date: 2019-09-16T17:30:20.000+01:00
 title: Actionable Futures Toolkit
-description: An introduction to the methodology of service design.
-link: https://servicedesigntoolkit.org
+description: A practice proven toolkit made to work for you in building and aligning
+  a future for an organisation, service or a product.
+link: https://futures.nordkapp.fi
 site: Ethical OS
 image: "/assets/images/eos.png"
 category:
-- Service design
+- Product management
 type: Resource
 preview: ''
 resource-type:
 - _resource-types/toolkits.md
-published: false
 
 ---
-## In this toolkit
+### Future proof yourself with a vision that is actionable today
 
-### Workshop materials
+Even the world is trusting on agile and lean, many companies still develop their vision and strategy traditionally, without end-customer insight or clear link between the discovery and execution. This leads to longer time to market, unsuccessful market reach and reduces possibilities to act on constantly changing environment.
 
-This toolkit also holds a number of tools which you can use in your own workshop. For each technique you can find material to help you. The workshop materials can be found under [downloads](https://servicedesigntoolkit.org/downloads.html).
+### Align your organisation around a single purpose
 
-Also included are a series of portraits that can be used throughout the development process.
+The clarity of purpose and direction is the achilles’ heel in many companies today. Our toolkit is made for collaborative way of working where you will develop the future you as an organisation want (and need), together with everyone who will be affected by it.
 
-### Poster
+### Inject the right kind of magic to your experience
 
-The poster gives an overview of the service design process.
-
-### Manual
-
-An extensive introduction to service design and a step-by-step plan.
-
-### Technique cards
-
-A set of technique cards explain how to best use each of the techniques.
+An actionable vision gives you the ability to see clearly further than the next revision or just data. By having a clear picture of the futures we want, we can proactively bring key pieces of it into today and make our experience feel downright magical.
