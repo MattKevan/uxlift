@@ -1,28 +1,20 @@
 ---
 date: 2019-09-16T17:30:20.000+01:00
 title: Lean Service Creation
-description: A practice proven toolkit made to work for you in building and aligning
-  a future for an organisation, service or a product.
-link: https://futures.nordkapp.fi
+description: Create lovable services. Modernize and improve your ways of working.
+  Build a culture that fosters growth and learning.
+link: https://futurice.com/lean-service-creation/
 site: Ethical OS
 image: "/assets/images/eos.png"
 category:
+- Service design
 - Product management
 type: Resource
 preview: ''
 resource-type:
 - _resource-types/toolkits.md
-published: false
 
 ---
-### Future proof yourself with a vision that is actionable today
+We provide you with a curated set of canvases that walk you through the necessary steps for creating successful services and products. Each canvas presents a unique development angle that increases the likelihood of success and brings more value to your service - without forgetting sustainability and ethics. 
 
-Even the world is trusting on agile and lean, many companies still develop their vision and strategy traditionally, without end-customer insight or clear link between the discovery and execution. This leads to longer time to market, unsuccessful market reach and reduces possibilities to act on constantly changing environment.
-
-### Align your organisation around a single purpose
-
-The clarity of purpose and direction is the achilles’ heel in many companies today. Our toolkit is made for collaborative way of working where you will develop the future you as an organisation want (and need), together with everyone who will be affected by it.
-
-### Inject the right kind of magic to your experience
-
-An actionable vision gives you the ability to see clearly further than the next revision or just data. By having a clear picture of the futures we want, we can proactively bring key pieces of it into today and make our experience feel downright magical.
+The process introduces natural checkpoints for decision-making – your team can decide to continue, pivot or even kill the idea during the process. And the best part? The canvases are free to use.
