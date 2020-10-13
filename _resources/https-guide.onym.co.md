@@ -3,14 +3,13 @@ date: 2020-10-13 13:02:29 +0100
 tool: []
 organisation: []
 title: https://guide.onym.co
-description: A comprehensive collection of human-centred design methods, mindsets
-  and case studies.
-link: https://www.designkit.org
+description: Tools and resources for naming things.
+link: https://guide.onym.co
 resource-type:
 - _resource-types/toolkits.md
 category:
+- UX writing
 - Design thinking
-published: false
 
 ---
-Human-centered design is a practical, repeatable approach to arriving at innovative solutions. Think of these Methods as a step-by-step guide to unleashing your creativity, putting the people you serve at the center of your design process to come up with new answers to difficult problems.
+Naming is hard. Names, after all, are perhaps the most indelible artifacts of the product creation process. Brands are redesigned with regularity and codebases are continually rewritten and replaced but a name, for better or worse, usually sticks.
