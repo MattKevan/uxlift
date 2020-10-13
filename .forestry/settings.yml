@@ -19,6 +19,11 @@ sections:
   templates:
   - topic
 - type: directory
+  path: _resource_types
+  label: Resource types
+  create: documents
+  match: "**/*"
+- type: directory
   path: _topic-categories
   label: Topic categories
   create: documents
