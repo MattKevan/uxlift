@@ -9,6 +9,6 @@ category:
 - Design ethics
 type: Resource
 preview: ''
-resource-type: _resource-types/toolkits.md
-
+resource-type: 
+- _resource-types/toolkits.md
 ---
