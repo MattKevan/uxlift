@@ -10,5 +10,6 @@ category:
 - Accessibility
 type: Resource
 preview: ''
-resource-type: _resource-types/guides.md
+resource-type: 
+- _resource-types/guides.md
 ---
