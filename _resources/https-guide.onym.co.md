@@ -2,7 +2,7 @@
 date: 2020-10-13 13:02:29 +0100
 tool: []
 organisation: []
-title: https://guide.onym.co
+title: Onym
 description: Tools and resources for naming things.
 link: https://guide.onym.co
 resource-type:
