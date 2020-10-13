@@ -9,5 +9,6 @@ category:
 preview: mh.png
 type: Resource
 site: Design Patterns for Mental Health
-resource-type: _resource-types/pattern-libraries.md
+resource-type: 
+- _resource-types/pattern-libraries.md
 ---

@@ -7,6 +7,6 @@ category:
 link: 'https://www.romanpichler.com/tools/the-persona-template/'
 site: Roman Pichler
 type: Resource
-resource-type: _resource-types/worksheets.md
-
+resource-type: 
+- _resource-types/worksheets.md
 ---

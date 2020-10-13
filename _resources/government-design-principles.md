@@ -13,5 +13,6 @@ category:
 type: Resource
 preview: ''
 organisation: _organisations/government-digital-service.md
-resource-type: _resource-types/design-principles.md
+resource-type: 
+- _resource-types/design-principles.md
 ---

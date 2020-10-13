@@ -10,5 +10,6 @@ category:
 - Design patterns
 type: Resource
 preview: ''
-resource-type: _resource-types/pattern-libraries.md
+resource-type: 
+- _resource-types/pattern-libraries.md
 ---

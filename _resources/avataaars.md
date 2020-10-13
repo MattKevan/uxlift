@@ -8,5 +8,6 @@ category:
 - Illustration
 type: Resource
 preview: avataaars.png
-resource-type: _resource-types/illustrations.md
+resource-type: 
+- _resource-types/illustrations.md
 ---

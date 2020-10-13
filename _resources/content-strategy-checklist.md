@@ -6,5 +6,6 @@ category:
 link: 'https://contentstrategychecklist.com'
 site: Content Strategy Checklist
 type: Resource
-resource-type: _resource-types/checklists.md
+resource-type: 
+- _resource-types/checklists.md
 ---

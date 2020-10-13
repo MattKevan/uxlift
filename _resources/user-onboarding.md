@@ -10,5 +10,6 @@ category:
 type: Resource
 site: UserOnboard
 image: "/assets/images/onboard.png"
-
+resource-type: 
+- _resource-types/pattern-libraries.md
 ---

@@ -9,5 +9,6 @@ category:
 site: Ever Icons
 type: Resource
 date: 2018-08-07 12:34:27 +0100
-resource-type: _resource-types/icons.md
+resource-type: 
+- _resource-types/icons.md
 ---

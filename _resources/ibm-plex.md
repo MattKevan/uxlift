@@ -11,6 +11,6 @@ preview: Resources/plex.png
 category: 
 - Typography
 type: Resource
-resource-type: _resource-types/fonts.md
-
+resource-type: 
+- _resource-types/fonts.md
 ---
