@@ -1,9 +1,8 @@
 ---
 date: 2019-09-16T17:30:20.000+01:00
 title: Service Design Toolkit
-description: '54 hands-on descriptions that help you DO the key methods used in service
-  design. '
-link: https://www.thisisservicedesigndoing.com/methods
+description: An introduction to the methodology of service design.
+link: https://servicedesigntoolkit.org
 site: Ethical OS
 image: "/assets/images/eos.png"
 category:
@@ -12,9 +11,24 @@ type: Resource
 preview: ''
 resource-type:
 - _resource-types/toolkits.md
-published: false
 
 ---
-These methods include instructions, guidelines, and-tips-and tricks for activities within research, ideation, prototyping, and facilitation.
+## In this toolkit
 
-This collection only contains building blocks. It doesn’t detail how to assemble them into a cohesive design process or how to plan or manage it. For this context, please read [This Is Service Design Doing](https://www.thisisservicedesigndoing.com/).
+### Workshop materials
+
+This toolkit also holds a number of tools which you can use in your own workshop. For each technique you can find material to help you. The workshop materials can be found under [downloads](https://servicedesigntoolkit.org/downloads.html).
+
+Also included are a series of portraits that can be used throughout the development process.
+
+### Poster
+
+The poster gives an overview of the service design process.
+
+### Manual
+
+An extensive introduction to service design and a step-by-step plan.
+
+### Technique cards
+
+A set of technique cards explain how to best use each of the techniques.
