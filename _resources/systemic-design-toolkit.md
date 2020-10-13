@@ -1,19 +1,25 @@
 ---
 date: 2019-09-16T17:30:20.000+01:00
 title: Systemic Design Toolkit
-description: A wide range of toolkits, guides and blueprints covering all kinds of
-  topics, including civic engagement, artificial intelligence, climate change, creativity
-  and more.
-link: https://www.nesta.org.uk/toolkit/
+description: Systemic Design Toolkit helps you co-create interventions to tackle organisational
+  and societal complexity.
+link: https://www.systemicdesigntoolkit.org
 category:
 - Design thinking
 resource-type:
 - _resource-types/toolkits.md
-published: false
 
 ---
-Nesta is an innovation foundation. For us, innovation means turning bold ideas into reality. It also means changing lives for the better. This is what keeps us awake at night and gets us out of bed in the morning.
+### Systemic Design Toolkit will help you
 
-### Our methods
+#### **Understand why the challenge is hard to tackle** 
 
-How do we bring these ideas to life? We’re restless thinkers. We constantly question and experiment. We tackle challenges through our unique combination of expertise, skills and funding. Our approach is practical and collaborative, driven by a rigorous use of evidence and data, emerging technology and the power of people.
+Build shared understanding on the structure and interactions in the system, the factors influencing the issue, the most promising areas for intervention.
+
+#### **Explore interventions to start the transformation**
+
+Identify the interventions driving the systemic shift. Co-design the mix of measures and artifacts that will leverage the process of change.
+
+#### **Define and implement your transition plan** 
+
+Plan the implementation and scaling up of your interventions in the short and long term.
