@@ -1,26 +1,16 @@
 ---
 date: 2019-09-16T17:30:20.000+01:00
 title: Project of How
-description: Systemic Design Toolkit helps you co-create interventions to tackle organisational
-  and societal complexity.
-link: https://www.systemicdesigntoolkit.org
+description: Project of How is a place to store and share creative methods. We dare
+  you to improve your creative output.
+link: https://projectofhow.com
 category:
+- Collaboration
 - Design thinking
 resource-type:
 - _resource-types/toolkits.md
-published: false
 
 ---
-### Systemic Design Toolkit will help you
+We believe that if you get a deeper understanding of How you do things, you can also do better in the end. Understanding How is to be agile and being able to solve problems with greater flexibility. Just like with the tip of an iceberg, the end result is only the smaller part of the greater whole. By going below the surface and seeing the process and multitude of skills combined that together amount to something that’s possible to grasp, that is to have an understanding of How.
 
-#### **Understand why the challenge is hard to tackle** 
-
-Build shared understanding on the structure and interactions in the system, the factors influencing the issue, the most promising areas for intervention.
-
-#### **Explore interventions to start the transformation**
-
-Identify the interventions driving the systemic shift. Co-design the mix of measures and artifacts that will leverage the process of change.
-
-#### **Define and implement your transition plan** 
-
-Plan the implementation and scaling up of your interventions in the short and long term.
+If we can bring the whole underlying process into light we can do things better. Clarity gives improved results and empowers people to solve problems with greater understanding. That is the How Focus.
