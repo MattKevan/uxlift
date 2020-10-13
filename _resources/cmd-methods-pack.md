@@ -1,25 +1,18 @@
 ---
 date: 2019-09-16T17:30:20.000+01:00
 title: CMD Methods Pack
-description: 'Are you missing a long-term goal? This toolbox will help you to outline
-  the future and build a vision towards a better tomorrow. '
-link: https://www.sitra.fi/en/projects/toolbox-for-people-shaping-the-future/
+description: This pack supports your design research planning in any communication
+  and media design (CMD) project.
+link: https://www.cmdmethods.nl
 category:
 - Collaboration
 - Design thinking
 resource-type:
 - _resource-types/toolkits.md
-published: false
 
 ---
-### Phase 1: Trends and signals
+Choosing methods can be difficult. There are many different design research methods and just as many reasons why one method may be better suited for your project than others. 
 
-Identify trends and weak signals that affect the future with the help of the materials below!
+The Development Oriented Triangulation (DOT) – Framework offers a good way to understand the differences and similarities between many design research methods. 
 
-### Phase 2: Interpretation and choices
-
-The future does not just happen by itself; we can influence it. Assess the impacts of trends on your own activities and choose what is desirable.
-
-### Phase 3: Shaping futures
-
-Once the direction is clear, it is time to define the vision, discuss it and identify the solutions needed. The future does not happen; it is made.
+This cmdmethods card set and the DOT-framework form a perfect couple. Understanding the framework will help you to use the card set in a better way and the card set aids your understanding of the framework. In this mini-manual we give a brief introduction to the DOT-Framework and the use of this card set.
