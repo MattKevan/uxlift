@@ -3,14 +3,13 @@ date: 2020-10-13 13:02:29 +0100
 tool: []
 organisation: []
 title: Design Kit
-description: 'We’ve curated a collection of resources from our classes and workshops
-  for you to explore. '
-link: https://dschool.stanford.edu/resources/
+description: A comprehensive collection of human-centred design methods, mindsets
+  and case studies.
+link: https://www.designkit.org
 resource-type:
 - _resource-types/toolkits.md
 category:
 - Design thinking
-published: false
 
 ---
-Anyone who wants to become more familiar with design thinking can use these activities, tools, and how-tos. Whether you're a college student, business owner, freelance artist, or corporate executive, or simply a curious person, this collection of resources will help you unlock creative thinking in whatever challenge you're tackling.
+Human-centered design is a practical, repeatable approach to arriving at innovative solutions. Think of these Methods as a step-by-step guide to unleashing your creativity, putting the people you serve at the center of your design process to come up with new answers to difficult problems.
