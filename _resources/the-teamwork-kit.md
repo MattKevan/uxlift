@@ -3,14 +3,14 @@ date: 2020-10-13 13:02:29 +0100
 tool: []
 organisation: []
 title: The Teamwork Kit
-description: Tools and resources for naming things.
-link: https://guide.onym.co
+description: " A collection of methods that helps teams build trust and deliver great
+  work together."
+link: https://tools.daresay.io
 resource-type:
 - _resource-types/toolkits.md
 category:
-- UX writing
+- Collaboration
 - Design thinking
-published: false
 
 ---
-Naming is hard. Names, after all, are perhaps the most indelible artifacts of the product creation process. Brands are redesigned with regularity and codebases are continually rewritten and replaced but a name, for better or worse, usually sticks.
+You can download the handbook, facilitator's guides, sample presentations, and template posters and use them with your team. With the right mindset, any group can become a creative, resilient team.
