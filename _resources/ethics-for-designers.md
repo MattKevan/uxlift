@@ -2,15 +2,12 @@
 title: Ethics for dessigners
 category:
 - Design ethics
-link: 'https://www.ethicsfordesigners.com'
-description: 'A toolkit for designers to help you uncover, explore and discuss the ethical aspects of your designs.'
+link: https://www.ethicsfordesigners.com
+description: A toolkit for designers to help you uncover, explore and discuss the
+  ethical aspects of your designs.
 site: Ethics for Designers
 type: Resource
-resource-type: 
+resource-type:
 - _resource-types/toolkits.md
+
 ---
-
-
-
-
-
