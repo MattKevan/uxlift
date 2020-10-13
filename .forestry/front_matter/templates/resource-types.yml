@@ -11,3 +11,5 @@ fields:
 - type: text
   name: description
   label: Description
+pages:
+- _resource-types/ui-kits.md
