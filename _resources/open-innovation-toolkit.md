@@ -1,21 +1,17 @@
 ---
 date: 2019-09-16T17:30:20.000+01:00
 title: Open Innovation Toolkit
-description: Create lovable services. Modernize and improve your ways of working.
-  Build a culture that fosters growth and learning.
-link: https://futurice.com/lean-service-creation/
+description: This 30-piece toolkit covers the whole open innovation journey from setting
+  a strategy for collaboration to implementing mutually beneficial business models
+link: https://www.100open.com/toolkit/
 site: Ethical OS
 image: "/assets/images/eos.png"
 category:
-- Service design
 - Product management
 type: Resource
 preview: ''
 resource-type:
 - _resource-types/toolkits.md
-published: false
 
 ---
-We provide you with a curated set of canvases that walk you through the necessary steps for creating successful services and products. Each canvas presents a unique development angle that increases the likelihood of success and brings more value to your service - without forgetting sustainability and ethics. 
-
-The process introduces natural checkpoints for decision-making – your team can decide to continue, pivot or even kill the idea during the process. And the best part? The canvases are free to use.
+It helps to make the case for open innovation and shows how to co-create or crowdsource relevant ideas, prototype the best ones and construct strong partnerships.
