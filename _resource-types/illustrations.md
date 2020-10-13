@@ -1,5 +1,5 @@
 ---
-title: Illustrations
+title: Photography and illustration
 description:
-singular: Illustration
+singular: Photography & illustration
 ---
