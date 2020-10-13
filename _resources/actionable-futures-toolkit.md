@@ -4,12 +4,8 @@ title: Actionable Futures Toolkit
 description: A practice proven toolkit made to work for you in building and aligning
   a future for an organisation, service or a product.
 link: https://futures.nordkapp.fi
-site: Ethical OS
-image: "/assets/images/eos.png"
 category:
 - Product management
-type: Resource
-preview: ''
 resource-type:
 - _resource-types/toolkits.md
 

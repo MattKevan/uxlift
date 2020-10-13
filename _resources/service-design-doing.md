@@ -4,12 +4,8 @@ title: This is Service Design Doing
 description: '54 hands-on descriptions that help you DO the key methods used in service
   design. '
 link: https://www.thisisservicedesigndoing.com/methods
-site: Ethical OS
-image: "/assets/images/eos.png"
 category:
 - Service design
-type: Resource
-preview: ''
 resource-type:
 - _resource-types/toolkits.md
 

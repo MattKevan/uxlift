@@ -4,13 +4,9 @@ title: Lean Service Creation
 description: Create lovable services. Modernize and improve your ways of working.
   Build a culture that fosters growth and learning.
 link: https://futurice.com/lean-service-creation/
-site: Ethical OS
-image: "/assets/images/eos.png"
 category:
 - Service design
 - Product management
-type: Resource
-preview: ''
 resource-type:
 - _resource-types/toolkits.md
 

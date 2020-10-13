@@ -2,13 +2,8 @@
 date: 2019-09-16T17:30:20.000+01:00
 title: Service Design Toolkit
 description: An introduction to the methodology of service design.
-link: https://servicedesigntoolkit.org
-site: Ethical OS
-image: "/assets/images/eos.png"
 category:
 - Service design
-type: Resource
-preview: ''
 resource-type:
 - _resource-types/toolkits.md
 

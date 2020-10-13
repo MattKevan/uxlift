@@ -4,13 +4,9 @@ title: Emotion Centered Design
 description: This lookbook offers a glance at the tools and methods used throughout
   an Emotion-Centered Design (ECD) practice.
 link: https://medium.com/emotion-centered-design
-site: Ethical OS
-image: "/assets/images/eos.png"
 category:
 - UX process
 - Design principles
-type: Resource
-preview: ''
 resource-type:
 - _resource-types/toolkits.md
 

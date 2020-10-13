@@ -4,12 +4,8 @@ title: Open Innovation Toolkit
 description: This 30-piece toolkit covers the whole open innovation journey from setting
   a strategy for collaboration to implementing mutually beneficial business models
 link: https://www.100open.com/toolkit/
-site: Ethical OS
-image: "/assets/images/eos.png"
 category:
 - Product management
-type: Resource
-preview: ''
 resource-type:
 - _resource-types/toolkits.md
 
