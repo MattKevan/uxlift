@@ -7,12 +7,8 @@ description: A menu of thirty-three Liberating Structures to replace or compleme
   build the kind of organization that everybody wants. They are designed to include
   everyone in shaping next steps.
 link: http://www.liberatingstructures.com
-site: Liberating Structures
-image: "/assets/images/00_LS-Menu.png"
 category:
 - Design thinking
-type: Resource
-preview: ''
 resource-type: 
 - _resource-types/toolkits.md
 ---

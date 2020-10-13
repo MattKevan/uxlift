@@ -5,12 +5,8 @@ description: User Interface Design patterns are recurring solutions that solve c
   problems. Design patterns are standard reference points for the experienced user
   interface designer.
 link: http://ui-patterns.com
-site: UI Patterns
-image: "/assets/images/ui-patterns.com.ico.png"
 category:
 - Design patterns
-type: Resource
-preview: ''
 resource-type: 
 - _resource-types/pattern-libraries.md
 ---

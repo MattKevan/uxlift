@@ -5,8 +5,6 @@ description: "The template captures the persona’s picture and name; the person
 category:
 - Customer discovery
 link: 'https://www.romanpichler.com/tools/the-persona-template/'
-site: Roman Pichler
-type: Resource
 resource-type: 
-- _resource-types/worksheets.md
+- _resource-types/canvases.md
 ---
