@@ -9,5 +9,5 @@ category:
 - Wireframing
 type: Resource 
 preview: ''
-
+resource-type: _resource-types/ui-kits.md
 ---

@@ -12,5 +12,6 @@ category:
 - Visual design
 type: Resource
 preview: ''
-organisation: _publications/government-digital-service.md
+organisation: _organisations/government-digital-service.md
+resource-type: _resource-types/design-principles.md
 ---

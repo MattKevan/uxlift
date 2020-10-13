@@ -10,4 +10,5 @@ category:
 - Visual design
 type: Resource
 site: Eva Icons
+resource-type: _resource-types/icons.md
 ---

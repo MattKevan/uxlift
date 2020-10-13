@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+{{ content }}
+
+<div class="row">
+
+
+	{% assign sorted_items = site.resources | sort:'title' %}
+
+	{% for item in sorted_items %}
+
+		{% for cat in item.resource-type %}
+		
+			{% if page.path == cat %}
+				{% include grid-link.html %}
+			{% endif %}
+		{% endfor %}	
+	{% endfor %}
+</div>
+<hr>
+
+{% include newsletter-form.html %}

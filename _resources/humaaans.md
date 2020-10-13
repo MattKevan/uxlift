@@ -9,4 +9,5 @@ category:
 - Illustration
 site: Humaaans
 type: Resource
+resource-type: _resource-types/illustrations.md
 ---

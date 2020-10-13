@@ -13,5 +13,5 @@ category:
 - Design thinking
 type: Resource
 preview: ''
-
+resource-type: _resource-types/toolkits.md
 ---

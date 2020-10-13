@@ -11,4 +11,5 @@ preview: clear-sans.png
 category: 
 - Typography
 - Visual design
----2013-06-19
+resource-type: _resource-types/fonts.md
+---

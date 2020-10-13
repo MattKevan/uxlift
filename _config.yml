@@ -86,6 +86,9 @@ collections:
   resources:
     output: true
     permalink: /resources/:path
+  resource-types:
+    output: true
+    permalink: /resources/:path
 
 defaults:
   -
@@ -100,6 +103,12 @@ defaults:
       type: resources
     values:
       layout: topic
+  -
+    scope:
+      path: ""
+      type: resource-types
+    values:
+      layout: resource-listing
   -    
     scope:
       path: ""
