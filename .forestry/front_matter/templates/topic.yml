@@ -18,6 +18,21 @@ fields:
     schema:
       format: markdown
   label: Description
+- type: text
+  name: link
+  label: Link
+  config:
+    required: true
+- name: resource-type
+  type: list
+  config:
+    use_select: true
+    min: 
+    max: 
+    source:
+      type: pages
+      section: resource-types
+  label: Resource type
 - type: list
   name: category
   label: Categories
@@ -28,35 +43,6 @@ fields:
       section: data
       file: _data/categories.yml
       path: category
-- type: text
-  name: link
-  label: Link
-  config:
-    required: true
-- name: organisation
-  type: select
-  default: []
-  config:
-    required: false
-    options: []
-    source:
-      type: pages
-      section: organisations
-      file: 
-      path: 
-  label: Site
-- name: type
-  type: select
-  default: ''
-  config:
-    required: true
-    options: []
-    source:
-      type: documents
-      section: data
-      file: _data/categories.yml
-      path: type
-  label: Type
 - name: tool
   type: select
   default: []
@@ -69,15 +55,18 @@ fields:
       file: _data/categories.yml
       path: tool
   label: Tool
-- name: resource-type
-  type: list
+- name: organisation
+  type: select
+  default: []
   config:
-    use_select: true
-    min: 
-    max: 
+    required: false
+    options: []
     source:
       type: pages
-  label: Resource type
+      section: organisations
+      file: 
+      path: 
+  label: Site
 pages:
 - _topics/10-tips-on-making-magic-with-writers.md
 - _topics/10-tips-on-using-components-in-figma.md
