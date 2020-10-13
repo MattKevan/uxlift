@@ -1,5 +1,5 @@
 ---
-title: Ethics for dessigners
+title: Ethics for designers
 category:
 - Design ethics
 link: https://www.ethicsfordesigners.com
