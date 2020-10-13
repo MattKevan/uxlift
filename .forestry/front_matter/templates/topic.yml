@@ -69,6 +69,7 @@ fields:
   label: Site
 pages:
 - _resources/design-kit.md
+- _resources/https-guide.onym.co.md
 - _resources/nobl-academy.md
 - _resources/public-design-vault.md
 - _resources/re-work.md
