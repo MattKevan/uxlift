@@ -69,6 +69,7 @@ fields:
   label: Site
 pages:
 - _resources/re-work.md
+- _resources/the-design-sprint.md
 - _topics/10-tips-on-making-magic-with-writers.md
 - _topics/10-tips-on-using-components-in-figma.md
 - _topics/20-ways-to-make-your-design-critiques-more-effective.md
