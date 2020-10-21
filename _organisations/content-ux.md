@@ -1,17 +1,17 @@
 ---
+image: ""
+description: A community of professionals celebrating content strategy, content
+  itself and its role in the user experience.
 date: 2020-09-28 14:32:47 +0100
-title: Content + UX
-location:
-- Online
-description: A community of professionals celebrating content strategy, content itself
-  and its role in the user experience.
-image: ''
 link: https://contentandux.org
-org-type: _organisation-types/communities.md
+org-type:
+  - Publications
+location:
+  - Online
+title: Content + UX
 category:
-- UX writing
-- Content strategy
-
+  - UX writing
+  - Content strategy
 ---
 ### Find your people
 
