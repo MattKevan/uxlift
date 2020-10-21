@@ -73,7 +73,7 @@ collections:
         value_field: "title"
         multiple: true
       - {label: "Body", name: "body", widget: "markdown", required: false}
-   - name: 'tool'
+  - name: 'tool'
     label: 'Tool'
     folder: '_tools/'
     create: true
