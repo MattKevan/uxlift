@@ -199,7 +199,6 @@ collections:
         value_field: "title"
         multiple: true
         required: false
-      - {label: "Body", name: "body", widget: "markdown", required: false}
       - label: "Organisation types"
         name: "organisation-types"
         widget: "relation"
