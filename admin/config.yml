@@ -7,6 +7,7 @@ backend:
   open_authoring: true
 media_folder: 'assets/images'
 show_preview_links: false
+publish_mode: editorial_workflow
 collections:
   - name: 'blog'
     label: 'Blog'
