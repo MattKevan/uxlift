@@ -3,10 +3,45 @@
 backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
-media_folder: 'assets/uploads'
+media_folder: 'assets/images'
+show_preview_links: false
 collections:
   - name: 'blog'
     label: 'Blog'
     folder: '_posts/'
     fields:
       - { name: Title }
+  - name: 'topics'
+    label: 'Topic'
+    folder: '_topics/'
+    create: true
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Date", name: "date", widget: "datetime"}
+      - {label: "Link", name: "link", widget: "string"}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Organisation", name: "organisation", widget: "text"}
+      - label: "Organisation"
+        name: "organisation"
+        widget: "relation"
+        collection: "organisations"
+        search_fields: "title"
+        value_field: "title"
+      - label: "Author"
+        name: "author"
+        widget: "relation"
+        collection: "people"
+        search_fields: "title"
+        value_field: "title"
+      - label: "Categories"
+        name: "category"
+        widget: "relation"
+        collection: "topic-categories"
+        search_fields: "title"
+        value_field: "title"
+        multiple: true
+      
+
