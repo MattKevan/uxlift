@@ -154,16 +154,6 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Short title", name: "short-title", widget: "string"}
       - {label: "Description", name: "description", widget: "text"}
-  - name: 'resource-type'
-    label: 'Resource type'
-    folder: '_resource-types/'
-    create: true
-    editor:
-      preview: false
-    fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Short title", name: "short-title", widget: "string"}
-      - {label: "Description", name: "description", widget: "text"}
   - name: 'course-type'
     label: 'Course type'
     folder: '_course-types/'
