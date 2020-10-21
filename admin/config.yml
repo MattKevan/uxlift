@@ -44,6 +44,7 @@ collections:
         search_fields: ["title"]
         value_field: "title"
         multiple: true
+      - {label: "Body", name: "body", widget: "markdown", required: false}
   - name: 'organisations'
     label: 'Organisation'
     folder: '_organisations/'
@@ -71,5 +72,32 @@ collections:
         search_fields: ["title"]
         value_field: "title"
         multiple: true
-      
+      - {label: "Body", name: "body", widget: "markdown", required: false}
+   - name: 'tool'
+    label: 'Tool'
+    folder: '_tools/'
+    create: true
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Image"
+        name: "image"
+        widget: "image"
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Link", name: "link", widget: "string"}
+      - label: "Organisation"
+        name: "organisations"
+        widget: "relation"
+        collection: "organisations"
+        search_fields: ["title"]
+        value_field: "title"
+      - label: "Categories"
+        name: "category"
+        widget: "relation"
+        collection: "topic-categories"
+        search_fields: ["title"]
+        value_field: "title"
+        multiple: true
+      - {label: "Body", name: "body", widget: "markdown", required: false}     
 
