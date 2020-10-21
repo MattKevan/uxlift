@@ -146,7 +146,7 @@ collections:
         value_field: "title"
         multiple: true
       - label: "Tool categories"
-        name: "category"
+        name: "tool-category"
         widget: "relation"
         collection: "tool-categories"
         search_fields: ["title"]
