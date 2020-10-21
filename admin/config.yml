@@ -24,7 +24,6 @@ collections:
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Date", name: "date", widget: "datetime"}
       - {label: "Link", name: "link", widget: "string"}
-      - {label: "Description", name: "description", widget: "text"}
       - label: "Organisation"
         name: "organisation"
         widget: "relation"
