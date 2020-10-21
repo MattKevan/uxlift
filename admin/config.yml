@@ -13,7 +13,7 @@ collections:
 # Topics
 
   - name: 'topics'
-    label: 'Topic'
+    label: 'Topics'
     folder: '_topics/'
     create: true
     editor:
@@ -51,7 +51,7 @@ collections:
       - {label: "Body", name: "body", widget: "markdown", required: false}
 
   - name: 'topic-categories'
-    label: 'Categories'
+    label: 'Topic categories'
     folder: '_topic-categories/'
     create: true
     editor:
@@ -62,9 +62,9 @@ collections:
 
 # Resources
 
-  - name: 'resource'
-    label: 'Resource'
-    folder: '_resource/'
+  - name: 'resources'
+    label: 'Resources'
+    folder: '_resources/'
     create: true
     editor:
       preview: false
@@ -120,8 +120,8 @@ collections:
 
 # Tools
 
-  - name: 'tool'
-    label: 'Tool'
+  - name: 'tools'
+    label: 'Tools'
     folder: '_tools/'
     create: true
     editor:
@@ -171,7 +171,7 @@ collections:
 # Organisations
 
   - name: 'organisations'
-    label: 'Organisation'
+    label: 'Organisations'
     folder: '_organisations/'
     create: true
     editor:
@@ -211,7 +211,7 @@ collections:
 # Courses
 
   - name: 'course-types'
-    label: 'Course type'
+    label: 'Course types'
     folder: '_course-types/'
     create: true
     editor:
