@@ -13,5 +13,5 @@ category:
 - Visual design
 - Visual grammar
 type: Article
-organisation: _organisations/nielsen-norman.md
+organisation: _organisations/nielsen-norman-group.md
 ---

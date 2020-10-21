@@ -62,6 +62,9 @@ collections:
   design-systems:
     output: true
     permalink: /design-systems/:path/
+  design-principles:
+    output: true
+    permalink: /design-principles/:path/
   plugin:
     output: true
     permalink: /plugins/:path/
@@ -125,6 +128,12 @@ defaults:
     scope:
       path: ""
       type: design-systems
+    values:
+      layout: tool
+  -
+    scope:
+      path: ""
+      type: design-principles
     values:
       layout: tool
   -

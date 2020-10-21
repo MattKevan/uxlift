@@ -1,0 +1,25 @@
+---
+layout: default
+title: Design principles
+permalink: /design-principles/
+
+---
+<!--<div class="filters">
+	<button type="button" class="btn btn-primary category-button active" data-filter = "all"> All </button>
+	{% for tag in site.data.categories.source %}
+		 <button type="button" class="btn btn-primary category-button" data-filter = "{{ tag | slugify }}"> {{ tag }} </button>
+	{% endfor %}
+</div> -->    
+           
+
+        
+<div class="row filter-grid">
+	{% assign sorted_items = site.design-principles | sort:'title' %}
+	{% for item in sorted_items %}
+		{% include grid-link.html %}
+	{% endfor %}
+</div>
+
+
+
+

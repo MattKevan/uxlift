@@ -1,49 +1,9 @@
 	<div class="list-item">
 
-		
-			
+	
 			<h4><a href="{{ item.link }}/?ref=uxlift.org" target="_blank">{{ item.title }}</a></h4>	
 			
-			<p class="weblink s">
-
-				{% if item.organisation %}
-					{% for sites in site.publications %}
-						{% if sites.path == item.organisation %}
-							
-							<a href="{{ sites.url }}">
-					  	{% endif %}
-					{% endfor %}
-				{% endif %}
-
-				
-
-				{% if item.organisation %}
-					{% for sites in site.publications %}
-						{% if sites.path == item.organisation %}
-							<img class="list-logo" src="{{ sites.image }}" alt="{{ sites.title }}" />
-							{{ sites.title }}</a>
-					  	{% endif %}
-					{% endfor %}
-
-				{% else%}
-
-					{% if item.image %}
-						<img class="list-logo" src="{{ item.image }}" alt="{{ item.title }}" />
-					{% endif %}
-
-					{{ item.site }}</a>
-
-				{% endif %}
-
-				{% for t in item.type %}
-					{% if t == "Article" %} – {{ item.date | date: "%-d %B %Y" }}{% endif %}
-				{% endfor %}
-
-				{% if item.organisation %}
-					</a>
-				{% endif %}
-
-			</p>
+			{% include weblink.html %}
 			
 			<p>{{ item.description }}</p>	
 

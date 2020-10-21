@@ -1,0 +1,35 @@
+<p class="weblink s">
+
+	{% if item.organisation %}
+		{% for org in site.organisations %}
+			{% if org.path == item.organisation %}
+				<a href="{{ org.url }}"><img class="list-logo" src="{{ org.image }}" alt="{{ org.title }}" />
+				{{ org.title }}
+		  	{% endif %}
+		{% endfor %}
+
+	{% elsif item.person %}
+		{% for author in site.people %}
+			{% if author.path == item.person %}
+				<a href="{{ author.url }}"><img class="list-logo" src="{{ author.image }}" alt="{{ author.title }}" />
+				{{ author.title }}
+		  	{% endif %}
+		{% endfor %}
+
+	{% elsif item.image and item.site %}
+
+		<img class="list-logo" src="{{ item.image }}" alt="{{ item.title }}" />
+		
+		{{ item.site }}
+
+	{% endif %}
+	
+	{% if item.layout == 'topic'  %}
+		 – {{ item.date | date: "%-d %B %Y" }}
+	{% endif %}
+
+	{% if item.organisation or item.person %}
+		</a>
+	{% endif %}
+
+</p>
