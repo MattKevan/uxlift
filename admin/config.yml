@@ -44,5 +44,32 @@ collections:
         search_fields: ["title"]
         value_field: "title"
         multiple: true
+  - name: 'organisations'
+    label: 'Organisation'
+    folder: '_organisations/'
+    create: true
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Image"
+        name: "image"
+        widget: "image"
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Date", name: "date", widget: "datetime"}
+      - {label: "Link", name: "link", widget: "string"}
+      - label: "Organisation type"
+        name: "org-type"
+        widget: "relation"
+        collection: "organisation-type"
+        search_fields: ["title"]
+        value_field: "title"
+      - label: "Categories"
+        name: "category"
+        widget: "relation"
+        collection: "topic-categories"
+        search_fields: ["title"]
+        value_field: "title"
+        multiple: true
       
 

@@ -19,7 +19,7 @@
 					{% for item in sorted_items %}
 						{% for cat in item.category %}
 							{% if page.title == cat and item.type == 'Article'%}
-								{% include grid-item.html %}
+								{% include list-link.html %}
 							{% endif %}
 						{% endfor %}
 					{% endfor %}
