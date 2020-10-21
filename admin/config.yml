@@ -25,12 +25,11 @@ collections:
       - {label: "Date", name: "date", widget: "datetime"}
       - {label: "Link", name: "link", widget: "string"}
       - {label: "Description", name: "description", widget: "text"}
-      - {label: "Organisation", name: "organisation", widget: "text"}
       - label: "Organisation"
         name: "organisation"
         widget: "relation"
         collection: "organisations"
-        search_fields: "title"
+        search_fields: ["title"]
         value_field: "title"
       - label: "Author"
         name: "author"
