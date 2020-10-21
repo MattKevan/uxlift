@@ -199,18 +199,10 @@ collections:
         value_field: "title"
         multiple: true
         required: false
-      - label: "Organisation types"
-        name: "organisation-types"
-        widget: "relation"
-        collection: "organisation-types"
-        search_fields: ["title"]
-        value_field: "title"
-        multiple: true
-        required: false
       - {label: "Body", name: "body", widget: "markdown", required: false}
 
-  - name: 'org-type'
-    label: 'Organisation type'
+  - name: 'organisation-types'
+    label: 'Organisation types'
     folder: '_organisation-types/'
     create: true
     editor:
