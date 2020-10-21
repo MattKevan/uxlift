@@ -9,6 +9,9 @@ media_folder: 'assets/images'
 show_preview_links: false
 publish_mode: editorial_workflow
 collections:
+
+# Topics
+
   - name: 'topics'
     label: 'Topic'
     folder: '_topics/'
@@ -16,9 +19,7 @@ collections:
     editor:
       preview: false
     fields:
-      - label: "Title"
-        name: "title"
-        widget: "string"
+      - {label: "Name", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Date", name: "date", widget: "datetime"}
       - {label: "Link", name: "link", widget: "string"}
@@ -34,6 +35,12 @@ collections:
         collection: "people"
         search_fields: ["title"]
         value_field: "title"
+      - label: "Team"
+        name: "team"
+        widget: "relation"
+        collection: "teams"
+        search_fields: ["title"]
+        value_field: "title"
       - label: "Categories"
         name: "category"
         widget: "relation"
@@ -42,65 +49,19 @@ collections:
         value_field: "title"
         multiple: true
       - {label: "Body", name: "body", widget: "markdown", required: false}
-  - name: 'organisations'
-    label: 'Organisation'
-    folder: '_organisations/'
+
+  - name: 'topic-categories'
+    label: 'Categories'
+    folder: '_topic-categories/'
     create: true
     editor:
       preview: false
     fields:
-      - label: "Title"
-        name: "title"
-        widget: "string"
-      - label: "Image"
-        name: "image"
-        widget: "image"
+      - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "text"}
-      - {label: "Date", name: "date", widget: "datetime"}
-      - {label: "Link", name: "link", widget: "string"}
-      - label: "Organisation type"
-        name: "org-type"
-        widget: "relation"
-        collection: "organisation-type"
-        search_fields: ["title"]
-        value_field: "title"
-      - label: "Categories"
-        name: "category"
-        widget: "relation"
-        collection: "topic-categories"
-        search_fields: ["title"]
-        value_field: "title"
-        multiple: true
-      - {label: "Body", name: "body", widget: "markdown", required: false}
-  - name: 'tool'
-    label: 'Tool'
-    folder: '_tools/'
-    create: true
-    editor:
-      preview: false
-    fields:
-      - label: "Title"
-        name: "title"
-        widget: "string"
-      - label: "Image"
-        name: "image"
-        widget: "image"
-      - {label: "Description", name: "description", widget: "text"}
-      - {label: "Link", name: "link", widget: "string"}
-      - label: "Organisation"
-        name: "organisations"
-        widget: "relation"
-        collection: "organisations"
-        search_fields: ["title"]
-        value_field: "title"
-      - label: "Categories"
-        name: "category"
-        widget: "relation"
-        collection: "topic-categories"
-        search_fields: ["title"]
-        value_field: "title"
-        multiple: true
-      - {label: "Body", name: "body", widget: "markdown", required: false}
+
+# Resources
+
   - name: 'resource'
     label: 'Resource'
     folder: '_resource/'
@@ -108,9 +69,7 @@ collections:
     editor:
       preview: false
     fields:
-      - label: "Title"
-        name: "title"
-        widget: "string"
+      - {label: "Name", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Date", name: "date", widget: "datetime"}
       - {label: "Link", name: "link", widget: "string"}
@@ -126,6 +85,12 @@ collections:
         collection: "people"
         search_fields: ["title"]
         value_field: "title"
+      - label: "Team"
+        name: "team"
+        widget: "relation"
+        collection: "teams"
+        search_fields: ["title"]
+        value_field: "title"
       - label: "Categories"
         name: "category"
         widget: "relation"
@@ -133,7 +98,105 @@ collections:
         search_fields: ["title"]
         value_field: "title"
         multiple: true
+      - label: "Resource type"
+        name: "resource-type"
+        widget: "relation"
+        collection: "resource-types"
+        search_fields: ["title"]
+        value_field: "title"
+        multiple: true
       - {label: "Body", name: "body", widget: "markdown", required: false}  
+
+  - name: 'resource-types'
+    label: 'Resource type'
+    folder: '_resource-types/'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Short title", name: "short-title", widget: "string"}
+      - {label: "Description", name: "description", widget: "text"}
+
+# Tools
+
+  - name: 'tool'
+    label: 'Tool'
+    folder: '_tools/'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - {label: "Name", name: "title", widget: "string"}
+      - {label: "Image", name: "image", widget: "image"}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Date", name: "date", widget: "datetime"}
+      - {label: "Link", name: "link", widget: "string"}
+      - label: "Organisation"
+        name: "organisations"
+        widget: "relation"
+        collection: "organisations"
+        search_fields: ["title"]
+        value_field: "title"
+      - label: "Topic categories"
+        name: "category"
+        widget: "relation"
+        collection: "topic-categories"
+        search_fields: ["title"]
+        value_field: "title"
+        multiple: true
+      - label: "Tool categories"
+        name: "category"
+        widget: "relation"
+        collection: "tool-categories"
+        search_fields: ["title"]
+        value_field: "title"
+        multiple: true
+      - {label: "Body", name: "body", widget: "markdown", required: false}
+
+  - name: 'tool-categories'
+    label: 'Tool categories'
+    folder: '_tool-categories/'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "text"}
+
+# Books
+
+# Design systems
+
+# Organisations
+
+  - name: 'organisations'
+    label: 'Organisation'
+    folder: '_organisations/'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - {label: "Name", name: "title", widget: "string"}
+      - {label: "Image", name: "image", widget: "image"}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Date", name: "date", widget: "datetime"}
+      - {label: "Link", name: "link", widget: "string"}
+      - label: "Organisation type"
+        name: "org-type"
+        widget: "relation"
+        collection: "organisation-types"
+        search_fields: ["title"]
+        value_field: "title"
+      - label: "Categories"
+        name: "category"
+        widget: "relation"
+        collection: "topic-categories"
+        search_fields: ["title"]
+        value_field: "title"
+        multiple: true
+      - {label: "Body", name: "body", widget: "markdown", required: false}
+
   - name: 'org-type'
     label: 'Organisation type'
     folder: '_organisation-types/'
@@ -144,17 +207,10 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Short title", name: "short-title", widget: "string"}
       - {label: "Description", name: "description", widget: "text" }
-  - name: 'resource-type'
-    label: 'Resource type'
-    folder: '_resource-types/'
-    create: true
-    editor:
-      preview: false
-    fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Short title", name: "short-title", widget: "string"}
-      - {label: "Description", name: "description", widget: "text"}
-  - name: 'course-type'
+
+# Courses
+
+  - name: 'course-types'
     label: 'Course type'
     folder: '_course-types/'
     create: true
@@ -164,12 +220,40 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Short title", name: "short-title", widget: "string"}
       - {label: "Description", name: "description", widget: "text"}
-  - name: 'categories'
-    label: 'Categories'
-    folder: '_topic-categories/'
+
+# People
+
+  - name: 'people'
+    label: 'People'
+    folder: '_people/'
     create: true
     editor:
       preview: false
     fields:
-      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Name", name: "title", widget: "string"}
+      - {label: "Image", name: "image", widget: "image"}
       - {label: "Description", name: "description", widget: "text"}
+      - {label: "Date", name: "date", widget: "datetime"}
+      - {label: "Link", name: "link", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
+
+# Teams
+
+  - name: 'teams'
+    label: 'Teams'
+    folder: '_teams/'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - {label: "Name", name: "title", widget: "string"}
+      - {label: "Image", name: "image", widget: "image"}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Date", name: "date", widget: "datetime"}
+      - {label: "Link", name: "link", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
+
+
+
+
+ 
