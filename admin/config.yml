@@ -36,7 +36,7 @@ collections:
         name: "author"
         widget: "relation"
         collection: "people"
-        search_fields: "title"
+        search_fields: ["title"]
         value_field: "title"
       - label: "Categories"
         name: "category"
