@@ -61,7 +61,7 @@ collections:
       preview: false
     fields:
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Description", name: "description", widget: "text", required: false}
 
 # Resources
 
@@ -82,18 +82,21 @@ collections:
         collection: "organisations"
         search_fields: ["title"]
         value_field: "title"
+        required: false
       - label: "Author"
         name: "author"
         widget: "relation"
         collection: "people"
         search_fields: ["title"]
         value_field: "title"
+        required: false
       - label: "Team"
         name: "team"
         widget: "relation"
         collection: "teams"
         search_fields: ["title"]
         value_field: "title"
+        required: false
       - label: "Categories"
         name: "category"
         widget: "relation"
@@ -119,7 +122,7 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Short title", name: "short-title", widget: "string"}
-      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Description", name: "description", widget: "text", required: false}
 
 # Tools
 
@@ -131,7 +134,7 @@ collections:
       preview: false
     fields:
       - {label: "Name", name: "title", widget: "string"}
-      - {label: "Image", name: "image", widget: "image"}
+      - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Date", name: "date", widget: "datetime"}
       - {label: "Link", name: "link", widget: "string"}
@@ -141,6 +144,7 @@ collections:
         collection: "organisations"
         search_fields: ["title"]
         value_field: "title"
+        required: false
       - label: "Topic categories"
         name: "category"
         widget: "relation"
@@ -148,6 +152,7 @@ collections:
         search_fields: ["title"]
         value_field: "title"
         multiple: true
+        required: false
       - label: "Tool categories"
         name: "tool-category"
         widget: "relation"
@@ -155,6 +160,7 @@ collections:
         search_fields: ["title"]
         value_field: "title"
         multiple: true
+        required: false
       - {label: "Body", name: "body", widget: "markdown", required: false}
 
   - name: 'tool-categories'
@@ -165,7 +171,7 @@ collections:
       preview: false
     fields:
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Description", name: "description", widget: "text", required: false}
 
 # Books
 
@@ -181,7 +187,7 @@ collections:
       preview: false
     fields:
       - {label: "Name", name: "title", widget: "string"}
-      - {label: "Image", name: "image", widget: "image"}
+      - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Date", name: "date", widget: "datetime"}
       - {label: "Link", name: "link", widget: "string"}
@@ -191,17 +197,12 @@ collections:
         collection: "organisation-types"
         search_fields: ["title"]
         value_field: "title"
-      - label: "Categories"
-        name: "category"
-        widget: "relation"
-        collection: "topic-categories"
-        search_fields: ["title"]
-        value_field: "title"
         multiple: true
+        required: false
       - {label: "Body", name: "body", widget: "markdown", required: false}
 
-  - name: 'org-type'
-    label: 'Organisation type'
+  - name: 'organisation-types'
+    label: 'Organisation types'
     folder: '_organisation-types/'
     create: true
     editor:
@@ -209,7 +210,7 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Short title", name: "short-title", widget: "string"}
-      - {label: "Description", name: "description", widget: "text" }
+      - {label: "Description", name: "description", widget: "text", required: false }
 
 # Courses
 
@@ -222,7 +223,7 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Short title", name: "short-title", widget: "string"}
-      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Description", name: "description", widget: "text", required: false}
 
 # People
 
@@ -234,7 +235,7 @@ collections:
       preview: false
     fields:
       - {label: "Name", name: "title", widget: "string"}
-      - {label: "Image", name: "image", widget: "image"}
+      - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Date", name: "date", widget: "datetime"}
       - {label: "Link", name: "link", widget: "string"}
@@ -250,7 +251,7 @@ collections:
       preview: false
     fields:
       - {label: "Name", name: "title", widget: "string"}
-      - {label: "Image", name: "image", widget: "image"}
+      - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Date", name: "date", widget: "datetime"}
       - {label: "Link", name: "link", widget: "string"}
