@@ -5,6 +5,13 @@ admin_path: "/admin/"
 webhook_url: 
 sections:
 - type: directory
+  path: _design-principles
+  label: Design principles
+  create: documents
+  match: "**/*"
+  templates:
+  - topic
+- type: directory
   path: _topics
   label: Topics
   create: documents
