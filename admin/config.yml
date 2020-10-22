@@ -29,18 +29,21 @@ collections:
         collection: "organisations"
         search_fields: ["title"]
         value_field: "title"
+        required: false
       - label: "Author"
         name: "author"
         widget: "relation"
         collection: "people"
         search_fields: ["title"]
         value_field: "title"
+        required: false
       - label: "Team"
         name: "team"
         widget: "relation"
         collection: "teams"
         search_fields: ["title"]
         value_field: "title"
+        required: false
       - label: "Categories"
         name: "category"
         widget: "relation"
