@@ -7,5 +7,7 @@ link: https://www.strategy-business.com/article/00318
 date: 2015-03-20 00:00:00 +0000
 resource-type:
 - _resource-types/design-principles.md
+category:
+- Design principles
 
 ---
