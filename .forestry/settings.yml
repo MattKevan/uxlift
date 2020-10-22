@@ -12,6 +12,13 @@ sections:
   templates:
   - topic
 - type: directory
+  path: _topic-categories
+  label: Topic categories
+  create: documents
+  match: "**/*"
+  templates:
+  - topic-hub
+- type: directory
   path: _resources
   label: Resources
   create: documents
@@ -24,12 +31,12 @@ sections:
   create: documents
   match: "**/*"
 - type: directory
-  path: _topic-categories
-  label: Topic categories
+  path: _design-principles
+  label: Design principles
   create: documents
   match: "**/*"
   templates:
-  - topic-hub
+  - topic
 - type: directory
   path: _courses
   label: Courses

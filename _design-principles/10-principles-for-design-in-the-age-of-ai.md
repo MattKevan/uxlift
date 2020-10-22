@@ -6,5 +6,8 @@ link: https://www.fastcodesign.com/3067632/10-principles-for-design-in-the-age-o
 resource-type:
 - _resource-types/design-principles.md
 category:
+- Design principles
 - Artificial Intelligence
+date: 2017-01-30 00:00:00 +0000
+
 ---

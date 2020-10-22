@@ -1,9 +1,16 @@
 ---
-title: Airbnb's Design Principles
-link : https://airbnb.design/the-way-we-build/
+title: The way we build – how rethinking the Airbnb app changed the way we approach
+  design
+link: https://airbnb.design/the-way-we-build/
 author: Airbnb
 featured: true
-overview:
+overview: 
 resource-type:
-- _resource-types/design-principles.md  
+- _resource-types/design-principles.md
+description: 'This article kicks off an ongoing series on Airbnb’s new Design Language
+  System. '
+category:
+- Design systems
+- Design principles
+
 ---
