@@ -1,5 +1,5 @@
 ---
 title: Icon libraries
 description:
-singular: Icon library
+short-title: Icon library
 ---

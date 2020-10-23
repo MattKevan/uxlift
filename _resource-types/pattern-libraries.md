@@ -1,5 +1,5 @@
 ---
 title: Pattern libraries
 description:
-singular: Pattern library
+short-title: Pattern library
 ---

@@ -7,9 +7,6 @@
 			
 			<p>{{ item.description }}</p>	
 
-		    <p class="tags xs">
-		    	{% for cat in item.category %}<span><a href="/topics/{{ cat | slugify }}">{{ cat }}</a></span>{% endfor %}
-		    	{% for t in item.tool %}<span><a href="/tools/{{ t | slugify}}">{{ t }}</a></span>{% endfor %}
-			</p>
+		    {% include tags.html %}
 
 	</div>

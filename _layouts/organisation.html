@@ -17,13 +17,7 @@ layout: default
 
 
 
-{% assign has_articles = 'no' %}
 
-{% for item in site.topics %}
-	{% if item.organisation == page.path %}
-			{% assign has_articles = 'yes' %}
-	{% endif %}
-{% endfor %}
 
 
 {% assign has_courses = 'no' %}
@@ -34,8 +28,19 @@ layout: default
 	{% endif %}
 {% endfor %}
 
+
+<!-- Articles -->
+
+{% assign has_articles = 'no' %}
+
+{% for item in site.topics %}
+	{% if item.organisation == page.path %}
+			{% assign has_articles = 'yes' %}
+	{% endif %}
+{% endfor %}
+
 {% if has_articles == 'yes' %}
-	<hr>
+	
 	<h2>Articles</h2>
 
 	<div class="row">
@@ -48,6 +53,7 @@ layout: default
 			{% endfor %}
 		</div>
 	</div>
+	
 {% endif %}
 
 {% if has_courses == 'yes' %}

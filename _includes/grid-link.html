@@ -8,10 +8,8 @@
 
 			<p>{{ item.description }}</p>	
 
-		    <p class="tags xs">
-		    	{% for cat in item.category %}<span>{{ cat }}</span>{% endfor %}
-		    	{% for tag in item.tags %}<span>{{ tag }}</span>{% endfor %}
-			</p>
+			{% include tags.html %}
+
 
 		</div>
 

@@ -18,16 +18,7 @@
 
 			<h4><a href="{{ item.url }}">{{ item.title }}</a></h4>	      
 
-			{% if item.organisation %}
-				<p class="weblink s">
-					{% for org in site.organisations %}
-						{% if org.path == item.organisation %}
-							<a href="{{ org.url }}"><img class="list-logo" src="{{ org.image }}" alt="{{ org.title }}" />
-							{{ org.title }}</a>
-					  	{% endif %}
-					{% endfor %}
-				</p>
-			{% endif %}
+			{% include weblink.html %}
 
 			<p>{{ item.description }}</p>
 
@@ -52,38 +43,7 @@
 			{% endif %}
 			
 			
-			    <p class="tags xs">
-			    	
-					{% if item.org-type%}
-
-				    	{% for org in site.organisation-types %}
-				    		{% for type-path in item.org-type %}
-					    		{% if  org.path == type-path %}
-									<span><a href="{{ org.url }}">{{ org.short-title }}</a></span>
-					    		{% endif [%}
-							{% endfor %}
-				    	{% endfor %}
-					{% endif %}
-					
-			    	{% if item.course-type %}
-						{% for type in site.course-types %}
-							{% if type.path == item.course-type%}
-								<span><a href="{{ type.url }}">{{ type.course-type }}</a></span>
-							{% endif%}
-						{% endfor %}
-					{% endif %}
-
-				    {% if item.level %}
-						<span>{{ item.level }}</span>
-					{% endif %}
-					
-					{% if item.category %}
-					    {% for cat in item.category %}
-							<span>{{ cat }}</span>
-						{% endfor %}
-					{% endif %}
-
-				</p>
+			{% include tags.html %}
 			
 
 		</div>

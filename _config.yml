@@ -105,7 +105,7 @@ defaults:
       path: ""
       type: resources
     values:
-      layout: topic
+      layout: resource
   -
     scope:
       path: ""

@@ -37,20 +37,48 @@
 		    				{% endif %}
 	    				{% endif %}
 
-	    				{% if page.category %}
-						    <p class="fullpage tags xs">
-							    
+	    				<p class="fullpage tags xs">
+			    	
+							{% if page.org-type %}
+								{% for org in site.organisation-types %}
+									{% for type-path in page.org-type %}
+							    		{% if  org.path == type-path %}
+											<span><a href="{{ org.url }}">{{ org.short-title }}</a></span>
+							    		{% endif [%}
+									{% endfor %}
+								{% endfor %}
+
+							{% endif %}
+
+							{% if page.course-type %}
+								{% for type in site.course-types %}
+									{% if type.path == page.course-type%}
+										<span><a href="{{ type.url }}">{{ type.course-type }}</a></span>
+									{% endif%}
+								{% endfor %}
+							{% endif %}
+
+							{% if page.resource-type %}
+								{% for res in site.resource-types %}
+									{% for resource-path in page.resource-type %}
+										{% if res.path == resource-path %}
+											<span><a href="{{ res.url }}">{{ res.short-title }}</a></span>
+										{% endif%}
+									{% endfor %}
+								{% endfor %}
+							{% endif %}
+
+							{% if page.level %}
+								<span>{{ page.level }}</span>
+							{% endif %}
+
+							{% if page.category %}
 							    {% for cat in page.category %}
 									<span>{{ cat }}</span>
 								{% endfor %}
-								{% if page.source %}
-									{% for src in page.source %}
-										<span>{{ src }}</span>
-									{% endfor %}
-								{% endif %}
+							{% endif %}
 
-							</p>
-						{% endif %}
+						</p>
 
 						{% if page.link %}
 		    				{% if page.link != '' %}
