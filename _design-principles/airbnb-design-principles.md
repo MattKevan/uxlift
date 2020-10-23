@@ -12,5 +12,7 @@ description: 'This article kicks off an ongoing series on Airbnb’s new Design 
 category:
 - Design systems
 - Design principles
+date: 2016-04-01 00:00:00 +0100
+organisation: _organisations/airbnb-design.md
 
 ---
