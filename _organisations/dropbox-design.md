@@ -6,6 +6,8 @@ description: "Welcome, we are Dropbox Design."
 link: https://dropbox.design/
 source:
 - UX team
+org-type: 
+- _organisation-types/ux-teams.md
 ---
 We believe simple is magic, and business software should be elegant and intuitive—your tools for work should work for you.
 

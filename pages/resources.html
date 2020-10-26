@@ -2,10 +2,10 @@
 layout: default
 title: Resources
 permalink: /resources/
-description: Recommended reading on UX, design and usability.
+description: Curated resources to help you develop your craft, from innovation toolkits to recommended books, fonts, icons, design principles, pattern libraries and much more.
 ---
 
-<h2>Resource types</h2>
+<h2>Explore resources</h2>
 <div class="row">
 	{% assign sorted_items = site.resource-types | sort:'title' %}
 		{% for item in sorted_items %}
@@ -15,10 +15,10 @@ description: Recommended reading on UX, design and usability.
 	{% endfor %}
 </div>
 <hr>
-
+<h2>Latest additions</h2>
 <div class="row">
-	{% assign sorted_items = site.resources | sort:'title' %}
-	{% for item in sorted_items %}
+	{% assign sorted_items = site.resources | sort:'date' %}
+	{% for item in sorted_items limit:9 %}
 		{% include grid-link.html %}
 	{% endfor %}
 </div>

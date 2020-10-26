@@ -7,5 +7,6 @@ description: We take care of the how Monzo works and how Monzo looks across pret
   to the hot coral of our cards.
 image: "/assets/images/Monzo.svg"
 link: https://monzo.com/design/
-
+org-type: 
+- _organisation-types/ux-teams.md
 ---

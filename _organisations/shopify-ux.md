@@ -6,5 +6,6 @@ description: The latest thinking on commerce, craft, and culture from the Shopif
   UX team.
 image: "/assets/images/shopify.svg"
 link: https://ux.shopify.com
-
+org-type: 
+- _organisation-types/ux-teams.md
 ---

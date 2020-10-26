@@ -7,5 +7,6 @@ description: A behind-the-scenes look at our design culture, process, learnings,
   along the way.
 image: "/assets/images/airbnb.svg"
 link: https://airbnb.design
-
+org-type: 
+- _organisation-types/ux-teams.md
 ---
