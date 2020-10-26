@@ -20,7 +20,7 @@
 	    				{% endunless %}
 	    				
 	    				<h1>
-	    					{% if page.image %}
+	    					{% if page.image and page.url !='/' %}
 								{% if page.image != '' %}
 									<img src="{{ page.image }}" alt="{{ page.title }}" />
 								{% endif %}

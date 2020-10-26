@@ -20,8 +20,7 @@ description: > # this means to ignore newlines until "baseurl:"
   A collection of the best articles, resources, books and tools, covering every aspect of the UX and design process.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.uxlift.org" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+logo: /assets/site/uxlift-logo-card.jpg
 lang: en_GB
 # Build settings
 markdown: kramdown
