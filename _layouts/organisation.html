@@ -15,20 +15,6 @@ layout: default
 
 {% endif %}
 
-
-
-
-
-
-{% assign has_courses = 'no' %}
-
-{% for item in site.courses%}
-	{% if item.organisation == page.path %}
-		{% assign has_courses = 'yes' %}
-	{% endif %}
-{% endfor %}
-
-
 <!-- Articles -->
 
 {% assign has_articles = 'no' %}
@@ -56,50 +42,63 @@ layout: default
 	
 {% endif %}
 
-{% if has_courses == 'yes' %}
+<!-- Courses -->
 
-<h2>Courses</h2>
-<!--<div class="filters">
-	<label>Level</label>
-	 <button type="button" class="btn btn-primary category-button active" data-filter = "all"> All </button>
+{% assign has_courses = 'no' %}
 
 {% for item in site.courses%}
-	{% capture items %}
-	{% for cat in item.category %}
-
-	{{ cat }},
-
-	{% endfor %}
-		{% endcapture %}
-	{% endfor %}
-
-		
-{% assign filtered_items = items | split: ', '  %}
-
-{% for tag in filtered_items %}
-<p>{{ tag }}</p>
-{% endfor %}
-
-
- 	<button type="button" class="btn btn-primary category-button" data-filter = "{{ f }}"> {{ f }} </button>
-
- </div>  -->
-<div class="row">
-{% assign sorted_items = site.courses | sort:'title' %}
-{% for item in sorted_items %}
 	{% if item.organisation == page.path %}
-		{% include grid-item-small.html %}
+		{% assign has_courses = 'yes' %}
 	{% endif %}
 {% endfor %}
-</div>
-<p><a href="/courses">See all courses »</a></p>
-   
-
-		{% endif %}
 
 
+{% if has_courses == 'yes' %}
 
-<hr>
+	<h2>Courses</h2>
+	<div class="row">
+		{% assign sorted_items = site.courses | sort:'title' %}
+		{% for item in sorted_items %}
+			{% if item.organisation == page.path %}
+				{% include grid-item-small.html %}
+			{% endif %}
+		{% endfor %}
+
+	</div>
+	<p><a href="/courses">See all courses »</a></p>
+	<hr>
+
+{% endif %}
+
+<!-- Resources -->
+
+{% assign has_resources = 'no' %}
+
+{% for item in site.resources %}
+	{% if item.organisation == page.path %}
+		{% assign has_resources = 'yes' %}
+	{% endif %}
+{% endfor %}
+
+
+{% if has_resources == 'yes' %}
+
+	<h2>Resources</h2>
+	<div class="row">
+		{% assign sorted_items = site.resources | sort:'title' %}
+		{% for item in sorted_items %}
+			{% if item.organisation == page.path %}
+				{% include grid-link.html %}
+			{% endif %}
+		{% endfor %}
+
+	</div>
+	<p><a href="/resources">See all resources »</a></p>
+	<hr>
+	
+{% endif %}
+
+
 		
 {% include newsletter-form.html %}
 		
