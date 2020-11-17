@@ -12,4 +12,5 @@ fields:
   name: description
   label: Description
 pages:
+- _resource-types/podcasts.md
 - _resource-types/ui-kits.md
