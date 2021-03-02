@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+	{% include head.html %}
+
+	<body data-spy="scroll"  data-offset="30" data-target="#navbar-pagenav">
+	    {% include header.html %}
+
+	    <div class="wrapper {{ page.layout }}">
+	    	<div class="container">
+	    		<div class="row">
+	    			<div class="col col-md-8 offset-md-2">
+	    				
+	    				
+	    				<h1>
+	    					{% if page.image and page.url !='/' %}
+								{% if page.image != '' %}
+									<img src="{{ page.image }}" alt="{{ page.title }}" />
+								{% endif %}
+							{% endif %}
+							{{ page.title }}
+							
+						</h1>
+
+
+						
+						{% if page.description %}
+		    				{% if page.description != '' %}
+		    					<p class="lead">{{ page.description }}</p>
+		    				{% endif %}
+	    				{% endif %}
+
+	    				
+	    				<div class="content text largecontent">
+	    				{% assign if_content = content | strip_newlines %}
+						{% if if_content != "" %}
+						    {{ content }}
+					    {% endif %}
+					</div>
+	    				
+					</div>
+				</div>
+			</div>
+		</div>
+
+	    {% include footer.html %}
+
+	</body>
+</html>

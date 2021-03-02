@@ -21,18 +21,37 @@
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'Work Sans';
+    src: url('fonts/work-sans/worksans-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
 
+@font-face {
+    font-family: 'Work Sans';
+    src: url('fonts/work-sans/worksans-bold-webfont.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Basic:ital,wght@0,400;0,700;1,400&display=swap');
+
+
+$font-size-base:            1.1rem !default; // Assumes the browser default, typically `16px`
 $font-family-sans-serif:	'IBM Plex Sans', Helvetica, Arial, sans-serif;
-$headings-font-family:      'IBM Plex Sans', Helvetica, Arial, sans-serif;
+$font-family-serif:         'Gentium Basic', Helvetica, Arial, sans-serif;
+$headings-font-family:      $font-family-sans-serif;
+$font-family-base:          $font-family-serif !default;
 $font-family-monospace:     'IBM Plex Mono',  SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace !default;
-
+$body-color:                #343a40 !default;
 
 $headings-font-weight:		700 !default;
 $font-weight-base:          400;
-$line-height-base:          1.5 !default;
+$line-height-base:          1.6 !default;
 
 $blue:    					#2962FF !default;
-$link-color:                $blue;
+$link-color:                $blue;  
 $link-hover-color:          darken($link-color, 25%) !default;
 $component-active-bg:       $link-hover-color;
 $input-btn-focus-color:  	$link-hover-color;

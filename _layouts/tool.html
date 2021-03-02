@@ -25,9 +25,7 @@ layout: default
 	{% endfor %}
 {% endfor %}
 
-{% include newsletter-form.html %}
 
-<hr>
 
 {% if has_articles == 'yes' %}
 
@@ -44,7 +42,7 @@ layout: default
 			{% endfor %}
 		</div>
 	</div>
-
+<hr>
 {% endif %}				
 
 {% assign has_courses = 'no' %}
@@ -68,10 +66,10 @@ layout: default
 			{% endif %}
 		{% endfor %}
 	</div>
-
+<hr>
 {% endif %}
 
-<hr>
+
 		
 <h2>Alternatives to {{ page.title }}</h2>
 		
