@@ -199,19 +199,19 @@ p.item-list {
 
 p.tags {
 	font-family: 'IBM Plex Mono', monospace;
-	margin:10px 0 0 0;
+	margin: 0;
 	display: inline-block;
 	span {
-		//border-color: #ECECEC;
-		//border-style: solid;
-		//border-width: 1px;
+		border-color: #ECECEC;
+		border-style: solid;
+		border-width: 1px;
 		padding: 3px 10px;
 		margin-right: 2px;
 		margin-bottom: 8px;
 		display: inline-block;
 		a {color: #444;}
-		border-radius: 20px;
-		background-color: #f5f5f5;
+		border-radius: 3px;
+		//background-color: #f5f5f5;
 	}
 }
 
@@ -315,13 +315,6 @@ p.fullpage.tags {
 	
 }
 
-.list-item {
-	border-color: #ECECEC;
-	border-width: 0 0 1px 0;
-	border-style: solid;
-	margin-bottom: 30px;
-	padding-bottom: 30px;
-}
 
 
 h1 img {
@@ -342,7 +335,8 @@ h1 img {
 
 p.weblink {
 	color: #444;
-	font-family: 'IBM Plex Mono', sans-serif;
+	font-family: 'IBM Plex Mono', monospace, sans-serif;
+	margin: 5px 0 10px 0;
 	a { color: #444; }
 	img {
 		margin-top: -2px;

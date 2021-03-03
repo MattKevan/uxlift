@@ -18,7 +18,7 @@ layout: default
 <h2>Featured articles</h2>
 
 <div class="row">
-	<div class="col-12 col-sm-8">
+
 
 
 		{% assign sorted_items = site.topics | sort:'date' | reverse %}
@@ -27,7 +27,7 @@ layout: default
 					{% include list-link.html %}
 			{% endif %}
 		{% endfor %}
-	</div>
+
 </div>
 
 		

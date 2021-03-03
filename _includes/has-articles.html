@@ -11,19 +11,21 @@
 
 
 {% if has_articles == 'yes' %}
-
+<h2>Articles</h2>	
 				<div class="row" id="Articles">
-					<div class="col-12 col-md-8">
-					<h2>Articles</h2>		
+					
+						
 					{% assign sorted_items = site.topics | sort:'date' | reverse %}
 					{% for item in sorted_items %}
 						{% for cat in item.category %}
 							{% if page.title == cat and item.type == 'Article'%}
-								{% include list-link.html %}
+								
+									{% include list-link.html %}
+							
 							{% endif %}
 						{% endfor %}
 					{% endfor %}
-				</div>
+				
 			</div>
 					
 <hr>

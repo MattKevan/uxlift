@@ -25,9 +25,9 @@ image: /assets/site/uxlift-logo-card.jpg
 <div class="row">
 	{% assign t = site.topics | where: "type","Article" | sort:'date' | reverse %}
 	{% for item in t limit:4 %}
-		<div class="col-12 col-md-6">
+
 			{% include list-link.html %}
-		</div>
+
 	{% endfor %}	
 </div>
 

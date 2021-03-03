@@ -22,10 +22,10 @@ searchtext: Search topics
 <h2>Latest articles</h2>
 
 <div class="row">
-	<div class="col-12 col-md-8">
+
 		{% assign sorted = site.topics | where: "type", "Article" | sort:'date' | reverse %}
 		{% for item in sorted limit:6 %}
 			{% include list-link.html %}
 		{% endfor %}	
-	</div>
+
 </div>
