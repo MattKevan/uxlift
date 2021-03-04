@@ -11,5 +11,5 @@ resource-type:
 category:
 - Service design
 - Design thinking
-
+image: "/assets/images/usds-logo-seal.png"
 ---

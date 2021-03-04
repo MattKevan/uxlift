@@ -10,7 +10,9 @@ description: Curated resources to help you develop your craft, from innovation t
 	{% assign sorted_items = site.resource-types | sort:'title' %}
 		{% for item in sorted_items %}
 		<div class="col-6 col-md-3 col-sm-4">
+			
 			<p class="topic-title"><a href="{{ item.url }}">{{ item.title }}</a></p>
+
 		</div>
 	{% endfor %}
 </div>

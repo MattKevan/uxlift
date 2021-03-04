@@ -8,7 +8,8 @@ category:
 - Design thinking
 resource-type:
 - _resource-types/toolkits.md
-
+image: "/assets/images/75.png"
+screenshot: "75toolsforcreativethinking.com-1366x900-cropped.png"
 ---
 **Creative tools for everybody:** all the creative tools used by professionals translated in a simple and clear way, regardless your profession or background.
 

@@ -2,17 +2,32 @@
 
 	<div class="container s">
 		<hr>
+
 		<div class="row">
-			
 			<div class="col-12">
 				<iframe src="https://uxlift.substack.com/embed" width="100%" height="290" style="border:none; background:white;" frameborder="0" scrolling="no"></iframe>
 			</div>
 		</div>
 		
 		<hr>
+
+		<div class="row">
+			<div class="col-12 footer-topics">
+				<h5>Browse all topics</h5>
+				<ul>
+					{% assign sorted_items = site.topic-categories | sort:'title' %}
+					{% for item in sorted_items %}
+						<li class="footer-topic-item"><a href="{{ item.url }}">{{ item.title }}</a></li> 
+					{% endfor %}
+				</ul>	
+			</div>
+		</div>
+
+		<hr>
+
 		<div class="row">
 			<div class="col-12 col-md-6">
-				
+
 				<h5>Popular tools</h5>
 				<ul>
 					<li><a href="/tools/design-to-code/">Design-to-code</a></li>
@@ -29,34 +44,28 @@
 					<li><a href="/topics/topics/ux-writing/">UX writing</a></li>
 
 				</ul>
-
 			</div>
 
 			<div class="col-12 col-md-6">
 				<h5>Popular resources</h5>
 				<ul>
-				<li><a href="/resources/toolkits/">Design toolkits</a></li>
-				<li><a href="/resources/design-principles">Design principles</a></li>
-				<li><a href="/resources/books">UX & design books</a></li>
-				<li><a href="/resources/pattern-libraries">Pattern libraries</a></li>
-			</ul>
+					<li><a href="/resources/toolkits/">Design toolkits</a></li>
+					<li><a href="/resources/design-principles">Design principles</a></li>
+					<li><a href="/resources/books">UX & design books</a></li>
+					<li><a href="/resources/pattern-libraries">Pattern libraries</a></li>
+				</ul>
 
 				<h5>Support UX Lift</h5>
 
 				<p class="text">UX Lift is an independent UX resource and takes time, effort and money to keep running. If you find it useful, please consider <a href="/about#support">supporting UX Lift</a> to help make it sustainable.</p>
-
-
 			</div>
-
-
 		</div>
 
-		<hr>
+		<hr class="narrow">
 
 		<div class="row">
-
-
 			<div class="col-12 sub-footer">
+
 				<ul class="text float-left">
 					<li><strong>Made in Manchester by Matt Kevan.</strong></li>
 					<li><a href="/about#submit">Submit content</a></li>
@@ -64,18 +73,13 @@
 					<li><a href="https://www.iubenda.com/privacy-policy/78513725">Privacy policy</a></li>
 					<li><a href="https://www.iubenda.com/privacy-policy/78513725/cookie-policy">Cookie policy</a></li>
 					<li>© 2021.</li>
-					
 				</ul>
+
 				<a href="https://www.kevan.tv" target="_blank"><img class="mk-logo float-right" src="/assets/site/logo.svg" alt="Matt Kevan" /></a>
+
 			</div>
-
 		</div>
-
-
 	</div>
-
-
-
 </footer>
 
 <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>

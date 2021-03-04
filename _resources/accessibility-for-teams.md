@@ -8,5 +8,5 @@ category:
 - Accessibility
 resource-type:
 - _resource-types/toolkits.md
-
+screenshot: "accessibility.digital.gov-1366x900-cropped.png"
 ---

@@ -9,7 +9,7 @@ category:
 - Design thinking
 resource-type:
 - _resource-types/toolkits.md
-
+image: "/assets/images/futuremakers.png"
 ---
 ### Phase 1: Trends and signals
 

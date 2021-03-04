@@ -1,15 +1,30 @@
 <div class="col-12 col-md-6 col-lg-4 grid-item mb-3 mt-3">
 	<div class="card h-100">
 		<div class="grid-content">
+			{% if item.layout == 'resource' %}
+				
+					<a href="{{ item.link }}" target="_blank">
+						<img class="screenshot" src="/assets/screenshots/{{ item.title | slugify }}.jpg" alt="{{ item.title }}" />
+					</a>
+				
+			{% endif %}
+			<div class="card-body">
 			
-			<h5><a href="{{ item.link }}?ref=uxlift.org" target="_blank">{{ item.title }}</a></h5>	
+			{% if item.image %}
+				{% if item.image != "" %}
+					<a href="{{ item.url }}" target="_blank">
+						<img class="logo" src="{{ item.image }}" alt="{{ item.title }}" />
+					</a>
+				{% endif %}
+			{% endif %}
+			<h5 class="card-title"><a href="{{ item.link }}?ref=uxlift.org" target="_blank">{{ item.title }}</a></h5>	
 
 			{% include weblink.html %}
 
-			<p>{{ item.description }}</p>	
+			<p class="card-text">{{ item.description }}</p>	
 
 			{% include tags.html %}
-
+		</div>
 
 		</div>
 

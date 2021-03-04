@@ -1,0 +1,8 @@
+---
+---
+
+{% for item in site.resources %}
+
+{{ item.title | slugify }}, {{ item.link }}<br>
+
+{% endfor %}
