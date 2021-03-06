@@ -105,9 +105,10 @@ h2 {
 }
 .topic-title {
 	//font-weight: bold;
-	font-family: $font-family-sans-serif;
-	margin: 5px 0;
-	font-weight: bold;
+	//font-family: $font-family-sans-serif;
+	//margin: 5px 0;
+	//font-weight: bold;
+	font-size: 1.2rem;
 	 @media (min-width: 768px) {
 	 	//font-size: 1px;
 	 	margin: 10px 0;
@@ -295,6 +296,10 @@ p.fullpage.tags {
 	border: none;
 	font-family: $font-family-sans-serif;
 	font-size: 1rem;
+
+	.screenshot {
+		border-radius: 8px 8px 0 0;
+	}
 }
 .grid-item {
 

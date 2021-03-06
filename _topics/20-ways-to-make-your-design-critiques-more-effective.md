@@ -13,5 +13,5 @@ category:
 - Collaboration
 type: Article
 preview: ''
-organisation: _people/ux-for-the-masses.md
+person: _people/ux-for-the-masses.md
 ---

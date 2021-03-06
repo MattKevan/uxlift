@@ -60,7 +60,7 @@ layout: default
 		{% assign sorted_items = site.courses | sort:'title' %}
 		{% for item in sorted_items %}
 			{% if item.organisation == page.path %}
-				{% include grid-item-small.html %}
+				{% include grid-item.html %}
 			{% endif %}
 		{% endfor %}
 

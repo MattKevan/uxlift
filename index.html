@@ -23,7 +23,7 @@ image: /assets/site/uxlift-logo-card.jpg
 <h2>Latest articles</h2>
 
 <div class="row">
-	{% assign t = site.topics | where: "type","Article" | sort:'date' | reverse %}
+	{% assign t = site.topics | sort:'date' | reverse %}
 	{% for item in t limit:4 %}
 
 			{% include list-link.html %}

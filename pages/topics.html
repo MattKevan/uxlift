@@ -23,7 +23,7 @@ searchtext: Search topics
 
 <div class="row">
 
-		{% assign sorted = site.topics | where: "type", "Article" | sort:'date' | reverse %}
+		{% assign sorted = site.topics | sort:'date' | reverse %}
 		{% for item in sorted limit:6 %}
 			{% include list-link.html %}
 		{% endfor %}	

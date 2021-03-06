@@ -13,5 +13,5 @@ category:
 - Visual design
 type: Article
 preview: ''
-organisation: _people/suleyn-yu.md
+person: _people/suleyn-yu.md
 ---

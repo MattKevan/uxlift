@@ -4,7 +4,7 @@ date: 2020-04-16 10:48:31 +0100
 title: ThoughtWorks
 description: Rooted in a culture of learning and sharing, we believe that knowledge
   should be accessible for all.
-image: ''
+image: '/assets/images/thoughtworks.jpg'
 link: https://www.thoughtworks.com/insights
 org-type: 
 - _organisation-types/ux-agency.md
