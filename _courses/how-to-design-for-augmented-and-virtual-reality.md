@@ -8,7 +8,7 @@ title: How to design for augmented and virtual reality
 description: Master how to create immersive 3D content for AR and VR that provides
   rich user experiences
 category:
-- Augmented and virtual reality
+- AR/VR
 location:
 - Online
 link: https://www.interaction-design.org/courses/how-to-design-for-augmented-and-virtual-reality

@@ -8,8 +8,8 @@ title: 'The brain and technology: brain science in interface design'
 description: This course merges brain science and computer science in order to teach
   you the field of Human-Computer Interaction (HCI).
 category:
-- Human-computer interaction
 - Interaction design
+- Interface design
 location:
 - Online
 link: https://www.interaction-design.org/courses/the-brain-and-technology-brain-science-in-interface-design

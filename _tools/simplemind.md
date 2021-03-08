@@ -5,7 +5,6 @@ image: "/assets/images/simplemind.png"
 description: SimpleMind is the world leader in cross platform Mind Mapping tools.
 link: https://simplemind.eu
 category:
-- Mind mapping
 - Diagramming
 
 ---

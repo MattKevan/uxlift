@@ -4,8 +4,16 @@ title: UX & design books
 permalink: /books/
 description: Recommended reading on UX, design and usability.
 ---
-
-
+<h2>Explore books</h2>
+<div class="row">
+	{% assign filtered = site.books | sort:'title' | map: 'category' | uniq %}
+		{% for item in filtered %}
+		<div class="col-6 col-md-3 col-sm-4">
+			<p class="topic-title"><a href="/topics/{{ item | slugify }}#Books">{{ item }}</a></p>
+		</div>
+	{% endfor %}
+</div>
+<hr>
 <div class="row">
 	{% assign sorted_items = site.books | sort:'title' %}
 	{% for item in sorted_items %}

@@ -9,6 +9,7 @@ description: This course will give you the skills needed to create your personal
   UX portfolio site and PDF UX portfolio.
 category:
 - User experience
+- UX careers
 location:
 - Online
 link: https://www.interaction-design.org/courses/how-to-create-a-ux-portfolio

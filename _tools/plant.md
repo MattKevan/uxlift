@@ -3,7 +3,7 @@ title: Plant
 description: Organise Sketch files, keep track of versions, maximise productivity.
 link: http://www.plantapp.io
 category:
-- Handoff
+- Developer handoff
 - Design version control
 image: "/assets/images/plant.svg"
 date: 2019-07-15T08:37:46.000+00:00

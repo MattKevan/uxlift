@@ -35,7 +35,7 @@
 
 	{% if item.category %}
 	    {% for cat in item.category %}
-			<span>{{ cat }}</span>
+			<span><a href="/topics/{{ cat | slugify }}">{{ cat }}</a></span>
 		{% endfor %}
 	{% endif %}
 

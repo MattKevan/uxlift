@@ -2,7 +2,7 @@
 
 {% for item in site.topics %}
 	{% for cat in item.category %}
-		{% if page.title == cat and item.type == 'Article'%}
+		{% if page.title == cat %}
 			{% assign has_articles = 'yes' %}
 		{% endif %}
 	{% endfor %}

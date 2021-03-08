@@ -1,5 +1,7 @@
 ---
-category: ''
+category: 
+- UX design
+- Prototyping
 title: 'UX Design: From Concept to Prototype'
 description: Great design doesn’t come out of nowhere; it is born, nurtured, and grown
   – all through a systematic, learnable process.

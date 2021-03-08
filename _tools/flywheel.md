@@ -7,7 +7,6 @@ description: Whatever your work environment, Flywheel's powerful WordPress platf
   doing your best work.
 link: https://share.getf.ly/m23r4a
 category:
-- Hosting
 - Web development
 
 ---

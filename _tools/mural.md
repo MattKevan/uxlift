@@ -5,7 +5,6 @@ image: "/assets/images/mural.png"
 description: MURAL is a digital workspace for visual collaboration.
 link: https://mural.co
 category:
-- Mind mapping
 - Diagramming
 - Collaboration
 

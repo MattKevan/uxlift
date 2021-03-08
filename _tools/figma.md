@@ -8,7 +8,7 @@ category:
 - Visual design
 - Prototyping
 - Collaboration
-- Handoff
+- Developer handoff
 image: "/assets/images/figma.png"
 date: 2019-09-03T10:29:24.000+00:00
 

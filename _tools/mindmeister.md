@@ -6,7 +6,6 @@ description: 'MindMeister is an online mind mapping tool that lets you capture, 
   and share ideas visually. '
 link: https://www.mindmeister.com
 category:
-- Mind mapping
 - Diagramming
 
 ---

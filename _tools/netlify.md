@@ -6,7 +6,6 @@ description: 'Netlify is everything you need to build fast, modern websites: con
   deployment, serverless functions, and so much more.'
 link: https://www.netlify.com
 category:
-- Hosting
 - Web development
 
 ---

@@ -1,6 +1,9 @@
 {% assign has_plugins = 'no' %}
 {% assign has_resources = 'no' %}
+{% assign has_articles = 'no' %}
 {% assign has_books = 'no' %}
+{% assign has_courses = 'no' %}
+{% assign has_tools = 'no' %}
 
 {% for item in site.plugin %}
 	{% for cat in item.category %}
@@ -12,12 +15,11 @@
 
 {% for item in site.topics %}
 	{% for cat in item.category %}
-		{% if page.title == cat and item.type == 'Resource'%}
-			{% assign has_resources = 'yes' %}
+		{% if page.title == cat %}
+			{% assign has_articles = 'yes' %}
 		{% endif %}
 	{% endfor %}
 {% endfor %}
-
 
 {% for item in site.books %}
 	{% for cat in item.category %}
@@ -27,18 +29,6 @@
 	{% endfor %}
 {% endfor %}
 
-{% assign has_toolboxes = 'no' %}
-
-{% for item in site.toolboxes %}
-	{% for cat in item.category %}
-		{% if page.title == cat %}
-			{% assign has_toolboxes = 'yes' %}
-		{% endif %}
-	{% endfor %}
-{% endfor %}
-
-{% assign has_resources = 'no' %}
-
 {% for item in site.resources %}
 	{% for cat in item.category %}
 		{% if page.title == cat %}
@@ -47,8 +37,6 @@
 	{% endfor %}
 {% endfor %}
 
-{% assign has_courses = 'no' %}
-
 {% for item in site.courses %}
 	{% for cat in item.category %}
 		{% if page.title == cat '%}
@@ -56,8 +44,6 @@
 		{% endif %}
 	{% endfor %}
 {% endfor %}
-
-{% assign has_tools = 'no' %}
 
 {% for item in site.tools %}
 	{% for cat in item.category %}
@@ -83,10 +69,8 @@
 					<li class="nav-item"><a href="#Systems" class="nav-link crollLink">Systems</a></li>
 				{% endif %}
 
-				<li class="nav-item"><a href="#Articles" class="nav-link scrollLink">Articles</a></li>
-
-				{% if has_toolboxes == 'yes' %}
-					<li class="nav-item"><a href="#Toolboxes" class="nav-link scrollLink">Design toolboxes</a></li>
+				{% if has_articles == 'yes' %}
+					<li class="nav-item"><a href="#Articles" class="nav-link scrollLink">Articles</a></li>
 				{% endif %}
 
 				{% if has_resources == 'yes' %}

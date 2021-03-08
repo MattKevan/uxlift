@@ -7,7 +7,7 @@ date: 2020-08-27T14:29:52.000+01:00
 title: "User experience: the beginner's guide"
 description: Gain a thorough understanding of the various design principles that come together to create a user’s experience when using a product or service.
 category:
-- User experience
+- UX design
 location:
 - Online
 link: https://www.interaction-design.org/courses/user-experience-the-beginner-s-guide

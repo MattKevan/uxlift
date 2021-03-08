@@ -7,7 +7,7 @@ date: 2020-08-27T14:29:52.000+01:00
 title: "Become a UX designer from scratch"
 description: If you want to join one of the most rapidly growing fields in design, then look no further – this course will show you how to embark on a new career in UX design.
 category:
-- User experience
+- UX design
 location:
 - Online
 link: https://www.interaction-design.org/courses/become-a-ux-designer-from-scratch

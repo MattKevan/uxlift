@@ -281,13 +281,10 @@ p.fullpage.tags {
 }
 .listing {
  h2 {
- 	margin-top: 80px;
+ 	margin-top: 0;
  	margin-bottom: 20px;
  }
 
- hr {
- 	margin-bottom: 20px;
- }
 }
 .card {
 	border-radius: 8px;
@@ -449,7 +446,6 @@ p.weblink {
 // Footer
 
 footer {
-	margin-top: 100px;
 	font-size: 1rem;
 
 	ul {

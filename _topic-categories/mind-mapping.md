@@ -1,5 +1,0 @@
----
-title: Mind mapping
-description: ''
-
----

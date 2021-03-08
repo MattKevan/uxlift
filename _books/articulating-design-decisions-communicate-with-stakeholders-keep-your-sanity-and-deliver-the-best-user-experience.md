@@ -1,7 +1,6 @@
 ---
 date: 2019-10-16 12:38:33 +0100
-title: 'Articulating Design Decisions: Communicate with Stakeholders, Keep Your Sanity,
-  and Deliver the Best User Experience'
+title: 'Articulating Design Decisions'
 image: "/assets/images/articulating-design-decisions.jpg"
 description: Talking to people about your designs might seem like a basic skill, but it
   can be difficult to do efficiently and well.
@@ -10,6 +9,7 @@ link: https://amzn.to/2OSO98c
 category:
 - Communication
 - Visual design
+- Developer handoff
 pubdate: 2015-10-05 00:00:00 +0100
 authors: Tom Greever
 publisher: O'Reilly

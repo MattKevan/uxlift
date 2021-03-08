@@ -5,7 +5,7 @@ description: An enterprise-grade, integrated collaboration and workflow platform
 link: http://www.sympli.io
 category:
 - Prototyping
-- Handoff
+- Developer handoff
 image: "/assets/images/sympli.png"
 date: 2019-07-15T08:37:46.000+00:00
 

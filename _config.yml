@@ -102,6 +102,12 @@ defaults:
   -
     scope:
       path: ""
+      type: topic-categories
+    values:
+      layout: listing
+  -
+    scope:
+      path: ""
       type: resources
     values:
       layout: resource

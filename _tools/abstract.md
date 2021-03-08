@@ -4,7 +4,7 @@ description: One place to version, manage, and collaborate on your Sketch files.
 link: http://www.goabstract.com
 category:
 - Design version control
-- Handoff
+- Developer handoff
 - Design systems
 image: /assets/images/abstract.png
 date: 2019-07-15 09:37:46 +0100

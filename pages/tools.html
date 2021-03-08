@@ -9,10 +9,10 @@ section: Tools
 <h2>Explore tools</h2>
 
 <div class="row">
-	{% assign sorted_items = site.tool-categories | sort:'title' %}
-	{% for item in sorted_items %}
-		<div class="col col-md-3 col-sm-4">
-			<p class="topic-title"><a href="{{ item.url }}">{{ item.title }}</a></p>
+	{% assign filtered = site.tools | sort:'category' | map: 'category' | uniq %}
+		{% for item in filtered %}
+		<div class="col-6 col-md-3 col-sm-4">
+			<p class="topic-title"><a href="/topics/{{ item | slugify }}#Tools">{{ item }}</a></p>
 		</div>
 	{% endfor %}
 </div>

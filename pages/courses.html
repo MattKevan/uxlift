@@ -3,12 +3,17 @@ layout: default
 title: UX courses
 permalink: /courses/
 ---
-<h2>Course types</h2>
+{% assign sorted_items = site.topic-categories | sort:'title' %}
+
+
+
+
+<h2>Explore courses</h2>
 <div class="row">
-	{% assign sorted_items = site.course-types | sort:'title' %}
-		{% for item in sorted_items %}
+	{% assign filtered = site.courses | sort:'category' | map: 'category' | uniq %}
+		{% for item in filtered %}
 		<div class="col-6 col-md-3 col-sm-4">
-			<p class="topic-title"><a href="{{ item.url }}">{{ item.title }}</a></p>
+			<p class="topic-title"><a href="/topics/{{ item | slugify }}#Courses">{{ item }}</a></p>
 		</div>
 	{% endfor %}
 </div>
@@ -20,7 +25,6 @@ permalink: /courses/
 		{% include grid-item.html %}
 	{% endfor %}
 </div>
-<p><a href="/courses/all-courses">See all courses »</a></p>
 <hr>
 <h2>Learning providers</h2>
 <div class="row filter-grid">
@@ -29,7 +33,8 @@ permalink: /courses/
 		{% include grid-item.html %}
 	{% endfor %}
 </div>
-<p><a href="/learning-providers">See all learning providers »</a></p>
+<p><a href="/directory/learning-provider">See all learning providers »</a></p>
+<hr>
 
 
 

@@ -39,7 +39,7 @@ image: /assets/site/uxlift-logo-card.jpg
 
 <div class="row">
 	{% assign tool = site.tools | sort:'date' | reverse %}
-	{% for item in tool limit:3 %}
+	{% for item in tool limit:6 %}
 		{% include grid-item.html %}
 	{% endfor %}	
 </div>
@@ -59,17 +59,7 @@ image: /assets/site/uxlift-logo-card.jpg
 
 <p><a href="/books">See all books »</a></p>
 
-<script>
-  if (window.netlifyIdentity) {
-    window.netlifyIdentity.on("init", user => {
-      if (!user) {
-        window.netlifyIdentity.on("login", () => {
-          document.location.href = "/admin/";
-        });
-      }
-    });
-  }
-</script>
+<hr>
 
 
 

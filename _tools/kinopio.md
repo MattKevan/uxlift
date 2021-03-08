@@ -5,7 +5,6 @@ image: "/assets/images/kinopio.png"
 description: Kinopio is the visual thinking tool for new ideas and hard problems.
 link: https://kinopio.club
 category:
-- Mind mapping
 - Diagramming
 
 ---

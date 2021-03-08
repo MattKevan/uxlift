@@ -8,7 +8,7 @@ title: Information visualization
 description: Simple but practical lessons to guide your development in information
   visualization.
 category:
-- User experience
+- UX design
 location:
 - Online
 link: https://www.interaction-design.org/courses/information-visualization-infovis
