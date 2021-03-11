@@ -12,5 +12,5 @@ category:
 - User testing
 type: Article
 preview: ''
-organisation: _organisations/nielsen-norman.md
+directory: _directory/nielsen-norman.md
 ---

@@ -10,5 +10,5 @@ type: Article
 date: 2016-03-15 00:00:00 +0000
 site: UX Planet
 image: "/assets/images/uxp-1.png"
-organisation: _organisations/ux-planet.md
+directory: _directory/ux-planet.md
 ---

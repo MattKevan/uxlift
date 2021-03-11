@@ -1,0 +1,19 @@
+---
+layout: default
+title: News
+permalink: /news/
+description: Latest UX news.
+---
+
+<h2></h2>
+
+<div class="row">
+	<div class="col-12">
+		
+		{% assign sorted = site.topics | sort:'date' | reverse %}
+		{% for item in sorted limit:50 %}
+			{% include news-item.html %}
+		{% endfor %}	
+		
+	</div>
+</div>

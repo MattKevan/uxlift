@@ -14,7 +14,7 @@ permalink: /publications/
 
         
 <div class="row filter-grid">
-	{% assign sorted_items = site.organisations | where: 'org-type','_organisation-types/publication.md' | sort:'title' %}
+	{% assign sorted_items = site.directory | where: 'org-type','_directory-types/publication.md' | sort:'title' %}
 	{% for item in sorted_items %}
 		{% include grid-item.html %}
 	{% endfor %}

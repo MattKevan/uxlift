@@ -12,6 +12,6 @@ category:
 - Wireframing
 type: Article
 preview: ''
-organisation: _organisations/usability-gov.md
+directory: _directory/usability-gov.md
 
 ---

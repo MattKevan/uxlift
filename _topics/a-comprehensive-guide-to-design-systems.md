@@ -10,5 +10,5 @@ type: Article
 date: '2019-06-23T23:00:00.000+00:00'
 preview: ''
 image: "/assets/images/inv.png" 
-organisation: _organisations/inside-design-by-invision.md
+directory: _directory/inside-design-by-invision.md
 ---

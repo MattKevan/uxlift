@@ -6,5 +6,6 @@ description: Hey there! I'm Brad Frost, a web designer, speaker, consultant, wri
   and musician located in beautiful Pittsburgh, PA.
 image: "/assets/images/atomic-1.png"
 link: https://www.bradfrost.com
-
+directory-type: 
+- _directory-types/individuals.md
 ---

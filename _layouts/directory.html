@@ -1,0 +1,108 @@
+---
+layout: default
+---
+
+{% assign con = content | strip_newlines %}
+{% if con != "" %}
+
+	<div class="row">
+		<div class="col col-sm-10 col-sm-offset-1">
+			{{ content }}
+		</div>
+	</div>
+
+	<hr>
+
+{% endif %}
+
+<!-- Articles -->
+
+{% assign has_articles = 'no' %}
+
+{% for item in site.topics %}
+	{% if item.directory == page.path %}
+			{% assign has_articles = 'yes' %}
+	{% endif %}
+{% endfor %}
+
+{% if has_articles == 'yes' %}
+	
+	<h2>Articles</h2>
+
+	<div class="row">
+
+			{% assign sorted_items = site.topics | sort:'date' | reverse %}
+			{% for item in sorted_items %}
+				{% if item.directory == page.path %}
+				<div class="col-12">
+					{% include news-item.html %}
+				</div>
+				{% endif %}
+			{% endfor %}
+
+	</div>
+	<hr>
+{% endif %}
+
+<!-- Courses -->
+
+{% assign has_courses = 'no' %}
+
+{% for item in site.courses%}
+	{% if item.directory == page.path %}
+		{% assign has_courses = 'yes' %}
+	{% endif %}
+{% endfor %}
+
+
+{% if has_courses == 'yes' %}
+
+	<h2>Courses</h2>
+	<div class="row">
+		{% assign sorted_items = site.courses | sort:'title' %}
+		{% for item in sorted_items %}
+			{% if item.directory == page.path %}
+				{% include grid-item.html %}
+			{% endif %}
+		{% endfor %}
+
+	</div>
+	<p><a href="/courses">See all courses »</a></p>
+	<hr>
+
+{% endif %}
+
+<!-- Resources -->
+
+{% assign has_resources = 'no' %}
+
+{% for item in site.resources %}
+	{% if item.directory == page.path %}
+		{% assign has_resources = 'yes' %}
+	{% endif %}
+{% endfor %}
+
+
+{% if has_resources == 'yes' %}
+
+	<h2>Resources</h2>
+	<div class="row">
+		{% assign sorted_items = site.resources | sort:'title' %}
+		{% for item in sorted_items %}
+			{% if item.directory == page.path %}
+				{% include grid-link.html %}
+			{% endif %}
+		{% endfor %}
+
+	</div>
+	<p><a href="/resources">See all resources »</a></p>
+	<hr>
+	
+{% endif %}
+		
+
+
+
+
+
+

@@ -5,5 +5,5 @@ description: "Tooltips are powerful design patterns implemented to enhance the d
 link: "https://smashingmagazine.com/2021/02/designing-tooltips-mobile-user-interfaces/"
 category:
 - Interface design
-organisation: _organisations/smashing-magazine.md
+directory: _directory/smashing-magazine.md
 ---

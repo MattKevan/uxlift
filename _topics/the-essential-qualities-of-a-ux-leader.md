@@ -11,5 +11,5 @@ category:
 - UX leadership
 type: Article
 preview: ''
-organisation: _organisations/ux-mastery.md
+directory: _directory/ux-mastery.md
 ---

@@ -10,5 +10,5 @@ category:
 - Language
 - Onboarding
 - Ux writing
-organisation: _organisations/ux-booth.md
+directory: _directory/ux-booth.md
 ---

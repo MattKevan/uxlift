@@ -13,5 +13,5 @@ category:
 - Optimisation
 type: Article
 preview: ''
-organisation: _organisations/.md
+directory: _directory/.md
 ---

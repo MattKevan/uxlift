@@ -5,5 +5,5 @@ description: "As digital practitioners, GDPR has impacted every facet of our pro
 link: "https://smashingmagazine.com/2021/03/state-gdpr-2021-cookie-consent-designers-developers/"
 category:
 - Privacy
-organisation: _organisations/smashing-magazine.md
+directory: _directory/smashing-magazine.md
 ---

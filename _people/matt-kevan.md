@@ -5,5 +5,6 @@ title: Matt Kevan
 description: "Hi, I'm Matt Kevan, a UX and visual designer with a mission to create innovative, people-first digital experiences."
 image: "/assets/images/kevan.gif"
 link: https://www.kevan.tv
-
+directory-type:
+- _directory-types/individuals.md
 ---

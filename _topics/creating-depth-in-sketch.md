@@ -11,5 +11,5 @@ category:
 - Visual design
 type: Article
 preview: ''
-organisation: _organisations/design-sketch.md
+directory: _directory/design-sketch.md
 ---

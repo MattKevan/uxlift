@@ -11,5 +11,5 @@ category:
 - Design systems
 type: Article
 preview: ''
-organisation: _organisations/geri-reid.md
+directory: _directory/geri-reid.md
 ---

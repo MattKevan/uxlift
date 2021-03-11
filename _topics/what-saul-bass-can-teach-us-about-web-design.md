@@ -5,5 +5,5 @@ description: "Film credits, brand logos, posters… Saul Bass did it all, and th
 link: "https://smashingmagazine.com/2021/02/saul-bass-teach-web-design/"
 category:
 - Visual design
-organisation: _organisations/smashing-magazine.md
+directory: _directory/smashing-magazine.md
 ---

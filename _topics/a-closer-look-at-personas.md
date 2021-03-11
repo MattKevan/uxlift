@@ -9,5 +9,5 @@ link: https://www.smashingmagazine.com/2014/08/a-closer-look-at-personas-part-1/
 site: Smashing Magazine
 type: Article
 date: 2014-08-06 00:00:00 +0100
-organisation: _organisations/smashing-magazine.md
+directory: _directory/smashing-magazine.md
 ---

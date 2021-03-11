@@ -12,6 +12,6 @@ category:
 - Handoff
 type: Article
 preview: ''
-organisation: _organisations/ux-matters.md
+directory: _directory/ux-matters.md
 
 ---

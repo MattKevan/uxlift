@@ -9,5 +9,5 @@ category:
 type: Article
 date: 2019-08-11 00:00:00 +0100
 preview: ''
-organisation: _organisations/nielsen-norman.md
+directory: _directory/nielsen-norman.md
 ---

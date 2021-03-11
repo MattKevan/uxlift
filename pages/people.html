@@ -7,7 +7,7 @@ permalink: /people/
 
         
 <div class="row filter-grid">
-	{% assign sorted_items = site.people | sort:'title' %}
+	{% assign sorted_items = site.directory | where:'directory-types', '_directory-types/individual.md' | sort:'title' %}
 	{% for item in sorted_items %}
 		{% include grid-item.html %}
 	{% endfor %}

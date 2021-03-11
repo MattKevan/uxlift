@@ -6,7 +6,7 @@ layout: default
 
 <div class="row">
 
-	{% assign sorted_items = site.organisations | where:'org-type', page.path | sort: 'title' %}
+	{% assign sorted_items = site.directory | where:'directory-type', page.path | sort: 'title' %}
 	{% for item in sorted_items %}
 		{% include grid-item.html %}
 	{% endfor %}

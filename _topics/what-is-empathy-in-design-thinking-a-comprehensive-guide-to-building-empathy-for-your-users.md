@@ -11,5 +11,5 @@ category:
 type: Article
 date: 2018-11-22 00:00:00 +0000
 preview: ''
-organisation: _organisations/career-foundry.md
+directory: _directory/career-foundry.md
 ---

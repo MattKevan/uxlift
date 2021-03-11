@@ -12,5 +12,5 @@ tags:
 type: Article
 date: 2019-01-29 00:00:00 +0000
 image: "/assets/images/uxp-1.png"
-organisation: _organisations/ux-planet.md
+directory: _directory/ux-planet.md
 ---

@@ -35,3 +35,5 @@ This site takes time, money and effort to keep running. I update it regularly, a
 #### Colophon
 
 >This site is built with [Jekyll](https://www.jekyllrb.com) and [Bootstrap](https://www.getbootstrap.com), stored in [Github](https://www.github.com) and hosted by [Netlify](https://www.netlify.com). The fonts are [Plex](https://github.com/IBM/plex) and [Gentium](https://software.sil.org/gentium/download/).
+
+<hr>

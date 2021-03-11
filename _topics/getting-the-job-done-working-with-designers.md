@@ -11,5 +11,5 @@ category:
 - Management
 - Process
 - Skills
-organisation: _organisations/ux-booth.md
+directory: _directory/ux-booth.md
 ---

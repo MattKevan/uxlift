@@ -10,5 +10,5 @@ category:
 - Design systems
 type: Article
 preview: ''
-organisation: _organisations/cloud-four.md
+directory: _directory/cloud-four.md
 ---

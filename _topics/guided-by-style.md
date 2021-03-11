@@ -13,5 +13,5 @@ category:
 - UX writing
 type: Article
 preview: ''
-organisation: _organisations/dropbox-design.md
+directory: _directory/dropbox-design.md
 ---

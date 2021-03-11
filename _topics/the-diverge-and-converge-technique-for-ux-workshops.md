@@ -13,5 +13,5 @@ category:
 - Collaboration
 type: Article
 preview: ''
-organisation: _organisations/nielsen-norman-group.md
+directory: _directory/nielsen-norman-group.md
 ---

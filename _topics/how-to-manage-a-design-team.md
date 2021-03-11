@@ -11,5 +11,5 @@ category:
 - UX leadership
 type: Article
 preview: ''
-organisation: _organisations/inside-design-by-invision.md
+directory: _directory/inside-design-by-invision.md
 ---

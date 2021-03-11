@@ -11,5 +11,5 @@ type: Article
 date: 2016-06-27T23:00:00.000+00:00
 preview: ''
 image: "/assets/images/favicon.ico-1.png"
-organisation: _organisations/ux-booth.md
+directory: _directory/ux-booth.md
 ---

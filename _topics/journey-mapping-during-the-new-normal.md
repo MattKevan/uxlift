@@ -7,5 +7,5 @@ category:
 - Business strategy
 - Collaboration
 - User experience
-organisation: _organisations/ux-booth.md
+directory: _directory/ux-booth.md
 ---

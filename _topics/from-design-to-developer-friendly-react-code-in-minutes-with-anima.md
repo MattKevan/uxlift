@@ -5,5 +5,5 @@ description: "In this article, we’ll learn how to turn our static designs into
 link: "https://smashingmagazine.com/2021/01/design-developer-friendly-react-code-animaapp/"
 category:
 - Design-to-code
-organisation: _organisations/smashing-magazine.md
+directory: _directory/smashing-magazine.md
 ---

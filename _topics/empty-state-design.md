@@ -10,6 +10,6 @@ tags:
 type: Article
 image: "/assets/images/inv.png"
 date: 2015-06-22T00:00:00.000+01:00
-organisation: _organisations/inside-design-by-invision.md
+directory: _directory/inside-design-by-invision.md
 
 ---

@@ -11,5 +11,5 @@ category:
 - Collaboration
 type: Article
 preview: ''
-organisation: _organisations/abstract.md
+directory: _directory/abstract.md
 ---

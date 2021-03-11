@@ -1,0 +1,12 @@
+---
+title: "Livestream Ecommerce - What We Can Learn from China"
+date: 2021-02-28 17:00:00 +0000
+dateadded: 2021-03-11 13:47:40 +0000
+description: "Livestreams allow users to see products in detail and get their questions answered in real time. They can be integrated in ecommerce websites and on social-networking apps."
+link: "https://www.nngroup.com/articles/livestream-ecommerce-china/"
+category:
+- Article
+directory:
+- _directory/nielsen-norman-group.md
+---
+<p><strong>Summary:</strong>&nbsp;Livestreams allow users to see products in detail and get their questions answered in real time. They can be integrated in ecommerce websites and on social-networking apps.</p><hr/><br/><p> <strong>  Livestream ecommerce </strong> is a business model in which retailers, influencers, or celebrities sell products and services via online video streaming where the presenter demonstrates and discusses the offering and answers audience questions in real-time. A livestream session could take place on an ecommerce website or on a social media platform. It can be store or brand-specific; influencers can also host livestream events promoting items from various vendors.</p><p> Livestream ecommerce has been surging dramatically in China. According to <a href="https://www.forbes.com/sites/michellegreenwald/2020/12/10/live-streaming-e-commerce-is-the-rage-in-china-is-the-us-next/?sh=1822ca0a6535%27">  Forbes </a> , this industry is estimated to earn $60 billion annually. In 2019, about 37% of the online shoppers in China (265 million people) made livestream purchases. On Taobao’s 2020 annual Single-Day Global Shopping Festival (November 11th), <a href="https://www.forbes.com/sites/laurenhallanan/2020/11/16/live-streaming-drives-6-billion-usd-in-sales-during-the-1111-global-shopping-festival">  livestreams accounted for $6 billion in sales (twice the amount from the prior year). </a></p><p> This trend is spreading beyond China, to the United States and other countries. TikTok teamed up with Walmart and presented its first livestream selling event in December 2020. Ten influencers promoted Walmart products with some try-on demonstrations during the one-hour event. People could browse the list of featured items and even place an order directly within the TikTok app during the event.</p><br/><br/><a href="http://www.nngroup.com/articles/livestream-ecommerce-china/">Read Full Article</a>

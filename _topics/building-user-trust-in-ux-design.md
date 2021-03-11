@@ -6,5 +6,5 @@ link: "https://smashingmagazine.com/2021/02/building-user-trust-in-ux-design/"
 category:
 - Design ethics
 - Interface design
-organisation: _organisations/smashing-magazine.md
+directory: _directory/smashing-magazine.md
 ---

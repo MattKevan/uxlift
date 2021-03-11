@@ -9,5 +9,5 @@ category:
 - Usability
 - User interface
 - Voice
-organisation: _organisations/ux-booth.md
+directory: _directory/ux-booth.md
 ---

@@ -1,0 +1,7 @@
+---
+---
+{% for item in site.directory %}{% if item.feed %}
+- name: {{ item.title }}
+  feed: {{ item.feed }}
+  path: {{ item.path }}
+{% endif %}{% endfor %}

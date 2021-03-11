@@ -5,5 +5,5 @@ description: "What makes a good chatbot experience? Most people think of witty r
 link: "https://smashingmagazine.com/2021/01/create-engaging-useful-chatbot/"
 category:
 - Conversational design
-organisation: _organisations/smashing-magazine.md
+directory: _directory/smashing-magazine.md
 ---

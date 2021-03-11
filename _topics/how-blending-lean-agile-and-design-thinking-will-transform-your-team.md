@@ -10,5 +10,5 @@ image: ''
 category:
 - UX process
 type: Article
-organisation: _organisations/general-assembly.md
+directory: _directory/general-assembly.md
 ---

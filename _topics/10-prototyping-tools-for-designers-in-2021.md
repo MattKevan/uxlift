@@ -9,5 +9,5 @@ category:
 - Prototyping
 - Software
 - Ux tools
-organisation: _organisations/ux-booth.md
+directory: _directory/ux-booth.md
 ---

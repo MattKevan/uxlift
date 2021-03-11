@@ -1,14 +1,9 @@
 ---
-date: 2020-06-29 09:25:50 +0100
-tool: ''
-title: Know Thyself
-description: Tools for designers to to apply in their everyday work to make more ethically
-  aware decisions.
-link: https://matthewstrom.com/ethics/know-thyself/
-site: ''
-image: ''
+title: "Know thyself"
+date: 2020-06-08 00:00:00 +0000
+dateadded: 2021-03-11 16:27:27 +0000
+description: ""
+link: "https://matthewstrom.com/ethics/know-thyself/"
 category:
-- Design ethics
-type: Article
-person: _people/matthew-ström.md
+directory: _directory/matthew-ström.md
 ---

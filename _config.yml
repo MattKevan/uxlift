@@ -33,6 +33,7 @@ permalink: pretty
 exclude:
   - Gemfile
   - Gemfile.lock
+  - scripts
 
 sass:
   sass_dir: _sass
@@ -67,24 +68,18 @@ collections:
   plugin:
     output: true
     permalink: /plugins/:path/
-  toolboxes:
-    output: true
-    permalink: /toolboxes/:path/
   courses:
     output: true
     permalink: /courses/:path/
   course-types:
     output: true
     permalink: /courses/:path/
-  organisations:
+  directory:
     output: true
     permalink: /directory/:path/
-  organisation-types:
+  directory-types:
     output: true
     permalink: directory/:path
-  people:
-    output: true
-    permalink: /people/:path
   resources:
     output: true
     permalink: /resources/:path
@@ -150,21 +145,15 @@ defaults:
   -
     scope:
       path: ""
-      type: toolboxes
-    values:
-      layout: tool
-  -
-    scope:
-      path: ""
       type: courses
     values:
       layout: course
   -
     scope:
       path: ""
-      type: organisations
+      type: directory
     values:
-      layout: organisation
+      layout: directory
   -
     scope:
       path: ""
@@ -173,11 +162,6 @@ defaults:
       layout: course-listing
   -
     scope:
-      type: people
-    values:
-      layout: people
-  -
-    scope:
-      type: organisation-types
+      type: directory-types
     values:
       layout: org-listing

@@ -11,5 +11,5 @@ site: Optimal Workshop
 type: Article
 image: "/assets/images/optimalworkshop.png"
 date: 2016-04-13 00:00:00 +0100
-organisation: _organisations/optimal-workshop-blog.md
+directory: _directory/optimal-workshop-blog.md
 ---

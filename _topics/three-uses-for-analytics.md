@@ -12,5 +12,5 @@ site: Nielsen Norman
 type: Article
 image: "/assets/images/nielsen.png"
 date: 2013-11-17 00:00:00 +0000
-organisation: _organisations/nielsen-norman-group.md
+directory: _directory/nielsen-norman-group.md
 ---

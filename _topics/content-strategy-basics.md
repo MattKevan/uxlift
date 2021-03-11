@@ -9,5 +9,5 @@ site: Usability.gov
 type: Article
 date: 2016-01-24 00:00:00 +0000
 image: "/assets/images/usabilitygov-1.png"
-organisation: _organisations/usability-gov.md
+directory: _directory/usability-gov.md
 ---

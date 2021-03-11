@@ -9,5 +9,5 @@ site: Inside Design by InVision
 type: Article
 image: "/assets/images/inv.png"
 date: 2019-01-28 00:00:00 +0000
-organisation: _organisations/inside-design-by-invision.md
+directory: _directory/inside-design-by-invision.md
 ---

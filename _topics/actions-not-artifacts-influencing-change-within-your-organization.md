@@ -9,5 +9,5 @@ category:
 - Design strategy
 - Portfolio
 - User experience
-organisation: _organisations/ux-booth.md
+directory: _directory/ux-booth.md
 ---

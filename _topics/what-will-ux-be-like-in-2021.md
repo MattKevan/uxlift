@@ -9,5 +9,5 @@ category:
 - Future
 - Pandemic
 - Remote collaboration
-organisation: _organisations/ux-booth.md
+directory: _directory/ux-booth.md
 ---

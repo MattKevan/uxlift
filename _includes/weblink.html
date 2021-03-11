@@ -1,18 +1,10 @@
 <p class="weblink s">
 
-	{% if item.organisation %}
-		{% for org in site.organisations %}
-			{% if org.path == item.organisation %}
-				<a href="{{ org.url }}"><img class="list-logo" src="{{ org.image }}" alt="{{ org.title }}" />
-				{{ org.title }}
-		  	{% endif %}
-		{% endfor %}
-
-	{% elsif item.person %}
-		{% for author in site.people %}
-			{% if author.path == item.person %}
-				<a href="{{ author.url }}"><img class="list-logo" src="{{ author.image }}" alt="{{ author.title }}" />
-				{{ author.title }}
+	{% if item.directory %}
+		{% for dir in site.directory %}
+				{% if dir.path == item.directory %}
+					<a href="{{ dir.url }}"><img class="list-logo" src="{{ dir.image }}" alt="{{ dir.title }}" />
+				{{ dir.title }}
 		  	{% endif %}
 		{% endfor %}
 
@@ -28,7 +20,7 @@
 		 – {{ item.date | date: "%-d %B %Y" }}
 	{% endif %}
 
-	{% if item.organisation or item.person %}
+	{% if item.directory %}
 		</a>
 	{% endif %}
 

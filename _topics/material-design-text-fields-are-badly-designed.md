@@ -6,5 +6,5 @@ link: "https://smashingmagazine.com/2021/02/material-design-text-fields/"
 category:
 - Interface design
 - Accessibility
-organisation: _organisations/smashing-magazine.md
+directory: _directory/smashing-magazine.md
 ---

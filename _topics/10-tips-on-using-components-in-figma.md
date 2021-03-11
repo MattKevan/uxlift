@@ -13,5 +13,5 @@ type: Article
 preview: ''
 tool:
 - Figma
-organisation: _organisations/design-with-figma.md
+directory: _directory/design-with-figma.md
 ---

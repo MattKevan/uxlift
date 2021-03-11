@@ -6,7 +6,8 @@ description: I'm a UI and UX designer, working in a design systems team. I make 
   and accessible digital products, that scale.
 image: "/assets/images/geri-reid.svg"
 link: https://www.gerireid.com
-
+directory-type: 
+- _directory-types/individuals.md
 ---
 I've designed digital products for the past 15 years. I've worked mainly in-house for big old banks like Merrill Lynch, UBS, Lloyds Banking Group with a few Fintechs and startups in between.
 

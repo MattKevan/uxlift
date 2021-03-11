@@ -8,7 +8,7 @@ description: 'Explore the wider world of UX, from communities to educational org
 <h2>Explore the directory</h2>
 
 <div class="row">
-	{% assign sorted_items = site.organisation-types | sort:'title' %}
+	{% assign sorted_items = site.directory-types | sort:'title' %}
 		{% for item in sorted_items %}
 		<div class="col-6 col-md-3 col-sm-4">
 			<p class="topic-title"><a href="{{ item.url }}">{{ item.title }}</a></p>
@@ -21,7 +21,7 @@ description: 'Explore the wider world of UX, from communities to educational org
 <h2>Latest additions</h2>
 
 <div class="row filter-grid">
-	{% assign sorted_items = site.organisations | sort:'date' | reverse %}
+	{% assign sorted_items = site.directory | sort:'date' | reverse %}
 	{% for item in sorted_items limit: 9%}
 		{% include grid-item.html %}
 	{% endfor %}

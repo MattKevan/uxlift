@@ -11,7 +11,7 @@ type: Article
 date: 2019-08-12T00:00:00.000+01:00
 preview: ''
 image: "/assets/images/abstract.png"
-organisation: _organisations/abstract.md
+directory: _directory/abstract.md
 tool: ''
 
 ---

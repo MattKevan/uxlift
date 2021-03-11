@@ -8,5 +8,5 @@ category: Design thinking
 site: Design Council
 type: Article
 date: 2007-01-20 00:00:00 +0000
-organisation: _organisations/design-council.md
+directory: _directory/design-council.md
 ---

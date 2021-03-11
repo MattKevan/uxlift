@@ -1,0 +1,60 @@
+---
+title: "Combining Our UX Metrics With Compelling, Emotional Stories"
+date: 2020-06-08 20:03:49 +0000
+dateadded: 2021-03-11 13:47:41 +0000
+description: "We often think of metrics as analytical things, devoid of any emotion. After all, an 11.5% conversion rate is just a number. It’s possible we consider it a good number (it’s better than an 8.5% conversion rate) or a poor number (we really wanted a 17.5% conversion rate), but that’s as much emotion as we’ll […]"
+link: "https://articles.uie.com/combining-our-ux-metrics-with-compelling-emotional-stories/"
+category:
+- Metrics
+directory:
+- _directory/uie.md
+---
+<p>We often think of metrics as analytical things, devoid of any emotion. After all, an 11.5% conversion rate is just a number. It’s possible we consider it a good number (it’s better than an 8.5% conversion rate) or a poor number (we really wanted a 17.5% conversion rate), but that’s as much emotion as we’ll allow&nbsp;it.</p>
+<p>User experience, on the other hand, is a very emotional thing. When we deliver a crappy design, our users become frustrated. When we push out a delightful design, we see our users showing&nbsp;joy.</p>
+<p>We don’t want our users to become frustrated. Delivering non-frustrating designs takes hard&nbsp;work.</p>
+<p>To deliver the designs we want, we need support from our stakeholders, executives, and other influencers. We need our stakeholders to give us the permission, resources, budget, and encouragement necessary to deliver our users designs that are joyous to use. But how do we communicate with them to get the support we so desperately need?</p>
+<h3><strong>Metrics are the lingua franca of organizational change</strong></h3>
+<p><span style="font-weight: 400;">When an organization’s leadership wants to change something, they track their progress with metrics. When they want to increase sales, they’ll track progress with a sales metric. When they expand into new markets, they’ll track their progress with a market share metric.</span></p>
+<p><span style="font-weight: 400;">As UX leaders, we also want to improve the experiences our products and services deliver. To show those improvements, particularly in large organizations, we’ll need to find metrics that track our progress. If our stakeholders are to give us the support we need, we need a way to show that their support will produce the change we’re promising.</span></p>
+<p><span style="font-weight: 400;">We want UX metrics. But metrics are devoid of emotion and improving a frustrating design is intrinsically emotional. We have to find a way to surface the emotion when we’re using metrics, which is an inherently difficult process.</span></p>
+<h3><strong>The flaws inherent in converting emotions to a metric</strong></h3>
+<p><span style="font-weight: 400;">In the past, we’ve tried to convert the emotions—the frustration and the joy—directly into a numeric metric. We’ve tried this by putting emotions on a scale and reporting numerical increases and decreases.</span></p>
+<p><span style="font-weight: 400;">Unfortunately, one doesn’t have to go much farther than “satisfactions” measures (CSAT, <a href="https://articles.uie.com/net-promoter-score-considered-harmful-and-what-ux-professionals-can-do-about-it/">Net Promoter Score</a>, SUS, and others) to see that this approach has never worked. After all, what does a 1.4 improvement in satisfaction really mean? Or what do we do differently when NPS drops by 3.25 points?</span></p>
+<p><span style="font-weight: 400;">Since metrics are intrinsically unemotional, converting emotions to a number just strips out all of the value. Instead, we’ve found the best approach is to present stories of user research alongside the metrics that show how we track improvements. The stories amplify the emotion while the numbers show what’s happening at scale.</span></p>
+<h3><strong>Example: A frustrating sign-up process</strong></h3>
+<p><span style="font-weight: 400;">To understand a different approach, we first need to talk about a frustrating user experience.</span></p>
+<p><span style="font-weight: 400;">Let’s say we watch a user try to sign up for our service. This user is truly excited about our service and its potential. Yet, in the process, they have a horrible sign-up experience.</span></p>
+<p><span style="font-weight: 400;">They have to try 4 different passwords because the account creation screen keeps throwing non-helpful messages saying their password is too long or not complex enough.</span></p>
+<p><span style="font-weight: 400;">They are asked to answer questions they don’t know the answers to.</span></p>
+<p><span style="font-weight: 400;">They get a random error message that says </span><em><span style="font-weight: 400;">“That didn’t work. See your system administrator” </span></em><span style="font-weight: 400;"> when they don’t have a system administrator. There’s no way to continue from this screen. They can only hit the back button and try something different.</span></p>
+<p><span style="font-weight: 400;">Our user finally becomes so frustrated that they give up. They never get the chance to experience our service because our sign-up process prevented them from getting started.</span></p>
+<h3><b>Stories, by themselves, don’t communicate scale</b></h3>
+<p><span style="font-weight: 400;">We could share that user’s story with our stakeholders. Ideally, <a href="https://articles.uie.com/user_exposure_hours/">they could even have been there and seen it for themselves</a>.</span></p>
+<p><span style="font-weight: 400;">If we do a good job, they’d relate to that user’s frustration, probably feeling a bit frustrated themselves. After all, we’ve all experienced a sign-up process just like this.</span></p>
+<p><span style="font-weight: 400;">However, just because those stakeholders empathize with the user in the story, they’re still likely to wonder about the magnitude of the problem. Is this a single isolated case? Are there just a few users who have this issue? How many people experience this problem every day?</span></p>
+<p><span style="font-weight: 400;">They’d also probably wonder about the outcomes. Maybe they didn’t sign up this time, but would they try again? Would they contact support and get help?</span></p>
+<p><span style="font-weight: 400;">This is where the metrics can help us. We can continue our story with numbers that tell us something about the scale of the problem.</span></p>
+<h3><strong>Asking for the right metrics</strong></h3>
+<p><span style="font-weight: 400;">Our example sign-up failure has some signature metrics that could help us tell the story. We could start with just understanding how many people fail to sign up. That by itself could be an interesting number.</span></p>
+<p><span style="font-weight: 400;">We could see if the people who fail to sign up ever try again. Do we lose them forever?</span></p>
+<p><span style="font-weight: 400;">We can dive in a little deeper and see for key events what happened during our user’s frustrating experience. For example, we can focus on the error messages we served this user.</span></p>
+<p><span style="font-weight: 400;">How many of the people who failed to sign up were served the confusing password messages? Also, how many of the people who successfully signed up were also served those messages? Do the differences suggest that people who got the confusing password messages are less likely to succeed at signing up?</span></p>
+<p><span style="font-weight: 400;">What about the weird “That didn’t work” message? How many of the failed sign up users received that message?</span></p>
+<p><span style="font-weight: 400;">Using our detective skills, we can get even more interesting facts. How many people abandon the sign-up process right after they get those error messages?</span></p>
+<p><span style="font-weight: 400;">Surfacing how often we deliver error messages is an under-utilized UX metrics technique. Error messages almost always result in frustration. By showing how often users get them, we can tell a story </span><em><span style="font-weight: 400;">using our UX metrics</span></em><span style="font-weight: 400;"> about our designs.</span></p>
+<h3><strong>Combining usage data with support data</strong></h3>
+<p><span style="font-weight: 400;">The sign-up failure and error message data can come with some tweaks to our analytics software. However, there are other places where we can find useful UX metrics.</span></p>
+<p><span style="font-weight: 400;">Customer support often is a healthy place to start. We can work with the support team to learn how calls or tickets come from people having trouble signing up.</span></p>
+<p><span style="font-weight: 400;">We can look specifically at the error messages our example user saw. Are users calling about these messages? How many support calls mention them? How many people said they had trouble establishing their password or getting past the “That didn’t work” error?</span></p>
+<p><span style="font-weight: 400;">Combining our story of the user we saw, along with the analytics and support data, is a compelling way to talk to stakeholders about the problem we’ve uncovered. However, there are ways to make this combination even more persuasive.</span></p>
+<h3><strong>Amplifying the impact of our metrics</strong></h3>
+<p><span style="font-weight: 400;">We can amplify our metrics, making them more robust. We can start by using longer periods for our data. Instead of reporting a short period, like a day or week’s worth of data, we’ll show our stakeholders what happened over the period of a year.</span></p>
+<p><span style="font-weight: 400;">For example, let’s say our analytics software reports that we’re getting an average of 2,600 failed sign ups each day. We can amplify this number by converting it to its one-year equivalent: 949,000 failures. Since stakeholders often deal, plan, and manage projects and objectives that span years, the longer time frame can be more relatable.</span></p>
+<p><span style="font-weight: 400;">Stakeholders are also used to working with money-based metrics. Sales, costs, and any discussions about return-on-investment are usually done in dollars (or the local currency). </span></p>
+<p><span style="font-weight: 400;">We can represent our numbers as currency. If our service’s </span><i><span style="font-weight: 400;">average customer lifetime value</span></i><span style="font-weight: 400;"> is $1200, those annual 949,000 failed sign ups would be an opportunity loss of $1.1 billion.</span></p>
+<h3><b>Everything must connect the story to the numbers</b></h3>
+<p><span style="font-weight: 400;">We started with a story about a user. However, by digging into the analytics and other data that supports that story, we came up with supporting metrics that help communicate our case. We then framed those metrics in the timeframes and units that our stakeholders find most comfortable.</span></p>
+<p><span style="font-weight: 400;">Yet, we never lost sight of the original story. It’s still the thing that humanizes the large dollars representing the problem.</span></p>
+<p><span style="font-weight: 400;">That’s what makes UX metrics different from other metrics in the organization. Humans are emotional and we don’t want to lose that when we’re talking to our stakeholders. We need them to understand that, while we can recover large opportunity costs or reduce massive support costs, we’re also making people’s lives better in the process.</span></p>
+<p><span style="font-weight: 400;">It’s our job, as UX leaders, to connect the story—which is full of emotion—with the amplified numbers—which show the magnitude of the frustrating problem at scale. We can’t expect others in the organization to build connections on their own.</span></p>
+<p><span style="font-weight: 400;">When we connect the user’s experience directly to high-impact business metrics, we’ll be driving our organization to deliver better-designed products and services.</span></p>

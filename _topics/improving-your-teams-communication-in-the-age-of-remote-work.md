@@ -5,5 +5,5 @@ description: "Remote work is taking over the world, and the biggest obstacle rem
 link: "https://smashingmagazine.com/2021/02/improve-team-communication-age-remote-work/"
 category:
 - Communication
-organisation: _organisations/smashing-magazine.md
+directory: _directory/smashing-magazine.md
 ---

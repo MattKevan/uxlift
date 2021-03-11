@@ -11,5 +11,5 @@ category:
 - Design patterns
 type: Article
 preview: ''
-organisation: _organisations/shopify-blog.md
+directory: _directory/shopify-blog.md
 ---

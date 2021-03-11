@@ -1,0 +1,31 @@
+---
+title: "Be curious"
+date: 2021-03-11 13:47:36 +0000
+dateadded: 2021-03-11 13:47:36 +0000
+description: ""
+link: "https://matthewstrom.com/writing/curiosity/"
+category:
+directory:
+- _directory/matthew-ström.md
+---
+<figure data-type="image"><img src="https://matthewstrom.com/images/curious-1.jpg" alt="This mural was somewhere on Houston in Manhattan — I took the picture out of sheer curiosity."><figcaption>This mural was somewhere on Houston in Manhattan — I took the picture out of sheer curiosity.</figcaption></figure>
+<p>A lot can (and has been) said about <a href="http://en.wikipedia.org/wiki/Aaron_Swartz" target="_blank" rel="noopener">Aaron Swartz</a>, and if you haven’t heard any of it I suggest you take a second and familiarize yourself. I recently read a quote of his, and if only one thing endures of Aaron Swartz’ legacy, I hope it’s this:</p>
+<blockquote>
+<p>“Be curious. Read widely. Try new things. I think a lot of what people call intelligence just boils down to curiosity.”</p>
+</blockquote>
+<p>I couldn’t agree more. I hope I don’t come off as self-important when I say that people often consider me an intelligent guy; but I honestly think it just comes down to the fact that I have an insatiable urge to learn new things, coupled with the inability to put something down once I’ve picked it up. It’s how I procrastinate — and I procrastinate <strong>a lot</strong>. I certainly wouldn’t claim to be an expert on any subject, and I really didn’t take formal education very seriously. I’m just curious, to a fault.</p>
+<p>But this post isn’t about me. It’s about a few of my friends that I think exemplify the spirit of curiosity, and the ways they inspire me to be more curious.</p>
+<h2 id="curiosity%2C-curiosidad%2C-%E5%A5%BD%E5%A5%87%E5%BF%83">Curiosity, curiosidad, 好奇心</h2>
+<p>My friend <a href="http://loganalexander.net/" target="_blank" rel="noopener">Logan</a> is a great example of someone who is consistently exploring. In conversations lately, he’s mentioned his goal for 2014: learn Spanish <strong>and</strong> Japanese. This isn’t unusual — I think learning new languages is probably the most popular form of self-improvement. What makes Logan different, however, is his curiosity about the culture behind the language, and his willingness to see that curiosity through to exploration. He’s travelled in Japan and South America, and upon returning from those trips brought with him ideas and customs that resonate with his personality.</p>
+<p>In his case, Logan’s curiosity about culture deepens his personality, and impresses on the people around him a sense of adventure through firsthand knowledge of far-away places.</p>
+<h2 id="show-me-style">Show me style</h2>
+<p>Another friend, <a href="http://susannahlohr.com/" target="_blank" rel="noopener">Susie</a>, exudes curiosity in every conversation she has. She’s a great friend in the sense that she’s always asking questions, and expresses genuine interest in your answers. And there’s few areas that she shows more interest in than style/fashion; she’s pioneered a blog called <a href="http://showmefibres.com/" target="_blank" rel="noopener">Fibres</a>, which consists of conversations between her and (for the moment) her friends about their personal style. Her questions, coupled with her conversational candor and genuine curiosity, elicit some really great answers from the interviewees. For her, curiosity isn’t about just the trends or what the big names are wearing — it’s about people, and the best way to explore style is through the people that make it stylish.</p>
+<p>For Susie, a curiosity about why people choose their look results in the impression of being extremely knowledgeable about fashion and style. Granted, she has a stellar fashion sense herself, but I really think it’s her curiosity that shines.</p>
+<h2 id="how-to-make-the-world-a-better-place-(ready-or-not)">How to make the world a better place (ready or not)</h2>
+<p>Finally, <a href="http://www.joshpetersel.com/blog/" target="_blank" rel="noopener">Josh</a> is one of my closest friends. I’ve worked with Josh for years, on a multitude of projects from <a href="http://braindrain.co/wp-content/uploads/2012/01/IMG_0176.jpg" target="_blank" rel="noopener">serious</a> to <a href="http://mothafuckincheese.ytmnd.com/" target="_blank" rel="noopener">silly</a>. One thing that has always stuck with me in my interactions with Josh is how curious he is about improving the things around him. He’s actually been writing at least once a week for about 7 years, often at length, on ways to improve everything from <a href="http://www.joshpetersel.com/blog/credit-card-design/" target="_blank" rel="noopener">credit cards</a> to <a href="http://www.joshpetersel.com/blog/soup-bowl-design/" target="_blank" rel="noopener">soup bowls</a>. It’s my opinion that this curiosity is what has led him to a successful jaunt through some of the toughest business school programs in the country. His drive to understand what makes things tick doesn’t necessarily come from some high-minded desire to make the lives of others drastically better (correct me if I’m wrong, dude); it seems to come from a simple but indelible curiosity.</p>
+<p>Josh’s curiosity might come from a place entirely unique to him, but in many cases the products of his passion have benefitted many people around him — including myself.</p>
+<h2 id="and-now%2C-some-bad-news">And now, some bad news</h2>
+<p>Curiosity isn’t the answer to all of life’s problems. Just being curious only gets you started; it requires a lot of sweat to chase your curiosities down. Sometimes, I mistakenly attribute to curiosity my idle floundering, reading blogs and staring at ‘inspiration’ websites. It’s pretty easy to pat yourself on the back after doing very little in the name of curiosity. So, pursue curiosity fervently, not idly. Use it to fuel passion. But don’t accept it as a substitute for determination and hard work.</p>
+<hr>
+<p><strong>In conclusion,</strong> ‘be curious’ will always be the first piece of advice I give anyone. It should be the starting point of any journey, the seed of any experiment, the foundation of any project. The advice comes with an addendum , though: ‘… and do something about it’. Be curious, and do something about it.</p>
+<p>Thanks, Aaron.</p>

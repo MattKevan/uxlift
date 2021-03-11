@@ -11,5 +11,5 @@ category:
 - T-tests
 - Usability test
 - User research
-organisation: _organisations/ux-booth.md
+directory: _directory/ux-booth.md
 ---

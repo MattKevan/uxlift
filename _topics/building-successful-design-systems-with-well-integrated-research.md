@@ -10,5 +10,5 @@ category:
 - Design systems
 type: Article
 preview: ''
-organisation: _organisations/design-systems.md
+directory: _directory/design-systems.md
 ---
