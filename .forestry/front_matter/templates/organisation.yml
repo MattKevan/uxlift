@@ -51,23 +51,3 @@ fields:
       file: _data/categories.yml
       path: category
   label: Category
-pages:
-- _organisations/content-ux.md
-- _organisations/design-buddies.md
-- _organisations/designer-hangout.md
-- _organisations/designerup.md
-- _organisations/designx.md
-- _organisations/hexagon.md
-- _organisations/iterate-ux.md
-- _organisations/mixed-methods.md
-- _organisations/northern-user-experience.md
-- _organisations/product-tribes.md
-- _organisations/r-uxdesign.md
-- _organisations/the-designership.md
-- _organisations/the-interaction-design-association.md
-- _organisations/user-defenders-community.md
-- _organisations/user-experience-professionals-association.md
-- _organisations/ux-jobs-board.md
-- _organisations/uxmentor.me.md
-- _organisations/uxswitch.md
-- _organisations/women-in-technology.md
