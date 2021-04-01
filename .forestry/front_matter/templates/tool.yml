@@ -55,6 +55,7 @@ fields:
   label: Organisation
 pages:
 - _tools/ab-tasty.md
+- _tools/bellini-slushie.md
 - _tools/bodymovin.md
 - _tools/browsee.md
 - _tools/catalog.md
