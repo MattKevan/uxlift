@@ -19,7 +19,33 @@
 			{% endif %}
 			<h5 class="card-title"><a href="{{ item.link }}?ref=uxlift.org" target="_blank">{{ item.title }}</a></h5>	
 
-			{% include weblink.html %}
+			<p class="weblink s">
+
+	{% if item.directory %}
+		{% for dir in site.directory %}
+				{% if dir.path == item.directory %}
+					<a href="{{ dir.url }}"><img class="list-logo" src="{{ dir.image }}" alt="{{ dir.title }}" />
+				{{ dir.title }}
+		  	{% endif %}
+		{% endfor %}
+
+	{% elsif item.image and item.site %}
+
+		<img class="list-logo" src="{{ item.image }}" alt="{{ item.title }}" />
+		
+		{{ item.site }}
+
+	{% endif %}
+	
+	{% if item.layout == 'topic'  %}
+		 – {{ item.date | date: "%-d %B %Y" }}
+	{% endif %}
+
+	{% if item.directory %}
+		</a>
+	{% endif %}
+
+</p>
 
 			<p class="card-text">{{ item.description }}</p>	
 
