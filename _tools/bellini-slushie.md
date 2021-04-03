@@ -2,7 +2,7 @@
 date: 2021-04-01 09:42:57 +0100
 org_ref: []
 title: Bellini Slushie
-image: ''
+image: "/assets/images/bellini.png"
 description: Get all the survey help you need with the Bellini Slushie Question Bank.
   It's a forever free, open-source database of survey questions, translations, and
   guidance.
