@@ -3,8 +3,10 @@ date: 2021-04-01 09:42:57 +0100
 org_ref: []
 title: Bellini Slushie
 image: ''
-description: Craft better surveys with our free, open-source question database.
-link: https://bellinislushie.com
+description: Get all the survey help you need with the Bellini Slushie Question Bank.
+  It's a forever free, open-source database of survey questions, translations, and
+  guidance.
+link: https://bellinislushie.com/?utm_source=UXLift.Org&utm_medium=Tools&utm_campaign=homepage
 category:
 - User research
 
