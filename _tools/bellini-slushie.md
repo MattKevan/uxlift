@@ -23,7 +23,7 @@ A million bits and pieces, scattered all over the internet.
 
 On the internet. In your old files. In colleague's minds.
 
-That’s where the Bellini Slushie **Survey Question Bank**comes in.
+That’s where the Bellini Slushie **Survey Question Bank** comes in.
 
 ### Search
 
