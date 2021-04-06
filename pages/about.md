@@ -26,7 +26,7 @@ Have you found a useful UX resource, article, book or tool? Have you written or 
 This site takes time, money and effort to keep running. I update it regularly, and there are over now over a thousand articles, tools, links, resources and more. If you'd like to help make UX Lift a sustainable project and keep it online, here's what you can do:
 
 1. Send me content. See the guidelines above.
-2. Subscribe to the [newsletter](https://uxlift.substack.com). 
+2. Subscribe to the [newsletter](https://uxlift.substack.com) – and encourage your friends and colleagues to subscribe too.
 3. Share UX Lift with your friends and colleagues – this site has grown entirely by word of mouth, so a Twitter mention or blog link would mean a lot.
 4. [Buy me a coffee](http://buymeacoffee.com/uxlift).
 
@@ -34,6 +34,6 @@ This site takes time, money and effort to keep running. I update it regularly, a
 
 #### Colophon
 
->This site is built with [Jekyll](https://www.jekyllrb.com) and [Bootstrap](https://www.getbootstrap.com), stored in [Github](https://www.github.com) and hosted by [Netlify](https://www.netlify.com). The fonts are [Plex](https://github.com/IBM/plex) and [Gentium](https://software.sil.org/gentium/download/).
+>This site is built with [Jekyll](https://www.jekyllrb.com), stored in [Github](https://www.github.com) and hosted by [Netlify](https://www.netlify.com). The fonts are [Plex](https://github.com/IBM/plex) and [Gentium](https://software.sil.org/gentium/download/).
 
 <hr>

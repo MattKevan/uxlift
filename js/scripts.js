@@ -1,5 +1,10 @@
 $(document).ready(function() {
 
+    $('.news-pager').rpmPagination({ 
+        domElement: '.news-paged',
+        limit: 30
+    });
+
 	$(window).scroll(function(){                          
         if ($(this).scrollTop() > 250) {
             $('#navbar-pagenav').fadeIn(200);

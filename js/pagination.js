@@ -70,7 +70,10 @@
         });
 
         if (rpmPageTotal > settings.limit) {
-            pages = parseInt((rpmPageTotal / settings.limit) + 1);
+            pages = parseInt(rpmPageTotal / settings.limit);
+            if(rpmPageTotal % settings.limit > 0) {
+                pages += 1;
+            }
         }
 
         preparePageMenus(settings.currentPage, pages, $this);
@@ -94,9 +97,9 @@
                     refreshPageforItems($(this), settings.currentPage, settings.limit, settings.link, settings.formElement);
                 } else {
                     if ($(this).parent().hasClass('prev')) {
-                        [settings.currentPage, rpmPageNext] = preparePageItems(settings.currentPage, rpmPageNext, settings.limit, rpmCustomDomElem, 'Prev');
+                        [settings.currentPage, rpmPageNext] = preparePageItems(settings.currentPage, rpmPageNext, settings.limit, rpmCustomDomElem, 'prev');
                     } else if ($(this).parent().hasClass('next')) {
-                        [settings.currentPage, rpmPageNext] = preparePageItems(settings.currentPage, rpmPageNext, settings.limit, rpmCustomDomElem, 'Next');
+                        [settings.currentPage, rpmPageNext] = preparePageItems(settings.currentPage, rpmPageNext, settings.limit, rpmCustomDomElem, 'next');
                     } else {
                         let cl = $(this).data('page_no');
                         settings.currentPage = parseInt(cl);
@@ -204,24 +207,24 @@
      * @returns {boolean} true
      */
     var preparePageMenus = function (current_page, pages, element) {
-
+        
         $(element).html('');
-        let pageArray = [], fp = 1, lp = (pages - 1);
+        let pageArray = [], fp = 1, lp = pages;
         let menuHtml = '';
-
-        if (Math.abs(current_page - fp) < 3) {
-            pageArray = [1, 2, 3, 4, '...', lp];
-        } else if (Math.abs(current_page - lp) < 3) {
-            pageArray = [1, '...', lp - 3, lp - 2, lp - 1, lp];
-        } else if (lp <= 6) {
+        
+        if (lp <= 6) {
             for (let i = 1; i <= lp; i++) {
                 pageArray.push(i);
             }
+        } else if (Math.abs(current_page - fp) < 3) {
+            pageArray = [1, 2, 3, 4, '...', lp];
+        } else if (Math.abs(current_page - lp) < 3) {
+            pageArray = [1, '...', lp - 3, lp - 2, lp - 1, lp];
         } else {
             pageArray = [1, '...', current_page - 1, current_page, current_page + 1, '...', lp];
         }
 
-        menuHtml = '<li class="' + rpmListClass + ' prev ' + (current_page === fp ? 'disabled' : '') + '"><a class="' + rpmAnchorClass + '" href="#">Prev</a></li>';
+        menuHtml = '<li class="' + rpmListClass + ' prev ' + (current_page === fp ? 'disabled' : '') + '"><a class="' + rpmAnchorClass + '" href="#">Previous</a></li>';
         for (let i = 0; i < pageArray.length; i++) {
             if (lp <= i) {
                 break;

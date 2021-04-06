@@ -5,15 +5,17 @@ permalink: /news/
 description: A feed of UX articles from the best sources on the web. Updated daily.
 ---
 
-<h2></h2>
+<h2 id="news-top"></h2>
 
 <div class="row">
 	<div class="col-12">
 		
 		{% assign sorted = site.topics | sort:'date' | reverse %}
-		{% for item in sorted limit:50 %}
+		{% for item in sorted limit:120 %}
+	
 			{% include news-item.html %}
+
 		{% endfor %}	
-		
+		<ul class="pagination justify-content-center news-pager"></ul>
 	</div>
 </div>
