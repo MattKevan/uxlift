@@ -2,18 +2,6 @@
 layout: default
 ---
 
-<hr>
-
-<h2>Related articles</h2>
-
-{% assign sorted_items = site.topics | sort:'date' | reverse %}
-{% for item in sorted_items %}
-	
-	{% if item.category == page.category %}
-		{% include list-link.html %}	
-	{% endif %}
-
-{% endfor %}
 
 
 
