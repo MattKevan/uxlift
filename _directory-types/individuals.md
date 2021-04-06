@@ -1,5 +1,5 @@
 ---
-title: Individuals
+title: People
 description:
-short-title: Individual
+short-title: People
 ---
