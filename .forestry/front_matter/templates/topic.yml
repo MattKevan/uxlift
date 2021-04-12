@@ -110,7 +110,6 @@ pages:
 - _topics/deep-awareness-of-the-current-experience.md
 - _topics/design-and-ethics-how-designers-fulfill-their-responsibilities.md
 - _topics/design-criticism-and-the-creative-process.md
-- _topics/design-patterns.md
 - _topics/design-sprint-3.0.md
 - _topics/design-systems-are-about-relationships.md
 - _topics/designing-accessible-colour-systems.md
@@ -183,6 +182,7 @@ pages:
 - _topics/user-journey-planning-what-is-an-empathy-map.md
 - _topics/using-ux-testing-to-dramatically-improve-your-a-b-testing-results.md
 - _topics/ux-analytics-what-they-are-and-why-they-matter.md
+- _topics/ux-and-the-importance-of-web-accessibility.md
 - _topics/ux-design-patterns-what-why-and-how.md
 - _topics/ux-leadership-everyone-is-a-designer.md
 - _topics/ux-strategy-demystified.md
@@ -198,4 +198,3 @@ pages:
 - _topics/wireframes-the-beginner-s-guide.md
 - _topics/wireframing-101.md
 - _topics/wireframing-for-beginners.md
-- _topics/wireframing.md
