@@ -7,5 +7,5 @@ description: I lead design at Simple Health. Previously, I led design teams at B
 image: "/assets/images/matthewstrom.png"
 link: https://matthewstrom.com
 feed: https://matthewstrom.com/feed.xml
-directory-type: _directory-types/individuals.md
+directory-type: _directory-types/webring.md
 ---

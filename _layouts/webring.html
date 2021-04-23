@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+{{ content }}
+
+<div class="row">
+
+{% assign sorted_items = site.directory | where:'directory-type', '_directory-types/webring.md' | sort: 'title' %}
+{% for item in sorted_items %}
+
+<div class="col-12 col-sm-6 col-lg-4 grid-item mb-3 mt-3 all">
+<div class="card h-100">
+
+<h4>{{ item.title }}</h4>
+<p>{{ item.link}}</p>
+
+</div>
+</div>
+
+{% endfor %}
+
+</div>
+
+
+
