@@ -26,7 +26,7 @@ Anyone is welcome to apply, but sites that meet the following criteria have a be
 To apply, fill out the form and add the webring icon to your site using the code below. We'll let you know if your application has been successful. 
 
 <form name="webring-application" method="POST" data-netlify="true" class="mb-5">
-	<div class="form-group">
+  <div class="form-group">
     <label>Your name</label> 
     <input type="text" class="form-control" name="name" required />   
    </div>
@@ -44,7 +44,7 @@ To apply, fill out the form and add the webring icon to your site using the code
 </div>
 <div class="form-group">
     <label>Location of webring icon</label> 
-	<textarea name="location" class="form-control" placeholder="For example, 'Bottom left corner of site footer'" required></textarea>
+  <textarea name="location" class="form-control" placeholder="For example, 'Bottom left corner of site footer'" required></textarea>
 </div>
 <div class="form-group">
 <div class="form-check">
