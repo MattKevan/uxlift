@@ -1,12 +1,10 @@
 ---
 layout: post-default
-title: Webring
-description: 
+title: Thanks for applying!
+description: We’ll let you know if your application has been successful.
 permalink: /webring/thanks/
 ---
 
-#### Thanks for applying!
-
-We’ll let you know if your application has been successful.
+[Back to previous page](/webring)
 
 <hr>

@@ -25,7 +25,7 @@ Anyone is welcome to apply, but sites that meet the following criteria have a be
 
 To apply, fill out the form and add the webring icon to your site using the code below. We'll let you know if your application has been successful. 
 
-<form name="webring-application" method="POST" data-netlify="true" class="mb-5">
+<form name="webring-application" method="POST" data-netlify="true" class="mb-5" action="/webring/thanks">
   <div class="form-group">
     <label>Your name</label> 
     <input type="text" class="form-control" name="name" required />   
@@ -58,7 +58,7 @@ To apply, fill out the form and add the webring icon to your site using the code
 
 #### Webring code
 
-```<a href="https://www.uxlift.org/webring" target="_blank" class="webring"><img src="https://www.uxlift.org/assets/webring-icon.svg" /></a>```
+```<a href="https://www.uxlift.org/webring" target="_blank" class="webring"><img src="https://www.uxlift.org/assets/site/webring-icon.svg" /></a>```
 
 If your site has a dark theme, use ```webring-icon-white.svg```.
 
