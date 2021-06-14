@@ -5,21 +5,6 @@ description: A collection of the best articles, resources, books and tools, cove
 image: /assets/site/uxlift-logo-card.jpg
 ---
 
-
-
-<h2>Explore topics</h2>
-
-<div class="row">
-	{% assign sorted_topics = site.topic-categories | sort:'title' %}
-	{% for item in sorted_topics %}
-		<div class="col-6 col-md-3 col-sm-4">	
-		 	<p class="topic-title"><a href="{{ item.url }}">{{ item.title }}</a></p>
-		</div>
-	{% endfor %}	
-</div>		
-
-<hr>
-
 <h2>Latest articles</h2>
 
 <div class="row">
@@ -32,6 +17,19 @@ image: /assets/site/uxlift-logo-card.jpg
 </div>
 
 <p><a href="/topics">See all topics »</a></p>
+
+<hr>
+
+<h2>Explore topics</h2>
+
+<div class="row">
+	{% assign sorted_topics = site.topic-categories | sort:'title' %}
+	{% for item in sorted_topics %}
+		<div class="col-6 col-md-3 col-sm-4">	
+		 	<p class="topic-title"><a href="{{ item.url }}">{{ item.title }}</a></p>
+		</div>
+	{% endfor %}	
+</div>		
 
 <hr>
 
