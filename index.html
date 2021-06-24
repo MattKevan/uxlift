@@ -7,16 +7,21 @@ image: /assets/site/uxlift-logo-card.jpg
 
 <h2>Latest articles</h2>
 
+
 <div class="row">
-	{% assign t = site.topics | sort:'date' | reverse %}
-	{% for item in t limit:4 %}
+	<div class="col-12">
+		
+		{% assign sorted = site.topics | sort:'date' | reverse %}
+		{% for item in sorted limit:5 %}
+	
+			{% include news-item.html %}
 
-			{% include list-link.html %}
-
-	{% endfor %}	
+		{% endfor %}	
+	</div>
 </div>
 
-<p><a href="/topics">See all topics »</a></p>
+
+<p><a href="/news">See more articles »</a></p>
 
 <hr>
 
