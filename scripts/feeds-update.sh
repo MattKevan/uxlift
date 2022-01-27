@@ -1,10 +1,5 @@
-date +'FORMAT'
-### mm/dd/yyyy ###
-date +'%m/%d/%Y'
-## Time in 12 hr format ###
-date +'%r'
-## backup dir format ##
-datetime=$(date +'%m/%d/%Y')
+
+datetime=$(date +'%m/%d/%Y'+'%r' )
 
 cd /home/pi/Sites/uxlift/scripts
 git add -A
