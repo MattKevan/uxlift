@@ -1,5 +1,5 @@
 
-datetime=$(date +'%m/%d/%Y'+'%r' )
+datetime=$(date +'%m/%d/%Y - %r' )
 
 cd /home/pi/Sites/uxlift/scripts
 git add -A
