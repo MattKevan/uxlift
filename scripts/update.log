@@ -51,3 +51,27 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master aafc453] Update feeds
+ 17 files changed, 166 insertions(+)
+ create mode 100644 _topics/5-step-guide-this-is-how-to-get-started-in-ui-design.md
+ create mode 100644 _topics/creative-process-lessons-from-get-back.md
+ create mode 100644 _topics/dear-designer-20-things-youre-not-doing-that-you-must.md
+ create mode 100644 _topics/designing-for-a-drone-automation-system.md
+ create mode 100644 _topics/does-the-10000-hour-rule-work-for-product-designers.md
+ create mode 100644 _topics/dos-and-donts-of-notification.md
+ create mode 100644 _topics/how-designers-can-deal-with-post-launch-product-frustration.md
+ create mode 100644 _topics/how-to-conquer-blank-page-syndrome.md
+ create mode 100644 _topics/learn-responsive-design.md
+ create mode 100644 _topics/messy-workflow-of-a-product-designer.md
+ create mode 100644 _topics/open-format-how-sketchs-open-file-format-can-supercharge-your-workflows.md
+ create mode 100644 _topics/qualities-im-looking-for-in-an-entry-level-ux-writer.md
+ create mode 100644 _topics/the-heart-framework-evaluating-user-experience-and-satisfaction.md
+ create mode 100644 _topics/universal-language-how-yannick-lung-uses-sketch-for-his-intricate-icon-designs.md
+ create mode 100644 _topics/ux-case-study-my-journey-into-accessible-workshop-design-with-the-center-for-medicare-and-medicaid.md
+ create mode 100644 _topics/what-is-a-wireframe-the-definitive-guide.md
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+Feeds updated 01/29/2022 - 12:00:01 am GMT
