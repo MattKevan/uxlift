@@ -95,3 +95,15 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 0b2bf9b] Update feeds
+ 5 files changed, 56 insertions(+)
+ create mode 100644 _topics/5-qualities-im-looking-for-in-an-entry-level-ux-writer.md
+ create mode 100644 _topics/deep-dive-update-your-designs-using-linked-data.md
+ create mode 100644 _topics/how-to-give-constructive-design-feedback.md
+ create mode 100644 _topics/uiux-career-the-1-way-to-get-better-2022.md
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+Feeds updated 01/30/2022 - 12:00:01 am GMT
