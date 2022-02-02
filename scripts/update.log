@@ -156,3 +156,16 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 0596751] Update feeds
+ 9 files changed, 90 insertions(+)
+ create mode 100644 _topics/are-we-focusing-too-much-on-design-tools.md
+ create mode 100644 _topics/duolingo-ux-breakdown-1-year-of-daily-use.md
+ create mode 100644 _topics/how-to-make-money-using-design-related-affiliate-programs-as-a-designer.md
+ create mode 100644 _topics/planned-obsolescencedark-truth-of-the-smartphone-industry.md
+ create mode 100644 _topics/quick-recipe-for-improving-designers-motivation.md
+ create mode 100644 _topics/ux-research-problems-bingo.md
+ create mode 100644 _topics/video-content-as-a-part-of-user-experience-design.md
+ create mode 100644 _topics/virtual-assistants-trends-to-watch-in-2022.md
+To github.com:MattKevan/uxlift.git
+   afcb061..0596751  master -> master
+Feeds updated 02/01/2022 - 12:00:01 am GMT
