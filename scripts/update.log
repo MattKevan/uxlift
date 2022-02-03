@@ -185,3 +185,17 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master ed0289f] Update feeds
+ 10 files changed, 97 insertions(+)
+ create mode 100644 _topics/automating-hiring-framework-for-building-powerful-teams.md
+ create mode 100644 _topics/behind-the-scenes-how-we-researched-and-tested-collaborative-editing.md
+ create mode 100644 _topics/does-less-but-better-rule-still-apply-to-modern-product-design.md
+ create mode 100644 _topics/how-to-become-a-ux-designer-at-twitch-2022-twitch-ux-intern-interview-guide.md
+ create mode 100644 _topics/in-the-end-is-the-metaverse-happening-or-not.md
+ create mode 100644 _topics/the-6-biggest-changes-going-from-grad-school-to-ux-research-and-how-to-prepare.md
+ create mode 100644 _topics/travel-accommodations-ux-3-high-level-ux-takeaways-from-992-hours-of-testing-leading-travel-accommodations-sites.md
+ create mode 100644 _topics/usability-vs-desirabilityis-it-too-much-to-ask-for-both.md
+ create mode 100644 _topics/ux-design-deep-dive-what-drives-user-behavior.md
+To github.com:MattKevan/uxlift.git
+   0596751..ed0289f  master -> master
+Feeds updated 02/02/2022 - 12:00:01 am GMT
