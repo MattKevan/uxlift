@@ -215,3 +215,17 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master f78f06a] Update feeds
+ 10 files changed, 97 insertions(+)
+ create mode 100644 _topics/10-key-ux-writing-skillsnecessary-skills-for-ux-writer.md
+ create mode 100644 _topics/hate-usability-testing-youre-doing-it-wrong.md
+ create mode 100644 _topics/how-to-get-into-your-design-flow-state-everyday.md
+ create mode 100644 _topics/on-the-way-to-creating-a-digital-mind-the-next-generation-of-virtual-assistants.md
+ create mode 100644 _topics/plagiarism-in-design-how-to-avoid-this-dangerous-pitfall.md
+ create mode 100644 _topics/summary-of-design-of-everyday-things-by-don-norman.md
+ create mode 100644 _topics/uiux-design-framer-review-2022.md
+ create mode 100644 _topics/ux-design-careershow-to-get-from-junior-to-senior-designer.md
+ create mode 100644 _topics/ynab-how-empathy-was-used-to-flatten-the-apps-learning-curve.md
+To github.com:MattKevan/uxlift.git
+   ed0289f..f78f06a  master -> master
+Feeds updated 02/03/2022 - 12:00:02 am GMT
