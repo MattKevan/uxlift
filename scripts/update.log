@@ -268,3 +268,12 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master e164a56] Update feeds
+ 5 files changed, 52 insertions(+)
+ create mode 100644 _topics/design-system-versioning-single-library-or-individual-components.md
+ create mode 100644 _topics/how-to-define-the-problem-in-product-design.md
+ create mode 100644 _topics/ive-been-doing-buttons-wrong-have-you.md
+ create mode 100644 _topics/quantifying-the-user-experience-without-statistics.md
+To github.com:MattKevan/uxlift.git
+   d661cd0..e164a56  master -> master
+Feeds updated 02/05/2022 - 12:00:01 am GMT
