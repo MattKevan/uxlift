@@ -293,3 +293,10 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master b2199af] Update feeds
+ 3 files changed, 34 insertions(+)
+ create mode 100644 _topics/top-ux-design-books.md
+ create mode 100644 _topics/uiux-design-master-series-complete-e-commerce-app-part-1.md
+To github.com:MattKevan/uxlift.git
+   e164a56..b2199af  master -> master
+Feeds updated 02/06/2022 - 12:00:01 am GMT
