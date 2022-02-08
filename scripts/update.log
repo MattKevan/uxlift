@@ -316,3 +316,15 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master eb62728] Update feeds
+ 8 files changed, 79 insertions(+)
+ create mode 100644 _topics/136-facts-every-web-dev-should-know-before-they-burn-out-and-turn-to-landscape-painting-or-nude-modelling-baldur-bjarnason.md
+ create mode 100644 _topics/clutter-free-one-of-the-3-cs-for-better-charts.md
+ create mode 100644 _topics/finding-common-patterns-across-frameworks-ian-frost-weather.md
+ create mode 100644 _topics/how-cheese-snails-christianity-underwear-and-eyeglasses-all-contributed-to-the-rise-of-the-modern-book.md
+ create mode 100644 _topics/how-to-create-a-ux-vision-statement.md
+ create mode 100644 _topics/pinball-map.md
+ create mode 100644 _topics/structuring-your-storybook.md
+To github.com:MattKevan/uxlift.git
+   b2199af..eb62728  master -> master
+Feeds updated 02/07/2022 - 12:00:01 am GMT
