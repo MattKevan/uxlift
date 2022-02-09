@@ -346,3 +346,13 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 	from feeds.rb:14:in `block in <main>'
 	from feeds.rb:9:in `each'
 	from feeds.rb:9:in `<main>'
+[master 6e09dea] Update feeds
+ 6 files changed, 93 insertions(+)
+ create mode 100644 _topics/a-good-user-experience-for-the-legal-industry.md
+ create mode 100644 _topics/how-much-customer-research-is-enough-when-designing-new-products.md
+ create mode 100644 _topics/modern-single-page-web-design-ux-design-trends-and-tips.md
+ create mode 100644 _topics/passwordless-authentication-methods-for-saas-web-applications.md
+ create mode 100644 _topics/sharing-findings-for-maximum-impact.md
+To github.com:MattKevan/uxlift.git
+   eb62728..6e09dea  master -> master
+Feeds updated 02/08/2022 - 12:00:01 am GMT
