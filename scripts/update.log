@@ -372,3 +372,21 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 5049633] Update feeds
+ 14 files changed, 133 insertions(+)
+ create mode 100644 _topics/10-dont-care-quotes-thatll-turn-you-into-a-real-badass-help-you-to-achieve-more.md
+ create mode 100644 _topics/13-ux-research-interview-questions-that-will-help-you-find-the-best-candidate.md
+ create mode 100644 _topics/3-search-engines-that-could-replace-google.md
+ create mode 100644 _topics/are-you-struggling-to-structure-your-product-description-for-your-ecommerce-sites.md
+ create mode 100644 _topics/case-study-uplyfe-brand-identity-design-for-health-application.md
+ create mode 100644 _topics/eleventy-lit.md
+ create mode 100644 _topics/heres-how-to-network-if-youre-an-introverted-ux-designer.md
+ create mode 100644 _topics/how-to-make-a-strong-research-report.md
+ create mode 100644 _topics/simple-tips-on-ux-button-design.md
+ create mode 100644 _topics/the-best-design-tools-voted-by-the-product-hunt-community.md
+ create mode 100644 _topics/the-not-so-obvious-point-of-service-design.md
+ create mode 100644 _topics/the-optimal-layout-for-hotel-property-rental-search-results-3-pitfalls-to-avoid.md
+ create mode 100644 _topics/what-is-typography-and-how-is-it-important-to-ux-ui.md
+To github.com:MattKevan/uxlift.git
+   6e09dea..5049633  master -> master
+Feeds updated 02/09/2022 - 12:00:01 am GMT
