@@ -453,3 +453,22 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 7022372] Update feeds
+ 15 files changed, 142 insertions(+)
+ create mode 100644 _topics/10-more-traits-you-need-to-be-a-successful-ux-designer.md
+ create mode 100644 _topics/5-common-mistakes-during-a-design-interview.md
+ create mode 100644 _topics/behind-the-scenes-how-we-updated-corners-for-the-mac-app.md
+ create mode 100644 _topics/from-corporate-finance-to-ux-design.md
+ create mode 100644 _topics/how-to-edit-symbols-and-set-resizing-options.md
+ create mode 100644 _topics/how-to-test-ideas-quickly-and-without-budget-with-user-research.md
+ create mode 100644 _topics/inside-sketch-remote-working-from-day-one.md
+ create mode 100644 _topics/making-a-great-first-impression-in-product-design.md
+ create mode 100644 _topics/my-first-field-research-in-rural-south-india.md
+ create mode 100644 _topics/open-format-using-github-actions-to-work-with-sketch-documents.md
+ create mode 100644 _topics/the-3-axes-of-acceptability.md
+ create mode 100644 _topics/the-pm-and-design-relationshipand-how-not-to-fk-it-up.md
+ create mode 100644 _topics/uiux-design-master-series-complete-e-commerce-app-part-3.md
+ create mode 100644 _topics/uiux-design-master-series-complete-e-commerce-app-part-4.md
+To github.com:MattKevan/uxlift.git
+   6939954..7022372  master -> master
+Feeds updated 02/12/2022 - 12:00:01 am GMT
