@@ -488,3 +488,10 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 426dc44] Update feeds
+ 3 files changed, 34 insertions(+)
+ create mode 100644 _topics/how-i-became-a-self-taught-ux-designer-in-hong-kong-with-no-experience.md
+ create mode 100644 _topics/uiux-design-master-series-complete-e-commerce-app-part-5.md
+To github.com:MattKevan/uxlift.git
+   7022372..426dc44  master -> master
+Feeds updated 02/13/2022 - 12:00:01 am GMT
