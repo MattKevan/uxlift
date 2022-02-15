@@ -511,3 +511,10 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 425b01c] Update feeds
+ 3 files changed, 34 insertions(+)
+ create mode 100644 _topics/contrast-one-of-the-3cs-for-better-charts.md
+ create mode 100644 _topics/evaluate-interface-learnability-with-cognitive-walkthroughs.md
+To github.com:MattKevan/uxlift.git
+   426dc44..425b01c  master -> master
+Feeds updated 02/14/2022 - 12:00:01 am GMT
