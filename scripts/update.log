@@ -534,3 +534,17 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master ba7e17f] Update feeds
+ 10 files changed, 97 insertions(+)
+ create mode 100644 _topics/3-onboarding-principles-that-create-more-traction.md
+ create mode 100644 _topics/4-documents-to-sort-your-work-life.md
+ create mode 100644 _topics/7-tips-on-making-a-popular-mobile-app.md
+ create mode 100644 _topics/functions-and-the-future-of-design-systems.md
+ create mode 100644 _topics/project-tracker-design-for-blocker-visibility.md
+ create mode 100644 _topics/the-3-cs-of-ux-design.md
+ create mode 100644 _topics/the-impact-of-culture-on-ux-design.md
+ create mode 100644 _topics/the-practical-guide-to-naming-design-tokens-ux-collective.md
+ create mode 100644 _topics/what-to-read-on-medium.md
+To github.com:MattKevan/uxlift.git
+   425b01c..ba7e17f  master -> master
+Feeds updated 02/15/2022 - 12:00:01 am GMT
