@@ -564,3 +564,19 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master da82811] Update feeds
+ 12 files changed, 118 insertions(+)
+ create mode 100644 _topics/8-principles-of-screen-design.md
+ create mode 100644 _topics/brief-considerations-on-design-topics-3-case-studies.md
+ create mode 100644 _topics/case-study-abuk-book-covers-graphic-design-for-audiobook-application.md
+ create mode 100644 _topics/designing-a-better-educational-system.md
+ create mode 100644 _topics/how-do-you-get-uiux-industry-experience.md
+ create mode 100644 _topics/how-to-break-out-of-the-grid.md
+ create mode 100644 _topics/how-to-organize-your-symbols-and-manage-overrides.md
+ create mode 100644 _topics/how-to-prepare-for-a-product-design-interview.md
+ create mode 100644 _topics/how-ux-researchers-turn-vague-problems-into-concrete-plans.md
+ create mode 100644 _topics/remote-mobile-testing-in-the-age-of-covid-iphone-rocket.md
+ create mode 100644 _topics/ultimate-guide-for-designing-with-contrast.md
+To github.com:MattKevan/uxlift.git
+   ba7e17f..da82811  master -> master
+Feeds updated 02/16/2022 - 12:00:01 am GMT
