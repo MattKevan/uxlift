@@ -596,3 +596,16 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 005caaa] Update feeds
+ 9 files changed, 88 insertions(+)
+ create mode 100644 _topics/10-final-traits-you-need-to-be-a-successful-ux-designer.md
+ create mode 100644 _topics/5-awesome-ux-design-laws.md
+ create mode 100644 _topics/8-best-ux-design-books-to-brush-up-your-design-knowledge.md
+ create mode 100644 _topics/how-to-ask-for-a-raise-or-promotion-build-a-business-case.md
+ create mode 100644 _topics/key-trends-in-digital-insurance-customer-experience-and-insurtech-insights.md
+ create mode 100644 _topics/meta-is-hiring-10000-people-in-2022-meta-uxproduct-intern-newgard-full-interview-guide.md
+ create mode 100644 _topics/the-top-7-ux-design-trends-for-2022.md
+ create mode 100644 _topics/working-better-interview-with-web-designer-brad-frost-noisli.md
+To github.com:MattKevan/uxlift.git
+   da82811..005caaa  master -> master
+Feeds updated 02/17/2022 - 12:00:01 am GMT
