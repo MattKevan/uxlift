@@ -625,3 +625,16 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 4ed720d] Update feeds
+ 9 files changed, 88 insertions(+)
+ create mode 100644 _topics/7-color-palette-mistakes-designers-should-avoid.md
+ create mode 100644 _topics/gaining-seat-at-the-table-as-early-career-product-designers.md
+ create mode 100644 _topics/how-to-conduct-interviews-for-user-research.md
+ create mode 100644 _topics/how-to-design-for-slow-networks-and-offline.md
+ create mode 100644 _topics/how-to-make-a-pure-css-3d-package-toggle.md
+ create mode 100644 _topics/if-it-makes-you-think-itll-let-you-downdesigning-experiences.md
+ create mode 100644 _topics/the-21-tech-giants-ruling-the-world.md
+ create mode 100644 _topics/why-design-critiques-are-useless-outside-of-academia-and-what-to-replace-them-with.md
+To github.com:MattKevan/uxlift.git
+   005caaa..4ed720d  master -> master
+Feeds updated 02/18/2022 - 12:00:01 am GMT
