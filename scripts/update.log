@@ -654,3 +654,13 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 0294f0f] Update feeds
+ 6 files changed, 61 insertions(+)
+ create mode 100644 _topics/10-wireframe-examples-for-mobile-apps-and-websites.md
+ create mode 100644 _topics/how-to-set-up-your-sketch-workspace-for-teamsthe-definitive-guide.md
+ create mode 100644 _topics/sorry-you-wont-fit-into-your-users-shoes.md
+ create mode 100644 _topics/the-freemium-web-youve-read-all-your-free-articles-this-month.md
+ create mode 100644 _topics/your-customers-dont-read.md
+To github.com:MattKevan/uxlift.git
+   4ed720d..0294f0f  master -> master
+Feeds updated 02/19/2022 - 12:00:01 am GMT
