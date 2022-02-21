@@ -680,3 +680,11 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 5f66b4a] Update feeds
+ 4 files changed, 43 insertions(+)
+ create mode 100644 _topics/5-tips-for-designing-something-new.md
+ create mode 100644 _topics/consistency-in-ui-design.md
+ create mode 100644 _topics/influential-books-podcasts-and-newsletters-of-2021.md
+To github.com:MattKevan/uxlift.git
+   0294f0f..5f66b4a  master -> master
+Feeds updated 02/20/2022 - 12:00:01 am GMT
