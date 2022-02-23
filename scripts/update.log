@@ -729,3 +729,18 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 	from feeds.rb:14:in `block in <main>'
 	from feeds.rb:9:in `each'
 	from feeds.rb:9:in `<main>'
+[master 5d6d7e9] Update feeds
+ 11 files changed, 138 insertions(+)
+ create mode 100644 _topics/17-design-details-reveal-your-seniority-in-uiux-design.md
+ create mode 100644 _topics/3-ideas-for-your-day-to-day-ux-activities.md
+ create mode 100644 _topics/architectural-audits-whats-costing-you-web-site-conversions.md
+ create mode 100644 _topics/creating-user-story-maps.md
+ create mode 100644 _topics/design-portfolio-tips.md
+ create mode 100644 _topics/design-will-make-or-break-your-startup.md
+ create mode 100644 _topics/filling-ux-skills-gaps-in-an-increasingly-cloud-based-world-part-2.md
+ create mode 100644 _topics/leading-ux-research-teams-4-tips-for-researchers-who-manage-researchers.md
+ create mode 100644 _topics/lets-get-inclusive-designing-products-for-everyone.md
+ create mode 100644 _topics/read-this-if-you-feel-struggle-choosing-job-offer.md
+To github.com:MattKevan/uxlift.git
+   c904917..5d6d7e9  master -> master
+Feeds updated 02/22/2022 - 12:00:01 am GMT
