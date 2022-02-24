@@ -760,3 +760,23 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master ca88de6] Update feeds
+ 16 files changed, 151 insertions(+)
+ create mode 100644 _topics/10-handy-tips-for-your-next-design-presentation.md
+ create mode 100644 _topics/10-tips-for-designing-dashboard.md
+ create mode 100644 _topics/are-you-a-lean-agile-enthusiast-join-our-community.md
+ create mode 100644 _topics/business-in-extremal-conditions-doing-uiux-business-in-ukraine.md
+ create mode 100644 _topics/css-in-real-life-a-blog-post-about-blogging.md
+ create mode 100644 _topics/design-thinking-workshop-guide-for-product-designers.md
+ create mode 100644 _topics/direct-to-consumer-ux-benchmark-5-common-dtc-pitfalls.md
+ create mode 100644 _topics/hiring-interviews-are-terrible-smart-ux-teams-structure-them.md
+ create mode 100644 _topics/how-and-why-to-create-a-design-playbook.md
+ create mode 100644 _topics/how-to-use-color-to-improve-user-experience.md
+ create mode 100644 _topics/jacob-collier-on-writing-interesting-lyrics.md
+ create mode 100644 _topics/product-designer-ask-yourself-these-questions-before-you-start-searching-for-a-new-job.md
+ create mode 100644 _topics/secondary-research-in-ux.md
+ create mode 100644 _topics/the-ultimate-guide-to-understanding-design-roles-and-which-one-you-should-go-for.md
+ create mode 100644 _topics/top-uiux-instagram-accounts-to-follow-in-2022.md
+To github.com:MattKevan/uxlift.git
+   5d6d7e9..ca88de6  master -> master
+Feeds updated 02/23/2022 - 12:00:01 am GMT
