@@ -843,3 +843,21 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master fb1c386] Update feeds
+ 14 files changed, 133 insertions(+)
+ create mode 100644 _topics/5-habits-to-become-a-better-uiux-designer.md
+ create mode 100644 _topics/7-ergonomics-rules-for-designing-vr-workspace.md
+ create mode 100644 _topics/7-principles-from-the-design-of-everyday-things.md
+ create mode 100644 _topics/84-easy-powerful-habits-for-uxproduct-designers.md
+ create mode 100644 _topics/build-in-sketch-ship-to-xcode-ios-android.md
+ create mode 100644 _topics/how-to-reduce-design-cognitive-load.md
+ create mode 100644 _topics/how-to-work-with-complex-symbols.md
+ create mode 100644 _topics/how-to-write-a-great-web-design-proposal-with-free-templates.md
+ create mode 100644 _topics/kiss-the-fundamental-rule-behind-minimalism.md
+ create mode 100644 _topics/pushed-for-quantity-evaluated-on-quality.md
+ create mode 100644 _topics/uiux-design-pattern-blocks.md
+ create mode 100644 _topics/ux-conference-may-announced-may-21-may-27.md
+ create mode 100644 _topics/what-is-conceptual-design.md
+To github.com:MattKevan/uxlift.git
+   7755c0f..fb1c386  master -> master
+Feeds updated 02/26/2022 - 12:00:01 am GMT
