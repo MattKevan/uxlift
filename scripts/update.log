@@ -877,3 +877,11 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 83cf9e4] Update feeds
+ 4 files changed, 43 insertions(+)
+ create mode 100644 _topics/how-the-ukrainian-war-will-impact-ux-design.md
+ create mode 100644 _topics/how-to-get-your-ux-writing-approved-by-your-stakeholders.md
+ create mode 100644 _topics/the-grass-is-not-always-greener.md
+To github.com:MattKevan/uxlift.git
+   fb1c386..83cf9e4  master -> master
+Feeds updated 02/27/2022 - 12:00:01 am GMT
