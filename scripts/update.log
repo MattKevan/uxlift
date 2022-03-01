@@ -901,3 +901,11 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 847c3d8] Update feeds
+ 4 files changed, 43 insertions(+)
+ create mode 100644 _topics/6-tips-for-product-photos-on-listing-pages.md
+ create mode 100644 _topics/hockey-sticks-dont-look-like-hockey-sticks.md
+ create mode 100644 _topics/lean-ux-agile-study-guide.md
+To github.com:MattKevan/uxlift.git
+   83cf9e4..847c3d8  master -> master
+Feeds updated 02/28/2022 - 12:00:01 am GMT
