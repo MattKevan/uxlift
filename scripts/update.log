@@ -925,3 +925,12 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 930009c] Update feeds
+ 5 files changed, 52 insertions(+)
+ create mode 100644 _topics/4-benefits-of-working-in-a-design-agency.md
+ create mode 100644 _topics/headless-components-in-react-and-why-i-stopped-using-a-ui-library-for-our-design-system.md
+ create mode 100644 _topics/when-bots-and-oligarchs-manipulate-platforms-standwithukraine.md
+ create mode 100644 _topics/when-can-you-call-yourself-a-ux-designer.md
+To github.com:MattKevan/uxlift.git
+   847c3d8..930009c  master -> master
+Feeds updated 03/01/2022 - 12:00:01 am GMT
