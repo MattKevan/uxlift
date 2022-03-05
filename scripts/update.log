@@ -997,3 +997,19 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 27804fb] Update feeds
+ 12 files changed, 115 insertions(+)
+ create mode 100644 _topics/15-amazing-ux-cover-letter-tips-to-help-you-land-your-next-role.md
+ create mode 100644 _topics/15-stylish-and-user-friendly-mobile-design-concepts.md
+ create mode 100644 _topics/3-high-level-ux-takeaways-from-950-hours-of-testing-leading-meal-kits-sites.md
+ create mode 100644 _topics/from-ukraine-with-love.md
+ create mode 100644 _topics/how-to-get-real-performance-feedback.md
+ create mode 100644 _topics/hypothesize-this.md
+ create mode 100644 _topics/navigating-organizations-with-diverse-ux-maturity-levels.md
+ create mode 100644 _topics/the-best-ux-design-courses-in-2022.md
+ create mode 100644 _topics/the-value-of-ux-design-thinking-in-business.md
+ create mode 100644 _topics/three-most-common-mistakes-ux-designers-make-on-their-portfolios.md
+ create mode 100644 _topics/uiux-design-the-magic-button.md
+To github.com:MattKevan/uxlift.git
+   27ddbd6..27804fb  master -> master
+Feeds updated 03/04/2022 - 12:00:01 am GMT
