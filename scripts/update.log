@@ -1029,3 +1029,12 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 202c907] Update feeds
+ 5 files changed, 52 insertions(+)
+ create mode 100644 _topics/how-the-design-community-is-uniting-and-showing-support-for-fellow-designers-and-the-people-of.md
+ create mode 100644 _topics/how-to-execute-the-perfect-design-to-development-handoff.md
+ create mode 100644 _topics/promo-abuse-how-paypal-was-forced-to-close-4-5-million-accounts.md
+ create mode 100644 _topics/when-they-ask-you-for-final-designs.md
+To github.com:MattKevan/uxlift.git
+   27804fb..202c907  master -> master
+Feeds updated 03/05/2022 - 12:00:01 am GMT
