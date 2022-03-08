@@ -1075,3 +1075,13 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master e2bc62d] Update feeds
+ 6 files changed, 61 insertions(+)
+ create mode 100644 _topics/10-ways-to-use-3d-to-improve-your-design.md
+ create mode 100644 _topics/6-mistakes-when-crafting-interview-questions.md
+ create mode 100644 _topics/alternatives-to-pagination-on-product-listing-pages.md
+ create mode 100644 _topics/figma-plugins.md
+ create mode 100644 _topics/how-to-write-a-user-research-plan.md
+To github.com:MattKevan/uxlift.git
+   862874f..e2bc62d  master -> master
+Feeds updated 03/07/2022 - 12:00:01 am GMT
