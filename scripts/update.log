@@ -1154,3 +1154,21 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 645c9e9] Update feeds
+ 14 files changed, 133 insertions(+)
+ create mode 100644 _topics/5-main-reasons-why-mood-boards-are-essential-for-design-process.md
+ create mode 100644 _topics/9-best-practices-for-design-system-documentation.md
+ create mode 100644 _topics/bauhaus-or-bauchaos-what-i-kept-from-the-influential-design-movement-is-not-what-you-think.md
+ create mode 100644 _topics/collegemate-a-website-that-makes-your-college-life-easier.md
+ create mode 100644 _topics/how-to-improve-your-design-when-user-testing-is-not-viable.md
+ create mode 100644 _topics/how-to-improve-your-ui-skills-quickly.md
+ create mode 100644 _topics/how-to-reduce-design-cognitive-load-part-2.md
+ create mode 100644 _topics/how-to-translate-those-passive-aggressive-comments-on-your-design-work.md
+ create mode 100644 _topics/how-we-can-solve-traditional-search-filter-problems.md
+ create mode 100644 _topics/use-a-3-level-information-hierarchy-for-the-how-it-works-page-for-consumables-subscription-service-sites.md
+ create mode 100644 _topics/ux-mentorship-how-to-get-ahead-in-your-career-and-become-a-ux-leader-in-2022.md
+ create mode 100644 _topics/what-is-the-difference-between-ui-and-ux-design.md
+ create mode 100644 _topics/what-is-ui-design-and-why-is-it-important.md
+To github.com:MattKevan/uxlift.git
+   22237fe..645c9e9  master -> master
+Feeds updated 03/10/2022 - 12:00:01 am GMT
