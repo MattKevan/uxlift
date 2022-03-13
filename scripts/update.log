@@ -1210,3 +1210,9 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 83b0288] Update feeds
+ 2 files changed, 25 insertions(+)
+ create mode 100644 _topics/how-i-use-automation-to-quickly-transfer-my-designs-from-figma-to-webflow-part-2.md
+To github.com:MattKevan/uxlift.git
+   f9134b2..83b0288  master -> master
+Feeds updated 03/12/2022 - 12:00:01 am GMT
