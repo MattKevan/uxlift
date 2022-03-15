@@ -1255,3 +1255,13 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 1382638] Update feeds
+ 6 files changed, 61 insertions(+)
+ create mode 100644 _topics/confirmation-bias-in-ux.md
+ create mode 100644 _topics/job-openings-ux-specialists-experienced-or-entry-level-remote.md
+ create mode 100644 _topics/side-project-story-how-i-build-a-digital-marketplace-in-3-months.md
+ create mode 100644 _topics/the-state-of-ecommerce-ux-covid-19-and-direct-to-consumer-retail-raise-the-bar.md
+ create mode 100644 _topics/the-state-of-researchops-untapped-yet.md
+To github.com:MattKevan/uxlift.git
+   0a13aeb..1382638  master -> master
+Feeds updated 03/14/2022 - 12:00:01 am GMT
