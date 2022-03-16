@@ -1281,3 +1281,18 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 6e3a880] Update feeds
+ 11 files changed, 106 insertions(+)
+ create mode 100644 _topics/becoming-better-at-leading.md
+ create mode 100644 _topics/design-thinking-project.md
+ create mode 100644 _topics/ethnographic-analysis-of-tourists-post-covid-19-case-study.md
+ create mode 100644 _topics/impact-without-consideration-a-reflection-on-trends.md
+ create mode 100644 _topics/is-ux-design-regressing-today.md
+ create mode 100644 _topics/rituals-in-a-virtual-workspace.md
+ create mode 100644 _topics/should-designers-be-part-of-more-hackathon-teams.md
+ create mode 100644 _topics/supertags-seals-and-salesforce-how-we-redesigned-ifaw-org.md
+ create mode 100644 _topics/ui-design-three-solid-rules-of-thumb.md
+ create mode 100644 _topics/what-is-design-thinking.md
+To github.com:MattKevan/uxlift.git
+   1382638..6e3a880  master -> master
+Feeds updated 03/15/2022 - 12:00:01 am GMT
