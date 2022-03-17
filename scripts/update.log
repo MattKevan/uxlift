@@ -1312,3 +1312,17 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 033b463] Update feeds
+ 10 files changed, 97 insertions(+)
+ create mode 100644 _topics/design-leadership-tips-for-design-team-leaders.md
+ create mode 100644 _topics/expanding-your-influential-power-as-a-designer.md
+ create mode 100644 _topics/giving-the-elevator-pitch-for-your-uxr-case-study.md
+ create mode 100644 _topics/how-to-write-user-friendly-error-messages.md
+ create mode 100644 _topics/the-4-rs-that-set-apart-great-ux-designers.md
+ create mode 100644 _topics/ux-lessons-i-wish-i-had-learned-earlier.md
+ create mode 100644 _topics/vital-ux-skills-that-few-designers-have-and-how-to-develop-them.md
+ create mode 100644 _topics/what-is-a-design-mockup-the-definitive-guide.md
+ create mode 100644 _topics/why-introverts-make-exceptional-designers-how-leaders-can-support-them.md
+To github.com:MattKevan/uxlift.git
+   6e3a880..033b463  master -> master
+Feeds updated 03/16/2022 - 12:00:01 am GMT
