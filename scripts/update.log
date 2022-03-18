@@ -1342,3 +1342,12 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 9bfd475] Update feeds
+ 5 files changed, 52 insertions(+)
+ create mode 100644 _topics/how-to-design-an-effective-faq-page-with-the-best-15-examples.md
+ create mode 100644 _topics/should-everything-be-gamified.md
+ create mode 100644 _topics/the-ad-free-web-for-designers.md
+ create mode 100644 _topics/uiux-design-understanding-expectations.md
+To github.com:MattKevan/uxlift.git
+   033b463..9bfd475  master -> master
+Feeds updated 03/17/2022 - 12:00:01 am GMT
