@@ -1367,3 +1367,13 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master ea1f2d6] Update feeds
+ 6 files changed, 61 insertions(+)
+ create mode 100644 _topics/hit-the-road-directional-cues-in-user-interface-design.md
+ create mode 100644 _topics/tips-for-consistency-in-ui-design.md
+ create mode 100644 _topics/uiux-design-deceptive-ux.md
+ create mode 100644 _topics/uiux-design-top-3-usability-heuristics.md
+ create mode 100644 _topics/what-ui-and-ux-mean-for-your-website.md
+To github.com:MattKevan/uxlift.git
+   9bfd475..ea1f2d6  master -> master
+Feeds updated 03/18/2022 - 12:00:01 am GMT
