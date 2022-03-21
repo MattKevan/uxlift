@@ -1463,3 +1463,13 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 333842a] Update feeds
+ 6 files changed, 61 insertions(+)
+ create mode 100644 _topics/7-key-principles-of-ui-design.md
+ create mode 100644 _topics/how-to-design-an-interface-icon-from-scratch.md
+ create mode 100644 _topics/uiux-design-digital-transactions.md
+ create mode 100644 _topics/what-about-the-uxr-market-in-2022.md
+ create mode 100644 _topics/what-exactly-does-a-ux-designer-do.md
+To github.com:MattKevan/uxlift.git
+   eb54e46..333842a  master -> master
+Feeds updated 03/20/2022 - 12:00:01 am GMT
