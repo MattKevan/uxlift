@@ -1514,3 +1514,19 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 6a16b92] Update feeds
+ 12 files changed, 147 insertions(+)
+ create mode 100644 _topics/10-chrome-extensions-every-designer-must-have.md
+ create mode 100644 _topics/coolage-uiux-case-study.md
+ create mode 100644 _topics/craft-a-better-resume-as-an-uiux-designer.md
+ create mode 100644 _topics/design-mistakes-that-hurt-your-web-sites-conversion-rates.md
+ create mode 100644 _topics/dos-and-donts-of-mobile-ux-design.md
+ create mode 100644 _topics/driving-user-engagement-with-your-mobile-app.md
+ create mode 100644 _topics/how-better-ux-is-creating-billion-dollar-startups-and-you-can-too.md
+ create mode 100644 _topics/improving-your-user-experience-to-reduce-bounce-rates.md
+ create mode 100644 _topics/making-apps-onboarding-as-good-as-video-games.md
+ create mode 100644 _topics/uiux-design-the-future-of-ux.md
+ create mode 100644 _topics/usability-testing-driving-the-best-user-experience-for-business-success.md
+To github.com:MattKevan/uxlift.git
+   7e030f1..6a16b92  master -> master
+Feeds updated 03/22/2022 - 12:00:01 am GMT
