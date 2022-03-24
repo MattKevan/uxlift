@@ -1546,3 +1546,14 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 21bdd59] Update feeds
+ 7 files changed, 70 insertions(+)
+ create mode 100644 _topics/10-chrome-extensions-every-designer-must-have2022.md
+ create mode 100644 _topics/10-phrases-you-can-use-to-sound-like-a-smartarse-uxproduct-designer.md
+ create mode 100644 _topics/principles-for-micro-interactions.md
+ create mode 100644 _topics/the-current-state-of-accounts-self-service-ux-5-common-pitfalls-best-practices.md
+ create mode 100644 _topics/uxui-the-art-of-management.md
+ create mode 100644 _topics/what-is-a-design-prototype-the-complete-guide.md
+To github.com:MattKevan/uxlift.git
+   6a16b92..21bdd59  master -> master
+Feeds updated 03/23/2022 - 12:00:01 am GMT
