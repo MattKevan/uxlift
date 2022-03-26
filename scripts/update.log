@@ -1595,3 +1595,15 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 8a2a069] Update feeds
+ 8 files changed, 79 insertions(+)
+ create mode 100644 _topics/card-sorting-how-to-create-one-analyse-data-and-report-results.md
+ create mode 100644 _topics/conducting-and-scheduling-a-more-effective-online-meeting.md
+ create mode 100644 _topics/details-matter-how-to-make-your-designs-more-memorable-with-visual-styles-and-effects.md
+ create mode 100644 _topics/makery-curated-recipe-boxes.md
+ create mode 100644 _topics/uiux-design-how-to-talk-to-users.md
+ create mode 100644 _topics/uiux-design-overcoming-inaction.md
+ create mode 100644 _topics/writing-for-user-experience-imposter-alert.md
+To github.com:MattKevan/uxlift.git
+   2e41da1..8a2a069  master -> master
+Feeds updated 03/25/2022 - 12:00:01 am GMT
