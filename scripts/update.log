@@ -1623,3 +1623,17 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 99395a7] Update feeds
+ 10 files changed, 97 insertions(+)
+ create mode 100644 _topics/2022-guide-to-information-architecture-in-ux-design.md
+ create mode 100644 _topics/3-layers-of-emotional-design-every-product-designer-must-know.md
+ create mode 100644 _topics/7-tips-to-design-better-icons.md
+ create mode 100644 _topics/case-study-carricare-branding-and-ux-design-for-safe-delivery-service.md
+ create mode 100644 _topics/case-study-designing-a-language-learning-app.md
+ create mode 100644 _topics/usability-vs-user-experience-lets-get-the-differences-straight-shall-we.md
+ create mode 100644 _topics/ux-lessons-i-wish-i-had-learned-earlier-job-searching.md
+ create mode 100644 _topics/ux-lessons-i-wish-i-had-learned-earlier-working-with-stakeholders.md
+ create mode 100644 _topics/why-interaction-design-foundation-is-the-best-platform-for-learning-uiux-design.md
+To github.com:MattKevan/uxlift.git
+   8a2a069..99395a7  master -> master
+Feeds updated 03/26/2022 - 12:00:01 am GMT
