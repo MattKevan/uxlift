@@ -1675,3 +1675,11 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 0637c8f] Update feeds
+ 4 files changed, 43 insertions(+)
+ create mode 100644 _topics/6-tips-for-improving-language-switchers-on-ecommerce-sites.md
+ create mode 100644 _topics/how-to-get-the-most-out-of-design-mentoring.md
+ create mode 100644 _topics/intranet-enterprise-design-study-guide.md
+To github.com:MattKevan/uxlift.git
+   2c2ba2a..0637c8f  master -> master
+Feeds updated 03/28/2022 - 12:00:01 am BST
