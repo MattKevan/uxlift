@@ -1699,3 +1699,18 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master a0cb896] Update feeds
+ 11 files changed, 106 insertions(+)
+ create mode 100644 _topics/a-lobster-gemstones-and-a-3-lane-highway-elements-of-a-ux-strategy.md
+ create mode 100644 _topics/brief-considerations-on-design-topics-4-self-awareness.md
+ create mode 100644 _topics/design-debt-what-it-is-and-how-to-overcome-it.md
+ create mode 100644 _topics/how-to-create-a-wireframe-the-ultimate-guide.md
+ create mode 100644 _topics/mvp-development-using-the-kano-model.md
+ create mode 100644 _topics/the-3-most-timeless-pieces-of-advice-you-should-embrace-to-advance-as-a-ux-designer.md
+ create mode 100644 _topics/uiux-design-crafting-killer-case-studies.md
+ create mode 100644 _topics/ux-case-study-optimize-working-from-home-experience.md
+ create mode 100644 _topics/ux-conference-june-announced-jun-18-jun-24.md
+ create mode 100644 _topics/why-people-are-struggling-with-jiotv.md
+To github.com:MattKevan/uxlift.git
+   0637c8f..a0cb896  master -> master
+Feeds updated 03/29/2022 - 12:00:01 am BST
