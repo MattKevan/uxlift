@@ -1730,3 +1730,12 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master c60dfab] Update feeds
+ 5 files changed, 52 insertions(+)
+ create mode 100644 _topics/3-high-level-ux-takeaways-from-1100-hours-of-testing-leading-food-delivery-and-takeout-sites.md
+ create mode 100644 _topics/how-the-fkng-language-is-changing-the-way-i-design-and-the-way-i-think.md
+ create mode 100644 _topics/level-up-product-animation-as-an-expert-in-a-day-one-tool-you-cant-miss.md
+ create mode 100644 _topics/stability-quality-and-innovation-3-buckets-for-measuring-the-state-of-your-product.md
+To github.com:MattKevan/uxlift.git
+   a0cb896..c60dfab  master -> master
+Feeds updated 03/30/2022 - 12:00:01 am BST
