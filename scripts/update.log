@@ -1803,3 +1803,18 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master bc52ea4] Update feeds
+ 11 files changed, 106 insertions(+)
+ create mode 100644 _topics/3-things-i-learn-about-ui-design-this-week.md
+ create mode 100644 _topics/artefacts-design-and-nostalgia-everything-used-to-be-better-didnt-it.md
+ create mode 100644 _topics/banks-lose-millions-due-to-poor-ux-but-purpose-driven-banking-can-help.md
+ create mode 100644 _topics/being-ukrainian-design-studio-challenges-and-new-reality.md
+ create mode 100644 _topics/conducting-user-research.md
+ create mode 100644 _topics/support-recall-instead-of-recognition-in-ui-design.md
+ create mode 100644 _topics/uiux-design-a-warning-about-san-francisco.md
+ create mode 100644 _topics/uiux-design-display-drivers.md
+ create mode 100644 _topics/uiux-design-version-control.md
+ create mode 100644 _topics/ux-design-in-china.md
+To github.com:MattKevan/uxlift.git
+   3d6e691..bc52ea4  master -> master
+Feeds updated 04/02/2022 - 12:00:01 am BST
