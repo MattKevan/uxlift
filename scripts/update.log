@@ -1855,3 +1855,14 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 8f41268] Update feeds
+ 7 files changed, 70 insertions(+)
+ create mode 100644 _topics/10-amenities-that-should-be-at-every-electric-vehicle-charging-station.md
+ create mode 100644 _topics/chargepoint-chademo-chargers-are-designed-better-and-it-matters.md
+ create mode 100644 _topics/cognitive-noise-something-for-your-ux-toolbelt-in-60-seconds.md
+ create mode 100644 _topics/creating-engaging-reports-asynchronous-presentations.md
+ create mode 100644 _topics/data-tables-four-major-user-tasks.md
+ create mode 100644 _topics/what-didnt-end-up-in-jira.md
+To github.com:MattKevan/uxlift.git
+   013f84b..8f41268  master -> master
+Feeds updated 04/04/2022 - 12:00:01 am BST
