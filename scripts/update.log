@@ -1882,3 +1882,12 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 58c5db4] Update feeds
+ 5 files changed, 52 insertions(+)
+ create mode 100644 _topics/how-to-design-an-enamel-pin-mockup-and-make-your-logo-stand-out.md
+ create mode 100644 _topics/my-view-of-most-favoured-nation.md
+ create mode 100644 _topics/slot-componentshow-to-create-them-in-figma.md
+ create mode 100644 _topics/the-best-services-for-finding-remote-work.md
+To github.com:MattKevan/uxlift.git
+   8f41268..58c5db4  master -> master
+Feeds updated 04/05/2022 - 12:00:01 am BST
