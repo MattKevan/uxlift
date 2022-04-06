@@ -1907,3 +1907,14 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 1f2c17f] Update feeds
+ 7 files changed, 70 insertions(+)
+ create mode 100644 _topics/beginners-guide-to-html.md
+ create mode 100644 _topics/case-study-website-design-for-annual-awwwards.md
+ create mode 100644 _topics/grocery-and-food-delivery-site-ux-allow-users-to-add-past-purchases-to-the-cart-from-the-homepage.md
+ create mode 100644 _topics/how-to-be-a-productive-designer.md
+ create mode 100644 _topics/uiux-design-efficiency-is-efficacy.md
+ create mode 100644 _topics/what-pepsi-can-teach-you-about-brand-experience.md
+To github.com:MattKevan/uxlift.git
+   58c5db4..1f2c17f  master -> master
+Feeds updated 04/06/2022 - 12:00:01 am BST
