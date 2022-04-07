@@ -1934,3 +1934,17 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master b332816] Update feeds
+ 10 files changed, 97 insertions(+)
+ create mode 100644 _topics/3-things-most-uxui-portfolios-dont-include-but-should.md
+ create mode 100644 _topics/applying-principles-of-persuasion-in-ux-design.md
+ create mode 100644 _topics/case-study-a-medication-reminder-app.md
+ create mode 100644 _topics/how-to-create-variants-auto-layout-button-in-figma.md
+ create mode 100644 _topics/jayamicrosoft-design-challenge.md
+ create mode 100644 _topics/the-confusing-states-of-ux-market-today.md
+ create mode 100644 _topics/uiux-design-visual-saliency.md
+ create mode 100644 _topics/ux-case-study-example-2-plus-free-template.md
+ create mode 100644 _topics/what-i-learned-from-linkedin-product-design-internship-interviews.md
+To github.com:MattKevan/uxlift.git
+   1f2c17f..b332816  master -> master
+Feeds updated 04/07/2022 - 12:00:01 am BST
