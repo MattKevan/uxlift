@@ -2033,3 +2033,20 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 209c99e] Update feeds
+ 13 files changed, 124 insertions(+)
+ create mode 100644 _topics/6-key-guidelines-for-web-designing.md
+ create mode 100644 _topics/dig-into-user-experience-ux.md
+ create mode 100644 _topics/how-much-research-is-enough-research.md
+ create mode 100644 _topics/how-people-read-on-the-web-influences-content-design.md
+ create mode 100644 _topics/how-to-conduct-a-cognitive-walkthrough-workshop.md
+ create mode 100644 _topics/i-tried-coding-the-website-i-designed.md
+ create mode 100644 _topics/information-architecture-study-guide.md
+ create mode 100644 _topics/learning-from-everywhere.md
+ create mode 100644 _topics/lessons-learnt-from-redesigning-a-youth-mental-health-service-website.md
+ create mode 100644 _topics/personalizing-twitter-spacesan-mvp-approach.md
+ create mode 100644 _topics/thoughts-on-creds-ui-revamp-apr-2022.md
+ create mode 100644 _topics/uiux-design-when-good-beats-excellent.md
+To github.com:MattKevan/uxlift.git
+   8aedcb1..209c99e  master -> master
+Feeds updated 04/11/2022 - 12:00:01 am BST
