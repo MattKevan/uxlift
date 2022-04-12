@@ -2066,3 +2066,19 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master b7bfdb5] Update feeds
+ 12 files changed, 146 insertions(+)
+ create mode 100644 _topics/10-elements-to-consider-when-designing-a-mobile-app.md
+ create mode 100644 _topics/3-things-i-learned-about-ui-design-this-week-part-2.md
+ create mode 100644 _topics/a-quick-guide-for-defining-optimal-number-of-features-for-your-product.md
+ create mode 100644 _topics/common-app-design-challenges-and-their-solutions.md
+ create mode 100644 _topics/how-to-ace-your-next-ux-job-interview.md
+ create mode 100644 _topics/how-to-develop-your-ux-design-philosophy.md
+ create mode 100644 _topics/how-to-improve-ux-design-through-ab-testing.md
+ create mode 100644 _topics/i-think-you-should-leave-resources.md
+ create mode 100644 _topics/mobile-first-ecommerce-site-design-is-the-future.md
+ create mode 100644 _topics/part-2apply-20-essential-rules-of-graphics-design-to-ui-design.md
+ create mode 100644 _topics/wireframe-vs-mockup-vs-prototype-whats-the-difference.md
+To github.com:MattKevan/uxlift.git
+   209c99e..b7bfdb5  master -> master
+Feeds updated 04/12/2022 - 12:00:01 am BST
