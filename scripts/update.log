@@ -2098,3 +2098,20 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master da85167] Update feeds
+ 13 files changed, 125 insertions(+)
+ create mode 100644 _topics/3-ux-best-practices-for-consumables-subscription-services-websites-based-on-1200-hours-of-ux-testing.md
+ create mode 100644 _topics/design-in-2022-language-localisation-and-collaboration.md
+ create mode 100644 _topics/design-to-sell-12-creative-ui-designs-for-ecommerce.md
+ create mode 100644 _topics/how-to-design-better-rating-reviews.md
+ create mode 100644 _topics/if-youre-a-designer-stop-communicating-like-one.md
+ create mode 100644 _topics/serious-if-youre-a-ui-designer-this-book-is-a-game-changer.md
+ create mode 100644 _topics/the-importance-of-accessibility-in-design-systems.md
+ create mode 100644 _topics/the-mentor-mentality.md
+ create mode 100644 _topics/the-ux-implication-of-a-voting-system.md
+ create mode 100644 _topics/visual-effects-and-tips-for-driving-salesand-on-demand-printing.md
+ create mode 100644 _topics/wayfinding-cues-in-ux-design.md
+ create mode 100644 _topics/website-design-best-practices-from-a-to-z.md
+To github.com:MattKevan/uxlift.git
+   b7bfdb5..da85167  master -> master
+Feeds updated 04/13/2022 - 12:00:02 am BST
