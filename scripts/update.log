@@ -2200,3 +2200,19 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 26969c7] Update feeds
+ 12 files changed, 116 insertions(+)
+ create mode 100644 _topics/a-quick-guide-to-ux-metrics.md
+ create mode 100644 _topics/dealing-with-infinite-redesign-loop.md
+ create mode 100644 _topics/electric-vehicle-charger-utilization-is-everything.md
+ create mode 100644 _topics/how-ux-design-can-add-value-to-the-growth-of-smes-in-mena.md
+ create mode 100644 _topics/personalisation-in-ux.md
+ create mode 100644 _topics/the-1-reason-why-your-product-isnt-selling.md
+ create mode 100644 _topics/uiux-design-tactics-beat-talent.md
+ create mode 100644 _topics/uiux-feature-based-design.md
+ create mode 100644 _topics/ux-conference-july-announced-jul-16-jul-22.md
+ create mode 100644 _topics/visual-effects-and-tips-for-more-salesand-on-demand-printing.md
+ create mode 100644 _topics/who-created-medium.md
+To github.com:MattKevan/uxlift.git
+   082e6e1..26969c7  master -> master
+Feeds updated 04/17/2022 - 12:00:01 am BST
