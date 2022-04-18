@@ -2232,3 +2232,10 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 322d004] Update feeds
+ 3 files changed, 34 insertions(+)
+ create mode 100644 _topics/designops-5-common-team-structures.md
+ create mode 100644 _topics/three-methods-to-increase-user-autonomy-in-ux-design.md
+To github.com:MattKevan/uxlift.git
+   26969c7..322d004  master -> master
+Feeds updated 04/18/2022 - 12:00:01 am BST
