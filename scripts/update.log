@@ -2255,3 +2255,13 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master ef09389] Update feeds
+ 6 files changed, 61 insertions(+)
+ create mode 100644 _topics/how-to-fill-a-backlog.md
+ create mode 100644 _topics/metaverse-design-toolkit.md
+ create mode 100644 _topics/the-voice-of-batman-versus-barbie-how-the-persona-of-a-product-shapes-the-voice-choice.md
+ create mode 100644 _topics/you-aint-a-designer-until-you-fail.md
+ create mode 100644 _topics/zero-knowledge-proofs-the-future-of-privacy-friendly-digital-products.md
+To github.com:MattKevan/uxlift.git
+   322d004..ef09389  master -> master
+Feeds updated 04/19/2022 - 12:00:01 am BST
