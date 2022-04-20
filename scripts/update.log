@@ -2281,3 +2281,17 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master db2c486] Update feeds
+ 10 files changed, 97 insertions(+)
+ create mode 100644 _topics/5-books-to-shape-your-design-career.md
+ create mode 100644 _topics/consumables-subscription-services-site-ux-avoid-this-major-cta-pitfall.md
+ create mode 100644 _topics/daft-punk-around-the-world-in-the-classroom-with-michel-gondry.md
+ create mode 100644 _topics/metaverse-design-guide-part-1.md
+ create mode 100644 _topics/myth-busted-emotion-works-for-b2c-brands-not-b2b.md
+ create mode 100644 _topics/nft-what-is-it-and-whats-trending-right-now.md
+ create mode 100644 _topics/reducing-cognitive-load-in-user-flows.md
+ create mode 100644 _topics/stop-following-design-trends.md
+ create mode 100644 _topics/the-figma-plugins-that-make-us-efficient-designers.md
+To github.com:MattKevan/uxlift.git
+   ef09389..db2c486  master -> master
+Feeds updated 04/20/2022 - 12:00:01 am BST
