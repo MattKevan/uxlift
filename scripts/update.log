@@ -2311,3 +2311,11 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 8568f76] Update feeds
+ 4 files changed, 43 insertions(+)
+ create mode 100644 _topics/being-a-pedestriana-ux-research-case-study.md
+ create mode 100644 _topics/fleetlier-my-first-design-sprint-experience.md
+ create mode 100644 _topics/top-3-marketing-ux-hacks-to-boost-website-conversion.md
+To github.com:MattKevan/uxlift.git
+   db2c486..8568f76  master -> master
+Feeds updated 04/21/2022 - 12:00:01 am BST
