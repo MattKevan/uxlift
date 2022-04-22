@@ -2335,3 +2335,15 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 9d8e37f] Update feeds
+ 8 files changed, 79 insertions(+)
+ create mode 100644 _topics/5-gestalt-tricks-to-enhancement-your-website-experience.md
+ create mode 100644 _topics/7-things-i-learned-from-ubers-ui-design.md
+ create mode 100644 _topics/how-to-find-side-project-ideas-as-a-creator.md
+ create mode 100644 _topics/how-to-overcome-imposter-syndrome.md
+ create mode 100644 _topics/introducing-appibilities-how-marianka-cilliers-of-glucode-is-helping-make-apps-more-accessible.md
+ create mode 100644 _topics/uiux-design-corner-smoothing.md
+ create mode 100644 _topics/uiux-design-dont-ever-do-this.md
+To github.com:MattKevan/uxlift.git
+   8568f76..9d8e37f  master -> master
+Feeds updated 04/22/2022 - 12:00:01 am BST
