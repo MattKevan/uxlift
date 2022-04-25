@@ -2409,3 +2409,15 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 523cb34] Update feeds
+ 8 files changed, 79 insertions(+)
+ create mode 100644 _topics/10-things-to-expect-when-switching-from-an-enterprise-product-design-to-a-consumer-product-design.md
+ create mode 100644 _topics/best-font-for-online-reading-no-single-answer.md
+ create mode 100644 _topics/how-mobile-guitar-heros-has-evolved-from-tap-tap-to-beatstar.md
+ create mode 100644 _topics/roll-up-your-sleeves-dig-in-to-journey-mapping-101.md
+ create mode 100644 _topics/should-scrum-be-redesign.md
+ create mode 100644 _topics/size-guides-and-product-measurements-for-international-shoppers.md
+ create mode 100644 _topics/user-research-vs-quantitative-analytics.md
+To github.com:MattKevan/uxlift.git
+   42e34d5..523cb34  master -> master
+Feeds updated 04/25/2022 - 12:00:01 am BST
