@@ -2437,3 +2437,17 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 3f7f0d0] Update feeds
+ 10 files changed, 130 insertions(+)
+ create mode 100644 _topics/16-top-design-trends-for-2022.md
+ create mode 100644 _topics/9-useful-principles-of-ux-design.md
+ create mode 100644 _topics/create-responsive-design-in-figma.md
+ create mode 100644 _topics/designing-for-scanning.md
+ create mode 100644 _topics/dsa-the-new-law-that-will-shake-tech-giants.md
+ create mode 100644 _topics/how-businesses-can-keep-their-web-designs-relevant-and-appealing-in-2022.md
+ create mode 100644 _topics/metaverse-design-guide-part-2.md
+ create mode 100644 _topics/mobile-app-versus-web-site-which-is-better-for-your-business.md
+ create mode 100644 _topics/why-ux-research-repos-fail-at-democratizing-insights.md
+To github.com:MattKevan/uxlift.git
+   523cb34..3f7f0d0  master -> master
+Feeds updated 04/26/2022 - 12:00:01 am BST
