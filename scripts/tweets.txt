@@ -1,569 +1,275 @@
-title: "Design in 2022 - Language, Localisation and Collaboration"
-link: "https://blog.prototypr.io/design-in-2022-language-localisation-and-collaboration-67dd33794298?source=rss----eb297ea1161a---4"
-title: "Part 2 — Apply 20 Essential rules of Graphics Design to UI Design"
-link: "https://blog.prototypr.io/part-2-apply-20-essential-rules-of-graphics-design-to-ui-design-9ad08e7daa1d?source=rss----eb297ea1161a---4"
-title: "3 Things most UX/UI portfolios don’t include but should"
-link: "https://blog.prototypr.io/3-things-most-ux-ui-portfolios-dont-include-but-should-7b8179e51c1?source=rss----eb297ea1161a---4"
-title: "Slot Components — How to create them in Figma"
-link: "https://blog.prototypr.io/slot-components-how-to-create-them-in-figma-6f592c0441b7?source=rss----eb297ea1161a---4"
-title: "The Illusion of Ownership and Confusion of Censorship"
-link: "https://blog.prototypr.io/web-2-and-the-illusion-of-ownership-4ebfa5c14c80?source=rss----eb297ea1161a---4"
-title: "Stability, Quality and Innovation. 3 buckets for measuring the state of your Product."
-link: "https://blog.prototypr.io/stability-quality-and-innovation-3-buckets-for-measuring-the-state-of-your-product-dc286b5a2bf6?source=rss----eb297ea1161a---4"
-title: "How to get the most out of design mentoring?"
-link: "https://blog.prototypr.io/how-to-get-the-most-out-of-design-mentoring-ea6724c7e8bd?source=rss----eb297ea1161a---4"
-title: "The Ad-Free Web for Designers"
-link: "https://blog.prototypr.io/the-ad-free-web-for-designers-46eea82d1a69?source=rss----eb297ea1161a---4"
-title: "Side Project Story - How I Build a Digital Marketplace in 3 Months"
-link: "https://blog.prototypr.io/side-project-story-how-i-build-a-digital-marketplace-in-3-months-729b3f5881dd?source=rss----eb297ea1161a---4"
-title: "How I use automation to quickly transfer my designs from Figma to Webflow (Part 2)"
-link: "https://blog.prototypr.io/how-i-use-automation-to-quickly-transfer-my-designs-from-figma-to-webflow-part-2-2dfb9cbb930f?source=rss----eb297ea1161a---4"
-title: "Why UX Research Repos Fail at Democratizing Insights"
-link: "https://www.uxmatters.com/mt/archives/2022/04/why-ux-research-repos-fail-at-democratizing-insight.php"
-title: "Mobile App Versus Web Site - Which Is Better for Your Business?"
-link: "https://www.uxmatters.com/mt/archives/2022/04/mobile-app-versus-web-site-which-is-better-for-your-business.php"
-title: "16 Top Design Trends for 2022"
-link: "https://www.uxmatters.com/mt/archives/2022/04/16-top-design-trends-for-2022.php"
-title: "How Businesses Can Keep Their Web Designs Relevant and Appealing in 2022"
-link: "https://www.uxmatters.com/mt/archives/2022/04/how-businesses-can-keep-their-web-designs-relevant-and-appealing-in-2022.php"
-title: "9 Useful Principles of UX Design"
-link: "https://www.uxmatters.com/mt/archives/2022/04/9-useful-principles-of-ux-design.php"
-title: "Mobile-First Ecommerce Site Design Is the Future"
-link: "https://www.uxmatters.com/mt/archives/2022/04/mobile-first-ecommerce-site-design-is-the-future.php"
-title: "How to Develop Your UX Design Philosophy"
-link: "https://www.uxmatters.com/mt/archives/2022/04/how-to-develop-your-ux-design-philosophy.php"
-title: "10 Elements to Consider When Designing a Mobile App"
-link: "https://www.uxmatters.com/mt/archives/2022/04/10-elements-to-consider-when-designing-a-mobile-app.php"
-title: "How to Improve UX Design Through A/B Testing"
-link: "https://www.uxmatters.com/mt/archives/2022/04/how-to-improve-ux-design-through-ab-testing.php"
-title: "Common App Design Challenges and Their Solutions"
-link: "https://www.uxmatters.com/mt/archives/2022/04/common-app-design-challenges-and-their-solutions.php"
-title: "How to prepare for a product design interview"
-link: "https://www.uxforthemasses.com/product-design-interview/"
-title: "Let’s give junior product designers a chance"
-link: "https://www.uxforthemasses.com/junior-product-designers/"
-title: "The importance of product first impressions"
-link: "https://www.uxforthemasses.com/product-first-impressions/"
-title: "How to survive working from home"
-link: "https://www.uxforthemasses.com/working-from-home/"
-title: "Well-being isn’t just for your users"
-link: "https://www.uxforthemasses.com/well-being/"
-title: "5 retrospectives to try with your team"
-link: "https://www.uxforthemasses.com/retrospectives/"
-title: "UX deliverables are dead*, long live collaboration"
-link: "https://www.uxforthemasses.com/ux-deliverables-are-dead/"
-title: "Why empathy with your users is not enough"
-link: "https://www.uxforthemasses.com/experience-over-empathy/"
-title: "10 things I’ve learnt moving from being a design practitioner to design manager"
-link: "https://www.uxforthemasses.com/design-practitioner-to-manager/"
-title: "Unlocking complex problems by working with domain experts"
-link: "https://www.uxforthemasses.com/working-with-domain-experts/"
-title: "Introducing Appibilities - How Marianka Cilliers of Glucode is helping make apps more accessible"
-link: "https://medium.com/sketch-app-sources/introducing-appibilities-how-marianka-cilliers-of-glucode-is-helping-make-apps-more-accessible-594ed3ae3c17?source=rss----d23119b14977---4"
-title: "Visual effects and tips for more sales
-and on-demand printing"
-link: "https://medium.com/sketch-app-sources/visual-effects-and-tips-for-driving-sales-and-on-demand-printing-1853ebfbfa45?source=rss----d23119b14977---4"
-title: "Website design best practices - from A to Z"
-link: "https://medium.com/sketch-app-sources/website-design-best-practices-from-a-to-z-2e15a4d0573c?source=rss----d23119b14977---4"
-title: "Wireframe vs mockup vs prototype - What’s the difference?"
-link: "https://medium.com/sketch-app-sources/wireframe-vs-mockup-vs-prototype-whats-the-difference-d72410e49bd4?source=rss----d23119b14977---4"
-title: "Space to play - How Ramsés Cabello uses Sketch to relax and unwind"
-link: "https://medium.com/sketch-app-sources/space-to-play-how-rams%C3%A9s-cabello-uses-sketch-to-relax-and-unwind-8552a55eaa77?source=rss----d23119b14977---4"
-title: "Top 4 ways to create a mockup for your design"
-link: "https://medium.com/sketch-app-sources/top-4-ways-to-create-a-mockup-for-your-design-808ccb5ea312?source=rss----d23119b14977---4"
-title: "How to design an enamel pin mockup and make your logo stand out?"
-link: "https://medium.com/sketch-app-sources/how-to-design-an-enamel-pin-mockup-and-make-your-logo-stand-out-caef21fb62cf?source=rss----d23119b14977---4"
-title: "Design Brainstorming - From ideation to creation"
-link: "https://medium.com/sketch-app-sources/design-brainstorming-from-ideation-to-creation-8fed97f7d174?source=rss----d23119b14977---4"
-title: "How to create a wireframe - The ultimate guide"
-link: "https://medium.com/sketch-app-sources/how-to-create-a-wireframe-the-ultimate-guide-ac2c2a58e8f7?source=rss----d23119b14977---4"
-title: "Details Matter - How to make your designs more memorable with visual styles and effects"
-link: "https://medium.com/sketch-app-sources/details-matter-how-to-make-your-designs-more-memorable-with-visual-styles-and-effects-74379299c218?source=rss----d23119b14977---4"
-title: "Hockey sticks don't look like hockey sticks"
-link: "https://matthewstrom.com/writing/hockey-sticks/"
-title: "Functions and the future of design systems"
-link: "https://matthewstrom.com/writing/functions-in-design-systems/"
-title: "Stop brainstorming"
-link: "https://matthewstrom.com/writing/stop-brainstorming/"
-title: "The legacy of NFTs"
-link: "https://matthewstrom.com/writing/nfts/"
-title: "Beyond 10--"
-link: "https://matthewstrom.com/writing/beyond-10x/"
-title: "Pictures of websites"
-link: "https://matthewstrom.com/writing/pictures-of-websites/"
-title: "The service-based design org"
-link: "https://matthewstrom.com/writing/service-based-design-org/"
-title: "The hand and the brain"
-link: "https://matthewstrom.com/writing/the-hand-and-the-brain/"
-title: "Copying is the way design works"
-link: "https://matthewstrom.com/writing/copying/"
-title: "The things of everyday design"
-link: "https://matthewstrom.com/writing/the-things-of-everyday-design/"
-title: "Collaborative design research"
-link: "https://matthewstrom.com/writing/collaborative-design-research/"
-title: "A design API in practice"
-link: "https://matthewstrom.com/writing/design-api-in-practice/"
-title: "Ethics for designers in the real world - Snapchat---s Juneteenth filter"
-link: "https://matthewstrom.com/writing/ethics-snapchat/"
-title: "Know thyself"
-link: "https://matthewstrom.com/ethics/know-thyself/"
-title: "Care ethics"
-link: "https://matthewstrom.com/ethics/care-ethics/"
-title: "Bottom Line Up Front - write to make decisions faster"
-link: "https://matthewstrom.com/writing/bluf/"
-title: "Consequentialism"
-link: "https://matthewstrom.com/ethics/consequentialism/"
-title: "Deontology"
-link: "https://matthewstrom.com/ethics/deontology/"
-title: "How to make big changes one step at a time"
-link: "https://matthewstrom.com/writing/designing-change/"
-title: "Virtue ethics"
-link: "https://matthewstrom.com/ethics/virtue-ethics/"
-title: "The unexamined life"
-link: "https://matthewstrom.com/ethics/the-unexamined-life/"
-title: "What is a brand?"
-link: "https://matthewstrom.com/writing/what-is-a-brand/"
-title: "A brief guide to design feedback"
-link: "https://matthewstrom.com/writing/critique-vs-review/"
-title: "Engagement is an antimetric"
-link: "https://matthewstrom.com/writing/engagement/"
-title: "Breaking looms"
-link: "https://matthewstrom.com/writing/breaking-looms/"
-title: "People alignment vs. purpose alignment"
-link: "https://matthewstrom.com/writing/people-alignment-purpose-alignment/"
-title: "The paradox at the heart of A/B testing"
-link: "https://matthewstrom.com/writing/ab-testing-paradox/"
-title: "All the books I read in 2019"
-link: "https://matthewstrom.com/writing/2019-books/"
-title: "Product thinking is a lifeline for struggling design systems"
-link: "https://matthewstrom.com/writing/product-thinking-for-design-systems/"
-title: "Design APIs - the evolution of design systems"
-link: "https://matthewstrom.com/writing/design-apis/"
-title: "Making an audio waveform visualizer with vanilla java script"
-link: "https://matthewstrom.com/writing/waveform-visualizier-javascript/"
-title: "Design and machine learning"
-link: "https://matthewstrom.com/writing/design-and-ml/"
-title: "Learning how to see"
-link: "https://matthewstrom.com/writing/learning-how-to-see/"
-title: "Intuition vs. data"
-link: "https://matthewstrom.com/writing/intuition/"
-title: "What google search shows us about the future of product design"
-link: "https://matthewstrom.com/writing/google-search/"
-title: "Using Netlify to build an email sign-up widget"
-link: "https://matthewstrom.com/writing/netlify-email/"
-title: "The management strategy that saved Apollo 11"
-link: "https://matthewstrom.com/writing/distributed-decision-making/"
-title: "The Role of Doubt in Design"
-link: "https://matthewstrom.com/writing/doubt/"
-title: "Delight comes last"
-link: "https://matthewstrom.com/writing/delight-comes-last/"
-title: "The inevitable same-ification of the internet"
-link: "https://matthewstrom.com/writing/sameification/"
-title: "Responsive roadmaps"
-link: "https://matthewstrom.com/writing/responsive-roadmaps/"
-title: "The slippery slope of in product messaging"
-link: "https://matthewstrom.com/writing/wayfinding/"
-title: "Switching to variable fonts"
-link: "https://matthewstrom.com/writing/variable-fonts/"
-title: "Compounding design, expiring design"
-link: "https://matthewstrom.com/writing/compounding-design/"
-title: "Optimize for learning"
-link: "https://matthewstrom.com/writing/optimize-for-learning/"
-title: "How to take your team's creative pulse"
-link: "https://matthewstrom.com/writing/pulse-check/"
-title: "All the books I read in 2018"
-link: "https://matthewstrom.com/writing/2018-books/"
-title: "Inclusive design on the Tokyo subway"
-link: "https://matthewstrom.com/writing/inclusive-subway-design/"
-title: "How to have more inclusive meetings"
-link: "https://matthewstrom.com/writing/inclusive-meetings/"
-title: "Who are design systems for?"
-link: "https://matthewstrom.com/writing/who-are-design-systems-for/"
-title: "The design system you already have"
-link: "https://matthewstrom.com/writing/the-design-system-you-already-have/"
-title: "We'll fix it later"
-link: "https://matthewstrom.com/writing/fix-it-later/"
-title: "Just-in-time design"
-link: "https://matthewstrom.com/writing/just-in-time-design/"
-title: "Research, empathy, simplicity, speed"
-link: "https://matthewstrom.com/writing/research-simplicity-empathy-speed/"
-title: "Designing with code"
-link: "https://matthewstrom.com/writing/designing-with-code/"
-title: "The 1-hour design principles workshop"
-link: "https://matthewstrom.com/writing/design-principles-workshop/"
-title: "My management philosophy"
-link: "https://matthewstrom.com/writing/management-philosophy/"
-title: "Agile & anxiety"
-link: "https://matthewstrom.com/writing/agile-anxiety/"
-title: "Crystal ball 1-on-1s"
-link: "https://matthewstrom.com/writing/crystal-ball/"
-title: "Really bad design exercises"
-link: "https://matthewstrom.com/writing/design-exercises/"
-title: "Flight crews don't decide where to fly"
-link: "https://matthewstrom.com/writing/crews/"
-title: "Why the web will win"
-link: "https://matthewstrom.com/writing/web-platform/"
-title: "My favorite job interview question"
-link: "https://matthewstrom.com/writing/interview/"
-title: "Changing all the fonts on WSJ.com"
-link: "https://matthewstrom.com/writing/wsjfonts/"
-title: "What makes a good design principle?"
-link: "https://matthewstrom.com/writing/principles/"
-title: "How to get the best design feedback from your team"
-link: "https://matthewstrom.com/writing/feedback-revisited/"
-title: "Making WSJ.com more accessible"
-link: "https://matthewstrom.com/writing/wsj-accessibility/"
-title: "Design better data tables"
-link: "https://matthewstrom.com/writing/tables/"
-title: "Datum ipsum"
-link: "https://matthewstrom.com/writing/datum-ipsum/"
-title: "Tiny data visualizations"
-link: "https://matthewstrom.com/writing/tiny-data-viz/"
-title: "Mind the gap - designing graphs with missing data"
-link: "https://matthewstrom.com/writing/gap/"
-title: "Goldilocks your graphs"
-link: "https://matthewstrom.com/writing/goldilocks/"
-title: "Well-designed interfaces look boring"
-link: "https://matthewstrom.com/writing/boring/"
-title: "Towards better creative feedback"
-link: "https://matthewstrom.com/writing/feedback/"
-title: "Asymmetrical symmetry"
-link: "https://matthewstrom.com/writing/go/"
-title: "Make it 'til you make it"
-link: "https://matthewstrom.com/writing/make-it/"
-title: "Better problem solving - unask the question"
-link: "https://matthewstrom.com/writing/unask/"
-title: "Taking credit for success"
-link: "https://matthewstrom.com/writing/success/"
-title: "What happens when things go wrong"
-link: "https://matthewstrom.com/writing/wrong/"
-title: "Practice makes perfect"
-link: "https://matthewstrom.com/writing/practice/"
-title: "Be curious"
-link: "https://matthewstrom.com/writing/curiosity/"
-title: "Working to work"
-link: "https://matthewstrom.com/writing/working/"
-title: "A website to call my own"
-link: "https://matthewstrom.com/writing/website/"
-title: "Daft Punk &#8211; Around The World (In The Classroom with Michel Gondry"
-link: "https://bradfrost.com/blog/link/daft-punk-around-the-world-in-the-classroom-with-michel-gondry/"
-title: "I Think You Should Leave Resources"
-link: "https://bradfrost.com/blog/link/i-think-you-should-leave-resources/"
-title: "What Didn’t End Up in Jira"
-link: "https://bradfrost.com/blog/link/what-didnt-end-up-in-jira/"
-title: "Headless components in React and why I stopped using a UI library for our design system"
-link: "https://bradfrost.com/blog/link/headless-components-in-react-and-why-i-stopped-using-a-ui-library-for-our-design-system/"
-title: "CSS { In Real Life } &#124; A Blog Post About Blogging"
-link: "https://bradfrost.com/blog/link/css-in-real-life-a-blog-post-about-blogging/"
-title: "Jacob Collier on writing interesting lyrics"
-link: "https://bradfrost.com/blog/link/jacob-collier-on-writing-interesting-lyrics/"
-title: "Working Better - Interview with web designer Brad Frost &#8211; Noisli"
-link: "https://bradfrost.com/blog/link/working-better-interview-with-web-designer-brad-frost-noisli/"
-title: "The Practical Guide to Naming Design Tokens &#124; UX Collective"
-link: "https://bradfrost.com/blog/link/the-practical-guide-to-naming-design-tokens-ux-collective/"
-title: "Eleventy + Lit"
-link: "https://bradfrost.com/blog/link/eleventy-lit/"
-title: "Pinball Map"
-link: "https://bradfrost.com/blog/link/pinball-map/"
-title: "136 facts every web dev should know before they burn out and turn to landscape painting or nude modelling – Baldur Bjarnason"
-link: "https://bradfrost.com/blog/link/136-facts-every-web-dev-should-know-before-they-burn-out-and-turn-to-landscape-painting-or-nude-modelling-baldur-bjarnason/"
-title: "Structuring your Storybook"
-link: "https://bradfrost.com/blog/link/structuring-your-storybook/"
-title: "How cheese, snails, Christianity, underwear, and eyeglasses all contributed to the rise of the modern book."
-link: "https://bradfrost.com/blog/link/1-incunabula-on-twitter-european-civilization-is-built-on-ham-and-cheese-which-allowed-protein-to-be-stored-throughout-the-icy-winters-without-this-urban-societies-in-most-of-central-europe-wo/"
-title: "Finding Common Patterns Across Frameworks – Ian Frost Weather"
-link: "https://bradfrost.com/blog/link/finding-common-patterns-across-frameworks-ian-frost-weather/"
-title: "Design system versioning - single library or individual components?"
-link: "https://bradfrost.com/blog/post/design-system-versioning-single-library-or-individual-components/"
-title: "Creative Process Lessons from &#8216;Get Back&#8217;"
-link: "https://bradfrost.com/blog/post/creative-process-lessons-from-get-back/"
-title: "Learn Responsive Design"
-link: "https://bradfrost.com/blog/link/learn-responsive-design/"
-title: "Make Free Stuff &#124; Max Böck"
-link: "https://bradfrost.com/blog/link/make-free-stuff-max-bock/"
-title: "Atomic Design and Storybook"
-link: "https://bradfrost.com/blog/post/atomic-design-and-storybook/"
-title: "My first impressions of web3 &#8211; Moxie Marlinspike"
-link: "https://bradfrost.com/blog/link/my-first-impressions-of-web3-moxie-marlinspike/"
-title: "A New Container Query Polyfill That Just Works &#124; CSS-Tricks"
-link: "https://bradfrost.com/blog/link/a-new-container-query-polyfill-that-just-works-css-tricks/"
-title: "Quick Tip - Peacock VS Code extension"
-link: "https://bradfrost.com/blog/post/quick-tip-peacock-vs-code-extension/"
-title: "The CSS  -has() selector is way more than a “Parent Selector” – Bram.us"
-link: "https://bradfrost.com/blog/link/the-css-has-selector-is-way-more-than-a-parent-selector-bram-us/"
-title: "The Denialist Playbook &#8211; Scientific American"
-link: "https://bradfrost.com/blog/link/the-denialist-playbook-scientific-american/"
-title: "A Small Guide for Naming Stuff in Front-end Code – Frank M Taylor"
-link: "https://bradfrost.com/blog/link/a-small-guide-for-naming-stuff-in-front-end-code-frank-m-taylor/"
-title: "2021"
-link: "https://bradfrost.com/blog/post/2021/"
-title: "Defensive CSS &#8211; Ahmad Shadeed"
-link: "https://bradfrost.com/blog/link/defensive-css-ahmad-shadeed/"
-title: "How to Care Less About Work"
-link: "https://bradfrost.com/blog/link/how-to-care-less-about-work/"
-title: "Design Systems are for user interfaces"
-link: "https://bradfrost.com/blog/post/design-systems-are-for-user-interfaces/"
-title: "Why you should invest in your mental health as a designer &#8211; Design To Be Conversation"
-link: "https://bradfrost.com/blog/link/14302/"
-title: "Conducting User Research"
-link: "https://www.uxbooth.com/case-study-conducting-user-research-with-interpreter/"
-title: "Make your interfaces easily scannable"
-link: "https://uxplanet.org/make-your-interfaces-easily-scannable-7055faaa1a6e?source=rss----819cc2aaeee0---4"
-title: "Figma Slot Components - why and how to use them"
-link: "https://uxplanet.org/figma-slot-components-why-and-how-to-use-them-c06edd529ca?source=rss----819cc2aaeee0---4"
-title: "Being a UX person"
-link: "https://uxplanet.org/being-a-ux-person-99b1e2f1d91f?source=rss----819cc2aaeee0---4"
-title: "Considerations on Product Design in Agencies and In-House"
-link: "https://uxplanet.org/considerations-on-product-design-in-agencies-and-in-house-3f2b7c7aec26?source=rss----819cc2aaeee0---4"
-title: "Superpeer.com — a UX Research Case Study"
-link: "https://uxplanet.org/superpeer-com-a-ux-research-case-study-e7fcf72c8db?source=rss----819cc2aaeee0---4"
-title: "DSA, the New Law That Will Shake Tech Giants"
-link: "https://uxplanet.org/dsa-the-new-law-that-will-shake-tech-giants-3d5cda90d5e7?source=rss----819cc2aaeee0---4"
-title: "Designing for scanning"
-link: "https://uxplanet.org/designing-for-scanning-a5b953a2ec46?source=rss----819cc2aaeee0---4"
-title: "Create Responsive Design in Figma"
-link: "https://uxplanet.org/create-responsive-design-in-figma-dae6e7782a00?source=rss----819cc2aaeee0---4"
-title: "Metaverse design guide - Part 2"
-link: "https://uxplanet.org/metaverse-design-guide-part-2-7ab70a349919?source=rss----819cc2aaeee0---4"
-title: "How Mobile Guitar Heros Has Evolved - From Tap Tap to Beatstar"
-link: "https://uxplanet.org/how-mobile-guitar-heros-has-evolved-from-tap-tap-to-beatstar-a01e3f0a30be?source=rss----819cc2aaeee0---4"
-title: "Best Font for Online Reading - No Single Answer"
-link: "https://www.nngroup.com/articles/best-font-for-online-reading/"
-title: "Size Guides and Product Measurements for International Shoppers"
-link: "https://www.nngroup.com/articles/sizes-measurements-ecommerce/"
-title: "DesignOps - 5 Common Team Structures"
-link: "https://www.nngroup.com/articles/designops-team-structures/"
-title: "Three Methods to Increase User Autonomy in UX Design"
-link: "https://www.nngroup.com/articles/increase-user-autonomy/"
-title: "UX Conference July Announced (Jul 16 - Jul 22)"
-link: "https://www.nngroup.com/training/july/"
-title: "Information Architecture - Study Guide"
-link: "https://www.nngroup.com/articles/ia-study-guide/"
-title: "How to Conduct a Cognitive Walkthrough Workshop"
-link: "https://www.nngroup.com/articles/cognitive-walkthrough-workshop/"
-title: "Creating Engaging Reports & Asynchronous Presentations"
-link: "https://www.nngroup.com/articles/engaging-reports-presentations/"
-title: "Data Tables - Four Major User Tasks"
-link: "https://www.nngroup.com/articles/data-tables/"
-title: "Support Recall Instead of Recognition in UI Design"
-link: "https://www.nngroup.com/articles/recall-beats-recognition/"
-title: "UX Conference June Announced (Jun 18 - Jun 24)"
-link: "https://www.nngroup.com/training/june/"
-title: "6 Tips for Improving Language Switchers on Ecommerce Sites"
-link: "https://www.nngroup.com/articles/language-switching-ecommerce/"
-title: "Intranet & Enterprise Design - Study Guide"
-link: "https://www.nngroup.com/articles/intranet-study-guide/"
-title: "UX Strategy - Definition and Components"
-link: "https://www.nngroup.com/articles/ux-strategy/"
-title: "Revisiting Facial-Recognition Payment - Old Problems Still Lingering"
-link: "https://www.nngroup.com/articles/facial-recognition-payment/"
-title: "The State of ResearchOps - Untapped Yet"
-link: "https://www.nngroup.com/articles/researchops-state-untapped/"
-title: "Confirmation Bias in UX"
-link: "https://www.nngroup.com/articles/confirmation-bias-ux/"
-title: "The State of Ecommerce UX - COVID-19 and Direct-to-Consumer Retail Raise the Bar"
-link: "https://www.nngroup.com/articles/state-of-ecommerce-ux/"
-title: "Job Openings - UX Specialists (experienced or entry-level, remote)"
-link: "https://www.nngroup.com/news/item/job-openings/"
-title: "Alternatives to Pagination on Product-Listing Pages"
-link: "https://www.nngroup.com/articles/alternatives-pagination-listing-pages/"
-title: "The Corporate Vision as a Seed for Our Experience Vision"
-link: "https://articles.uie.com/the-corporate-vision-as-a-seed-for-our-experience-vision/"
-title: "Combining Our UX Metrics With Compelling, Emotional Stories"
-link: "https://articles.uie.com/combining-our-ux-metrics-with-compelling-emotional-stories/"
-title: "Why UX Outcomes Make Better Goals Than Business Outcomes"
-link: "https://articles.uie.com/why-ux-outcomes-make-better-goals-than-business-outcomes/"
-title: "UX Hiring - The Performance Profile is a Game Changer"
-link: "https://articles.uie.com/ux-hiring-the-performance-profile-is-a-game-changer/"
-title: "What Proactive UX Research Looks Like"
-link: "https://articles.uie.com/what-proactive-ux-research-looks-like/"
-title: "UX Hiring - Let’s Talk About Comparable Experience"
-link: "https://articles.uie.com/ux-hiring-lets-talk-about-comparable-experience/"
-title: "Shifting Our Team Goals to be UX Outcomes"
-link: "https://articles.uie.com/shifting-our-team-goals-to-be-ux-outcomes/"
-title: "Four Articles for a New Year"
-link: "https://articles.uie.com/four-articles-for-a-new-year-2/"
-title: "Three UX Articles Centered on Maturing UX in Your Organization"
-link: "https://articles.uie.com/three-ux-articles-centered-on-maturing-ux-in-your-organization/"
-title: "Interview-Based Tasks - Learning from Leonardo DiCaprio"
-link: "https://articles.uie.com/interview_based_tasks/"
-title: "
-					Breaking Out of the Box				"
-link: "
-					https://alistapart.com/article/breaking-out-of-the-box/				"
-title: "
-					How to Sell UX Research with Two Simple Questions				"
-link: "
-					https://alistapart.com/article/how-to-sell-ux-research/				"
-title: "
-					A Content Model Is Not a Design System				"
-link: "
-					https://alistapart.com/article/a-content-model-is-not-a-design-system/				"
-title: "
-					Design for Safety, An Excerpt				"
-link: "
-					https://alistapart.com/article/design-for-safety-excerpt/				"
-title: "
-					Sustainable Web Design, An Excerpt				"
-link: "
-					https://alistapart.com/article/sustainable-web-design-excerpt/				"
-title: "
-					Voice Content and Usability				"
-link: "
-					https://alistapart.com/article/voice-content-and-usability/				"
-title: "
-					Designing for the Unexpected				"
-link: "
-					https://alistapart.com/article/designing-for-the-unexpected/				"
-title: "
-					Asynchronous Design Critique - Getting Feedback				"
-link: "
-					https://alistapart.com/article/asynchronous-design-critique-giving-feedback-part2/				"
-title: "
-					Asynchronous Design Critique - Giving Feedback				"
-link: "
-					https://alistapart.com/article/async-design-critique-giving-feedback/				"
-title: "
-					That’s Not My Burnout				"
-link: "
-					https://alistapart.com/article/thats-not-my-burnout/				"
-title: "
-					Beware the Cut ‘n’ Paste Persona				"
-link: "
-					https://alistapart.com/article/beware-the-cut-n-paste-persona/				"
-title: "
-					Immersive Content Strategy				"
-link: "
-					https://alistapart.com/article/immersive-content-strategy/				"
-title: "
-					Do You Need to Localize Your Website?				"
-link: "
-					https://alistapart.com/article/do-you-need-to-localize-your-website/				"
-title: "
-					Human-Readable JavaScript - A Tale of Two Experts				"
-link: "
-					https://alistapart.com/article/human-readable-javascript/				"
-title: "
-					Now THAT&#8217;S What I Call Service Worker!				"
-link: "
-					https://alistapart.com/article/now-thats-what-i-call-service-worker/				"
-title: "
-					Keeping Your Design Mind New and Fresh				"
-link: "
-					https://alistapart.com/article/keeping-a-fresh-design-mind/				"
-title: "
-					How to Get a Dysfunctional Team Back on Track				"
-link: "
-					https://alistapart.com/article/dysfunctional-teams-back-on-track/				"
-title: "
-					The Future of Web Software Is HTML-over-WebSockets				"
-link: "
-					https://alistapart.com/article/the-future-of-web-software-is-html-over-websockets/				"
-title: "
-					Designing Inclusive Content Models				"
-link: "
-					https://alistapart.com/article/designing-inclusive-content-models/				"
-title: "
-					The Never-Ending Job of Selling Design Systems				"
-link: "
-					https://alistapart.com/article/selling-design-systems/				"
-title: "
-					Breaking Out of the Box				"
-link: "
-					https://alistapart.com/article/breaking-out-of-the-box/				"
-title: "
-					How to Sell UX Research with Two Simple Questions				"
-link: "
-					https://alistapart.com/article/how-to-sell-ux-research/				"
-title: "
-					A Content Model Is Not a Design System				"
-link: "
-					https://alistapart.com/article/a-content-model-is-not-a-design-system/				"
-title: "
-					Design for Safety, An Excerpt				"
-link: "
-					https://alistapart.com/article/design-for-safety-excerpt/				"
-title: "
-					Sustainable Web Design, An Excerpt				"
-link: "
-					https://alistapart.com/article/sustainable-web-design-excerpt/				"
-title: "
-					Voice Content and Usability				"
-link: "
-					https://alistapart.com/article/voice-content-and-usability/				"
-title: "
-					Designing for the Unexpected				"
-link: "
-					https://alistapart.com/article/designing-for-the-unexpected/				"
-title: "
-					Asynchronous Design Critique - Getting Feedback				"
-link: "
-					https://alistapart.com/article/asynchronous-design-critique-giving-feedback-part2/				"
-title: "
-					Asynchronous Design Critique - Giving Feedback				"
-link: "
-					https://alistapart.com/article/async-design-critique-giving-feedback/				"
-title: "
-					That’s Not My Burnout				"
-link: "
-					https://alistapart.com/article/thats-not-my-burnout/				"
-title: "
-					Beware the Cut ‘n’ Paste Persona				"
-link: "
-					https://alistapart.com/article/beware-the-cut-n-paste-persona/				"
-title: "
-					Immersive Content Strategy				"
-link: "
-					https://alistapart.com/article/immersive-content-strategy/				"
-title: "
-					Do You Need to Localize Your Website?				"
-link: "
-					https://alistapart.com/article/do-you-need-to-localize-your-website/				"
-title: "
-					Human-Readable JavaScript - A Tale of Two Experts				"
-link: "
-					https://alistapart.com/article/human-readable-javascript/				"
-title: "
-					Now THAT&#8217;S What I Call Service Worker!				"
-link: "
-					https://alistapart.com/article/now-thats-what-i-call-service-worker/				"
-title: "
-					Keeping Your Design Mind New and Fresh				"
-link: "
-					https://alistapart.com/article/keeping-a-fresh-design-mind/				"
-title: "
-					How to Get a Dysfunctional Team Back on Track				"
-link: "
-					https://alistapart.com/article/dysfunctional-teams-back-on-track/				"
-title: "
-					The Future of Web Software Is HTML-over-WebSockets				"
-link: "
-					https://alistapart.com/article/the-future-of-web-software-is-html-over-websockets/				"
-title: "
-					Designing Inclusive Content Models				"
-link: "
-					https://alistapart.com/article/designing-inclusive-content-models/				"
-title: "
-					The Never-Ending Job of Selling Design Systems				"
-link: "
-					https://alistapart.com/article/selling-design-systems/				"
-title: "Baymard Update - New UX Benchmark for Travel Accommodations Websites (OTAs, Hotels, Vacation Rentals)"
-link: "https://feeds.baymard.com/link/9825/15249254/benchmark-travel-accommodations"
-title: "Consumables Subscription Services Site UX - Avoid This Major CTA Pitfall"
-link: "https://feeds.baymard.com/link/9825/15230110/consumables-subscriptions-cta"
-title: "3 UX Best Practices for Consumables Subscription Services Websites — Based on 1,200+ Hours of UX Testing"
-link: "https://feeds.baymard.com/link/9825/15213804/new-research-consumables-subscription-services"
-title: "Grocery and Food Delivery Site UX - Allow Users to Add “Past Purchases” to the Cart from the Homepage"
-link: "https://feeds.baymard.com/link/9825/15199218/grocery-food-delivery-orders"
-title: "3 High-Level UX Takeaways from 1100+ Hours of Testing Leading Food Delivery and Takeout Sites"
-link: "https://feeds.baymard.com/link/9825/15183923/food-delivery-takeout-launch"
-title: "The Current State of Accounts & Self-Service UX - 5 Common Pitfalls & Best Practices "
-link: "https://feeds.baymard.com/link/9825/15169118/current-state-accounts-selfservice"
-title: "Use a 3-Level Information Hierarchy for the “How It Works” Page for Consumables Subscription-Service Sites"
-link: "https://feeds.baymard.com/link/9825/15136142/3-level-how-it-works-page"
-title: "3 High-Level UX Takeaways from 950+ Hours of Testing Leading Meal Kits Sites"
-link: "https://feeds.baymard.com/link/9825/15115436/meal-kits-launch"
-title: "Direct-to-Consumer UX Benchmark - 5 Common DTC Pitfalls"
-link: "https://feeds.baymard.com/link/9825/15096164/dtc-benchmark"
-title: "The Optimal Layout for Hotel & Property Rental Search Results & 3 Pitfalls to Avoid"
-link: "https://feeds.baymard.com/link/9825/15066477/accommodations-split-view"
+Design in 2022 - Language, Localisation and Collaboration
+Part 2 — Apply 20 Essential rules of Graphics Design to UI Design
+3 Things most UX/UI portfolios don’t include but should
+Slot Components — How to create them in Figma
+The Illusion of Ownership and Confusion of Censorship
+Stability, Quality and Innovation. 3 buckets for measuring the state of your Product.
+How to get the most out of design mentoring?
+The Ad-Free Web for Designers
+Side Project Story - How I Build a Digital Marketplace in 3 Months
+How I use automation to quickly transfer my designs from Figma to Webflow (Part 2)
+Why UX Research Repos Fail at Democratizing Insights
+Mobile App Versus Web Site - Which Is Better for Your Business?
+16 Top Design Trends for 2022
+How Businesses Can Keep Their Web Designs Relevant and Appealing in 2022
+9 Useful Principles of UX Design
+Mobile-First Ecommerce Site Design Is the Future
+How to Develop Your UX Design Philosophy
+10 Elements to Consider When Designing a Mobile App
+How to Improve UX Design Through A/B Testing
+Common App Design Challenges and Their Solutions
+How to prepare for a product design interview
+Let’s give junior product designers a chance
+The importance of product first impressions
+How to survive working from home
+Well-being isn’t just for your users
+5 retrospectives to try with your team
+UX deliverables are dead*, long live collaboration
+Why empathy with your users is not enough
+10 things I’ve learnt moving from being a design practitioner to design manager
+Unlocking complex problems by working with domain experts
+Introducing Appibilities - How Marianka Cilliers of Glucode is helping make apps more accessible
+Visual effects and tips for more sales
+and on-demand printing
+Website design best practices - from A to Z
+Wireframe vs mockup vs prototype - What’s the difference?
+Space to play - How Ramsés Cabello uses Sketch to relax and unwind
+Top 4 ways to create a mockup for your design
+How to design an enamel pin mockup and make your logo stand out?
+Design Brainstorming - From ideation to creation
+How to create a wireframe - The ultimate guide
+Details Matter - How to make your designs more memorable with visual styles and effects
+Hockey sticks don't look like hockey sticks
+Functions and the future of design systems
+Stop brainstorming
+The legacy of NFTs
+Beyond 10--
+Pictures of websites
+The service-based design org
+The hand and the brain
+Copying is the way design works
+The things of everyday design
+Collaborative design research
+A design API in practice
+Ethics for designers in the real world - Snapchat---s Juneteenth filter
+Know thyself
+Care ethics
+Bottom Line Up Front - write to make decisions faster
+Consequentialism
+Deontology
+How to make big changes one step at a time
+Virtue ethics
+The unexamined life
+What is a brand?
+A brief guide to design feedback
+Engagement is an antimetric
+Breaking looms
+People alignment vs. purpose alignment
+The paradox at the heart of A/B testing
+All the books I read in 2019
+Product thinking is a lifeline for struggling design systems
+Design APIs - the evolution of design systems
+Making an audio waveform visualizer with vanilla java script
+Design and machine learning
+Learning how to see
+Intuition vs. data
+What google search shows us about the future of product design
+Using Netlify to build an email sign-up widget
+The management strategy that saved Apollo 11
+The Role of Doubt in Design
+Delight comes last
+The inevitable same-ification of the internet
+Responsive roadmaps
+The slippery slope of in product messaging
+Switching to variable fonts
+Compounding design, expiring design
+Optimize for learning
+How to take your team's creative pulse
+All the books I read in 2018
+Inclusive design on the Tokyo subway
+How to have more inclusive meetings
+Who are design systems for?
+The design system you already have
+We'll fix it later
+Just-in-time design
+Research, empathy, simplicity, speed
+Designing with code
+The 1-hour design principles workshop
+My management philosophy
+Agile & anxiety
+Crystal ball 1-on-1s
+Really bad design exercises
+Flight crews don't decide where to fly
+Why the web will win
+My favorite job interview question
+Changing all the fonts on WSJ.com
+What makes a good design principle?
+How to get the best design feedback from your team
+Making WSJ.com more accessible
+Design better data tables
+Datum ipsum
+Tiny data visualizations
+Mind the gap - designing graphs with missing data
+Goldilocks your graphs
+Well-designed interfaces look boring
+Towards better creative feedback
+Asymmetrical symmetry
+Make it 'til you make it
+Better problem solving - unask the question
+Taking credit for success
+What happens when things go wrong
+Practice makes perfect
+Be curious
+Working to work
+A website to call my own
+Daft Punk &#8211; Around The World (In The Classroom with Michel Gondry
+I Think You Should Leave Resources
+What Didn’t End Up in Jira
+Headless components in React and why I stopped using a UI library for our design system
+CSS { In Real Life } &#124; A Blog Post About Blogging
+Jacob Collier on writing interesting lyrics
+Working Better - Interview with web designer Brad Frost &#8211; Noisli
+The Practical Guide to Naming Design Tokens &#124; UX Collective
+Eleventy + Lit
+Pinball Map
+136 facts every web dev should know before they burn out and turn to landscape painting or nude modelling – Baldur Bjarnason
+Structuring your Storybook
+How cheese, snails, Christianity, underwear, and eyeglasses all contributed to the rise of the modern book.
+Finding Common Patterns Across Frameworks – Ian Frost Weather
+Design system versioning - single library or individual components?
+Creative Process Lessons from &#8216;Get Back&#8217;
+Learn Responsive Design
+Make Free Stuff &#124; Max Böck
+Atomic Design and Storybook
+My first impressions of web3 &#8211; Moxie Marlinspike
+A New Container Query Polyfill That Just Works &#124; CSS-Tricks
+Quick Tip - Peacock VS Code extension
+The CSS  -has() selector is way more than a “Parent Selector” – Bram.us
+The Denialist Playbook &#8211; Scientific American
+A Small Guide for Naming Stuff in Front-end Code – Frank M Taylor
+2021
+Defensive CSS &#8211; Ahmad Shadeed
+How to Care Less About Work
+Design Systems are for user interfaces
+Why you should invest in your mental health as a designer &#8211; Design To Be Conversation
+Conducting User Research
+TOP 11 sites to get web design inspiration + Instagram bonus
+Make your interfaces easily scannable
+Figma Slot Components - why and how to use them
+Being a UX person
+Considerations on Product Design in Agencies and In-House
+Superpeer.com — a UX Research Case Study
+DSA, the New Law That Will Shake Tech Giants
+Designing for scanning
+Create Responsive Design in Figma
+Metaverse design guide - Part 2
+Best Font for Online Reading - No Single Answer
+Size Guides and Product Measurements for International Shoppers
+DesignOps - 5 Common Team Structures
+Three Methods to Increase User Autonomy in UX Design
+UX Conference July Announced (Jul 16 - Jul 22)
+Information Architecture - Study Guide
+How to Conduct a Cognitive Walkthrough Workshop
+Creating Engaging Reports & Asynchronous Presentations
+Data Tables - Four Major User Tasks
+Support Recall Instead of Recognition in UI Design
+UX Conference June Announced (Jun 18 - Jun 24)
+6 Tips for Improving Language Switchers on Ecommerce Sites
+Intranet & Enterprise Design - Study Guide
+UX Strategy - Definition and Components
+Revisiting Facial-Recognition Payment - Old Problems Still Lingering
+The State of ResearchOps - Untapped Yet
+Confirmation Bias in UX
+The State of Ecommerce UX - COVID-19 and Direct-to-Consumer Retail Raise the Bar
+Job Openings - UX Specialists (experienced or entry-level, remote)
+Alternatives to Pagination on Product-Listing Pages
+The Corporate Vision as a Seed for Our Experience Vision
+Combining Our UX Metrics With Compelling, Emotional Stories
+Why UX Outcomes Make Better Goals Than Business Outcomes
+UX Hiring - The Performance Profile is a Game Changer
+What Proactive UX Research Looks Like
+UX Hiring - Let’s Talk About Comparable Experience
+Shifting Our Team Goals to be UX Outcomes
+Four Articles for a New Year
+Three UX Articles Centered on Maturing UX in Your Organization
+Interview-Based Tasks - Learning from Leonardo DiCaprio
+
+					Breaking Out of the Box				
+
+					How to Sell UX Research with Two Simple Questions				
+
+					A Content Model Is Not a Design System				
+
+					Design for Safety, An Excerpt				
+
+					Sustainable Web Design, An Excerpt				
+
+					Voice Content and Usability				
+
+					Designing for the Unexpected				
+
+					Asynchronous Design Critique - Getting Feedback				
+
+					Asynchronous Design Critique - Giving Feedback				
+
+					That’s Not My Burnout				
+
+					Beware the Cut ‘n’ Paste Persona				
+
+					Immersive Content Strategy				
+
+					Do You Need to Localize Your Website?				
+
+					Human-Readable JavaScript - A Tale of Two Experts				
+
+					Now THAT&#8217;S What I Call Service Worker!				
+
+					Keeping Your Design Mind New and Fresh				
+
+					How to Get a Dysfunctional Team Back on Track				
+
+					The Future of Web Software Is HTML-over-WebSockets				
+
+					Designing Inclusive Content Models				
+
+					The Never-Ending Job of Selling Design Systems				
+
+					Breaking Out of the Box				
+
+					How to Sell UX Research with Two Simple Questions				
+
+					A Content Model Is Not a Design System				
+
+					Design for Safety, An Excerpt				
+
+					Sustainable Web Design, An Excerpt				
+
+					Voice Content and Usability				
+
+					Designing for the Unexpected				
+
+					Asynchronous Design Critique - Getting Feedback				
+
+					Asynchronous Design Critique - Giving Feedback				
+
+					That’s Not My Burnout				
+
+					Beware the Cut ‘n’ Paste Persona				
+
+					Immersive Content Strategy				
+
+					Do You Need to Localize Your Website?				
+
+					Human-Readable JavaScript - A Tale of Two Experts				
+
+					Now THAT&#8217;S What I Call Service Worker!				
+
+					Keeping Your Design Mind New and Fresh				
+
+					How to Get a Dysfunctional Team Back on Track				
+
+					The Future of Web Software Is HTML-over-WebSockets				
+
+					Designing Inclusive Content Models				
+
+					The Never-Ending Job of Selling Design Systems				
