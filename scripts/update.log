@@ -2536,3 +2536,12 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 4faa61d] Update feeds
+ 5 files changed, 61 insertions(+), 275 deletions(-)
+ create mode 100644 _topics/how-to-design-eye-catching-widget-backgrounds.md
+ create mode 100644 _topics/i-made-senior-designerdid-anything-change.md
+ create mode 100644 _topics/what-is-a-design-system-and-why-you-need-one.md
+ rewrite scripts/tweets.txt (100%)
+To github.com:MattKevan/uxlift.git
+   e629a66..4faa61d  master -> master
+Feeds updated 04/29/2022 - 12:00:01 am BST
