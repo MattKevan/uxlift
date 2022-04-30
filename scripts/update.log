@@ -2574,3 +2574,14 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 02d345b] Update feeds
+ 7 files changed, 83 insertions(+)
+ create mode 100644 _topics/7-laws-of-ux-that-spotify-follows.md
+ create mode 100644 _topics/aha-moment-as-a-growth-driver-for-your-company.md
+ create mode 100644 _topics/heres-how-i-increased-event-registrations-by-28.md
+ create mode 100644 _topics/how-to-overcome-confirmation-bias-in-ux-design.md
+ create mode 100644 _topics/revolutionizing-ux-japanese-supremacy.md
+ create mode 100644 _topics/the-best-resources-for-learning-web-design.md
+To github.com:MattKevan/uxlift.git
+   4faa61d..02d345b  master -> master
+Feeds updated 04/30/2022 - 12:00:01 am BST
