@@ -2720,3 +2720,15 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master beca404] Update feeds
+ 8 files changed, 92 insertions(+)
+ create mode 100644 _topics/7-tips-for-breaking-through-a-creative-block.md
+ create mode 100644 _topics/baymard-update-new-ux-benchmark-for-takeout-food-delivery-mobile-sites-and-mobile-apps.md
+ create mode 100644 _topics/design-process-from-chaos-to-order.md
+ create mode 100644 _topics/designers-on-demand-the-limit-to-unlimited-design-services.md
+ create mode 100644 _topics/first-hand-experience-in-designing-a-design-team.md
+ create mode 100644 _topics/guideline-for-product-designers-who-want-to-report-bugs-or-other-issues-to-the-development-team.md
+ create mode 100644 _topics/introduction-to-ux-research-user-research.md
+To github.com:MattKevan/uxlift.git
+   c82dd58..beca404  master -> master
+Feeds updated 05/04/2022 - 12:00:01 am BST
