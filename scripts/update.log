@@ -2761,3 +2761,13 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master c48aeb5] Update feeds
+ 6 files changed, 74 insertions(+)
+ create mode 100644 _topics/10-problems-you-will-face-in-uxui-design.md
+ create mode 100644 _topics/being-a-researcher-psychologist-in-a-service-design-company.md
+ create mode 100644 _topics/case-study-credentially-website-design-for-hr-management.md
+ create mode 100644 _topics/googles-ux-design-course-ultimate-guide-and-review.md
+ create mode 100644 _topics/how-ads-impact-product-design.md
+To github.com:MattKevan/uxlift.git
+   beca404..c48aeb5  master -> master
+Feeds updated 05/05/2022 - 12:00:01 am BST
