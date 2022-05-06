@@ -2800,3 +2800,19 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master a4f20c3] Update feeds
+ 12 files changed, 128 insertions(+)
+ create mode 100644 _topics/a-new-dimension-how-tiago-alexandrino-makes-epic-3d-illustrations-in-sketch.md
+ create mode 100644 _topics/dark-pattern-how-youtube-makes-sure-you-dont-always-skip-ad.md
+ create mode 100644 _topics/deliberation-in-designpart-2.md
+ create mode 100644 _topics/getting-into-product-design-tips-and-challenges.md
+ create mode 100644 _topics/how-to-get-started-on-your-freelance-journeya-complete-guide-for-beginners.md
+ create mode 100644 _topics/must-have-graphic-design-resources-in-2022.md
+ create mode 100644 _topics/naming-components-in-a-figma-ui-kit.md
+ create mode 100644 _topics/secrets-of-excel-break-free-from-the-grid-layout.md
+ create mode 100644 _topics/takeaway-uiux-assignments.md
+ create mode 100644 _topics/uiux-design-the-problem-with-personas.md
+ create mode 100644 _topics/ux-conference-november-announced-nov-14-nov-18.md
+To github.com:MattKevan/uxlift.git
+   c48aeb5..a4f20c3  master -> master
+Feeds updated 05/06/2022 - 12:00:01 am BST
