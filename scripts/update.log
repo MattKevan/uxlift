@@ -2929,3 +2929,23 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 2e9e83e] Update feeds
+ 16 files changed, 195 insertions(+)
+ create mode 100644 _topics/brief-considerations-on-design-topics-5.md
+ create mode 100644 _topics/deja-view-smartglasses-design-and-privacy.md
+ create mode 100644 _topics/design-a-better-text-field.md
+ create mode 100644 _topics/design-reflections-from-my-ansys-spring-ux-internship.md
+ create mode 100644 _topics/design-systemsbuilding-with-systems-purpose-and-principles.md
+ create mode 100644 _topics/frontend-versus-backend-web-development.md
+ create mode 100644 _topics/math-in-product-designwhy-you-need-it-and-what-to-cover.md
+ create mode 100644 _topics/progression-of-system-navigation-on-smartphones.md
+ create mode 100644 _topics/superior-user-experience-can-democratize-saas-based-ad-tech.md
+ create mode 100644 _topics/understanding-user-behaviors-across-surfaces.md
+ create mode 100644 _topics/user-experience-design-and-technical-project-management-overlap.md
+ create mode 100644 _topics/using-heatmaps-to-optimize-your-web-sites-user-experience.md
+ create mode 100644 _topics/uxers-your-most-important-user-is-your-client.md
+ create mode 100644 _topics/visual-design-is-an-essential-skill-for-product-designers.md
+ create mode 100644 _topics/what-user-experience-and-hip-hop-have-in-common.md
+To github.com:MattKevan/uxlift.git
+   4183ff8..2e9e83e  master -> master
+Feeds updated 05/10/2022 - 12:00:01 am BST
