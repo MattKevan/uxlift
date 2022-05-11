@@ -2978,3 +2978,20 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master d857a6f] Update feeds
+ 13 files changed, 137 insertions(+)
+ create mode 100644 _topics/apples-human-interface-guidelines-overview.md
+ create mode 100644 _topics/can-data-and-ethics-live-together-how-to-design-with-privacy-in-mind.md
+ create mode 100644 _topics/case-study-toyota-promo-video.md
+ create mode 100644 _topics/constraints-and-choices.md
+ create mode 100644 _topics/eight-career-mistakes-in-my-20s-forgiven.md
+ create mode 100644 _topics/figjam-2022quick-recap-of-new-things-in-figma.md
+ create mode 100644 _topics/how-to-create-responsive-ios-widgets-with-reusable-elements.md
+ create mode 100644 _topics/pokemon-themed-energy-drink-logo.md
+ create mode 100644 _topics/readability-the-optimal-line-length.md
+ create mode 100644 _topics/things-you-should-know-before-conducting-research.md
+ create mode 100644 _topics/uxui-case-study-2022-design-like-this-get-job-100.md
+ create mode 100644 _topics/why-the-dailyui-challenge-sucks.md
+To github.com:MattKevan/uxlift.git
+   2e9e83e..d857a6f  master -> master
+Feeds updated 05/11/2022 - 12:00:01 am BST
