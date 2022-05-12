@@ -3024,3 +3024,13 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 8286441] Update feeds
+ 6 files changed, 74 insertions(+)
+ create mode 100644 _topics/announcement-im-going-to-miss-you-but-i-am-taking-a-sabbatical.md
+ create mode 100644 _topics/dark-patterns-deceptive-design-in-data-protection.md
+ create mode 100644 _topics/henry-heffernan-portfolio-2022.md
+ create mode 100644 _topics/how-to-measure-your-growth-as-a-designer.md
+ create mode 100644 _topics/ukrainian-it-industry-benefits-of-working-with-ukrainians.md
+To github.com:MattKevan/uxlift.git
+   d857a6f..8286441  master -> master
+Feeds updated 05/12/2022 - 12:00:01 am BST
