@@ -3052,3 +3052,9 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 	from feeds.rb:14:in `block in <main>'
 	from feeds.rb:9:in `each'
 	from feeds.rb:9:in `<main>'
+[master 3ba8aab] Update feeds
+ 2 files changed, 27 insertions(+)
+ create mode 100644 _topics/how-to-make-your-company-truly-customer-centric-and-not-die-trying.md
+To github.com:MattKevan/uxlift.git
+   8286441..3ba8aab  master -> master
+Feeds updated 05/13/2022 - 12:00:01 am BST
