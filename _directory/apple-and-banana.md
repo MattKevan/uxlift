@@ -4,8 +4,8 @@ date: 2020-08-20 14:13:05 +0100
 title: Apple and Banana
 description: 'If you do research, you have a place here. Multiple perspectives, examples, and fruitful action steps for every researcher.'
 image: "/assets/images/applebanana.jpg"
-link: http://www.appleandbanana.org/application/rss.xml
-feed: https://alistapart.com/main/feed
+link: http://www.appleandbanana.org/
+feed: http://www.appleandbanana.org/application/rss.xml
 directory-type: 
 - _directory-types/publication.md
 ---
