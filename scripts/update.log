@@ -3157,3 +3157,24 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 2c7d082] Update feeds
+ 17 files changed, 451 insertions(+)
+ create mode 100644 _topics/36-insights-from-apple-human-interface-guidelines.md
+ create mode 100644 _topics/50-notes-quotes-that-will-change-you-as-a-uxproduct-designer.md
+ create mode 100644 _topics/brutalist-web-design-inspiration.md
+ create mode 100644 _topics/designers-redefine-success-first.md
+ create mode 100644 _topics/figma-community-awards-2022-and-my-favorite-plugins-and-files-of-the-year.md
+ create mode 100644 _topics/how-did-i-prepare-for-the-app-critique-interview.md
+ create mode 100644 _topics/how-to-go-from-figma-to-sketch-file-format.md
+ create mode 100644 _topics/keeping-it-real-how-nikola-lazarevic-creates-photorealistic-objects-in-sketch.md
+ create mode 100644 _topics/lets-move-to-the-next-challengechallenge-002.md
+ create mode 100644 _topics/nft-opportunities-for-uiux-designers.md
+ create mode 100644 _topics/personas-vs-archetypes.md
+ create mode 100644 _topics/redesigning-fyle-chrome-extension.md
+ create mode 100644 _topics/these-12-games-will-put-your-design-skills-to-the-test.md
+ create mode 100644 _topics/two-tips-for-better-ux-storytelling.md
+ create mode 100644 _topics/ux-team-of-one-we-never-need-to-feel-alone.md
+ create mode 100644 _topics/what-bank-ux-specialists-can-learn-from-the-terra-tragedy.md
+To github.com:MattKevan/uxlift.git
+   ebf6186..2c7d082  master -> master
+Feeds updated 05/17/2022 - 12:00:01 am BST
