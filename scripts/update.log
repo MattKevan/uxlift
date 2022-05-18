@@ -3207,3 +3207,13 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master f7d3bb3] Update feeds
+ 6 files changed, 74 insertions(+)
+ create mode 100644 _topics/design-through-a-neurodiverse-lens-exclusive-vs-inclusive.md
+ create mode 100644 _topics/pros-and-cons-of-being-a-designer-at-an-agency-vs-in-house.md
+ create mode 100644 _topics/the-ugly-truths-about-products.md
+ create mode 100644 _topics/the-ultimate-ux-design-thinking-process-in-2022.md
+ create mode 100644 _topics/uiux-fresh-design-books-2022.md
+To github.com:MattKevan/uxlift.git
+   2c7d082..f7d3bb3  master -> master
+Feeds updated 05/18/2022 - 12:00:01 am BST
