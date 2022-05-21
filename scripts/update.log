@@ -3316,3 +3316,14 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 138948f] Update feeds
+ 7 files changed, 83 insertions(+)
+ create mode 100644 _topics/5-ways-to-improve-the-dovetail-experience-for-ux-research.md
+ create mode 100644 _topics/how-to-find-your-first-ux-project-for-your-portfolio-volunteer-internship-and-hackathon.md
+ create mode 100644 _topics/how-to-transition-from-ux-design-principles-to-user-interface.md
+ create mode 100644 _topics/how-to-work-from-home-with-a-dog.md
+ create mode 100644 _topics/thinking-colors-balancing-between-visual-and-abstract.md
+ create mode 100644 _topics/tutorial-design-imitation-is-the-sincerest-form-of-flattery.md
+To github.com:MattKevan/uxlift.git
+   b905a09..138948f  master -> master
+Feeds updated 05/21/2022 - 12:00:01 am BST
