@@ -3494,3 +3494,12 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 8686111] Update feeds
+ 5 files changed, 65 insertions(+)
+ create mode 100644 _topics/25-amazing-illustrators-to-follow.md
+ create mode 100644 _topics/how-to-display-price-discounts-on-the-product-page-avoid-these-4-pitfalls-18-have-one-or-more.md
+ create mode 100644 _topics/how-to-grow-on-instagram-as-a-designer-a-brief-guide.md
+ create mode 100644 _topics/must-have-web-design-resources-in-2022.md
+To github.com:MattKevan/uxlift.git
+   b68891a..8686111  master -> master
+Feeds updated 05/26/2022 - 12:00:01 am BST
