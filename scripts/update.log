@@ -3642,3 +3642,11 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 79e089b] Update feeds
+ 4 files changed, 56 insertions(+)
+ create mode 100644 _topics/checklist-for-moderating-a-usability-test.md
+ create mode 100644 _topics/laurent-baumann-design-tips-for-non-designers.md
+ create mode 100644 _topics/why-so-many-luxury-brands-are-terrible-at-ecommerce.md
+To github.com:MattKevan/uxlift.git
+   6928087..79e089b  master -> master
+Feeds updated 05/30/2022 - 12:00:02 am BST
