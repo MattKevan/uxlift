@@ -3679,3 +3679,18 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master cb432f4] Update feeds
+ 11 files changed, 119 insertions(+)
+ create mode 100644 _topics/5-pro-tips-on-managing-design-feedback-in-meetings.md
+ create mode 100644 _topics/5-tips-for-product-managers-to-ensure-great-collaborations-with-design-teams.md
+ create mode 100644 _topics/best-practices-for-integrating-content-design-in-your-design-system.md
+ create mode 100644 _topics/designing-realistic-train-stations-in-roblox.md
+ create mode 100644 _topics/distance-the-delight.md
+ create mode 100644 _topics/how-to-design-an-email.md
+ create mode 100644 _topics/making-pain-killers.md
+ create mode 100644 _topics/the-hitchhikers-guide-to-product-discovery.md
+ create mode 100644 _topics/the-power-of-omnimulti-channel-experiences.md
+ create mode 100644 _topics/what-are-variable-fonts-and-how-to-use-them.md
+To github.com:MattKevan/uxlift.git
+   79e089b..cb432f4  master -> master
+Feeds updated 05/31/2022 - 12:00:01 am BST
