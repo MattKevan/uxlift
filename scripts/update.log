@@ -3723,3 +3723,16 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 24e7eba] Update feeds
+ 9 files changed, 101 insertions(+)
+ create mode 100644 _topics/7-top-notch-design-newsletters-that-will-help-you-become-a-better-designer.md
+ create mode 100644 _topics/how-to-create-glass-effect-cards.md
+ create mode 100644 _topics/how-to-pick-the-least-wrong-colors.md
+ create mode 100644 _topics/invoice-experience-of-driversa-ux-research-case-study.md
+ create mode 100644 _topics/make-it-clear-where-hit-areas-in-visual-elements-lead-33-of-sites-dont.md
+ create mode 100644 _topics/mentorship-in-ux-design-my-experience.md
+ create mode 100644 _topics/refresh-your-product-the-apps-and-tools-changing-how-designers-work.md
+ create mode 100644 _topics/ultimate-list-of-chrome-extensions-for-designers.md
+To github.com:MattKevan/uxlift.git
+   cb432f4..24e7eba  master -> master
+Feeds updated 06/01/2022 - 12:00:01 am BST
