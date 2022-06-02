@@ -3765,3 +3765,14 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 447d0da] Update feeds
+ 7 files changed, 83 insertions(+)
+ create mode 100644 _topics/9-skills-you-need-to-be-a-ux-designer.md
+ create mode 100644 _topics/best-courses-for-junior-uiux-designer.md
+ create mode 100644 _topics/from-research-to-ideation.md
+ create mode 100644 _topics/the-experience-i-gained-while-designing-for-android-tv.md
+ create mode 100644 _topics/top-3-things-you-should-avoid-as-a-junior-designer.md
+ create mode 100644 _topics/why-hard-work-doesnt-get-you-far-or-as-far-as-you-think.md
+To github.com:MattKevan/uxlift.git
+   24e7eba..447d0da  master -> master
+Feeds updated 06/02/2022 - 12:00:01 am BST
