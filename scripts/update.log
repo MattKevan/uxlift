@@ -3886,3 +3886,20 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 9fbdb95] Update feeds
+ 13 files changed, 137 insertions(+)
+ create mode 100644 _topics/10-chrome-extensions-i-use-as-a-designer-every-day.md
+ create mode 100644 _topics/8-of-the-best-art-and-design-book-publishers.md
+ create mode 100644 _topics/compiled-tips-to-nail-your-product-design-portfolio-presentation-interview.md
+ create mode 100644 _topics/design-baseline-canvas.md
+ create mode 100644 _topics/ecommerce-uxui-inspiration-plant-shops.md
+ create mode 100644 _topics/how-to-prototype-toggle-between-light-and-dark-theme.md
+ create mode 100644 _topics/must-have-3d-design-resources-in-2022.md
+ create mode 100644 _topics/networking-for-uiux-designers-in-2022-year.md
+ create mode 100644 _topics/setting-ux-roles-and-responsibilities-in-product-development-the-raci-template.md
+ create mode 100644 _topics/use-good-prototype-specifications-to-empower-team-collaboration.md
+ create mode 100644 _topics/ux-design-ux-in-one-sentence.md
+ create mode 100644 _topics/why-you-shouldnt-become-a-ux-designer.md
+To github.com:MattKevan/uxlift.git
+   131a484..9fbdb95  master -> master
+Feeds updated 06/06/2022 - 12:00:01 am BST
