@@ -3932,3 +3932,19 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master dfcbc09] Update feeds
+ 12 files changed, 160 insertions(+)
+ create mode 100644 _topics/5-product-analyses-that-put-customers-at-the-center-of-your-plg-strategy.md
+ create mode 100644 _topics/5-things-great-ux-writers-do-but-the-good-ones-dont.md
+ create mode 100644 _topics/ageism-in-ux-design-in-ireland-rampant-here-too.md
+ create mode 100644 _topics/automating-recruitment-for-user-research-panels.md
+ create mode 100644 _topics/blending-seo-and-ux-design-to-create-a-strategic-future.md
+ create mode 100644 _topics/documenting-design-decisions-is-important-for-product-designers.md
+ create mode 100644 _topics/top-11-content-marketing-trends-you-should-be-aware-of-in-2022.md
+ create mode 100644 _topics/top-5-videos-that-all-designers-need-to-watch-today.md
+ create mode 100644 _topics/top-6-helpful-soft-skills-that-will-save-your-design-career.md
+ create mode 100644 _topics/transforming-the-user-experience-through-artificial-intelligence.md
+ create mode 100644 _topics/wwdc-2022summary-for-designers.md
+To github.com:MattKevan/uxlift.git
+   9fbdb95..dfcbc09  master -> master
+Feeds updated 06/07/2022 - 12:00:01 am BST
