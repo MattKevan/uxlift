@@ -3977,3 +3977,16 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master d87d761] Update feeds
+ 10 files changed, 102 insertions(+)
+ create mode 100644 _topics/7-laws-of-ux-that-headspace-follows.md
+ create mode 100644 _topics/ageism-in-ux-design-jobs-in-ireland-just-as-rampant.md
+ create mode 100644 _topics/diving-into-the-fundamentals-of-graphic-design.md
+ create mode 100644 _topics/how-startup-founders-have-to-approach-product-design.md
+ create mode 100644 _topics/mobile-ux-trends-the-current-state-of-mobile-ux-15-common-pitfalls-best-practices.md
+ create mode 100644 _topics/surrealist-web-design-inspiration.md
+ create mode 100644 _topics/ui-design-animations-microinteractions.md
+ create mode 100644 _topics/uiux-design-native-mobile-design.md
+To github.com:MattKevan/uxlift.git
+   dfcbc09..d87d761  master -> master
+Feeds updated 06/08/2022 - 12:00:01 am BST
