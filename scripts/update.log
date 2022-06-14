@@ -4192,3 +4192,19 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 28e7a93] Update feeds
+ 12 files changed, 128 insertions(+)
+ create mode 100644 _topics/11-best-mac-apps-for-productivity-you-need-to-use-in-2022.md
+ create mode 100644 _topics/4-ways-to-improve-ux-of-your-website.md
+ create mode 100644 _topics/5-ux-mentorship-platforms-to-help-you-find-a-mentor.md
+ create mode 100644 _topics/7-must-watch-ted-talks-about-design.md
+ create mode 100644 _topics/brief-considerations-on-design-topics-6.md
+ create mode 100644 _topics/carl-jungs-12-brand-archetypes.md
+ create mode 100644 _topics/democratize-user-research-in-5-steps.md
+ create mode 100644 _topics/how-and-where-report-design-qa-findings-to-the-development-team.md
+ create mode 100644 _topics/luxury-shopping-user-groups-and-journeys.md
+ create mode 100644 _topics/must-have-productivity-apps-for-designers-in-2022.md
+ create mode 100644 _topics/my-design-process-as-a-uiux-designerstarting-to-handover.md
+To github.com:MattKevan/uxlift.git
+   79e1243..28e7a93  master -> master
+Feeds updated 06/14/2022 - 12:00:01 am BST
