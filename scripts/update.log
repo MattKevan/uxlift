@@ -4237,3 +4237,13 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 97b6ec7] Update feeds
+ 6 files changed, 74 insertions(+)
+ create mode 100644 _topics/consumables-subscription-service-sites-new-ux-benchmark-with-over-3000-performance-scores-and-2300-best-practice-examples.md
+ create mode 100644 _topics/how-did-figma-take-over-uiux-market.md
+ create mode 100644 _topics/how-to-undertake-a-ux-audit.md
+ create mode 100644 _topics/uniting-cross-functional-teams-and-workspaces-now-simplified.md
+ create mode 100644 _topics/working-for-the-b-team.md
+To github.com:MattKevan/uxlift.git
+   28e7a93..97b6ec7  master -> master
+Feeds updated 06/15/2022 - 12:00:01 am BST
