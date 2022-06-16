@@ -4276,3 +4276,11 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 1f3d14c] Update feeds
+ 4 files changed, 56 insertions(+)
+ create mode 100644 _topics/apple-vs-figma-web5-vs-web3-and-design-gurus-on-twitter.md
+ create mode 100644 _topics/lessons-on-creativity-from-everything-everywhere-all-at-once.md
+ create mode 100644 _topics/what-we-lose-when-we-rely-on-user-testing.md
+To github.com:MattKevan/uxlift.git
+   97b6ec7..1f3d14c  master -> master
+Feeds updated 06/16/2022 - 12:00:01 am BST
