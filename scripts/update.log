@@ -4313,3 +4313,12 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master d236412] Update feeds
+ 5 files changed, 65 insertions(+)
+ create mode 100644 _topics/atmospheric-design-what-is-it-and-how-can-it-be-achieved.md
+ create mode 100644 _topics/carbolytics-design-visualisation-of-digital-environmental-impact.md
+ create mode 100644 _topics/scaling-your-design-team-with-design-ops.md
+ create mode 100644 _topics/top-5-things-you-must-do-before-starting-a-new-web-design-project.md
+To github.com:MattKevan/uxlift.git
+   1f3d14c..d236412  master -> master
+Feeds updated 06/17/2022 - 12:00:01 am BST
