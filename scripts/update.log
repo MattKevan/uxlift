@@ -4351,3 +4351,15 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 992983b] Update feeds
+ 8 files changed, 92 insertions(+)
+ create mode 100644 _topics/30-must-know-best-practices-for-web-accessibility.md
+ create mode 100644 _topics/5-crucial-uiux-design-elements-for-homepages.md
+ create mode 100644 _topics/best-no-code-website-builders-in-2022-tried-and-tested.md
+ create mode 100644 _topics/design-wisdom-from-ali-to-zappa.md
+ create mode 100644 _topics/get-the-most-out-of-smart-animate.md
+ create mode 100644 _topics/how-to-become-a-ux-designer-in-2022.md
+ create mode 100644 _topics/the-second-year-on-remoting-insights-and-tips.md
+To github.com:MattKevan/uxlift.git
+   d236412..992983b  master -> master
+Feeds updated 06/18/2022 - 12:00:01 am BST
