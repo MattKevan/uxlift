@@ -4392,3 +4392,9 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master b813f03] Update feeds
+ 2 files changed, 38 insertions(+)
+ create mode 100644 _topics/top-7-most-common-mistakes-that-first-year-ux-designers-make.md
+To github.com:MattKevan/uxlift.git
+   992983b..b813f03  master -> master
+Feeds updated 06/19/2022 - 12:00:01 am BST
