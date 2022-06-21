@@ -4450,3 +4450,22 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 1a3b729] Update feeds
+ 15 files changed, 187 insertions(+)
+ create mode 100644 _topics/4-ux-design-careers-to-pursue-in-2022.md
+ create mode 100644 _topics/boost-ajaibs-ux-performance-72-faster-with-ab-testing-system-usability-scale-sus-scoring.md
+ create mode 100644 _topics/conducting-a-ux-research-kick-off-meeting.md
+ create mode 100644 _topics/conversations-at-qual-360-north-america.md
+ create mode 100644 _topics/data-driven-decisions-in-web-development-and-design.md
+ create mode 100644 _topics/exploring-the-boundaries-of-unmanned-restaurant-services-irreplaceable-human-services-are-still-needed.md
+ create mode 100644 _topics/filling-ux-skills-gaps-in-an-increasingly-cloud-based-world-part-3.md
+ create mode 100644 _topics/gigz-uxui-case-study.md
+ create mode 100644 _topics/how-to-prepare-for-ux-job-interview.md
+ create mode 100644 _topics/how-touchless-user-interfaces-can-amplify-the-user-experience.md
+ create mode 100644 _topics/improving-social-feature-in-korean-learning-app-a-ux-case-study.md
+ create mode 100644 _topics/the-dos-and-donts-of-pairing-typefaces.md
+ create mode 100644 _topics/the-ultimate-guide-to-writing-user-story-acceptance-criteria.md
+ create mode 100644 _topics/what-is-the-product-experience-and-why-does-it-matter.md
+To github.com:MattKevan/uxlift.git
+   8473de4..1a3b729  master -> master
+Feeds updated 06/21/2022 - 12:00:01 am BST
