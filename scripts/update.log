@@ -4498,3 +4498,15 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 9a7e353] Update feeds
+ 8 files changed, 92 insertions(+)
+ create mode 100644 _topics/3-books-that-every-uxui-designer-should-read.md
+ create mode 100644 _topics/advocating-for-your-design-system.md
+ create mode 100644 _topics/how-to-design-a-mailer-design-system-that-boosts-conversionsa-uiux-case-study.md
+ create mode 100644 _topics/how-we-redesigned-the-home-page-of-indias-largest-job-portal-naukri-com.md
+ create mode 100644 _topics/improving-user-experience-by-reducing-interaction-cost.md
+ create mode 100644 _topics/redesigning-the-registration-form-to-increase-the-completion-rate-of-the-registration-funnela.md
+ create mode 100644 _topics/want-to-switch-to-ux-here-is-how-to-find-transferable-skills.md
+To github.com:MattKevan/uxlift.git
+   1a3b729..9a7e353  master -> master
+Feeds updated 06/22/2022 - 12:00:01 am BST
