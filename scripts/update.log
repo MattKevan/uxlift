@@ -4624,3 +4624,11 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 163b738] Update feeds
+ 4 files changed, 56 insertions(+)
+ create mode 100644 _topics/how-to-become-successful-at-your-first-ux-job.md
+ create mode 100644 _topics/must-have-product-design-resources-in-2022.md
+ create mode 100644 _topics/the-haunting-of-the-dark-patterns.md
+To github.com:MattKevan/uxlift.git
+   b9c0324..163b738  master -> master
+Feeds updated 06/25/2022 - 12:00:01 am BST
