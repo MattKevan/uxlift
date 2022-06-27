@@ -4695,3 +4695,12 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 9145483] Update feeds
+ 5 files changed, 65 insertions(+)
+ create mode 100644 _topics/9-steps-guide-for-ux-beginners.md
+ create mode 100644 _topics/applying-luxury-principles-to-ecommerce-design.md
+ create mode 100644 _topics/ux-writing-study-guide.md
+ create mode 100644 _topics/why-most-design-systems-implode.md
+To github.com:MattKevan/uxlift.git
+   8fcbb48..9145483  master -> master
+Feeds updated 06/27/2022 - 12:00:01 am BST
