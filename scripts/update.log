@@ -4733,3 +4733,21 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 7264d20] Update feeds
+ 14 files changed, 146 insertions(+)
+ create mode 100644 _topics/12-principles-of-a-professional-product-designer.md
+ create mode 100644 _topics/3-tactics-for-better-designer-developer-collaboration.md
+ create mode 100644 _topics/are-you-considering-a-ux-degree-heres-what-you-need-to-know.md
+ create mode 100644 _topics/best-tool-for-design-hand-off.md
+ create mode 100644 _topics/brief-considerations-on-design-topics-7-facilitating-workshops-and-design-sessions.md
+ create mode 100644 _topics/getting-to-know-the-sketch-toolbar.md
+ create mode 100644 _topics/how-i-built-my-profile-for-applying-to-ms-hci-programs-in-the-us.md
+ create mode 100644 _topics/made-with-sketch-how-gavin-nelson-puts-the-icon-in-iconic.md
+ create mode 100644 _topics/ultimate-guide-for-design-handoff.md
+ create mode 100644 _topics/ux-conference-september-announced-sep-17-sep-30.md
+ create mode 100644 _topics/what-i-learned-from-100-failed-attempts-to-get-a-remote-product-design-job.md
+ create mode 100644 _topics/which-ux-design-environment-is-right-for-you.md
+ create mode 100644 _topics/women-in-engineering-meet-maria-gil-director-of-engineering-at-sketch.md
+To github.com:MattKevan/uxlift.git
+   9145483..7264d20  master -> master
+Feeds updated 06/28/2022 - 12:00:01 am BST
