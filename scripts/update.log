@@ -4828,3 +4828,20 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 5db151b] Update feeds
+ 13 files changed, 137 insertions(+)
+ create mode 100644 _topics/10-most-popular-design-systems-to-learn-from-in-2022-for-ux-designers.md
+ create mode 100644 _topics/25-essential-tools-skills-for-designers.md
+ create mode 100644 _topics/5-common-ux-designer-interview-questions.md
+ create mode 100644 _topics/5-things-to-consider-when-users-experience-your-product.md
+ create mode 100644 _topics/best-figma-plugins-to-supercharge-your-workflow-2022-updated.md
+ create mode 100644 _topics/future-money-will-democratize-the-banking-experience.md
+ create mode 100644 _topics/how-viviane-valenta-creates-unique-illustrations-and-art-products-showcased-at-anime-conventions.md
+ create mode 100644 _topics/nasa-inspired-product-design-tips.md
+ create mode 100644 _topics/ui-design-bite-borders-in-figma.md
+ create mode 100644 _topics/ux-design-getting-to-the-point.md
+ create mode 100644 _topics/ux-design-why-ar-will-beat-vr.md
+ create mode 100644 _topics/why-over-collaboration-can-kill-designer-creativity-and-how-to-avoid-that.md
+To github.com:MattKevan/uxlift.git
+   b86d322..5db151b  master -> master
+Feeds updated 07/01/2022 - 12:00:01 am BST
