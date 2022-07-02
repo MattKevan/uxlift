@@ -4874,3 +4874,10 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 94e8c21] Update feeds
+ 3 files changed, 47 insertions(+)
+ create mode 100644 _topics/what-is-a-ux-unicorn-do-ux-unicorns-exist-and-should-you-become-one.md
+ create mode 100644 _topics/yamikarwans-virtual-support-executive.md
+To github.com:MattKevan/uxlift.git
+   5db151b..94e8c21  master -> master
+Feeds updated 07/02/2022 - 12:00:01 am BST
