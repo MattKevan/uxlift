@@ -4956,3 +4956,20 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 021e7b2] Update feeds
+ 13 files changed, 137 insertions(+)
+ create mode 100644 _topics/a-complete-guide-to-figma-component-properties.md
+ create mode 100644 _topics/bytepad-uiux-redesign-case-study.md
+ create mode 100644 _topics/exploring-various-research-methods-for-building-products.md
+ create mode 100644 _topics/how-to-hand-off-design-to-developers.md
+ create mode 100644 _topics/interview-questions-design-positioning-in-a-company.md
+ create mode 100644 _topics/level-up-master-class-for-sports.md
+ create mode 100644 _topics/level-up-your-conversation-design-portfolio.md
+ create mode 100644 _topics/obtaining-consent-for-user-research.md
+ create mode 100644 _topics/product-experimentationthe-why-and-the-how.md
+ create mode 100644 _topics/taxonomy-101-definition-best-practices-and-how-it-complements-other-ia-work.md
+ create mode 100644 _topics/the-surprising-link-between-ux-and-ui.md
+ create mode 100644 _topics/ux-design-at-a-startup-vs-enterprise-company-pros-and-cons-of-each-career-pathway.md
+To github.com:MattKevan/uxlift.git
+   86b1ade..021e7b2  master -> master
+Feeds updated 07/05/2022 - 12:00:01 am BST
