@@ -5002,3 +5002,18 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master dfde1f4] Update feeds
+ 11 files changed, 119 insertions(+)
+ create mode 100644 _topics/10-quotes-about-ai-thatll-change-everything-youve-known-about-the-future.md
+ create mode 100644 _topics/ar-trends-what-to-expect-in-2022.md
+ create mode 100644 _topics/art-direction-in-uiux-design-profit-or-loss.md
+ create mode 100644 _topics/dogs-teach-us-about-real-empathy-in-ux-design.md
+ create mode 100644 _topics/product-ux-design-for-enterprisesetting-up-a-design-workflow-process-and-language.md
+ create mode 100644 _topics/ten-rules-for-the-perfect-designer-holiday.md
+ create mode 100644 _topics/the-absolutely-mind-warping-simplicity-of-goethes-theory-of-colors.md
+ create mode 100644 _topics/tips-for-designing-layout.md
+ create mode 100644 _topics/tips-on-landing-a-mid-product-designer-job.md
+ create mode 100644 _topics/working-as-ux-designer-in-a-company-versus-full-time-freelancing-pros-and-cons-of-each-direction.md
+To github.com:MattKevan/uxlift.git
+   021e7b2..dfde1f4  master -> master
+Feeds updated 07/06/2022 - 12:00:01 am BST
