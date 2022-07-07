@@ -5046,3 +5046,15 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 953e980] Update feeds
+ 8 files changed, 92 insertions(+)
+ create mode 100644 _topics/83-of-apparel-sites-dont-provide-sufficient-sizing-information-10-best-practices-on-sizing.md
+ create mode 100644 _topics/how-to-increase-your-impact-as-a-designer.md
+ create mode 100644 _topics/six-questions-to-ask-after-a-ux-designer-job-interview.md
+ create mode 100644 _topics/the-power-of-storytelling-in-building-products.md
+ create mode 100644 _topics/ux-case-study-confused-in-the-multiverse-of-choices-on-ott.md
+ create mode 100644 _topics/women-safety-servicea-uiux-case-study.md
+ create mode 100644 _topics/words-lead-user-experience.md
+To github.com:MattKevan/uxlift.git
+   dfde1f4..953e980  master -> master
+Feeds updated 07/07/2022 - 12:00:01 am BST
