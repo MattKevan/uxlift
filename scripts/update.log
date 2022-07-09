@@ -5121,3 +5121,14 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 29fa8e5] Update feeds
+ 7 files changed, 83 insertions(+)
+ create mode 100644 _topics/5-reasons-why-not-to-set-up-okrs.md
+ create mode 100644 _topics/6-tricky-ux-job-interview-questions.md
+ create mode 100644 _topics/enabling-people-to-choose-the-best-electric-car-website-case-study.md
+ create mode 100644 _topics/naming-conventions-for-design-systems.md
+ create mode 100644 _topics/the-mystery-of-the-unexpected-item-in-bagging-area-experience-explained.md
+ create mode 100644 _topics/ui-design-should-designers-code.md
+To github.com:MattKevan/uxlift.git
+   01e20d5..29fa8e5  master -> master
+Feeds updated 07/09/2022 - 12:00:01 am BST
