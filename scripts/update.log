@@ -5161,3 +5161,12 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master d8be74e] Update feeds
+ 5 files changed, 65 insertions(+)
+ create mode 100644 _topics/5-principles-to-help-you-understand-the-value-of-a-custom-ai-brand-voice.md
+ create mode 100644 _topics/aging-and-technology.md
+ create mode 100644 _topics/how-to-create-auto-layout-in-figma.md
+ create mode 100644 _topics/making-icons-illustrations-developer-friendly.md
+To github.com:MattKevan/uxlift.git
+   29fa8e5..d8be74e  master -> master
+Feeds updated 07/10/2022 - 12:00:01 am BST
