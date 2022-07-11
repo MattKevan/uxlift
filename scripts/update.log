@@ -5199,3 +5199,13 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 575ba9d] Update feeds
+ 6 files changed, 74 insertions(+)
+ create mode 100644 _topics/five-questions-for-university-ux-professionals.md
+ create mode 100644 _topics/uiux-career-getting-paid-what-youre-worth.md
+ create mode 100644 _topics/uiux-projects-that-will-get-you-the-job.md
+ create mode 100644 _topics/ux-online-classes-that-help-me-become-a-uxui-designer.md
+ create mode 100644 _topics/why-you-shouldnt-use-dribbble-and-behance.md
+To github.com:MattKevan/uxlift.git
+   d8be74e..575ba9d  master -> master
+Feeds updated 07/11/2022 - 12:00:01 am BST
