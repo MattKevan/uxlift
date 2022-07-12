@@ -5227,3 +5227,15 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 	from feeds.rb:14:in `block in <main>'
 	from feeds.rb:9:in `each'
 	from feeds.rb:9:in `<main>'
+[master 7583b26] Update feeds
+ 8 files changed, 111 insertions(+)
+ create mode 100644 _topics/12-future-of-design-tools.md
+ create mode 100644 _topics/designing-products-that-build-positive-habits.md
+ create mode 100644 _topics/finding-ux-research-participants-free-of-charge.md
+ create mode 100644 _topics/guide-to-trending-front-end-frameworks-in-2022.md
+ create mode 100644 _topics/how-to-incorporate-accessible-design-elements-into-mobile-apps.md
+ create mode 100644 _topics/the-big-gap-in-notion-based-portfolios.md
+ create mode 100644 _topics/why-ethics-should-be-at-the-core-of-design-storytelling.md
+To github.com:MattKevan/uxlift.git
+   575ba9d..7583b26  master -> master
+Feeds updated 07/12/2022 - 12:00:01 am BST
