@@ -5292,3 +5292,20 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 0cea9e4] Update feeds
+ 13 files changed, 137 insertions(+)
+ create mode 100644 _topics/10-best-intranets-of-2022-what-makes-them-great.md
+ create mode 100644 _topics/10-powerful-quotes-thatll-help-you-stop-thinking-start-doing.md
+ create mode 100644 _topics/2022-intranet-design-annual-winners.md
+ create mode 100644 _topics/3-pillars-of-a-successful-design-system.md
+ create mode 100644 _topics/7-laws-of-ux-that-netflix-follows.md
+ create mode 100644 _topics/articulate-design-specification-using-spacer-in-design-system.md
+ create mode 100644 _topics/brief-considerations-on-design-topics-8-developing-products-in-echo-chambers.md
+ create mode 100644 _topics/decoding-the-top-5-roles-in-ux-design.md
+ create mode 100644 _topics/seth-rogens-website-houseplant-is-a-ui-marvel.md
+ create mode 100644 _topics/the-many-faces-of-themeable-design-systems.md
+ create mode 100644 _topics/vessel-of-knowledge-in-grid.md
+ create mode 100644 _topics/why-design-managers-should-stop-using-take-home-assignments-in-the-hiring-process.md
+To github.com:MattKevan/uxlift.git
+   a922920..0cea9e4  master -> master
+Feeds updated 07/14/2022 - 12:00:01 am BST
