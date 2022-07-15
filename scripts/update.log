@@ -5338,3 +5338,20 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 7dd10c3] Update feeds
+ 13 files changed, 137 insertions(+)
+ create mode 100644 _topics/11-companies-hiring-for-entry-level-uiux-design-roles.md
+ create mode 100644 _topics/big-tech-or-big-curse-on-the-banking-experience.md
+ create mode 100644 _topics/challenge-0053-column-preview-card-component.md
+ create mode 100644 _topics/challenge-006product-preview-card-component.md
+ create mode 100644 _topics/challenge-007sunnyside-agency-landing-page.md
+ create mode 100644 _topics/deconstructing-e-commerce-search-ux-the-8-most-common-search-query-types-42-of-sites-have-issues.md
+ create mode 100644 _topics/effective-design-presentation.md
+ create mode 100644 _topics/five-tips-to-improve-your-design-portfolio.md
+ create mode 100644 _topics/introducing-artboard-templatesa-new-way-to-build-on-your-designs-fast.md
+ create mode 100644 _topics/learn-to-create-variants-in-figma.md
+ create mode 100644 _topics/must-have-timeless-graphic-design-resources.md
+ create mode 100644 _topics/sketch-introducing-our-new-and-improved-iphone-app.md
+To github.com:MattKevan/uxlift.git
+   0cea9e4..7dd10c3  master -> master
+Feeds updated 07/15/2022 - 12:00:01 am BST
