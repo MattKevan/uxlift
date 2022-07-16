@@ -5384,3 +5384,13 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 3f0afd5] Update feeds
+ 6 files changed, 74 insertions(+)
+ create mode 100644 _topics/a-day-in-the-life-of-a-product-designer-helena-bukovac.md
+ create mode 100644 _topics/a-reflection-two-years-after-joining-the-ux-industry.md
+ create mode 100644 _topics/branching-is-broken-in-figma.md
+ create mode 100644 _topics/game-on-how-rapha-lopes-creates-eye-catching-gaming-inspired-icons.md
+ create mode 100644 _topics/what-are-color-profiles-and-why-do-they-matter.md
+To github.com:MattKevan/uxlift.git
+   7dd10c3..3f0afd5  master -> master
+Feeds updated 07/16/2022 - 12:00:01 am BST
