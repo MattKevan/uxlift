@@ -5423,3 +5423,9 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 3b9db27] Update feeds
+ 2 files changed, 38 insertions(+)
+ create mode 100644 _topics/ux-conference-washington-dc-announced-oct-16-oct-21.md
+To github.com:MattKevan/uxlift.git
+   3f0afd5..3b9db27  master -> master
+Feeds updated 07/17/2022 - 12:00:01 am BST
