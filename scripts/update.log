@@ -5458,3 +5458,20 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master a075e59] Update feeds
+ 13 files changed, 137 insertions(+)
+ create mode 100644 _topics/7-things-i-wish-i-knew-as-a-new-ux-ui-designer.md
+ create mode 100644 _topics/8-laws-of-ux-everyone-should-be-aware-of.md
+ create mode 100644 _topics/design-studios-behind-some-of-the-most-successful-brands.md
+ create mode 100644 _topics/figma-just-got-even-brighterwith-widgets.md
+ create mode 100644 _topics/how-ai-is-changing-interactions.md
+ create mode 100644 _topics/stop-trying-to-be-an-expert-on-the-user.md
+ create mode 100644 _topics/ui-design-if-you-insist-on-coding.md
+ create mode 100644 _topics/ui-design-vs-front-end-development-the-critical-difference.md
+ create mode 100644 _topics/uiux-leadership-how-to-lead-effectively.md
+ create mode 100644 _topics/using-grids-in-interface-designs.md
+ create mode 100644 _topics/walkways-in-dubaia-visual-brainstorming-using-dalle2-ai-model.md
+ create mode 100644 _topics/when-to-use-which-user-experience-research-methods.md
+To github.com:MattKevan/uxlift.git
+   3b9db27..a075e59  master -> master
+Feeds updated 07/18/2022 - 12:00:01 am BST
