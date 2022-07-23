@@ -5,14 +5,14 @@ description: A collection of the best articles, resources, books and tools, cove
 image: /assets/site/uxlift-logo-card.jpg
 ---
 
-<h2>Latest articles</h2>
+<h2>Latest news</h2>
 
 
 <div class="row">
 	<div class="col-12">
 		
 		{% assign sorted = site.topics | sort:'date' | reverse %}
-		{% for item in sorted limit:5 %}
+		{% for item in sorted limit:10 %}
 	
 			{% include news-item.html %}
 
