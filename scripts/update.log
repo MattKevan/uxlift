@@ -5600,3 +5600,22 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 9b3b730] Update feeds
+ 15 files changed, 155 insertions(+)
+ create mode 100644 _topics/10-most-popular-figma-plugins-in-2022-for-ux-designers.md
+ create mode 100644 _topics/9-things-to-remember-about-your-attitude-during-the-ux-interview.md
+ create mode 100644 _topics/a-quick-guide-to-breadcrumb-navigation-why-do-breadcrumbs-matter-for-seo.md
+ create mode 100644 _topics/accounts-self-service-ux-consider-having-an-icon-based-dashboard-81-dont.md
+ create mode 100644 _topics/being-productive-as-a-designer-when-working-from-home.md
+ create mode 100644 _topics/challenge-008stats-preview-card-component.md
+ create mode 100644 _topics/how-brinlie-clark-recreates-her-travel-and-nature-photos-into-unique-illustrations-and-art-pieces.md
+ create mode 100644 _topics/new-in-sketch-everything-you-need-to-know-about-overlays.md
+ create mode 100644 _topics/quick-guide-to-error-handling.md
+ create mode 100644 _topics/redesigning-mcdonalds-delivery-application-ui-redesign-project.md
+ create mode 100644 _topics/the-myth-of-the-rockstar-designer.md
+ create mode 100644 _topics/ux-design-knowing-when-to-fold-em.md
+ create mode 100644 _topics/what-all-designers-should-know-about-apple-wwdc-2022.md
+ create mode 100644 _topics/who-is-a-product-manager.md
+To github.com:MattKevan/uxlift.git
+   92bce28..9b3b730  master -> master
+Feeds updated 07/23/2022 - 12:00:01 am BST
