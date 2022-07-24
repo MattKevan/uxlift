@@ -5661,3 +5661,14 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 6ce3166] Update feeds
+ 7 files changed, 96 insertions(+)
+ create mode 100644 _topics/10-most-popular-figma-ui-kits-in-2022-for-product-designers.md
+ create mode 100644 _topics/guitar-tuner-development-case-study-string-instruments-tuning-app.md
+ create mode 100644 _topics/how-to-start-as-a-junior-designer.md
+ create mode 100644 _topics/redesigning-a-vst-plugin.md
+ create mode 100644 _topics/ux-hackathon-a-evaluative-case-study-making-product-search-simpleajio-com.md
+ create mode 100644 _topics/what-apples-software-announcements-might-hold-for-the-future.md
+To github.com:MattKevan/uxlift.git
+   699ac33..6ce3166  master -> master
+Feeds updated 07/24/2022 - 12:00:01 am BST
