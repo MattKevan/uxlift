@@ -5701,3 +5701,12 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 16716aa] Update feeds
+ 5 files changed, 65 insertions(+)
+ create mode 100644 _topics/branding-accessing-friction-at-starbucks.md
+ create mode 100644 _topics/design-case-studybuilding-a-design-system-for-saas-application.md
+ create mode 100644 _topics/mobile-ux-study-guide.md
+ create mode 100644 _topics/the-funnel-technique-in-qualitative-user-research.md
+To github.com:MattKevan/uxlift.git
+   6ce3166..16716aa  master -> master
+Feeds updated 07/25/2022 - 12:00:01 am BST
