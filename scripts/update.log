@@ -5771,3 +5771,26 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 	from feeds.rb:56:in `block in <main>'
 	from feeds.rb:51:in `each'
 	from feeds.rb:51:in `<main>'
+[master d23406d] Update feeds
+ 19 files changed, 255 insertions(+)
+ create mode 100644 _topics/5-best-ux-careers-to-pursue-in-2022.md
+ create mode 100644 _topics/5-tips-for-using-raycast.md
+ create mode 100644 _topics/6-things-that-destroy-product-teams.md
+ create mode 100644 _topics/7-tips-to-overcome-creative-blocks-for-product-designers.md
+ create mode 100644 _topics/amusing-stories-that-didnt-appear-in-a-research-report.md
+ create mode 100644 _topics/branding-fupi-selling-crisps-using-persona-sheets.md
+ create mode 100644 _topics/building-a-ux-feedback-system-that-works-for-your-colleagues.md
+ create mode 100644 _topics/case-study-cloudspot-logo-redesign-for-photographers-gallery.md
+ create mode 100644 _topics/courageous-design-a-guide-to-accessibility-in-ux-design.md
+ create mode 100644 _topics/designing-mobile-banking-apps.md
+ create mode 100644 _topics/essential-elements-of-a-design-system.md
+ create mode 100644 _topics/for-good-ux-when-using-a-tooltip-in-ui-design.md
+ create mode 100644 _topics/must-have-design-resources-to-upskill-yourself-for-web-3-0-in-2022.md
+ create mode 100644 _topics/the-difficulty-of-building-simple-products.md
+ create mode 100644 _topics/typography-in-web-design.md
+ create mode 100644 _topics/understanding-bystanders-role-in-an-emergency-ecosystem.md
+ create mode 100644 _topics/ux-design-hackathon-evaluative-project-ajio.md
+ create mode 100644 _topics/what-is-a-soft-sprint-and-why-is-it-important-for-your-product.md
+To github.com:MattKevan/uxlift.git
+   16716aa..d23406d  master -> master
+Feeds updated 07/26/2022 - 12:00:01 am BST
