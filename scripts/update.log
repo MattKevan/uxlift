@@ -5823,3 +5823,14 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master ce199ae] Update feeds
+ 7 files changed, 83 insertions(+)
+ create mode 100644 _topics/15-figma-plugins-i-use-everyday.md
+ create mode 100644 _topics/5-ux-best-practices-for-apparel-e-commerce-94-get-one-or-more-wrong.md
+ create mode 100644 _topics/commercialize-dalle-2-how-to-build-and-sell-products-right-now.md
+ create mode 100644 _topics/how-to-motivate-people-to-participate-in-your-research.md
+ create mode 100644 _topics/summaries-on-uxr-job-interviews-part.md
+ create mode 100644 _topics/understanding-ui-and-ux.md
+To github.com:MattKevan/uxlift.git
+   d23406d..ce199ae  master -> master
+Feeds updated 07/27/2022 - 12:00:01 am BST
