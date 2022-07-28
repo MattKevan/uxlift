@@ -5863,3 +5863,18 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 5c0296b] Update feeds
+ 11 files changed, 119 insertions(+)
+ create mode 100644 _topics/10-development-and-design-tools.md
+ create mode 100644 _topics/10-future-of-design-tools-part-2.md
+ create mode 100644 _topics/dall-e-vs-imagen-how-photorealistic-ai-images-can-enhance-products.md
+ create mode 100644 _topics/designing-ux-for-smart-eyeglasses-app-product-interaction-design.md
+ create mode 100644 _topics/how-to-conduct-research-for-a-branding-projectconvert-a-client-brief-into-a-visualboard.md
+ create mode 100644 _topics/how-to-get-financial-aid-approved-on-coursera.md
+ create mode 100644 _topics/how-to-get-into-product-management-expectations-the-role-and-the-application.md
+ create mode 100644 _topics/learn-and-teach-figma-in-figma.md
+ create mode 100644 _topics/overcome-the-fear-of-entrepreneurship-and-actually-start-building.md
+ create mode 100644 _topics/ux-design-my-honest-review-of-uxtweak.md
+To github.com:MattKevan/uxlift.git
+   ce199ae..5c0296b  master -> master
+Feeds updated 07/28/2022 - 12:00:01 am BST
