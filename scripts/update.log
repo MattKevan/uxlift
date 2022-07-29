@@ -5907,3 +5907,11 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 8f7bc88] Update feeds
+ 4 files changed, 56 insertions(+)
+ create mode 100644 _topics/challenge-009qr-code-component.md
+ create mode 100644 _topics/identifying-and-engaging-users-through-relatable-content-uiux-study.md
+ create mode 100644 _topics/the-best-free-online-courses-to-learn-ux-design-in-2022.md
+To github.com:MattKevan/uxlift.git
+   5c0296b..8f7bc88  master -> master
+Feeds updated 07/29/2022 - 12:00:01 am BST
