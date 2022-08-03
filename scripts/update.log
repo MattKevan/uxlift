@@ -6039,3 +6039,28 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 87b2854] Update feeds
+ 21 files changed, 209 insertions(+)
+ create mode 100644 _topics/10-figma-resume-templates-for-ux-and-product-designer.md
+ create mode 100644 _topics/5-non-designer-books-product-designers-should-read.md
+ create mode 100644 _topics/5-tips-to-improve-your-design-portfolio.md
+ create mode 100644 _topics/9-ux-best-practice-design-patterns-for-autocomplete-suggestions-only-19-get-everything-right.md
+ create mode 100644 _topics/a-bit-of-a-break.md
+ create mode 100644 _topics/an-introduction-to-color-theory.md
+ create mode 100644 _topics/best-websites-for-finding-remote-jobs.md
+ create mode 100644 _topics/brand-quality.md
+ create mode 100644 _topics/daily-ux-inspiration-part-1.md
+ create mode 100644 _topics/does-healthcare-ux-for-women-suck-or-am-i-just-ovary-acting.md
+ create mode 100644 _topics/fittss-law-and-its-applications-in-ux.md
+ create mode 100644 _topics/focus-groups-101.md
+ create mode 100644 _topics/how-to-improve-your-confidence-as-a-product-designer-to-boost-your-career.md
+ create mode 100644 _topics/how-to-make-an-app-like-uber-tips-on-cost-estimation-development.md
+ create mode 100644 _topics/introducing-overlays-a-powerful-way-to-make-prototypes-more-interactive.md
+ create mode 100644 _topics/lessons-from-working-in-product-design-across-diverse-industries.md
+ create mode 100644 _topics/new-in-sketch-duplicate-documents-to-my-drafts-in-a-click.md
+ create mode 100644 _topics/the-future-of-wallets-in-web3.md
+ create mode 100644 _topics/the-pre-introduction-phase-in-plm.md
+ create mode 100644 _topics/the-true-cost-of-a-feature.md
+To github.com:MattKevan/uxlift.git
+   fc0c66c..87b2854  master -> master
+Feeds updated 08/03/2022 - 12:00:02 am BST
