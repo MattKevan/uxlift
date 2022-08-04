@@ -6093,3 +6093,21 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 4593744] Update feeds
+ 14 files changed, 146 insertions(+)
+ create mode 100644 _topics/11-youtube-channels-you-should-be-watching-for-ux-content.md
+ create mode 100644 _topics/7-things-ive-learned-designing-for-de-fi.md
+ create mode 100644 _topics/building-an-integrated-qualitative-and-quantitative-user-research-capability.md
+ create mode 100644 _topics/do-you-need-a-ux-degree-to-get-a-good-salary-job.md
+ create mode 100644 _topics/how-to-know-its-time-to-look-for-your-next-ux-design-job.md
+ create mode 100644 _topics/if-any-designer-can-run-uiux-agency.md
+ create mode 100644 _topics/nlp-guide-for-product-and-user-experience-simply-explained.md
+ create mode 100644 _topics/the-fine-line-between-ux-research-for-business-and-science.md
+ create mode 100644 _topics/the-ux-strategy-of-hiring-juniors-over-seniors.md
+ create mode 100644 _topics/top-5-platforms-to-get-uiux-freelance-job.md
+ create mode 100644 _topics/ux-hiring-the-power-of-the-screening-question.md
+ create mode 100644 _topics/why-do-we-need-product-managers.md
+ create mode 100644 _topics/your-necessary-first-step-to-creating-powerful-ux-metrics.md
+To github.com:MattKevan/uxlift.git
+   87b2854..4593744  master -> master
+Feeds updated 08/04/2022 - 12:00:01 am BST
