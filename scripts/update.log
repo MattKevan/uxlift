@@ -6140,3 +6140,15 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 24ce715] Update feeds
+ 8 files changed, 92 insertions(+)
+ create mode 100644 _topics/110-curated-ux-portfolios-for-inspiration.md
+ create mode 100644 _topics/7-soft-skills-which-make-you-a-better-ux-designer-and-a-better-person.md
+ create mode 100644 _topics/books-ill-be-reading-to-improve-and-learn-more-about-ux.md
+ create mode 100644 _topics/its-time-to-look-for-your-next-ux-design-job.md
+ create mode 100644 _topics/new-in-ux-learn-these-repetitive-user-research-methods-13.md
+ create mode 100644 _topics/working-in-india-vs-europeuk.md
+ create mode 100644 _topics/yo-soy-betty-la-fea-from-a-product-design-perspective.md
+To github.com:MattKevan/uxlift.git
+   4593744..24ce715  master -> master
+Feeds updated 08/05/2022 - 12:00:01 am BST
