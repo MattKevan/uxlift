@@ -6181,3 +6181,14 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 657d362] Update feeds
+ 7 files changed, 83 insertions(+)
+ create mode 100644 _topics/11-examples-of-real-world-ux-what-we-can-learn-from-them.md
+ create mode 100644 _topics/daily-ux-inspiration-part-2.md
+ create mode 100644 _topics/how-ux-writing-can-improve-the-telemedicine-experience.md
+ create mode 100644 _topics/the-x-inside-the-u-the-6-elements-in-user-experience.md
+ create mode 100644 _topics/top-10-ux-user-research-methods.md
+ create mode 100644 _topics/ux-research-and-psychology.md
+To github.com:MattKevan/uxlift.git
+   24ce715..657d362  master -> master
+Feeds updated 08/06/2022 - 12:00:01 am BST
