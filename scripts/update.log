@@ -6233,3 +6233,8 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 	from feeds.rb:14:in `block in <main>'
 	from feeds.rb:9:in `each'
 	from feeds.rb:9:in `<main>'
+[master 7a5c41b] Update feeds
+ 1 file changed, 18 insertions(+)
+To github.com:MattKevan/uxlift.git
+   a36d897..7a5c41b  master -> master
+Feeds updated 08/08/2022 - 12:00:01 am BST
