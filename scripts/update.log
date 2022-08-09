@@ -6267,3 +6267,27 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 384e6dc] Update feeds
+ 20 files changed, 231 insertions(+)
+ create mode 100644 _topics/3d-product-customization-changing-the-face-of-ecommerce.md
+ create mode 100644 _topics/5-emerging-design-trends-for-data-heavy-user-experiences-in-2022.md
+ create mode 100644 _topics/8-smart-questions-designers-can-ask-clients-to-win-more-significant-projects.md
+ create mode 100644 _topics/a-chat-with-career-coach-sami-g-from.md
+ create mode 100644 _topics/effective-resumes-for-ux-career-changers.md
+ create mode 100644 _topics/from-designer-mindset-to-product-mindset.md
+ create mode 100644 _topics/global-iapsubscription-pricing-sucks.md
+ create mode 100644 _topics/how-product-designers-can-study-complex-products.md
+ create mode 100644 _topics/how-to-implement-command-palette-with-kbar-and-tailwind-css.md
+ create mode 100644 _topics/improving-an-ecommerce-user-experience-through-data-driven-design.md
+ create mode 100644 _topics/machine-learning-guide-for-product-and-user-experience-simplified.md
+ create mode 100644 _topics/the-10-best-intranets-of-2022-trends-in-design-and-process.md
+ create mode 100644 _topics/the-process-of-launching-a-digital-product-as-a-closed-beta-to-test-your-hypothesis-and-gain.md
+ create mode 100644 _topics/using-customer-psychology-to-improve-user-engagement-on-your-web-site.md
+ create mode 100644 _topics/ux-case-study-redesigning-oyo-wizard-plan-for-better-aov.md
+ create mode 100644 _topics/ux-myth-flow-is-bad-because-its-too-long.md
+ create mode 100644 _topics/why-ordinary-design-almost-always-wins.md
+ create mode 100644 _topics/why-ux-research-is-a-cornerstone-of-ux-design-from-the-clients-perspective.md
+ create mode 100644 _topics/writing-effective-user-stories.md
+To github.com:MattKevan/uxlift.git
+   7a5c41b..384e6dc  master -> master
+Feeds updated 08/09/2022 - 12:00:01 am BST
