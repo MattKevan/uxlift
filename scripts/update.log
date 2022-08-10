@@ -6320,3 +6320,19 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 8de497d] Update feeds
+ 12 files changed, 128 insertions(+)
+ create mode 100644 _topics/communication-and-participation-what-product-teams-need-to-know.md
+ create mode 100644 _topics/design-your-user-research-survey-effectively.md
+ create mode 100644 _topics/google-analytics-for-ux.md
+ create mode 100644 _topics/guiding-principles-to-design-for-delight.md
+ create mode 100644 _topics/making-the-most-of-my-home-office-what-i-always-keep-on-my-desk-as-a-product-designer.md
+ create mode 100644 _topics/my-designops-internship-at-intuit.md
+ create mode 100644 _topics/new-in-ux-learn-these-repetitive-user-research-methods-23.md
+ create mode 100644 _topics/provide-quick-views-for-visually-driven-products-50-dont.md
+ create mode 100644 _topics/service-design-101-what-is-service-design.md
+ create mode 100644 _topics/treating-product-teams-as-investments.md
+ create mode 100644 _topics/ux-vs-cx-you-may-not-need-a-ux-designer.md
+To github.com:MattKevan/uxlift.git
+   384e6dc..8de497d  master -> master
+Feeds updated 08/10/2022 - 12:00:01 am BST
