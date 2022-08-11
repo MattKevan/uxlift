@@ -6365,3 +6365,15 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 4ee2a46] Update feeds
+ 8 files changed, 92 insertions(+)
+ create mode 100644 _topics/7-more-cognitive-biases-that-affect-your-design-process.md
+ create mode 100644 _topics/daily-ux-inspiration-part-4.md
+ create mode 100644 _topics/daily-ux-inspiration-part-5.md
+ create mode 100644 _topics/how-to-present-your-work-during-a-remote-design-critique.md
+ create mode 100644 _topics/learnings-from-reforges-scaling-product-delivery-program.md
+ create mode 100644 _topics/make-your-design-accessible-to-color-blind-users.md
+ create mode 100644 _topics/what-are-figma-widgets-and-why-are-they-useful.md
+To github.com:MattKevan/uxlift.git
+   8de497d..4ee2a46  master -> master
+Feeds updated 08/11/2022 - 12:00:01 am BST
