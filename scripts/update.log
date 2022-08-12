@@ -6406,3 +6406,14 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master c561075] Update feeds
+ 7 files changed, 83 insertions(+)
+ create mode 100644 _topics/does-high-quality-research-complicate-or-simplify-the-work-of-the-designer.md
+ create mode 100644 _topics/how-good-is-gmail-material-you-redesign.md
+ create mode 100644 _topics/ux-case-study-feature-improvement-for-niagahoster-checkout-page.md
+ create mode 100644 _topics/ux-design-tropes-i-hate.md
+ create mode 100644 _topics/what-does-form-follows-function-really-mean.md
+ create mode 100644 _topics/what-is-collaborative-design.md
+To github.com:MattKevan/uxlift.git
+   4ee2a46..c561075  master -> master
+Feeds updated 08/12/2022 - 12:00:01 am BST
