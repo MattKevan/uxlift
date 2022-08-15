@@ -6516,3 +6516,13 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master ba6754c] Update feeds
+ 6 files changed, 74 insertions(+)
+ create mode 100644 _topics/17-game-changing-adobe-xd-plugins-for-uiux-designers.md
+ create mode 100644 _topics/6-tenets-of-dark-ux.md
+ create mode 100644 _topics/how-to-build-a-participant-list-for-ux-workshops.md
+ create mode 100644 _topics/product-metrics-complete-list.md
+ create mode 100644 _topics/the-ux-of-phone-tree-systems-16-usability-guidelines.md
+To github.com:MattKevan/uxlift.git
+   954144d..ba6754c  master -> master
+Feeds updated 08/15/2022 - 12:00:01 am BST
