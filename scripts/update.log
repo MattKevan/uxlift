@@ -6555,3 +6555,13 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master c17e19e] Update feeds
+ 6 files changed, 74 insertions(+)
+ create mode 100644 _topics/3-irresistible-psychological-triggers-every-ux-writer-must-know.md
+ create mode 100644 _topics/6-powerful-tenets-of-dark-user-experience-design.md
+ create mode 100644 _topics/design-fictions.md
+ create mode 100644 _topics/product-designers-need-these-skills-and-knowledge-to-succeed.md
+ create mode 100644 _topics/users-testing4-things-youre-doing-wrong.md
+To github.com:MattKevan/uxlift.git
+   ba6754c..c17e19e  master -> master
+Feeds updated 08/16/2022 - 12:00:01 am BST
