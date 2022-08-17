@@ -6594,3 +6594,23 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 62a1b86] Update feeds
+ 16 files changed, 164 insertions(+)
+ create mode 100644 _topics/5-books-for-a-surprising-view-of-the-internet.md
+ create mode 100644 _topics/brief-considerations-on-design-topics-9-impressions-on-low-codeno-code-platform-solutions.md
+ create mode 100644 _topics/grow-your-t-shaped-skillset-as-a-ux-designer.md
+ create mode 100644 _topics/how-giulia-virtus-azzoni-uses-design-as-a-force-for-good-food.md
+ create mode 100644 _topics/how-to-minimize-or-avoid-bias-in-research.md
+ create mode 100644 _topics/human-in-the-loop-machine-learning-hitl-how-to-master-it-simplified.md
+ create mode 100644 _topics/is-the-chrome-team-using-nostalgia-to-keep-us-engaged.md
+ create mode 100644 _topics/make-the-travel-accommodations-booking-search-feature-the-primary-content-on-the-homepage-25-dont.md
+ create mode 100644 _topics/new-in-ux-learn-these-repetitive-user-research-methods-33.md
+ create mode 100644 _topics/organize-a-figma-file-like-a-pro-a-complete-guide.md
+ create mode 100644 _topics/product-design-mentoring-answers-to-ten-most-commonly-asked-questions.md
+ create mode 100644 _topics/searching-for-silences-in-ux-copy.md
+ create mode 100644 _topics/the-4-types-of-constraints-in-ux-how-you-can-utilise-them.md
+ create mode 100644 _topics/the-design-dilemmastupidity-profitability-and-morality.md
+ create mode 100644 _topics/the-ux-of-a-hybrid-conference.md
+To github.com:MattKevan/uxlift.git
+   c17e19e..62a1b86  master -> master
+Feeds updated 08/17/2022 - 12:00:01 am BST
