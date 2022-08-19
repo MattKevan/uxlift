@@ -6682,3 +6682,16 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 49ce5b9] Update feeds
+ 9 files changed, 101 insertions(+)
+ create mode 100644 _topics/7-books-on-digital-minimalism.md
+ create mode 100644 _topics/contrasting-design-vs-neutral-design-when-to-use-each.md
+ create mode 100644 _topics/how-can-you-improve-your-design-thinking.md
+ create mode 100644 _topics/how-to-create-a-moodboard-in-5-steps.md
+ create mode 100644 _topics/how-to-turn-your-research-questions-into-interview-questions.md
+ create mode 100644 _topics/its-time-to-change-somethingweve-redesigned.md
+ create mode 100644 _topics/my-facilitation-of-a-meeting-between-the-heads-of-ux-and-ai-research.md
+ create mode 100644 _topics/on-ai-governance-12-proposals-for-action.md
+To github.com:MattKevan/uxlift.git
+   339d681..49ce5b9  master -> master
+Feeds updated 08/19/2022 - 12:00:01 am BST
