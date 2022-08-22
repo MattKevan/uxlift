@@ -6794,3 +6794,15 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master e2b46b6] Update feeds
+ 8 files changed, 92 insertions(+)
+ create mode 100644 _topics/9-skills-that-make-a-great-designer.md
+ create mode 100644 _topics/a-guide-to-using-user-experience-research-methods.md
+ create mode 100644 _topics/best-fonts-for-ui-design-i-use-daily.md
+ create mode 100644 _topics/enriched-site-search-suggestions-rarely-used.md
+ create mode 100644 _topics/how-the-principle-of-feedback-affects-your-ux-design.md
+ create mode 100644 _topics/how-to-make-a-high-converting-landing-page.md
+ create mode 100644 _topics/why-sir-francis-bacon-would-warn-against-artificial-intelligence.md
+To github.com:MattKevan/uxlift.git
+   a0894fd..e2b46b6  master -> master
+Feeds updated 08/22/2022 - 12:00:01 am BST
