@@ -6880,3 +6880,15 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master c68247c] Update feeds
+ 8 files changed, 92 insertions(+)
+ create mode 100644 _topics/7-books-for-every-kind-of-designer.md
+ create mode 100644 _topics/7-further-cognitive-biases-that-affect-your-design-process.md
+ create mode 100644 _topics/dtc-ux-avoid-intermediary-category-pages.md
+ create mode 100644 _topics/here-are-5-tips-that-will-keep-your-imposter-syndrome-at-bay.md
+ create mode 100644 _topics/reflecting-on-my-100-day-design-challenge.md
+ create mode 100644 _topics/the-5-personality-types-of-ux-designers.md
+ create mode 100644 _topics/top-5-takeaways-from-my-ux-summer-internship-with-gopuff.md
+To github.com:MattKevan/uxlift.git
+   b93629c..c68247c  master -> master
+Feeds updated 08/24/2022 - 12:00:01 am BST
