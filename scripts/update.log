@@ -6921,3 +6921,11 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master b8f74fa] Update feeds
+ 4 files changed, 56 insertions(+)
+ create mode 100644 _topics/15-figma-tips-and-tricks-you-may-not-know.md
+ create mode 100644 _topics/apple-aqua-exploring-the-legacy-of-macos-x-user-interface.md
+ create mode 100644 _topics/how-the-principle-of-visibility-affects-your-ux-design.md
+To github.com:MattKevan/uxlift.git
+   c68247c..b8f74fa  master -> master
+Feeds updated 08/25/2022 - 12:00:01 am BST
