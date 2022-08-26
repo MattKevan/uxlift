@@ -6958,3 +6958,10 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master ac92979] Update feeds
+ 3 files changed, 47 insertions(+)
+ create mode 100644 _topics/how-to-defend-your-values-and-not-lose-a-customer.md
+ create mode 100644 _topics/key-performance-indicator-kpi.md
+To github.com:MattKevan/uxlift.git
+   b8f74fa..ac92979  master -> master
+Feeds updated 08/26/2022 - 12:00:01 am BST
