@@ -7029,3 +7029,17 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 5a3f92f] Update feeds
+ 10 files changed, 110 insertions(+)
+ create mode 100644 _topics/10-beautiful-icon-sites-for-your-next-project.md
+ create mode 100644 _topics/5-examples-of-real-life-good-bad-design-to-apply-to-your-ux.md
+ create mode 100644 _topics/challenge-011article-preview-component.md
+ create mode 100644 _topics/how-to-open-xd-files-in-framerthe-no-code-tool.md
+ create mode 100644 _topics/is-a-career-in-uxui-design-a-good-choice-for-you.md
+ create mode 100644 _topics/onboarding-as-a-product-manager.md
+ create mode 100644 _topics/persuasion-versus-deception-in-ux-design.md
+ create mode 100644 _topics/psychology-to-user-experience-researchuxr.md
+ create mode 100644 _topics/showcasing-your-transferable-skills-between-previous-career-and-ux.md
+To github.com:MattKevan/uxlift.git
+   6363a22..5a3f92f  master -> master
+Feeds updated 08/28/2022 - 12:00:01 am BST
