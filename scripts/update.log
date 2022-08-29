@@ -7072,3 +7072,12 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 81231aa] Update feeds
+ 5 files changed, 68 insertions(+)
+ create mode 100644 _topics/10-ways-to-top-up-your-resilience-at-work.md
+ create mode 100644 _topics/day-0-calls-avoid-ux-workshop-disasters-by-aligning-on-the-basics-in-advance.md
+ create mode 100644 _topics/guidelines-for-testing-mobile-augmented-reality-apps.md
+ create mode 100644 _topics/select-your-perfect-key-performance-indicator-kpi-examples-of-use.md
+To github.com:MattKevan/uxlift.git
+   5a3f92f..81231aa  master -> master
+Feeds updated 08/29/2022 - 12:00:01 am BST
