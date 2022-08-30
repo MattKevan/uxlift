@@ -7110,3 +7110,14 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 126dc8a] Update feeds
+ 7 files changed, 83 insertions(+)
+ create mode 100644 _topics/5-mistakes-i-avoid-when-designing-for-conversions.md
+ create mode 100644 _topics/6-holy-commandments-of-ethical-ux.md
+ create mode 100644 _topics/brief-considerations-on-design-topics-10-design-requirements.md
+ create mode 100644 _topics/daily-ux-inspiration-part-7.md
+ create mode 100644 _topics/mac-tips-and-tricks-to-improve-productivity-for-product-designers.md
+ create mode 100644 _topics/the-ultimate-four-step-guide-to-secure-2023-ux-intern-new-grad-offers.md
+To github.com:MattKevan/uxlift.git
+   81231aa..126dc8a  master -> master
+Feeds updated 08/30/2022 - 12:00:02 am BST
