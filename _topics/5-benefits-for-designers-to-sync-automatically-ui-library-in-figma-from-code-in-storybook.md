@@ -1,0 +1,9 @@
+---
+title: "5 benefits for designers to sync automatically UI library in Figma from code in Storybook"
+date: 2022-08-30 15:24:09 +0000
+dateadded: 2022-08-31 00:00:41 +0100
+description: ""
+link: "https://uxplanet.org/5-benefits-for-designers-to-sync-automatically-ui-library-in-figma-from-code-in-storybook-191a878e78a2?source=rss----819cc2aaeee0---4"
+category:
+directory: _directory/ux-planet.md
+---
