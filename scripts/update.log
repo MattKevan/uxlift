@@ -7150,3 +7150,22 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 782ea9a] Update feeds
+ 15 files changed, 155 insertions(+)
+ create mode 100644 _topics/10-tips-for-ux-designers-traveling-and-working-at-the-same-time.md
+ create mode 100644 _topics/3-moodboard-examples-and-templates-to-get-you-started.md
+ create mode 100644 _topics/5-benefits-for-designers-to-sync-automatically-ui-library-in-figma-from-code-in-storybook.md
+ create mode 100644 _topics/amazons-minitv-why.md
+ create mode 100644 _topics/auto-layout-in-figma-everything-you-need-to-know.md
+ create mode 100644 _topics/best-icon-resources-i-use-daily.md
+ create mode 100644 _topics/best-practices-for-nailing-the-collaborative-design-process.md
+ create mode 100644 _topics/case-study-improving-home-office-experience.md
+ create mode 100644 _topics/e-commerce-accessibility-specifying-ui-elements-using-names.md
+ create mode 100644 _topics/how-i-dealt-with-imposter-syndrome-as-a-junior-designer.md
+ create mode 100644 _topics/how-to-go-to-market-with-your-product-part-1-of-3.md
+ create mode 100644 _topics/how-to-illustrate-in-sketch.md
+ create mode 100644 _topics/top-12-favourite-uxui-designers-teachers-on-youtube-and-other-social-networks.md
+ create mode 100644 _topics/top-9-illustration-trends-in-2022.md
+To github.com:MattKevan/uxlift.git
+   126dc8a..782ea9a  master -> master
+Feeds updated 08/31/2022 - 12:00:01 am BST
