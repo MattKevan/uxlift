@@ -7198,3 +7198,12 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master d49891b] Update feeds
+ 5 files changed, 65 insertions(+)
+ create mode 100644 _topics/5-benefits-for-designers-when-syncing-their-figma-ui-library-with-storybook-code.md
+ create mode 100644 _topics/icymi-38-recent-sketch-improvements-you-might-have-missed.md
+ create mode 100644 _topics/the-psychology-of-ux-writing-its-powerful-effect-on-users.md
+ create mode 100644 _topics/ux-conference-december-announced-dec-3-dec-9.md
+To github.com:MattKevan/uxlift.git
+   782ea9a..d49891b  master -> master
+Feeds updated 09/01/2022 - 12:00:01 am BST
