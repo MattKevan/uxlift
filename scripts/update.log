@@ -7236,3 +7236,12 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 1494a93] Update feeds
+ 5 files changed, 65 insertions(+)
+ create mode 100644 _topics/a-food-subscription-research-project.md
+ create mode 100644 _topics/how-to-go-to-market-with-your-product-part-1.md
+ create mode 100644 _topics/product-thinkinga-comprehensive-guide-to-product-design-process-with-a-product-thinking-mindset.md
+ create mode 100644 _topics/ready-for-a-ux-writing-challenge.md
+To github.com:MattKevan/uxlift.git
+   d49891b..1494a93  master -> master
+Feeds updated 09/02/2022 - 12:00:01 am BST
