@@ -7299,3 +7299,17 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master badb7a4] Update feeds
+ 10 files changed, 110 insertions(+)
+ create mode 100644 _topics/a-complete-development-lifecycle-and-anatomy-of-conversational-applications.md
+ create mode 100644 _topics/conversational-ai-a-beginner-guide.md
+ create mode 100644 _topics/how-do-we-hire.md
+ create mode 100644 _topics/how-to-go-to-market-with-your-product-part-2.md
+ create mode 100644 _topics/how-to-go-to-market-with-your-product-part-3.md
+ create mode 100644 _topics/lamda-how-to-use-it-asap-how-you-will-know-its-performing.md
+ create mode 100644 _topics/learn-how-i-design-icons-for-ui.md
+ create mode 100644 _topics/my-learnings-through-google-ux-specialization-course-4.md
+ create mode 100644 _topics/why-is-the-lack-of-a-metric-better-than-just-any-metric-vanity-metrics-vs-success-metrics.md
+To github.com:MattKevan/uxlift.git
+   07b5824..badb7a4  master -> master
+Feeds updated 09/04/2022 - 12:00:01 am BST
