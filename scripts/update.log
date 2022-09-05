@@ -7342,3 +7342,10 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master ed77a51] Update feeds
+ 3 files changed, 47 insertions(+)
+ create mode 100644 _topics/infinite-scrolling-when-to-use-it-when-to-avoid-it.md
+ create mode 100644 _topics/maintaining-the-privacy-and-security-of-research-participants-data.md
+To github.com:MattKevan/uxlift.git
+   badb7a4..ed77a51  master -> master
+Feeds updated 09/05/2022 - 12:00:01 am BST
