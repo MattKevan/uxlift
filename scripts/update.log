@@ -7378,3 +7378,23 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master eb9aee8] Update feeds
+ 16 files changed, 195 insertions(+)
+ create mode 100644 _topics/11-unheard-graphic-design-resources-that-i-instantly-bookmarked.md
+ create mode 100644 _topics/5-reasons-to-invest-in-user-experience.md
+ create mode 100644 _topics/6-essential-reasons-why-ux-is-valuable-for-every-product.md
+ create mode 100644 _topics/ab-testing-in-7-steps-to-quickly-improve-your-conversions.md
+ create mode 100644 _topics/how-to-start-experiments-as-a-product-designer.md
+ create mode 100644 _topics/how-ux-design-help-business-grow-in-many-ways.md
+ create mode 100644 _topics/making-how-to-go-to-market-with-your-product-part-4.md
+ create mode 100644 _topics/my-journey-as-a-uiux-designer-so-far.md
+ create mode 100644 _topics/these-six-classic-games-are-in-figma-and-its-cool-to-know.md
+ create mode 100644 _topics/tips-and-tricks-to-organize-the-figma-files-browser.md
+ create mode 100644 _topics/top-5-technology-trends-in-ux-design.md
+ create mode 100644 _topics/understanding-regulatory-compliance-and-making-it-work-on-your-web-site.md
+ create mode 100644 _topics/ux-writer-and-copywriter-roles-in-the-multiverse-of-madness.md
+ create mode 100644 _topics/web-application-for-a-parking-managerdesign-challenge-case-study.md
+ create mode 100644 _topics/why-hire-a-ux-consultant.md
+To github.com:MattKevan/uxlift.git
+   ed77a51..eb9aee8  master -> master
+Feeds updated 09/06/2022 - 12:00:01 am BST
