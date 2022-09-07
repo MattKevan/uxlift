@@ -7427,3 +7427,12 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master be39a4a] Update feeds
+ 5 files changed, 65 insertions(+)
+ create mode 100644 _topics/5-unseen-factors-that-change-the-user-experience-for-good-bad.md
+ create mode 100644 _topics/back-at-it.md
+ create mode 100644 _topics/picturing-a-tech-ful-future-with-skepticism.md
+ create mode 100644 _topics/product-comparison-ux-always-provide-comparison-features-for-spec-driven-industries-17-dont.md
+To github.com:MattKevan/uxlift.git
+   eb9aee8..be39a4a  master -> master
+Feeds updated 09/07/2022 - 12:00:01 am BST
