@@ -7549,3 +7549,16 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 	from feeds.rb:56:in `block in <main>'
 	from feeds.rb:51:in `each'
 	from feeds.rb:51:in `<main>'
+[master 171b600] Update feeds
+ 9 files changed, 106 insertions(+)
+ create mode 100644 _topics/8-books-are-recommended-for-habit-ux-designer-forming.md
+ create mode 100644 _topics/how-fitts-law-is-essential-in-human-computer-interaction-and-product-design.md
+ create mode 100644 _topics/lessons-in-research-operations.md
+ create mode 100644 _topics/seo-for-a-user-experience-specialist.md
+ create mode 100644 _topics/the-interplay-between-hicks-law-and-user-experience-ux-design.md
+ create mode 100644 _topics/uiux-design-the-dynamic-island.md
+ create mode 100644 _topics/ux-design-portfolio-tips-and-inspiration.md
+ create mode 100644 _topics/world-we-want-to-tell-you.md
+To github.com:MattKevan/uxlift.git
+   3093d20..171b600  master -> master
+Feeds updated 09/10/2022 - 12:00:01 am BST
