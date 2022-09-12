@@ -7627,3 +7627,14 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master c98588e] Update feeds
+ 7 files changed, 86 insertions(+)
+ create mode 100644 _topics/antipersonas-what-how-who-and-why.md
+ create mode 100644 _topics/apple-watch-making-us-fall-in-love-with-straps.md
+ create mode 100644 _topics/cognitive-walkthrough-vs-heuristic-evaluation-vs-usability-testing-stop-confusing-these-methods.md
+ create mode 100644 _topics/the-context-cues-framework-in-field-studies.md
+ create mode 100644 _topics/why-are-google-illustrations-so-magical.md
+ create mode 100644 _topics/why-you-should-think-twice-before-arranging-yet-another-workshop.md
+To github.com:MattKevan/uxlift.git
+   d705fe9..c98588e  master -> master
+Feeds updated 09/12/2022 - 12:00:01 am BST
