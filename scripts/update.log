@@ -7667,3 +7667,22 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master eec660f] Update feeds
+ 15 files changed, 155 insertions(+)
+ create mode 100644 _topics/3-books-that-will-change-your-outlook-on-ux.md
+ create mode 100644 _topics/ai-image-generators-a-complete-guide-to-this-new-technology.md
+ create mode 100644 _topics/automate-your-text-work-easy-use-gpt-3-by-openai.md
+ create mode 100644 _topics/component-testing-in-storybook-with-play-functions.md
+ create mode 100644 _topics/figma-vs-adobe-xd-an-in-depth-comparison-for-uxui-designers.md
+ create mode 100644 _topics/how-to-create-icon-grid-and-keyline.md
+ create mode 100644 _topics/how-to-create-ios-16-lock-screen-widgets-in-sketch.md
+ create mode 100644 _topics/how-to-secure-your-first-ux-interview-in-the-2023-recession.md
+ create mode 100644 _topics/observation-fuels-improvement-as-a-ux-designer.md
+ create mode 100644 _topics/overlooked-user-research-methods-that-will-make-your-product-stand-out.md
+ create mode 100644 _topics/product-design-job-hunt-strategy.md
+ create mode 100644 _topics/the-arrogance-of-the-anthropocene.md
+ create mode 100644 _topics/twitter-edit-another-way.md
+ create mode 100644 _topics/ux-design-the-four-major-test-types.md
+To github.com:MattKevan/uxlift.git
+   c98588e..eec660f  master -> master
+Feeds updated 09/13/2022 - 12:00:01 am BST
