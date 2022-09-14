@@ -7715,3 +7715,13 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 1f20323] Update feeds
+ 6 files changed, 74 insertions(+)
+ create mode 100644 _topics/5-types-of-ui-notifications.md
+ create mode 100644 _topics/learn-how-to-design-tab-bars.md
+ create mode 100644 _topics/master-the-art-of-apples-splash-pages-with-these-tricks.md
+ create mode 100644 _topics/the-current-state-of-e-commerce-product-page-ux-performance-15-best-practices.md
+ create mode 100644 _topics/why-your-ux-case-study-isnt-getting-you-interviews.md
+To github.com:MattKevan/uxlift.git
+   eec660f..1f20323  master -> master
+Feeds updated 09/14/2022 - 12:00:01 am BST
