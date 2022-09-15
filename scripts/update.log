@@ -7754,3 +7754,14 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 90a38f9] Update feeds
+ 7 files changed, 83 insertions(+)
+ create mode 100644 _topics/app-badges-streak-how-not-to-be-dreadful-at-designing-them.md
+ create mode 100644 _topics/examples-best-practices-of-brutalism-in-web-design.md
+ create mode 100644 _topics/reflections-on-dconstruct-2022.md
+ create mode 100644 _topics/website-header-design-best-practices-examples.md
+ create mode 100644 _topics/what-really-makes-a-designer-successful.md
+ create mode 100644 _topics/youtube-do-not-track-on-tv.md
+To github.com:MattKevan/uxlift.git
+   1f20323..90a38f9  master -> master
+Feeds updated 09/15/2022 - 12:00:01 am BST
