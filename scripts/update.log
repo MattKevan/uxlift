@@ -7794,3 +7794,15 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 167784b] Update feeds
+ 8 files changed, 92 insertions(+)
+ create mode 100644 _topics/2-year-review-how-good-is-the-iphone-se-2nd-gen-in-2022.md
+ create mode 100644 _topics/cheap-design-can-be-dangerous.md
+ create mode 100644 _topics/designers-is-becoming-a-manager-your-next-career-move.md
+ create mode 100644 _topics/hbo-max-the-worst-rated-streaming-service-with-an-image-problem.md
+ create mode 100644 _topics/how-fonts-affect-your-emotions.md
+ create mode 100644 _topics/the-power-of-the-voidwhy-empty-space-is-your-friend-in-ux-design.md
+ create mode 100644 _topics/why-material-design-might-not-always-be-a-great-option-for-your-ui.md
+To github.com:MattKevan/uxlift.git
+   90a38f9..167784b  master -> master
+Feeds updated 09/16/2022 - 12:00:01 am BST
