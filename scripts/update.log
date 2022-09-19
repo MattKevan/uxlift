@@ -7910,3 +7910,10 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 0b5e7d6] Update feeds
+ 3 files changed, 47 insertions(+)
+ create mode 100644 _topics/accidental-dismissal-of-overlays-a-common-mobile-usability-problem.md
+ create mode 100644 _topics/dot-coding-an-activity-to-elicit-perspectives-in-ux-workshops.md
+To github.com:MattKevan/uxlift.git
+   78276fc..0b5e7d6  master -> master
+Feeds updated 09/19/2022 - 12:00:01 am BST
