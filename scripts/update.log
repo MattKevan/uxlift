@@ -7946,3 +7946,25 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 6c3b56e] Update feeds
+ 18 files changed, 215 insertions(+)
+ create mode 100644 _topics/10-quotes-that-completely-changed-my-life-and-taught-me-10-important-lessons.md
+ create mode 100644 _topics/18-design-resources-every-startup-founder-needs-to-guarantee-success.md
+ create mode 100644 _topics/4-tips-for-fitting-in-your-new-design-job.md
+ create mode 100644 _topics/5-ways-to-use-data-visualization-in-your-content-to-increase-traffic.md
+ create mode 100644 _topics/7-additional-cognitive-biases-that-affect-your-design-process.md
+ create mode 100644 _topics/7-sci-fi-books-to-ponder-design-futures.md
+ create mode 100644 _topics/ai-and-machine-learning-the-power-behind-todays-best-customer-research-platforms.md
+ create mode 100644 _topics/best-ux-websites-i-found-recently.md
+ create mode 100644 _topics/clean-up-and-organize-figma-files-created-by-another-designer-who-worked-in-a-mess.md
+ create mode 100644 _topics/from-2d-to-3dthe-easy-way.md
+ create mode 100644 _topics/goodbye-figma-you-were-good-to-us.md
+ create mode 100644 _topics/how-rapid-usability-testing-is-changing-ux-research.md
+ create mode 100644 _topics/is-the-ux-design-profession-right-for-you.md
+ create mode 100644 _topics/its-okay-to-detach-instance.md
+ create mode 100644 _topics/protect-creativity-is-the-art-of-self-love.md
+ create mode 100644 _topics/ux-leaders-getting-a-seat-at-the-top-table.md
+ create mode 100644 _topics/why-your-mobile-app-needs-an-effective-ux-design.md
+To github.com:MattKevan/uxlift.git
+   0b5e7d6..6c3b56e  master -> master
+Feeds updated 09/20/2022 - 12:00:01 am BST
