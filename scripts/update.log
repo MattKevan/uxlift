@@ -7997,3 +7997,14 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master c25226a] Update feeds
+ 7 files changed, 83 insertions(+)
+ create mode 100644 _topics/2023-mobile-ui-trends.md
+ create mode 100644 _topics/design-using-improvs-yes-and-design-techniques.md
+ create mode 100644 _topics/if-stakeholders-dont-buy-it-its-not-necessarily-a-uxer-or-product-manager-lack-of-skills-but-a.md
+ create mode 100644 _topics/leading-design-impact-without-being-a-lead-designer.md
+ create mode 100644 _topics/use-buttons-or-buttons-plus-an-open-text-field-for-updating-cart-quantity-61-dont.md
+ create mode 100644 _topics/why-ux-design-challenges-are-the-key-to-success-for-businesses-in-the-21st-century.md
+To github.com:MattKevan/uxlift.git
+   6c3b56e..c25226a  master -> master
+Feeds updated 09/21/2022 - 12:00:01 am BST
