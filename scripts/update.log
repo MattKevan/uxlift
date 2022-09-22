@@ -8037,3 +8037,14 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 8bc7f0c] Update feeds
+ 7 files changed, 83 insertions(+)
+ create mode 100644 _topics/16-cool-ai-websites-you-might-not-have-known-about.md
+ create mode 100644 _topics/4-less-obvious-machine-learning-methods-to-help-product-managers.md
+ create mode 100644 _topics/5-free-tools-to-level-up-your-ux-design-kit.md
+ create mode 100644 _topics/beauty-in-the-machine-post-industrial-design.md
+ create mode 100644 _topics/gestalt-perception-the-interplay-between-ux-design-and-user-psychology.md
+ create mode 100644 _topics/where-is-my-productivity-how-social-media-affects-our-lives.md
+To github.com:MattKevan/uxlift.git
+   c25226a..8bc7f0c  master -> master
+Feeds updated 09/22/2022 - 12:00:01 am BST
