@@ -8120,3 +8120,15 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 672ae58] Update feeds
+ 8 files changed, 98 insertions(+)
+ create mode 100644 _topics/accessible-design-fundamentals.md
+ create mode 100644 _topics/apple-dynamic-island-whats-good-and-bad-about-it.md
+ create mode 100644 _topics/designing-enterprise-software-in-a-niche-industry.md
+ create mode 100644 _topics/how-the-psychology-of-colour-drives-your-decisions.md
+ create mode 100644 _topics/reimagining-whatsapp-for-indias-local-stores-ux-case-study.md
+ create mode 100644 _topics/tiktok-creators-vs-users-attention-and-its-affect-on-our-mental-health.md
+ create mode 100644 _topics/ux-design-niches-that-are-ripe-for-the-taking.md
+To github.com:MattKevan/uxlift.git
+   3907a45..672ae58  master -> master
+Feeds updated 09/24/2022 - 12:00:01 am BST
