@@ -8161,3 +8161,9 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master ede8b35] Update feeds
+ 2 files changed, 38 insertions(+)
+ create mode 100644 _topics/the-problem-of-clock-font-size-in-apple-ios-16.md
+To github.com:MattKevan/uxlift.git
+   672ae58..ede8b35  master -> master
+Feeds updated 09/25/2022 - 12:00:01 am BST
