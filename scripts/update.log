@@ -8196,3 +8196,18 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 6afd217] Update feeds
+ 11 files changed, 119 insertions(+)
+ create mode 100644 _topics/3-days-with-yolda-com-product-team.md
+ create mode 100644 _topics/4-rules-for-airbnbs-invisible-design.md
+ create mode 100644 _topics/5-reasons-to-write-blogs-as-a-designer.md
+ create mode 100644 _topics/analytics-dashboard-guide-with-questions-design-techniques.md
+ create mode 100644 _topics/apple-vs-cheap-knock-offs-david-goliath.md
+ create mode 100644 _topics/ar-onboarding-walkthroughs-in-mobile-apps.md
+ create mode 100644 _topics/are-you-sure-you-want-this-button.md
+ create mode 100644 _topics/flexible-sprints-and-efficient-design-how-to-organize-work-without-killing-creativity.md
+ create mode 100644 _topics/what-should-happen-after-design-handoff.md
+ create mode 100644 _topics/who-does-designops-common-designops-roles-and-partnerships.md
+To github.com:MattKevan/uxlift.git
+   ede8b35..6afd217  master -> master
+Feeds updated 09/26/2022 - 12:00:02 am BST
