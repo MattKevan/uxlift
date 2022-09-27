@@ -8240,3 +8240,18 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 41d3d91] Update feeds
+ 11 files changed, 119 insertions(+)
+ create mode 100644 _topics/100-days-ui-design-challengepart-02.md
+ create mode 100644 _topics/7-tools-with-a-focus-on-great-design.md
+ create mode 100644 _topics/air-cover-vs-swoop-and-poop-leadership-how-designers-can-help.md
+ create mode 100644 _topics/brief-considerations-on-design-topics-11-multicultural-product-solutions.md
+ create mode 100644 _topics/building-a-product-without-a-design-system-leads-to-huge-design-debt.md
+ create mode 100644 _topics/constructing-your-persona-in-the-design-portfolio.md
+ create mode 100644 _topics/figma-component-property-update.md
+ create mode 100644 _topics/how-to-design-for-your-product-strategy.md
+ create mode 100644 _topics/the-stark-bank-case-rebranding-a-b2b-company.md
+ create mode 100644 _topics/working-with-webflow-templates.md
+To github.com:MattKevan/uxlift.git
+   6afd217..41d3d91  master -> master
+Feeds updated 09/27/2022 - 12:00:01 am BST
