@@ -8284,3 +8284,12 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 831b958] Update feeds
+ 5 files changed, 65 insertions(+)
+ create mode 100644 _topics/6-ux-failures-that-diminish-goodwill-their-solutions.md
+ create mode 100644 _topics/its-not-about-styles-its-about-you.md
+ create mode 100644 _topics/post-mortem-do-you-need-this-6-steps-to-run-successful-post-mortem-advantages-and-checklist.md
+ create mode 100644 _topics/progress-indicators-4-common-styles.md
+To github.com:MattKevan/uxlift.git
+   41d3d91..831b958  master -> master
+Feeds updated 09/28/2022 - 12:00:01 am BST
