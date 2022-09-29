@@ -8323,3 +8323,16 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 16be393] Update feeds
+ 8 files changed, 93 insertions(+)
+ create mode 100644 _topics/discovery-workshop-customer-journey-map-service-blueprint-ux-case-study.md
+ create mode 100644 _topics/fastag-mobile-appuiux-case-study.md
+ create mode 100644 _topics/figma-responsive-design-with-auto-layout-constraints-grids.md
+ create mode 100644 _topics/magical-peer-reviews.md
+ create mode 100644 _topics/the-cxd-toolkit.md
+ create mode 100644 _topics/through-the-wirehow-simple-wireframes-can-make-life-so-much-easier.md
+ create mode 100644 _topics/usability-testing-tip-avoid-diminutive-terms-when-talking-about-tasks.md
+Warning: Permanently added the ECDSA host key for IP address '140.82.113.3' to the list of known hosts.
+To github.com:MattKevan/uxlift.git
+   831b958..16be393  master -> master
+Feeds updated 09/29/2022 - 12:00:01 am BST
