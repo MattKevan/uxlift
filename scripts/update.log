@@ -8365,3 +8365,16 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master b180b75] Update feeds
+ 9 files changed, 101 insertions(+)
+ create mode 100644 _topics/4-free-massive-icon-resources-for-designers.md
+ create mode 100644 _topics/7-resources-for-product-design-inspiration.md
+ create mode 100644 _topics/b2b-electronic-components-and-machinery-sites-new-ux-benchmark-with-over-4800-performance-scores-and-3600-best-practice-examples.md
+ create mode 100644 _topics/best-design-books-ive-read.md
+ create mode 100644 _topics/bottom-tab-bar-design-best-practices.md
+ create mode 100644 _topics/discovery-research-design-in-agile.md
+ create mode 100644 _topics/dos-and-do-betters-learned-from-linkedin-design-internship.md
+ create mode 100644 _topics/obsidian-logseq-roamreseach-and-others-which-tool-to-choose.md
+To github.com:MattKevan/uxlift.git
+   16be393..b180b75  master -> master
+Feeds updated 09/30/2022 - 12:00:01 am BST
