@@ -8407,3 +8407,12 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 007a4e7] Update feeds
+ 5 files changed, 65 insertions(+)
+ create mode 100644 _topics/3-amazing-sites-to-get-free-design-illustrations.md
+ create mode 100644 _topics/dabbling-with-dalle.md
+ create mode 100644 _topics/how-does-ux-audit-contribute-to-higher-sales-in-the-online-marketplace.md
+ create mode 100644 _topics/sophisticated-simple-design.md
+To github.com:MattKevan/uxlift.git
+   b180b75..007a4e7  master -> master
+Feeds updated 10/01/2022 - 12:00:01 am BST
