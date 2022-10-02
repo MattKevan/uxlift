@@ -8445,3 +8445,9 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 60ca55b] Update feeds
+ 2 files changed, 38 insertions(+)
+ create mode 100644 _topics/design-system-architecture-that-wont-ruin-your-life.md
+To github.com:MattKevan/uxlift.git
+   007a4e7..60ca55b  master -> master
+Feeds updated 10/02/2022 - 12:00:01 am BST
