@@ -8480,3 +8480,12 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 56c39b1] Update feeds
+ 5 files changed, 65 insertions(+)
+ create mode 100644 _topics/headspaces-6-mindful-technology-design-principles.md
+ create mode 100644 _topics/how-k-pop-apps-create-the-illusion-of-private-messaging-with-celebrities.md
+ create mode 100644 _topics/successful-onboarding-for-new-hires-in-ux-roles.md
+ create mode 100644 _topics/ux-stakeholders-study-guide.md
+To github.com:MattKevan/uxlift.git
+   60ca55b..56c39b1  master -> master
+Feeds updated 10/03/2022 - 12:00:01 am BST
