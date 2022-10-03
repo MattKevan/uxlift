@@ -1,0 +1,9 @@
+---
+title: "Dashboards. Go beyond data visualisation"
+date: 2022-10-03 11:03:34 +0000
+dateadded: 2022-10-04 00:00:38 +0100
+description: ""
+link: "https://uxplanet.org/dashboards-go-beyond-data-visualisation-41efa712b795?source=rss----819cc2aaeee0---4"
+category:
+directory: _directory/ux-planet.md
+---
