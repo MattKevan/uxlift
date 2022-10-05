@@ -8569,3 +8569,16 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master ea7fdc1] Update feeds
+ 9 files changed, 101 insertions(+)
+ create mode 100644 _topics/designing-for-money.md
+ create mode 100644 _topics/form-usability-getting-address-line-2-right.md
+ create mode 100644 _topics/how-did-i-grow-myself-in-6-month-from-an-associate-to-a-product-designer-and-beyond.md
+ create mode 100644 _topics/i-found-4-terrible-ux-mistakes-on-amazons-website.md
+ create mode 100644 _topics/radio-buttons-checkboxes-toggle-switches-and-dropdown-lists-design-tips-for-using-selection.md
+ create mode 100644 _topics/red-flags-in-uxui-portfoliosthings-to-watch-out-for-how-to-fix-them.md
+ create mode 100644 _topics/spent-6-years-studying-law-quit-to-become-a-copywriter.md
+ create mode 100644 _topics/the-genius-of-apples-pricing-tables.md
+To github.com:MattKevan/uxlift.git
+   6c602af..ea7fdc1  master -> master
+Feeds updated 10/05/2022 - 12:00:01 am BST
