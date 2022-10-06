@@ -8611,3 +8611,17 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 7c90a37] Update feeds
+ 10 files changed, 110 insertions(+)
+ create mode 100644 _topics/10-ways-to-design-for-digital-devices-using-natural-user-interface-patterns.md
+ create mode 100644 _topics/4-simple-plugins-to-remove-backgrounds-in-figma.md
+ create mode 100644 _topics/bereal-the-ux-of-ennui-merde.md
+ create mode 100644 _topics/create-a-design-system-teams-love-to-use.md
+ create mode 100644 _topics/how-to-improve-your-ui-designs3-actionable-yet-simple-suggestions.md
+ create mode 100644 _topics/the-6-best-design-systems-to-learn-ux-design.md
+ create mode 100644 _topics/the-beginners-guide-to-conducting-user-interviews.md
+ create mode 100644 _topics/uiux-design-leveraging-micro-projects.md
+ create mode 100644 _topics/uiux-design-my-top-5-design-tools-of-2022.md
+To github.com:MattKevan/uxlift.git
+   ea7fdc1..7c90a37  master -> master
+Feeds updated 10/06/2022 - 12:00:01 am BST
