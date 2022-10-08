@@ -8688,3 +8688,18 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 4c44a57] Update feeds
+ 11 files changed, 119 insertions(+)
+ create mode 100644 _topics/10-extraordinary-ai-powered-tools-for-designers-and-creative-entrepreneurs-in-2022.md
+ create mode 100644 _topics/20-essential-questions-every-designer-must-ask-their-client-before-starting-a-branding-project.md
+ create mode 100644 _topics/8-free-figma-plugins-youll-want-to-install.md
+ create mode 100644 _topics/90-in-90-content-framework-for-solopreneurs.md
+ create mode 100644 _topics/ai-will-replace-3d-artists-that-might-not-be-a-bad-thing.md
+ create mode 100644 _topics/common-first-time-mistakes-that-kill-your-ux-design-job-application.md
+ create mode 100644 _topics/starbucks-india-appreimagined-a-uiux-case-study.md
+ create mode 100644 _topics/the-working-process-in-ux-writing-team.md
+ create mode 100644 _topics/uiux-design-penpot-a-figma-killer.md
+ create mode 100644 _topics/why-authenticity-in-design-is-important.md
+To github.com:MattKevan/uxlift.git
+   3c4480b..4c44a57  master -> master
+Feeds updated 10/08/2022 - 12:00:01 am BST
