@@ -8732,3 +8732,10 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 03415aa] Update feeds
+ 3 files changed, 47 insertions(+)
+ create mode 100644 _topics/90-in-90-content-creation-framework.md
+ create mode 100644 _topics/figma-launched-a-find-and-replace-text-feature.md
+To github.com:MattKevan/uxlift.git
+   4c44a57..03415aa  master -> master
+Feeds updated 10/09/2022 - 12:00:01 am BST
