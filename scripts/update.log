@@ -8768,3 +8768,21 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master eaf06fb] Update feeds
+ 14 files changed, 146 insertions(+)
+ create mode 100644 _topics/4-common-mistakes-i-made-interviewing-for-ux-roles.md
+ create mode 100644 _topics/an-outline-for-your-first-ux-portfolio-that-will-impress.md
+ create mode 100644 _topics/augmented-reality-calibration-in-mobile-apps-10-guidelines.md
+ create mode 100644 _topics/braun-iconwerk-braun-linear.md
+ create mode 100644 _topics/heres-what-happened-when-i-designed-this-404-page.md
+ create mode 100644 _topics/how-to-design-user-friendly-buttons.md
+ create mode 100644 _topics/learn-ui-design-for-free.md
+ create mode 100644 _topics/mentoring-is-the-best-way-to-become-a-better-ux-designer.md
+ create mode 100644 _topics/mood-tracking-app-case-study.md
+ create mode 100644 _topics/personas-study-guide.md
+ create mode 100644 _topics/the-messy-product-management-triangle-scope-resources-and-time.md
+ create mode 100644 _topics/understanding-learners-on-their-journey-of-acquiring-skills-outside-academicsux-research-case.md
+ create mode 100644 _topics/why-field-study-sessions-go-wrong-5-common-problems.md
+To github.com:MattKevan/uxlift.git
+   03415aa..eaf06fb  master -> master
+Feeds updated 10/10/2022 - 12:00:01 am BST
