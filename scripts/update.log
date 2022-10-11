@@ -8815,3 +8815,15 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 7b7b195] Update feeds
+ 8 files changed, 95 insertions(+)
+ create mode 100644 _topics/2-rituals-to-energize-your-cross-functional-remote-team.md
+ create mode 100644 _topics/20-facts-about-writing-on-mediumtried-and-tested-100x-times.md
+ create mode 100644 _topics/a-complete-guide-to-ux-research-for-web-3-0-products.md
+ create mode 100644 _topics/didnt-have-time-to-do-all-the-tasks-again-its-about-prioritization.md
+ create mode 100644 _topics/figma-component-properties-update-beta-explained-in-3-min.md
+ create mode 100644 _topics/how-to-work-with-difficult-stakeholders.md
+ create mode 100644 _topics/instagram-addiction-and-possible-design-solutions.md
+To github.com:MattKevan/uxlift.git
+   eaf06fb..7b7b195  master -> master
+Feeds updated 10/11/2022 - 12:00:01 am BST
