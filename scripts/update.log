@@ -8856,3 +8856,18 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 05c0865] Update feeds
+ 11 files changed, 119 insertions(+)
+ create mode 100644 _topics/are-you-missing-these-10-shortcuts-on-after-effects.md
+ create mode 100644 _topics/dear-design-student-youll-never-get-worse-at-design.md
+ create mode 100644 _topics/design-of-everyday-things-in-16-visuals.md
+ create mode 100644 _topics/how-to-create-a-language-learning-app-for-kids-and-how-much-does-it-cost.md
+ create mode 100644 _topics/i-was-a-teacher-but-also-a-ux-designer.md
+ create mode 100644 _topics/journey-mapping-101.md
+ create mode 100644 _topics/meal-kit-sites-new-ux-benchmark-with-over-3300-performance-scores-and-2200-best-practice-examples.md
+ create mode 100644 _topics/steal-the-5-step-framework-i-use-as-a-graphic-designer-to-reduce-revision-cycles.md
+ create mode 100644 _topics/uiux-design-what-is-visual-design.md
+ create mode 100644 _topics/website-hero-section-6-design-best-practices.md
+To github.com:MattKevan/uxlift.git
+   7b7b195..05c0865  master -> master
+Feeds updated 10/12/2022 - 12:00:01 am BST
