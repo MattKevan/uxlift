@@ -8898,3 +8898,446 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 To github.com:MattKevan/uxlift.git
    05c0865..4d6eb06  master -> master
 Feeds updated 10/13/2022 - 12:00:01 am BST
+[master 6c25dcb] First update
+ 1 file changed, 6 insertions(+)
+From github.com:MattKevan/uxlift
+   4d6eb06..81dffea  master     -> origin/master
+Removing test/writing-an-effective-guide-for-a-ux-interview.md
+Removing test/working-to-work.md
+Removing test/why-ux-outcomes-make-better-goals-than-business-outcomes.md
+Removing test/why-the-web-will-win.md
+Removing test/why-mobile-apps-need-voice-interfaces.md
+Removing test/why-does-a-design-look-good.md
+Removing test/who-are-design-systems-for.md
+Removing test/what-proactive-ux-research-looks-like.md
+Removing test/what-makes-a-good-design-principle.md
+Removing test/what-is-a-brand.md
+Removing test/what-happens-when-things-go-wrong.md
+Removing test/what-google-search-shows-us-about-the-future-of-product-design.md
+Removing test/well-fix-it-later.md
+Removing test/well-designed-interfaces-look-boring.md
+Removing test/visual-language-around-me-observing-icons-symbols-and-indices.md
+Removing test/visual-hierarchy-in-ux-definition.md
+Removing test/virtue-ethics.md
+Removing test/ux-survey-how-theyre-made-and-why-are-they-necessary.md
+Removing test/ux-hiring-the-performance-profile-is-a-game-changer.md
+Removing test/ux-hiring-lets-talk-about-comparable-experience.md
+Removing test/ux-conference-may-announced-may-15-may-21.md
+Removing test/ux-conference-april-announced-apr-17-apr-23.md
+Removing test/using-netlify-to-build-an-email-sign-up-widget.md
+Removing test/using-how-might-we-questions-to-ideate-on-the-right-problems.md
+Removing test/undervaluing-user-research-is-a-deadly-disease.md
+Removing test/understanding-mobile-e-commerce-ux-5-overarching-issues.md
+Removing test/understanding-gender-and-racial-bias-in-ai-part-3.md
+Removing test/triangulation-get-better-research-results-by-using-multiple-ux-methods.md
+Removing test/towards-better-creative-feedback.md
+Removing test/tiny-data-visualizations.md
+Removing test/three-ux-articles-centered-on-maturing-ux-in-your-organization.md
+Removing test/the-unexamined-life.md
+Removing test/the-things-of-everyday-design.md
+Removing test/the-slippery-slope-of-in-product-messaging.md
+Removing test/the-service-based-design-org.md
+Removing test/the-role-of-doubt-in-design.md
+Removing test/the-paradox-at-the-heart-of-ab-testing.md
+Removing test/the-management-strategy-that-saved-apollo-11.md
+Removing test/the-inevitable-same-ification-of-the-internet.md
+Removing test/the-hand-and-the-brain.md
+Removing test/the-design-system-you-already-have.md
+Removing test/the-1-hour-design-principles-workshop.md
+Removing test/taking-credit-for-success.md
+Removing test/switching-to-variable-fonts.md
+Removing test/shifting-our-team-goals-to-be-ux-outcomes.md
+Removing test/return-users-to-the-same-place-in-the-product-list-when-returning-from-the-product-page-13-dont.md
+Removing test/responsive-roadmaps.md
+Removing test/research-empathy-simplicity-speed.md
+Removing test/remote-design-work-top-challenges.md
+Removing test/regionalizing-your-mobile-designs-part-2.md
+Removing test/really-bad-design-exercises.md
+Removing test/quantifying-ux-improvements-a-case-study.md
+Removing test/provide-images-of-accessory-apparel-and-cosmetic-products-on-a-human-model.md
+Removing test/product-thinking-is-a-lifeline-for-struggling-design-systems.md
+Removing test/practice-makes-perfect.md
+Removing test/potential-dangers-of-becoming-data-driven.md
+Removing test/people-alignment-vs-purpose-alignment.md
+Removing test/optimize-for-learning.md
+Removing test/navigating-design-career-with-design-okrs.md
+Removing test/my-management-philosophy.md
+Removing test/my-favorite-job-interview-question.md
+Removing test/mobile-ux-avoid-using-subpages-within-the-product-details-page-26-dont.md
+Removing test/mind-the-gap-designing-graphs-with-missing-data.md
+Removing test/mapping-user-stories-in-agile.md
+Removing test/making-wsj-com-more-accessible.md
+Removing test/making-meaningful-business-propositions.md
+Removing test/making-an-audio-waveform-visualizer-with-vanilla-java-script.md
+Removing test/make-it-til-you-make-it.md
+Removing test/maintain-consistency-and-adhere-to-standards-usability-heuristic-4.md
+Removing test/livestream-ecommerce-what-we-can-learn-from-china.md
+Removing test/learning-webflow-the-definitive-guide.md
+Removing test/learning-how-to-see.md
+Removing test/know-thyself.md
+Removing test/just-in-time-design.md
+Removing test/intuition-vs-data.md
+Removing test/interview-based-tasks-learning-from-leonardo-dicaprio.md
+Removing test/internal-vs-external-validity-of-ux-studies.md
+Removing test/inclusive-design-on-the-tokyo-subway.md
+Removing test/how-to-test-content-with-users.md
+Removing test/how-to-take-your-teams-creative-pulse.md
+Removing test/how-to-make-big-changes-one-step-at-a-time.md
+Removing test/how-to-have-more-inclusive-meetings.md
+Removing test/how-to-handle-dominating-participants-in-ux-workshops-3-tactics.md
+Removing test/how-to-get-the-best-design-feedback-from-your-team.md
+Removing test/hibernation-and-innovation.md
+Removing test/great-design-automation-and-collaboration-tips-with-nick-hahn.md
+Removing test/goldilocks-your-graphs.md
+Removing test/getting-started-with-journey-mapping-27-tips-from-practitioners.md
+Removing test/four-articles-for-a-new-year.md
+Removing test/flight-crews-dont-decide-where-to-fly.md
+Removing test/ethics-for-designers-in-the-real-world-snapchat-s-juneteenth-filter.md
+Removing test/engagement-is-an-antimetric.md
+Removing test/designing-with-code.md
+Removing test/design-thinking-the-learners-journey.md
+Removing test/design-better-data-tables.md
+Removing test/design-as-a-problem-solving-approach.md
+Removing test/design-apis-the-evolution-of-design-systems.md
+Removing test/design-and-machine-learning.md
+Removing test/design-1.md
+Removing test/deontology.md
+Removing test/delight-comes-last.md
+Removing test/datum-ipsum.md
+Removing test/dangerous-ux-consequential-options-close-to-benign-options.md
+Removing test/crystal-ball-1-on-1s.md
+Removing test/creating-presentations-for-stakeholders.md
+Removing test/create-an-easily-switchable-lightdark-styles-in-figma.md
+Removing test/copying-is-the-way-design-works.md
+Removing test/consequentialism.md
+Removing test/compounding-design-expiring-design.md
+Removing test/compiled-questions-for-your-whiteboard-product-design-challenge.md
+Removing test/companies-on-social-media-6-types-of-user-interactions-with-business.md
+Removing test/combining-our-ux-metrics-with-compelling-emotional-stories.md
+Removing test/collaborative-design-research.md
+Removing test/changing-all-the-fonts-on-wsj-com.md
+Removing test/case-study-learnings-from-the-design-of-an-online-education-platform.md
+Removing test/care-ethics.md
+Removing test/breaking-looms.md
+Removing test/bottom-line-up-front-write-to-make-decisions-faster.md
+Removing test/book-review-how-design-makes-the-world.md
+Removing test/better-problem-solving-unask-the-question.md
+Removing test/be-curious.md
+Removing test/baymard-2020-and-2021.md
+Removing test/asymmetrical-symmetry.md
+Removing test/always-use-buttons-for-size-selection-28-of-desktop-sites-dont.md
+Removing test/always-persist-users-search-queries-37-dont.md
+Removing test/all-the-books-i-read-in-2019.md
+Removing test/all-the-books-i-read-in-2018.md
+Removing test/agile-anxiety.md
+Removing test/aesthetic-and-minimalist-design-usability-heuristic-8.md
+Removing test/a-website-to-call-my-own.md
+Removing test/a-design-api-in-practice.md
+Removing test/a-brief-guide-to-design-feedback.md
+Removing test/7-ways-clubhouse-could-be-better-from-a-listener-point-of-view.md
+Removing test/6-ways-to-improve-the-relevance-of-cross-sells-in-the-cart-52-of-desktop-sites-dont-do-enough.md
+Removing test/6-reasons-your-touch-screen-apps-should-have-voice-capabilities.md
+Removing test/5-ways-to-provide-a-superior-gifting-ui-and-flow.md
+Removing test/10-of-e-commerce-sites-have-product-descriptions-that-are-insufficient-for-users-needs.md
+Merge made by the 'recursive' strategy.
+ ...ptions-that-are-insufficient-for-users-needs.md |  383 --------
+ ...ys-to-provide-a-superior-gifting-ui-and-flow.md |  442 ---------
+ ...h-screen-apps-should-have-voice-capabilities.md |   18 -
+ ...-the-cart-52-of-desktop-sites-dont-do-enough.md |  350 -------
+ ...ould-be-better-from-a-listener-point-of-view.md |   11 -
+ test/a-brief-guide-to-design-feedback.md           |  128 ---
+ test/a-design-api-in-practice.md                   |  141 ---
+ test/a-website-to-call-my-own.md                   |   26 -
+ ...-and-minimalist-design-usability-heuristic-8.md |   11 -
+ test/agile-anxiety.md                              |   64 --
+ test/all-the-books-i-read-in-2018.md               |  115 ---
+ test/all-the-books-i-read-in-2019.md               |  252 -----
+ .../always-persist-users-search-queries-37-dont.md |  368 -------
+ ...-for-size-selection-28-of-desktop-sites-dont.md |  271 -----
+ test/asymmetrical-symmetry.md                      |   19 -
+ test/baymard-2020-and-2021.md                      |  182 ----
+ test/be-curious.md                                 |   31 -
+ test/better-problem-solving-unask-the-question.md  |   40 -
+ test/book-review-how-design-makes-the-world.md     |   17 -
+ ...line-up-front-write-to-make-decisions-faster.md |   79 --
+ test/breaking-looms.md                             |   67 --
+ test/care-ethics.md                                |  112 ---
+ ...m-the-design-of-an-online-education-platform.md |   18 -
+ test/changing-all-the-fonts-on-wsj-com.md          |   59 --
+ test/collaborative-design-research.md              |   80 --
+ ...ux-metrics-with-compelling-emotional-stories.md |   59 --
+ ...a-6-types-of-user-interactions-with-business.md |   11 -
+ ...for-your-whiteboard-product-design-challenge.md |   11 -
+ test/compounding-design-expiring-design.md         |   40 -
+ test/consequentialism.md                           |  109 ---
+ test/copying-is-the-way-design-works.md            | 1030 --------------------
+ ...-easily-switchable-lightdark-styles-in-figma.md |   11 -
+ test/creating-presentations-for-stakeholders.md    |   17 -
+ test/crystal-ball-1-on-1s.md                       |   43 -
+ ...onsequential-options-close-to-benign-options.md |   11 -
+ test/datum-ipsum.md                                |   78 --
+ test/delight-comes-last.md                         |   81 --
+ test/deontology.md                                 |  119 ---
+ test/design-1.md                                   |   11 -
+ test/design-and-machine-learning.md                |   44 -
+ .../design-apis-the-evolution-of-design-systems.md |  111 ---
+ test/design-as-a-problem-solving-approach.md       |   11 -
+ test/design-better-data-tables.md                  |   77 --
+ test/design-thinking-the-learners-journey.md       |   11 -
+ test/designing-with-code.md                        |   66 --
+ test/engagement-is-an-antimetric.md                |   67 --
+ ...-the-real-world-snapchat-s-juneteenth-filter.md |  100 --
+ test/flight-crews-dont-decide-where-to-fly.md      |   54 -
+ test/four-articles-for-a-new-year.md               |   33 -
+ ...h-journey-mapping-27-tips-from-practitioners.md |   11 -
+ test/goldilocks-your-graphs.md                     |   42 -
+ ...mation-and-collaboration-tips-with-nick-hahn.md |   11 -
+ test/hibernation-and-innovation.md                 |   16 -
+ ...-get-the-best-design-feedback-from-your-team.md |   95 --
+ ...ating-participants-in-ux-workshops-3-tactics.md |   11 -
+ test/how-to-have-more-inclusive-meetings.md        |   70 --
+ test/how-to-make-big-changes-one-step-at-a-time.md |   87 --
+ test/how-to-take-your-teams-creative-pulse.md      |  370 -------
+ test/how-to-test-content-with-users.md             |   11 -
+ test/inclusive-design-on-the-tokyo-subway.md       |   70 --
+ .../internal-vs-external-validity-of-ux-studies.md |   11 -
+ ...-based-tasks-learning-from-leonardo-dicaprio.md |   56 --
+ test/intuition-vs-data.md                          |  153 ---
+ test/just-in-time-design.md                        |   54 -
+ test/know-thyself.md                               |   68 --
+ test/learning-how-to-see.md                        |   71 --
+ test/learning-webflow-the-definitive-guide.md      |   11 -
+ ...tream-ecommerce-what-we-can-learn-from-china.md |   11 -
+ ...nd-adhere-to-standards-usability-heuristic-4.md |   11 -
+ test/make-it-til-you-make-it.md                    |   15 -
+ ...waveform-visualizer-with-vanilla-java-script.md |   11 -
+ test/making-meaningful-business-propositions.md    |   17 -
+ test/making-wsj-com-more-accessible.md             |   76 --
+ test/mapping-user-stories-in-agile.md              |   11 -
+ ...d-the-gap-designing-graphs-with-missing-data.md |   56 --
+ ...ages-within-the-product-details-page-26-dont.md |  382 --------
+ test/my-favorite-job-interview-question.md         |   56 --
+ test/my-management-philosophy.md                   |   45 -
+ test/navigating-design-career-with-design-okrs.md  |   11 -
+ test/optimize-for-learning.md                      |   37 -
+ test/people-alignment-vs-purpose-alignment.md      |   73 --
+ test/potential-dangers-of-becoming-data-driven.md  |   19 -
+ test/practice-makes-perfect.md                     |   18 -
+ ...-is-a-lifeline-for-struggling-design-systems.md |   65 --
+ ...parel-and-cosmetic-products-on-a-human-model.md |  320 ------
+ test/quantifying-ux-improvements-a-case-study.md   |   11 -
+ test/really-bad-design-exercises.md                |   96 --
+ test/regionalizing-your-mobile-designs-part-2.md   |   20 -
+ test/remote-design-work-top-challenges.md          |   11 -
+ test/research-empathy-simplicity-speed.md          |   35 -
+ test/responsive-roadmaps.md                        |  120 ---
+ ...when-returning-from-the-product-page-13-dont.md |  280 ------
+ test/shifting-our-team-goals-to-be-ux-outcomes.md  |   49 -
+ test/switching-to-variable-fonts.md                |  207 ----
+ test/taking-credit-for-success.md                  |   20 -
+ test/the-1-hour-design-principles-workshop.md      |  160 ---
+ test/the-design-system-you-already-have.md         |   25 -
+ test/the-hand-and-the-brain.md                     |   37 -
+ ...he-inevitable-same-ification-of-the-internet.md |   66 --
+ ...the-management-strategy-that-saved-apollo-11.md |   55 --
+ test/the-paradox-at-the-heart-of-ab-testing.md     |   67 --
+ test/the-role-of-doubt-in-design.md                |  110 ---
+ test/the-service-based-design-org.md               |   76 --
+ test/the-slippery-slope-of-in-product-messaging.md |   54 -
+ test/the-things-of-everyday-design.md              |   81 --
+ test/the-unexamined-life.md                        |   84 --
+ ...centered-on-maturing-ux-in-your-organization.md |   27 -
+ test/tiny-data-visualizations.md                   |   48 -
+ test/towards-better-creative-feedback.md           |   65 --
+ ...esearch-results-by-using-multiple-ux-methods.md |   11 -
+ ...standing-gender-and-racial-bias-in-ai-part-3.md |   17 -
+ ...ng-mobile-e-commerce-ux-5-overarching-issues.md |  489 ----------
+ ...dervaluing-user-research-is-a-deadly-disease.md |   64 --
+ ...we-questions-to-ideate-on-the-right-problems.md |   11 -
+ ...ing-netlify-to-build-an-email-sign-up-widget.md |   11 -
+ .../ux-conference-april-announced-apr-17-apr-23.md |   11 -
+ test/ux-conference-may-announced-may-15-may-21.md  |   11 -
+ ...hiring-lets-talk-about-comparable-experience.md |   84 --
+ ...ng-the-performance-profile-is-a-game-changer.md |   95 --
+ ...y-how-theyre-made-and-why-are-they-necessary.md |   11 -
+ test/virtue-ethics.md                              |  110 ---
+ test/visual-hierarchy-in-ux-definition.md          |   11 -
+ ...round-me-observing-icons-symbols-and-indices.md |   11 -
+ test/well-designed-interfaces-look-boring.md       |   26 -
+ test/well-fix-it-later.md                          |   33 -
+ ...-shows-us-about-the-future-of-product-design.md |   11 -
+ test/what-happens-when-things-go-wrong.md          |   26 -
+ test/what-is-a-brand.md                            |   81 --
+ test/what-makes-a-good-design-principle.md         |   51 -
+ test/what-proactive-ux-research-looks-like.md      |   64 --
+ test/who-are-design-systems-for.md                 |   63 --
+ test/why-does-a-design-look-good.md                |   11 -
+ test/why-mobile-apps-need-voice-interfaces.md      |   17 -
+ test/why-the-web-will-win.md                       |  118 ---
+ ...mes-make-better-goals-than-business-outcomes.md |   37 -
+ test/working-to-work.md                            |   32 -
+ ...riting-an-effective-guide-for-a-ux-interview.md |   11 -
+ 137 files changed, 11273 deletions(-)
+ delete mode 100644 test/10-of-e-commerce-sites-have-product-descriptions-that-are-insufficient-for-users-needs.md
+ delete mode 100644 test/5-ways-to-provide-a-superior-gifting-ui-and-flow.md
+ delete mode 100644 test/6-reasons-your-touch-screen-apps-should-have-voice-capabilities.md
+ delete mode 100644 test/6-ways-to-improve-the-relevance-of-cross-sells-in-the-cart-52-of-desktop-sites-dont-do-enough.md
+ delete mode 100644 test/7-ways-clubhouse-could-be-better-from-a-listener-point-of-view.md
+ delete mode 100644 test/a-brief-guide-to-design-feedback.md
+ delete mode 100644 test/a-design-api-in-practice.md
+ delete mode 100644 test/a-website-to-call-my-own.md
+ delete mode 100644 test/aesthetic-and-minimalist-design-usability-heuristic-8.md
+ delete mode 100644 test/agile-anxiety.md
+ delete mode 100644 test/all-the-books-i-read-in-2018.md
+ delete mode 100644 test/all-the-books-i-read-in-2019.md
+ delete mode 100644 test/always-persist-users-search-queries-37-dont.md
+ delete mode 100644 test/always-use-buttons-for-size-selection-28-of-desktop-sites-dont.md
+ delete mode 100644 test/asymmetrical-symmetry.md
+ delete mode 100644 test/baymard-2020-and-2021.md
+ delete mode 100644 test/be-curious.md
+ delete mode 100644 test/better-problem-solving-unask-the-question.md
+ delete mode 100644 test/book-review-how-design-makes-the-world.md
+ delete mode 100644 test/bottom-line-up-front-write-to-make-decisions-faster.md
+ delete mode 100644 test/breaking-looms.md
+ delete mode 100644 test/care-ethics.md
+ delete mode 100644 test/case-study-learnings-from-the-design-of-an-online-education-platform.md
+ delete mode 100644 test/changing-all-the-fonts-on-wsj-com.md
+ delete mode 100644 test/collaborative-design-research.md
+ delete mode 100644 test/combining-our-ux-metrics-with-compelling-emotional-stories.md
+ delete mode 100644 test/companies-on-social-media-6-types-of-user-interactions-with-business.md
+ delete mode 100644 test/compiled-questions-for-your-whiteboard-product-design-challenge.md
+ delete mode 100644 test/compounding-design-expiring-design.md
+ delete mode 100644 test/consequentialism.md
+ delete mode 100644 test/copying-is-the-way-design-works.md
+ delete mode 100644 test/create-an-easily-switchable-lightdark-styles-in-figma.md
+ delete mode 100644 test/creating-presentations-for-stakeholders.md
+ delete mode 100644 test/crystal-ball-1-on-1s.md
+ delete mode 100644 test/dangerous-ux-consequential-options-close-to-benign-options.md
+ delete mode 100644 test/datum-ipsum.md
+ delete mode 100644 test/delight-comes-last.md
+ delete mode 100644 test/deontology.md
+ delete mode 100644 test/design-1.md
+ delete mode 100644 test/design-and-machine-learning.md
+ delete mode 100644 test/design-apis-the-evolution-of-design-systems.md
+ delete mode 100644 test/design-as-a-problem-solving-approach.md
+ delete mode 100644 test/design-better-data-tables.md
+ delete mode 100644 test/design-thinking-the-learners-journey.md
+ delete mode 100644 test/designing-with-code.md
+ delete mode 100644 test/engagement-is-an-antimetric.md
+ delete mode 100644 test/ethics-for-designers-in-the-real-world-snapchat-s-juneteenth-filter.md
+ delete mode 100644 test/flight-crews-dont-decide-where-to-fly.md
+ delete mode 100644 test/four-articles-for-a-new-year.md
+ delete mode 100644 test/getting-started-with-journey-mapping-27-tips-from-practitioners.md
+ delete mode 100644 test/goldilocks-your-graphs.md
+ delete mode 100644 test/great-design-automation-and-collaboration-tips-with-nick-hahn.md
+ delete mode 100644 test/hibernation-and-innovation.md
+ delete mode 100644 test/how-to-get-the-best-design-feedback-from-your-team.md
+ delete mode 100644 test/how-to-handle-dominating-participants-in-ux-workshops-3-tactics.md
+ delete mode 100644 test/how-to-have-more-inclusive-meetings.md
+ delete mode 100644 test/how-to-make-big-changes-one-step-at-a-time.md
+ delete mode 100644 test/how-to-take-your-teams-creative-pulse.md
+ delete mode 100644 test/how-to-test-content-with-users.md
+ delete mode 100644 test/inclusive-design-on-the-tokyo-subway.md
+ delete mode 100644 test/internal-vs-external-validity-of-ux-studies.md
+ delete mode 100644 test/interview-based-tasks-learning-from-leonardo-dicaprio.md
+ delete mode 100644 test/intuition-vs-data.md
+ delete mode 100644 test/just-in-time-design.md
+ delete mode 100644 test/know-thyself.md
+ delete mode 100644 test/learning-how-to-see.md
+ delete mode 100644 test/learning-webflow-the-definitive-guide.md
+ delete mode 100644 test/livestream-ecommerce-what-we-can-learn-from-china.md
+ delete mode 100644 test/maintain-consistency-and-adhere-to-standards-usability-heuristic-4.md
+ delete mode 100644 test/make-it-til-you-make-it.md
+ delete mode 100644 test/making-an-audio-waveform-visualizer-with-vanilla-java-script.md
+ delete mode 100644 test/making-meaningful-business-propositions.md
+ delete mode 100644 test/making-wsj-com-more-accessible.md
+ delete mode 100644 test/mapping-user-stories-in-agile.md
+ delete mode 100644 test/mind-the-gap-designing-graphs-with-missing-data.md
+ delete mode 100644 test/mobile-ux-avoid-using-subpages-within-the-product-details-page-26-dont.md
+ delete mode 100644 test/my-favorite-job-interview-question.md
+ delete mode 100644 test/my-management-philosophy.md
+ delete mode 100644 test/navigating-design-career-with-design-okrs.md
+ delete mode 100644 test/optimize-for-learning.md
+ delete mode 100644 test/people-alignment-vs-purpose-alignment.md
+ delete mode 100644 test/potential-dangers-of-becoming-data-driven.md
+ delete mode 100644 test/practice-makes-perfect.md
+ delete mode 100644 test/product-thinking-is-a-lifeline-for-struggling-design-systems.md
+ delete mode 100644 test/provide-images-of-accessory-apparel-and-cosmetic-products-on-a-human-model.md
+ delete mode 100644 test/quantifying-ux-improvements-a-case-study.md
+ delete mode 100644 test/really-bad-design-exercises.md
+ delete mode 100644 test/regionalizing-your-mobile-designs-part-2.md
+ delete mode 100644 test/remote-design-work-top-challenges.md
+ delete mode 100644 test/research-empathy-simplicity-speed.md
+ delete mode 100644 test/responsive-roadmaps.md
+ delete mode 100644 test/return-users-to-the-same-place-in-the-product-list-when-returning-from-the-product-page-13-dont.md
+ delete mode 100644 test/shifting-our-team-goals-to-be-ux-outcomes.md
+ delete mode 100644 test/switching-to-variable-fonts.md
+ delete mode 100644 test/taking-credit-for-success.md
+ delete mode 100644 test/the-1-hour-design-principles-workshop.md
+ delete mode 100644 test/the-design-system-you-already-have.md
+ delete mode 100644 test/the-hand-and-the-brain.md
+ delete mode 100644 test/the-inevitable-same-ification-of-the-internet.md
+ delete mode 100644 test/the-management-strategy-that-saved-apollo-11.md
+ delete mode 100644 test/the-paradox-at-the-heart-of-ab-testing.md
+ delete mode 100644 test/the-role-of-doubt-in-design.md
+ delete mode 100644 test/the-service-based-design-org.md
+ delete mode 100644 test/the-slippery-slope-of-in-product-messaging.md
+ delete mode 100644 test/the-things-of-everyday-design.md
+ delete mode 100644 test/the-unexamined-life.md
+ delete mode 100644 test/three-ux-articles-centered-on-maturing-ux-in-your-organization.md
+ delete mode 100644 test/tiny-data-visualizations.md
+ delete mode 100644 test/towards-better-creative-feedback.md
+ delete mode 100644 test/triangulation-get-better-research-results-by-using-multiple-ux-methods.md
+ delete mode 100644 test/understanding-gender-and-racial-bias-in-ai-part-3.md
+ delete mode 100644 test/understanding-mobile-e-commerce-ux-5-overarching-issues.md
+ delete mode 100644 test/undervaluing-user-research-is-a-deadly-disease.md
+ delete mode 100644 test/using-how-might-we-questions-to-ideate-on-the-right-problems.md
+ delete mode 100644 test/using-netlify-to-build-an-email-sign-up-widget.md
+ delete mode 100644 test/ux-conference-april-announced-apr-17-apr-23.md
+ delete mode 100644 test/ux-conference-may-announced-may-15-may-21.md
+ delete mode 100644 test/ux-hiring-lets-talk-about-comparable-experience.md
+ delete mode 100644 test/ux-hiring-the-performance-profile-is-a-game-changer.md
+ delete mode 100644 test/ux-survey-how-theyre-made-and-why-are-they-necessary.md
+ delete mode 100644 test/virtue-ethics.md
+ delete mode 100644 test/visual-hierarchy-in-ux-definition.md
+ delete mode 100644 test/visual-language-around-me-observing-icons-symbols-and-indices.md
+ delete mode 100644 test/well-designed-interfaces-look-boring.md
+ delete mode 100644 test/well-fix-it-later.md
+ delete mode 100644 test/what-google-search-shows-us-about-the-future-of-product-design.md
+ delete mode 100644 test/what-happens-when-things-go-wrong.md
+ delete mode 100644 test/what-is-a-brand.md
+ delete mode 100644 test/what-makes-a-good-design-principle.md
+ delete mode 100644 test/what-proactive-ux-research-looks-like.md
+ delete mode 100644 test/who-are-design-systems-for.md
+ delete mode 100644 test/why-does-a-design-look-good.md
+ delete mode 100644 test/why-mobile-apps-need-voice-interfaces.md
+ delete mode 100644 test/why-the-web-will-win.md
+ delete mode 100644 test/why-ux-outcomes-make-better-goals-than-business-outcomes.md
+ delete mode 100644 test/working-to-work.md
+ delete mode 100644 test/writing-an-effective-guide-for-a-ux-interview.md
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
