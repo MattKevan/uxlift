@@ -9341,3 +9341,18 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master ef1989e] Update feeds
+ 11 files changed, 533 insertions(+)
+ create mode 100644 _topics/10-best-website-builders.md
+ create mode 100644 _topics/10-lessons-that-i-find-hard-to-swallow-visualized.md
+ create mode 100644 _topics/3-things-i-learned-about-ux-this-week.md
+ create mode 100644 _topics/8-top-ux-design-courses-available-online-in-2022.md
+ create mode 100644 _topics/analytics-of-b2b-products.md
+ create mode 100644 _topics/another-5-influential-unseen-factors-that-change-the-user-experience.md
+ create mode 100644 _topics/gamification-in-product-design-uiux.md
+ create mode 100644 _topics/people-dont-read-onlinethey-scan-this-is-how-to-write-for-them.md
+ create mode 100644 _topics/why-ux-bootcamps-are-probably-a-waste-of-your-time.md
+ create mode 100644 _topics/you-should-reconsider-color-psychology.md
+To github.com:MattKevan/uxlift.git
+   81dffea..ef1989e  master -> master
+Feeds updated 10/14/2022 - 12:00:01 am BST
