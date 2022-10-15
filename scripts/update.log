@@ -9385,3 +9385,15 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 04cff6f] Update feeds
+ 8 files changed, 92 insertions(+)
+ create mode 100644 _topics/100-days-ui-design-challengepart-03.md
+ create mode 100644 _topics/6-soft-skills-to-excel-in-ux-design-with-book-list-recommendations.md
+ create mode 100644 _topics/a-day-in-the-life-of-a-ux-designer-at-a-small-company.md
+ create mode 100644 _topics/designing-in-the-open.md
+ create mode 100644 _topics/empathy-map-user-persona-and-user-flow.md
+ create mode 100644 _topics/increasing-product-value-in-5-easy-steps.md
+ create mode 100644 _topics/popular-ui-design-resources-and-not-only-for-startups-designers-and-developers.md
+To github.com:MattKevan/uxlift.git
+   ef1989e..04cff6f  master -> master
+Feeds updated 10/15/2022 - 12:00:01 am BST
