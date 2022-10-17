@@ -9461,3 +9461,17 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 1e469e1] Update feeds
+ 10 files changed, 110 insertions(+)
+ create mode 100644 _topics/5-laws-of-ux-that-bumble-follows.md
+ create mode 100644 _topics/7-ux-interview-questions-that-you-should-be-able-to-answer.md
+ create mode 100644 _topics/8-insightful-ways-to-design-engaging-terms-of-service-page.md
+ create mode 100644 _topics/language-barriers-how-we-localize-ux-content-in-asia-pacific-region.md
+ create mode 100644 _topics/models-matter-a-case-for-using-diverse-models-on-ecommerce-websites.md
+ create mode 100644 _topics/psychology-for-ux-study-guide.md
+ create mode 100644 _topics/understanding-user-pathways-in-analytics.md
+ create mode 100644 _topics/user-journey-map-6-things-to-remember-when-doing-user-journey-mapping.md
+ create mode 100644 _topics/ux-design-side-hustles-should-funnel-into-each-other.md
+To github.com:MattKevan/uxlift.git
+   094e256..1e469e1  master -> master
+Feeds updated 10/17/2022 - 12:00:01 am BST
