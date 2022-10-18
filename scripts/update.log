@@ -9504,3 +9504,20 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 05b8ae6] Update feeds
+ 13 files changed, 168 insertions(+)
+ create mode 100644 _topics/10x-content-creation-flow-for-product-designers.md
+ create mode 100644 _topics/3-ways-spotify-is-inching-toward-a-valuable-content-database.md
+ create mode 100644 _topics/5-books-on-design-classics.md
+ create mode 100644 _topics/6-reasons-not-to-use-grammarly-for-your-writing.md
+ create mode 100644 _topics/applying-the-8-golden-rules-of-user-interface-design.md
+ create mode 100644 _topics/designing-for-users-with-disabilities-10-factors-to-consider.md
+ create mode 100644 _topics/forging-successful-partnerships-with-software-developers.md
+ create mode 100644 _topics/free-design-resources-for-nonprofits.md
+ create mode 100644 _topics/how-to-design-real-business-hypotheses-with-analytical-thinking-in-5-steps.md
+ create mode 100644 _topics/my-9-favourite-pm-ux-designer-tools-hands-down-for-2022.md
+ create mode 100644 _topics/understanding-emotional-design.md
+ create mode 100644 _topics/why-developers-should-know-figma.md
+To github.com:MattKevan/uxlift.git
+   1e469e1..05b8ae6  master -> master
+Feeds updated 10/18/2022 - 12:00:02 am BST
