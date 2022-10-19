@@ -9550,3 +9550,13 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 4c6ac43] Update feeds
+ 6 files changed, 74 insertions(+)
+ create mode 100644 _topics/4-incredible-information-org-hacks-from-apple.md
+ create mode 100644 _topics/brief-considerations-on-design-topics-12-problem-definition.md
+ create mode 100644 _topics/figma-features-explained-auto-layout-variants-and-component-instances.md
+ create mode 100644 _topics/heuristic-evaluation-9-things-to-remember-when-doing-the-evaluation.md
+ create mode 100644 _topics/why-ignorance-is-the-natural-state-of-mind-for-a-ux-researcher.md
+To github.com:MattKevan/uxlift.git
+   05b8ae6..4c6ac43  master -> master
+Feeds updated 10/19/2022 - 12:00:01 am BST
