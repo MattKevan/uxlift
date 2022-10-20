@@ -9589,3 +9589,17 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master f459622] Update feeds
+ 10 files changed, 110 insertions(+)
+ create mode 100644 _topics/20-kick-ass-fonts-for-web-design.md
+ create mode 100644 _topics/4-ways-to-optimize-the-comparison-feature-for-scanning.md
+ create mode 100644 _topics/font-psychology-tricks-to-enhance-your-ux.md
+ create mode 100644 _topics/have-assertive-communication-with-a-high-degree-of-alignment-and-autonomy.md
+ create mode 100644 _topics/not-enough-subscribers-3-tips-to-help-you-gain-an-audience-faster.md
+ create mode 100644 _topics/the-5-whys-how-to-make-the-most-of-this-method.md
+ create mode 100644 _topics/the-essential-books-to-read-for-uxui-designer.md
+ create mode 100644 _topics/the-truth-about-ux-hiring.md
+ create mode 100644 _topics/weekly-ux-inspiration-websites.md
+To github.com:MattKevan/uxlift.git
+   4c6ac43..f459622  master -> master
+Feeds updated 10/20/2022 - 12:00:01 am BST
