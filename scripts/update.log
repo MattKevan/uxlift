@@ -9632,3 +9632,20 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 8672011] Update feeds
+ 13 files changed, 137 insertions(+)
+ create mode 100644 _topics/7-ai-powered-figma-plugins-that-will-give-you-an-unfair-advantage-as-a-product-designer.md
+ create mode 100644 _topics/7-practical-colour-principles-for-designing-app-interfaces.md
+ create mode 100644 _topics/how-ai-like-dall-e-2-will-forever-change-the-world-of-ux-design.md
+ create mode 100644 _topics/how-airbnb-approaches-design.md
+ create mode 100644 _topics/how-to-create-a-design-system-in-notion-that-works-for-you.md
+ create mode 100644 _topics/how-to-create-a-ux-design-portfolio-tips-examples-to-help-you-stand-out.md
+ create mode 100644 _topics/landing-your-first-ux-job.md
+ create mode 100644 _topics/psychological-flexibility-and-how-it-will-make-you-a-better-designer.md
+ create mode 100644 _topics/the-best-design-is-the-one-that-gets-built.md
+ create mode 100644 _topics/the-so-what-methodology-to-improve-your-design-portfolio.md
+ create mode 100644 _topics/uxui-guide-empty-states.md
+ create mode 100644 _topics/why-were-breaking-up-with-css-in-js.md
+To github.com:MattKevan/uxlift.git
+   f459622..8672011  master -> master
+Feeds updated 10/21/2022 - 12:00:02 am BST
