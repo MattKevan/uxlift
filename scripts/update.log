@@ -9678,3 +9678,15 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 1e13ae1] Update feeds
+ 8 files changed, 92 insertions(+)
+ create mode 100644 _topics/5-tips-to-master-your-ux-portfolio-presentation.md
+ create mode 100644 _topics/an-introduction-to-express-and-in-depth-interviews-for-financial-products.md
+ create mode 100644 _topics/cross-functional-retrospectives.md
+ create mode 100644 _topics/how-to-instantly-motivate-your-design-team-out-of-a-creative-blockpart-1.md
+ create mode 100644 _topics/lets-talk-about-web-components.md
+ create mode 100644 _topics/mobile-design-in-2022-2023.md
+ create mode 100644 _topics/why-you-should-get-rid-of-folders-right-now.md
+To github.com:MattKevan/uxlift.git
+   8672011..1e13ae1  master -> master
+Feeds updated 10/22/2022 - 12:00:01 am BST
