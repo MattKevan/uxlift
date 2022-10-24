@@ -9759,3 +9759,13 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 	from feeds.rb:56:in `block in <main>'
 	from feeds.rb:51:in `each'
 	from feeds.rb:51:in `<main>'
+[master b575dd8] Update feeds
+ 6 files changed, 79 insertions(+)
+ create mode 100644 _topics/increasing-the-conversion-based-on-the-fogg-behavior-model.md
+ create mode 100644 _topics/stakeholder-interviews-101.md
+ create mode 100644 _topics/translate-user-generated-content-for-global-audiences.md
+ create mode 100644 _topics/wireframing-8-pro-tips-for-designers.md
+ create mode 100644 _topics/your-hand-as-a-mouseexploring-hand-gesture-interaction-1.md
+To github.com:MattKevan/uxlift.git
+   9e1dbc9..b575dd8  master -> master
+Feeds updated 10/24/2022 - 12:00:01 am BST
