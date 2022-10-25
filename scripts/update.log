@@ -9798,3 +9798,20 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 97dac64] Update feeds
+ 13 files changed, 137 insertions(+)
+ create mode 100644 _topics/4-writing-crimes-every-ux-writer-should-never-do.md
+ create mode 100644 _topics/40-figma-plugins-you-should-know-about-for-your-next-project.md
+ create mode 100644 _topics/8-key-soft-skills-to-succeed-for-ux-designer.md
+ create mode 100644 _topics/9-frictions-in-freemium-music-apps.md
+ create mode 100644 _topics/atomic-design-and-the-future-of-design-systems-with-brad-frost-podrocket.md
+ create mode 100644 _topics/fundamentals-of-ux-design.md
+ create mode 100644 _topics/how-likely-is-it-that-the-next-visitor-will-find-your-app-easy-to-use.md
+ create mode 100644 _topics/how-to-instantly-motivate-your-design-team-out-of-a-creative-blockpart-2.md
+ create mode 100644 _topics/how-working-remotely-improved-my-self-confidence-as-a-design-director.md
+ create mode 100644 _topics/layout-in-app-designin-10-minutes.md
+ create mode 100644 _topics/the-component-gallery.md
+ create mode 100644 _topics/why-spotify-offers-a-premium-mini-subscription.md
+To github.com:MattKevan/uxlift.git
+   b575dd8..97dac64  master -> master
+Feeds updated 10/25/2022 - 12:00:01 am BST
