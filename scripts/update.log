@@ -9844,3 +9844,12 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 66b19ab] Update feeds
+ 5 files changed, 65 insertions(+)
+ create mode 100644 _topics/european-sites-updated-ux-benchmark-with-over-4950-performance-scores-and-4100-best-practice-examples.md
+ create mode 100644 _topics/the-case-for-bereal.md
+ create mode 100644 _topics/ubereats-smart-design.md
+ create mode 100644 _topics/using-vr-to-record-better-remote-user-in-depth-interviews.md
+To github.com:MattKevan/uxlift.git
+   97dac64..66b19ab  master -> master
+Feeds updated 10/26/2022 - 12:00:01 am BST
