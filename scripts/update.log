@@ -9882,3 +9882,15 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 9e8d63d] Update feeds
+ 8 files changed, 92 insertions(+)
+ create mode 100644 _topics/8-tips-to-become-a-better-product-designer.md
+ create mode 100644 _topics/a-designers-true-rival.md
+ create mode 100644 _topics/how-do-the-live-activities-and-dynamic-island-feature-in-ios-16-lend-themselves-to-m-indicator.md
+ create mode 100644 _topics/how-notion-grows.md
+ create mode 100644 _topics/learn-ui-design-series-color.md
+ create mode 100644 _topics/must-have-graphic-design-resources-in-2022part-2.md
+ create mode 100644 _topics/psychology-for-designpart-1.md
+To github.com:MattKevan/uxlift.git
+   66b19ab..9e8d63d  master -> master
+Feeds updated 10/27/2022 - 12:00:01 am BST
