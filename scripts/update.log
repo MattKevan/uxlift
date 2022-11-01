@@ -10034,3 +10034,16 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 04f81e6] Update feeds
+ 9 files changed, 101 insertions(+)
+ create mode 100644 _topics/5-visual-treatments-that-improve-accessibility.md
+ create mode 100644 _topics/7-productivity-tips-for-designers-to-become-more-efficient.md
+ create mode 100644 _topics/finally-i-found-it-welcome-tana.md
+ create mode 100644 _topics/generative-art-open-graph-preview-images.md
+ create mode 100644 _topics/hostile-patterns-in-error-messages.md
+ create mode 100644 _topics/prototyping-guide-for-designers.md
+ create mode 100644 _topics/uiux-design-youtubes-new-ambient-mode.md
+ create mode 100644 _topics/ux-research-never-ask-this-question.md
+To github.com:MattKevan/uxlift.git
+   816f1ac..04f81e6  master -> master
+Feeds updated 10/31/2022 - 12:00:02 am GMT
