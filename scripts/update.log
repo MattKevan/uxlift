@@ -10076,3 +10076,17 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master dc073b6] Update feeds
+ 10 files changed, 110 insertions(+)
+ create mode 100644 _topics/5-second-test-in-product-design.md
+ create mode 100644 _topics/9-top-trending-typefaces-of-2022-you-dont-wanna-miss-out-on.md
+ create mode 100644 _topics/beautify-your-figma-workspace.md
+ create mode 100644 _topics/drop-downs-or-radio-buttons-never-make-this-mistake-again.md
+ create mode 100644 _topics/future-web-back-end-development-trends-for-2023.md
+ create mode 100644 _topics/the-task-that-explains-what-user-needs-really-are.md
+ create mode 100644 _topics/want-to-create-an-amazing-user-experience-dont-forget-to-write-simply.md
+ create mode 100644 _topics/what-will-product-led-design-leads-do.md
+ create mode 100644 _topics/why-spotify-uses-web-diverts-in-its-native-apps.md
+To github.com:MattKevan/uxlift.git
+   04f81e6..dc073b6  master -> master
+Feeds updated 11/01/2022 - 12:00:01 am GMT
