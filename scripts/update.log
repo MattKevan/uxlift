@@ -10119,3 +10119,20 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master ec30cdd] Update feeds
+ 13 files changed, 137 insertions(+)
+ create mode 100644 _topics/40-cracking-books-to-read-for-all-ux-designers.md
+ create mode 100644 _topics/7-high-value-design-resources-that-i-bet-you-didnt-know-about.md
+ create mode 100644 _topics/aha-moment-what-is-it-and-why-should-every-product-have-it.md
+ create mode 100644 _topics/brief-considerations-on-design-topics-13-consistency.md
+ create mode 100644 _topics/case-study-improving-the-search-experience-of-an-online-marketplace.md
+ create mode 100644 _topics/challenge-accepted.md
+ create mode 100644 _topics/design-system-roi-calculator.md
+ create mode 100644 _topics/e-commerce-accessibility-specifying-ui-elements-using-roles.md
+ create mode 100644 _topics/how-to-get-your-first-job-in-ux-design.md
+ create mode 100644 _topics/how-to-win-and-influence-people-with-text.md
+ create mode 100644 _topics/information-architecture-for-app-designin-15-mins.md
+ create mode 100644 _topics/the-future-of-twitters-ux.md
+To github.com:MattKevan/uxlift.git
+   dc073b6..ec30cdd  master -> master
+Feeds updated 11/02/2022 - 12:00:01 am GMT
