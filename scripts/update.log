@@ -10165,3 +10165,15 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master eb67d55] Update feeds
+ 8 files changed, 92 insertions(+)
+ create mode 100644 _topics/15-amazing-app-designs-for-your-work-inspiration.md
+ create mode 100644 _topics/7-cognitive-biases-that-affect-your-design-process.md
+ create mode 100644 _topics/how-superhuman-grows.md
+ create mode 100644 _topics/how-to-solve-the-icons-colors-problem-in-figma.md
+ create mode 100644 _topics/product-design-antipatterns-memes-that-made-me-laugh.md
+ create mode 100644 _topics/the-design-of-everyday-things.md
+ create mode 100644 _topics/user-mental-models-in-product-design.md
+To github.com:MattKevan/uxlift.git
+   ec30cdd..eb67d55  master -> master
+Feeds updated 11/03/2022 - 12:00:01 am GMT
