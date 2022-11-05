@@ -10206,3 +10206,11 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 229da67] Update feeds
+ 4 files changed, 56 insertions(+)
+ create mode 100644 _topics/15-amazing-web-designs-for-your-work-inspiration.md
+ create mode 100644 _topics/installing-ai-in-obsidian-step-by-step-guide.md
+ create mode 100644 _topics/one-page-vs-multi-page-website-which-one-to-choose.md
+To github.com:MattKevan/uxlift.git
+   eb67d55..229da67  master -> master
+Feeds updated 11/04/2022 - 12:00:01 am GMT
