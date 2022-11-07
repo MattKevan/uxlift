@@ -10282,3 +10282,11 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 0b692ff] Update feeds
+ 4 files changed, 56 insertions(+)
+ create mode 100644 _topics/first-steps-to-ux-writing-for-a-product.md
+ create mode 100644 _topics/learn-ui-design-series-typography.md
+ create mode 100644 _topics/when-do-we-need-product-managers.md
+To github.com:MattKevan/uxlift.git
+   3668e52..0b692ff  master -> master
+Feeds updated 11/06/2022 - 12:00:01 am GMT
