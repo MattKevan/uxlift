@@ -10319,3 +10319,12 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 88ade22] Update feeds
+ 5 files changed, 65 insertions(+)
+ create mode 100644 _topics/4-step-product-design-portfolio-framework.md
+ create mode 100644 _topics/ballet-dancers-and-shot-putters.md
+ create mode 100644 _topics/transactional-notifications-their-characteristics-and-when-to-use-them.md
+ create mode 100644 _topics/visual-design-in-ux-study-guide.md
+To github.com:MattKevan/uxlift.git
+   0b692ff..88ade22  master -> master
+Feeds updated 11/07/2022 - 12:00:01 am GMT
