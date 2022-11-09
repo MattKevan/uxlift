@@ -10357,3 +10357,21 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 6be0dfc] Update feeds
+ 14 files changed, 183 insertions(+)
+ create mode 100644 _topics/branding-wises-card-packaging-design-patterns.md
+ create mode 100644 _topics/creating-a-productive-graphic-design-project-workflow.md
+ create mode 100644 _topics/dos-and-donts-of-sound-in-ux.md
+ create mode 100644 _topics/every-uxui-designer-should-know-these-15-websites.md
+ create mode 100644 _topics/how-does-spotifys-lyrics-color-selection-work.md
+ create mode 100644 _topics/information-architecture-design-a-step-by-step-guide.md
+ create mode 100644 _topics/introducing-the-features-of-web-3-0-sites.md
+ create mode 100644 _topics/the-super-app-experience.md
+ create mode 100644 _topics/the-value-of-qualitative-comparative-ux-research.md
+ create mode 100644 _topics/uiux-career-3-sage-proverbs.md
+ create mode 100644 _topics/updating-my-career-advice-for-user-researchers.md
+ create mode 100644 _topics/using-data-driven-analytics-to-improve-your-sites-user-experience.md
+ create mode 100644 _topics/why-agile-teams-shouldnt-be-speaking-to-users-every-week.md
+To github.com:MattKevan/uxlift.git
+   88ade22..6be0dfc  master -> master
+Feeds updated 11/08/2022 - 12:00:01 am GMT
