@@ -10404,3 +10404,13 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master ff7b6a9] Update feeds
+ 6 files changed, 74 insertions(+)
+ create mode 100644 _topics/10-figma-design-systems-to-help-you-build-products-10x-faster.md
+ create mode 100644 _topics/10-interesting-healthcare-app-ideas-for-your-next-ux-project-and-case-studies.md
+ create mode 100644 _topics/design-of-twitters-8-monthly-subscription.md
+ create mode 100644 _topics/how-to-leverage-quantitative-ux-for-your-marketing-tools-for-designers-and-marketers.md
+ create mode 100644 _topics/ux-guides-define-the-product-and-start-a-validated-learning-process.md
+To github.com:MattKevan/uxlift.git
+   6be0dfc..ff7b6a9  master -> master
+Feeds updated 11/09/2022 - 12:00:01 am GMT
