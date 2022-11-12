@@ -10469,3 +10469,19 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 52261f4] Update feeds
+ 12 files changed, 128 insertions(+)
+ create mode 100644 _topics/16-favorite-chrome-extension-in-2022.md
+ create mode 100644 _topics/7-lessons-from-famous-authors-for-ux-content-designers.md
+ create mode 100644 _topics/how-to-have-the-best-client-designer-relationship.md
+ create mode 100644 _topics/mobile-apps-new-ux-benchmark-with-over-3700-performance-scores-and-2800-best-practice-examples.md
+ create mode 100644 _topics/the-power-influence-of-words.md
+ create mode 100644 _topics/the-secret-of-turning-a-non-paid-design-customer-into-a-paid-design-customer-project.md
+ create mode 100644 _topics/uiux-career-the-left-hook-method.md
+ create mode 100644 _topics/underpromise-and-overdeliver-preventing-failed-expectations.md
+ create mode 100644 _topics/using-hicks-law-in-product-design.md
+ create mode 100644 _topics/what-are-figma-sections-and-how-to-use-them.md
+ create mode 100644 _topics/why-i-started-a-career-in-ux-design-as-a-math-major.md
+To github.com:MattKevan/uxlift.git
+   0d8e72d..52261f4  master -> master
+Feeds updated 11/11/2022 - 12:00:01 am GMT
