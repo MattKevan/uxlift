@@ -10514,3 +10514,11 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 10dbb86] Update feeds
+ 4 files changed, 56 insertions(+)
+ create mode 100644 _topics/future-document-format-or-just-markdown.md
+ create mode 100644 _topics/increasing-the-usability-of-food-delivery-boxes.md
+ create mode 100644 _topics/should-we-use-lorem-ipsum-in-product-design.md
+To github.com:MattKevan/uxlift.git
+   52261f4..10dbb86  master -> master
+Feeds updated 11/12/2022 - 12:00:01 am GMT
