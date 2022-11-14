@@ -10551,3 +10551,11 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 4191487] Update feeds
+ 4 files changed, 56 insertions(+)
+ create mode 100644 _topics/all-about-affordance-and-signifier-terms-by-don-norman-the-ux-pioneer.md
+ create mode 100644 _topics/this-is-how-words-control-your-mind.md
+ create mode 100644 _topics/why-blockchain-is-facing-lower-adoption-even-after-10-years.md
+To github.com:MattKevan/uxlift.git
+   10dbb86..4191487  master -> master
+Feeds updated 11/13/2022 - 12:00:01 am GMT
