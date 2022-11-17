@@ -10664,3 +10664,19 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master e74a1f5] Update feeds
+ 12 files changed, 128 insertions(+)
+ create mode 100644 _topics/6-more-of-the-best-design-systems-to-learn-ux-design.md
+ create mode 100644 _topics/bending-reality.md
+ create mode 100644 _topics/card-sorting-in-product-design.md
+ create mode 100644 _topics/confirmshaming-how-to-get-users-to-hate-your-product.md
+ create mode 100644 _topics/game-ux-analysis-potionomics.md
+ create mode 100644 _topics/im-building-a-community-driven-ux-dictionary-in-public.md
+ create mode 100644 _topics/the-eternal-question-how-much-effort-should-be-devoted-to-internal-applications.md
+ create mode 100644 _topics/timesaving-resources-to-improve-your-design-workflow.md
+ create mode 100644 _topics/uiux-design-trends-for-2023.md
+ create mode 100644 _topics/webflowconf-review.md
+ create mode 100644 _topics/why-human-psychology-is-the-most-important-aspect-of-ux-design.md
+To github.com:MattKevan/uxlift.git
+   8c0b1b0..e74a1f5  master -> master
+Feeds updated 11/16/2022 - 12:00:02 am GMT
