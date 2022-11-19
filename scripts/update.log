@@ -10765,3 +10765,20 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 6928960] Update feeds
+ 13 files changed, 137 insertions(+)
+ create mode 100644 _topics/a-look-at-the-chaotic-ux-updates-to-twitter-after-elon-musks-takeover.md
+ create mode 100644 _topics/have-a-view-all-option-in-the-main-navigation-at-each-level-of-the-mobile-product-catalog-only-24-get-it-right.md
+ create mode 100644 _topics/how-do-i-design-a-design-system-for-an-e-commerce-platform.md
+ create mode 100644 _topics/how-fonts-secretly-influence-your-thoughts.md
+ create mode 100644 _topics/how-to-be-a-ux-design-volunteer.md
+ create mode 100644 _topics/how-to-become-a-uxui-engineer-to-boost-your-career.md
+ create mode 100644 _topics/icons-101-not-only-for-designers.md
+ create mode 100644 _topics/layout-grid-in-design-systems.md
+ create mode 100644 _topics/learn-ui-design-series-grids.md
+ create mode 100644 _topics/the-microsoft-vs-canva-battle-which-graphic-design-app-is-best-for-you.md
+ create mode 100644 _topics/the-trend-is-here-introducing-notion-ai.md
+ create mode 100644 _topics/why-you-shouldnt-search-for-a-product-designer-at-dribbble.md
+To github.com:MattKevan/uxlift.git
+   e74a1f5..6928960  master -> master
+Feeds updated 11/18/2022 - 12:00:01 am GMT
