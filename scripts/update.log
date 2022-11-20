@@ -10811,3 +10811,11 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 88a97ea] Update feeds
+ 4 files changed, 56 insertions(+)
+ create mode 100644 _topics/6-ui-mistakes-to-avoid-a-ui-audit-of-drinkprime-app.md
+ create mode 100644 _topics/performant-mental-health.md
+ create mode 100644 _topics/ten-10-books-that-every-design-student-should-read.md
+To github.com:MattKevan/uxlift.git
+   6928960..88a97ea  master -> master
+Feeds updated 11/19/2022 - 12:00:01 am GMT
