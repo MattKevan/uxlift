@@ -10887,3 +10887,10 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 0506afe] Update feeds
+ 3 files changed, 47 insertions(+)
+ create mode 100644 _topics/the-usability-of-augmented-reality.md
+ create mode 100644 _topics/the-wizard-of-oz-method-in-ux.md
+To github.com:MattKevan/uxlift.git
+   3dc9e0b..0506afe  master -> master
+Feeds updated 11/21/2022 - 12:00:01 am GMT
