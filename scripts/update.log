@@ -10923,3 +10923,22 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 3fa3daf] Update feeds
+ 15 files changed, 187 insertions(+)
+ create mode 100644 _topics/4-mobile-must-haves-for-a-modern-ux-design-strategy.md
+ create mode 100644 _topics/7-best-figma-plugins-for-ux-writersboost-your-impact.md
+ create mode 100644 _topics/best-free-tools-for-setting-up-a-continuous-research-practice.md
+ create mode 100644 _topics/how-do-i-plan-the-design-process-for-complex-products.md
+ create mode 100644 _topics/how-i-created-the-design-language-system.md
+ create mode 100644 _topics/incorporating-accessible-design-elements-into-your-web-site.md
+ create mode 100644 _topics/lazarev-agency-of-ukraine-receives-red-dot-design-award.md
+ create mode 100644 _topics/lean-ux-fast-efficient-and-collaborative-process-for-startups-that-captivates-the-ux-design-world.md
+ create mode 100644 _topics/playing-the-guitar-made-me-a-better-designer.md
+ create mode 100644 _topics/top-10-ux-videos-of-all-time.md
+ create mode 100644 _topics/using-analog-ux-strategy-tools.md
+ create mode 100644 _topics/ux-conference-may-announced-may-1-may-5.md
+ create mode 100644 _topics/why-data-analytics-is-our-design-team-morning-routine-at-lydia-a-3-steps-story.md
+ create mode 100644 _topics/youtube-kills-your-career.md
+To github.com:MattKevan/uxlift.git
+   0506afe..3fa3daf  master -> master
+Feeds updated 11/22/2022 - 12:00:01 am GMT
