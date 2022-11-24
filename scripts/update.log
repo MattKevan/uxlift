@@ -10971,3 +10971,14 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 64790da] Update feeds
+ 7 files changed, 83 insertions(+)
+ create mode 100644 _topics/b2b-medical-pharma-sites-new-ux-benchmark-with-over-4500-performance-scores-and-3500-best-practice-examples.md
+ create mode 100644 _topics/how-intercom-grows.md
+ create mode 100644 _topics/the-most-inhuman-blog-ever.md
+ create mode 100644 _topics/wah-wah-watson-with-herbie-hancock-1976-live-video-hang-up-your-hang-ups.md
+ create mode 100644 _topics/what-to-do-when-everyone-looks-to-you.md
+ create mode 100644 _topics/working-on-your-product-flow-with-search-types-in-mind.md
+To github.com:MattKevan/uxlift.git
+   3fa3daf..64790da  master -> master
+Feeds updated 11/23/2022 - 12:00:02 am GMT
