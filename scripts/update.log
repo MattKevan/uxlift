@@ -11049,3 +11049,18 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 1e7ffc23] Update feeds
+ 11 files changed, 119 insertions(+)
+ create mode 100644 _topics/20-designers-i-follow-on-instagram.md
+ create mode 100644 _topics/7-mind-blowing-plugins-that-won-the-2022-figma-community-awards.md
+ create mode 100644 _topics/captivating-design-of-the-mercury-fintech-app.md
+ create mode 100644 _topics/design-system-from-scratch-episode-2-components.md
+ create mode 100644 _topics/dont-give-away-the-goal-of-the-research.md
+ create mode 100644 _topics/good-uiux-designers-know-most-of-these-7-isometric-figma-plugins.md
+ create mode 100644 _topics/how-to-work-from-home-and-stay-sa.md
+ create mode 100644 _topics/wellbeing-centred-design.md
+ create mode 100644 _topics/what-the-unstable-future-holds-for-ux-designits-good-news.md
+ create mode 100644 _topics/why-apple-will-combine-ipad-and-mac-but-not-ipados-and-macos.md
+To github.com:MattKevan/uxlift.git
+   4775efbb..1e7ffc23  master -> master
+Feeds updated 11/25/2022 - 12:00:01 am GMT
