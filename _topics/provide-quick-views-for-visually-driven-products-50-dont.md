@@ -1,5 +1,5 @@
 ---
-title: "Provide "Quick Views" for Visually Driven Products (50% Don’t)"
+title: "Provide Quick Views for Visually Driven Products (50% Don’t)"
 date: 2022-08-09 11:20:00 +0200
 dateadded: 2022-08-10 00:02:47 +0100
 description: ""
