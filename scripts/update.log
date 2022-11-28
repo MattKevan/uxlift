@@ -11128,3 +11128,15 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 24563977] Update feeds
+ 8 files changed, 92 insertions(+)
+ create mode 100644 _topics/avoiding-bias-in-user-research.md
+ create mode 100644 _topics/communication-with-clients-and-personal-borders.md
+ create mode 100644 _topics/good-enough-applied-typography-in-ui-design-part-1.md
+ create mode 100644 _topics/how-do-i-design-a-landing-page-for-an-e-commerce-platform.md
+ create mode 100644 _topics/learn-ui-design-series-alignment.md
+ create mode 100644 _topics/ux-writing-files-is-ux-writing-an-underrated-job.md
+ create mode 100644 _topics/working-backward-why-it-is-a-must-have-approach-for-product-designers.md
+To github.com:MattKevan/uxlift.git
+   4eec2321..24563977  master -> master
+Feeds updated 11/27/2022 - 12:00:01 am GMT
