@@ -11169,3 +11169,10 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 3a5ba09e] Update feeds
+ 3 files changed, 47 insertions(+)
+ create mode 100644 _topics/three-pillars-of-user-delight.md
+ create mode 100644 _topics/why-and-how-to-use-demographics-in-ux.md
+To github.com:MattKevan/uxlift.git
+   24563977..3a5ba09e  master -> master
+Feeds updated 11/28/2022 - 12:00:01 am GMT
