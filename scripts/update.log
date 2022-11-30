@@ -11209,3 +11209,20 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master acb34276] Update feeds
+ 13 files changed, 141 insertions(+)
+ create mode 100644 _topics/5-techniques-for-effective-user-onboarding.md
+ create mode 100644 _topics/designing-great-ai-productseffective-collaboration-for-designers.md
+ create mode 100644 _topics/friction-in-the-design-process.md
+ create mode 100644 _topics/how-can-ai-help-deal-with-the-4-limitations-of-human-evaluation-in-museums-experience-design.md
+ create mode 100644 _topics/how-i-went-from-charging-20-to-2000-for-a-logo-design.md
+ create mode 100644 _topics/how-to-design-the-best-landing-page-website.md
+ create mode 100644 _topics/how-to-write-a-good-error-message-a-ux-writers-guide.md
+ create mode 100644 _topics/psychology-for-product-designpart-2.md
+ create mode 100644 _topics/still-cant-get-a-ux-job-give-up.md
+ create mode 100644 _topics/these-three-exercises-will-help-you-improve-your-figma-skills.md
+ create mode 100644 _topics/ux-conference-march-announced-mar-13-mar-24.md
+ create mode 100644 _topics/why-youre-not-getting-that-ux-job.md
+To github.com:MattKevan/uxlift.git
+   db3c8b1b..acb34276  master -> master
+Feeds updated 11/29/2022 - 12:00:01 am GMT
