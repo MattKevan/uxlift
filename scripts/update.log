@@ -11255,3 +11255,19 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 2e5141b2] Update feeds
+ 12 files changed, 128 insertions(+)
+ create mode 100644 _topics/4-ways-to-become-a-great-uiux-designer-without-a-degree.md
+ create mode 100644 _topics/am-i-doing-the-right-thing.md
+ create mode 100644 _topics/avoid-unnecessarily-complex-password-creation-requirements-82-dont.md
+ create mode 100644 _topics/case-study-optimizing-your-home-office-experience.md
+ create mode 100644 _topics/do-not-bore-your-users-a-ux-writers-guide.md
+ create mode 100644 _topics/how-i-got-hired-as-a-uiux-designer-with-no-experience.md
+ create mode 100644 _topics/how-to-write-an-effective-subscribe-to-newsletter-message-a-ux-writers-guide.md
+ create mode 100644 _topics/steal-my-strategy-to-get-your-first-client-without-a-design-portfolio.md
+ create mode 100644 _topics/uiux-development-for-a-crypto-platform-making-complex-things-accessible-with-design.md
+ create mode 100644 _topics/what-have-in-common-tupac-songs-and-ux-design.md
+ create mode 100644 _topics/what-is-human-factors.md
+To github.com:MattKevan/uxlift.git
+   acb34276..2e5141b2  master -> master
+Feeds updated 11/30/2022 - 12:00:01 am GMT
