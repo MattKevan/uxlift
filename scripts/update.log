@@ -11300,3 +11300,12 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 2b803bac] Update feeds
+ 5 files changed, 65 insertions(+)
+ create mode 100644 _topics/10-mind-blowing-figma-plugins-for-ux-designers.md
+ create mode 100644 _topics/how-video-games-can-develop-your-ux-design-skills.md
+ create mode 100644 _topics/results-of-the-research-of-project-and-knowledge-management-tools.md
+ create mode 100644 _topics/the-dark-side-of-design2-must-read-books-to-show-you-how-design-can-go-wrong.md
+To github.com:MattKevan/uxlift.git
+   2e5141b2..2b803bac  master -> master
+Feeds updated 12/01/2022 - 12:00:01 am GMT
