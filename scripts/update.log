@@ -11338,3 +11338,10 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 3775b841] Update feeds
+ 3 files changed, 47 insertions(+)
+ create mode 100644 _topics/the-best-courses-to-help-ux-designers-explore-metaverse-technologies.md
+ create mode 100644 _topics/what-did-i-learn-from-google-ux-design-specialization.md
+To github.com:MattKevan/uxlift.git
+   2b803bac..3775b841  master -> master
+Feeds updated 12/02/2022 - 12:00:01 am GMT
