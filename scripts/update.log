@@ -11411,3 +11411,9 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 54100ae3] Update feeds
+ 2 files changed, 38 insertions(+)
+ create mode 100644 _topics/still-cant-get-a-ux-job-change-your-perspective.md
+To github.com:MattKevan/uxlift.git
+   fd831682..54100ae3  master -> master
+Feeds updated 12/04/2022 - 12:00:01 am GMT
