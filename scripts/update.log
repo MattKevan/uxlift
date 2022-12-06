@@ -11446,3 +11446,21 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 4ff65145] Update feeds
+ 14 files changed, 146 insertions(+)
+ create mode 100644 _topics/8-ai-tools-that-you-can-use-right-now-to-supercharge-your-design.md
+ create mode 100644 _topics/built-wireframes-and-low-fidelity-prototypes.md
+ create mode 100644 _topics/cgma-development-case-study-a-virtual-classroom-platform.md
+ create mode 100644 _topics/deep-dive-into-deceptive-patterns-recognize-and-avoid-disguised-ads.md
+ create mode 100644 _topics/how-to-answer-ux-job-interview-questions.md
+ create mode 100644 _topics/how-to-write-successful-transactional-emails-a-ux-writers-guide.md
+ create mode 100644 _topics/learn-ui-design-series-contrast.md
+ create mode 100644 _topics/making-type-effects-in-figma.md
+ create mode 100644 _topics/should-the-designer-manage-his-work-himself.md
+ create mode 100644 _topics/tactical-gamification-framework-in-google-maps-contribute.md
+ create mode 100644 _topics/this-kind-of-ui-will-make-you-panic.md
+ create mode 100644 _topics/ux-mapping-methods-visual-design-guide.md
+ create mode 100644 _topics/why-big-tech-nps-design-is-no-good.md
+To github.com:MattKevan/uxlift.git
+   54100ae3..4ff65145  master -> master
+Feeds updated 12/05/2022 - 12:00:01 am GMT
