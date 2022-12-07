@@ -11493,3 +11493,20 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 1a8490b1] Update feeds
+ 13 files changed, 169 insertions(+)
+ create mode 100644 _topics/12-tips-for-designing-an-ecommerce-home-page-to-increase-sales.md
+ create mode 100644 _topics/5-mac-apps-that-will-boost-your-productivity-as-a-ux-designer.md
+ create mode 100644 _topics/bad-ux-writing-5-mistakes-to-avoid.md
+ create mode 100644 _topics/building-conscious-design-systems.md
+ create mode 100644 _topics/can-smart-ux-design-support-erp-systems.md
+ create mode 100644 _topics/fatal-coffee-chat-mistakes.md
+ create mode 100644 _topics/how-we-changed-our-approach-to-localizing-the-app-and-translated-it-into-kazakh-in-4-weeks.md
+ create mode 100644 _topics/okr-and-ux-examples-and-resources.md
+ create mode 100644 _topics/scaling-ux-teams-through-researchops.md
+ create mode 100644 _topics/understanding-business-strategy-to-drive-design-impact.md
+ create mode 100644 _topics/ux-identifying-new-interaction-arrow-down-to-mute.md
+ create mode 100644 _topics/why-you-might-prefer-app-design-over-web-design.md
+To github.com:MattKevan/uxlift.git
+   4ff65145..1a8490b1  master -> master
+Feeds updated 12/06/2022 - 12:00:01 am GMT
