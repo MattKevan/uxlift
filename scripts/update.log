@@ -11539,3 +11539,20 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 37c4078e] Update feeds
+ 13 files changed, 137 insertions(+)
+ create mode 100644 _topics/10-mind-blowing-figma-plugins-for-ui-designers.md
+ create mode 100644 _topics/2022-holiday-gift-guide-for-uiux-designers-and-creatives.md
+ create mode 100644 _topics/2023-uxui-design-trends.md
+ create mode 100644 _topics/6-design-topics-to-deep-dive-into-in-202324.md
+ create mode 100644 _topics/8-uncommon-awesome-websites-to-find-uiux-design-inspiration-in-2023.md
+ create mode 100644 _topics/how-do-recommendations-in-spotifys-new-enhance-feature-work.md
+ create mode 100644 _topics/how-to-write-google-ads-that-sell-a-ux-writers-guide.md
+ create mode 100644 _topics/key-lessons-that-i-learned-while-i-was-teaching-technology-to-seniors-13.md
+ create mode 100644 _topics/microcopy-matters-the-ux-designers-guide-to-writing-better-copy.md
+ create mode 100644 _topics/still-cant-get-a-ux-job-read-this.md
+ create mode 100644 _topics/teaching-a-machine-with-teachable-machinealso-teaches-yourself-about-what-ml-is.md
+ create mode 100644 _topics/tree-testing-a-complete-guide.md
+To github.com:MattKevan/uxlift.git
+   1a8490b1..37c4078e  master -> master
+Feeds updated 12/07/2022 - 12:00:02 am GMT
