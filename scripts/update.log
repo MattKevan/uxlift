@@ -11628,3 +11628,21 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 831100ad] Update feeds
+ 14 files changed, 627 insertions(+)
+ create mode 100644 _topics/20-useful-mac-shortcuts-to-use-as-a-ux-designer.md
+ create mode 100644 _topics/3-things-about-tana-that-i-love.md
+ create mode 100644 _topics/a-year-of-new-avenues.md
+ create mode 100644 _topics/exploring-the-power-of-openai-chatgpt-for-product-designers.md
+ create mode 100644 _topics/future-of-knowledge-and-project-management.md
+ create mode 100644 _topics/learn-ui-design-series-imagery.md
+ create mode 100644 _topics/overcoming-imposter-syndrome-to-become-a-confident-product-designer.md
+ create mode 100644 _topics/personalization-pyramid-a-framework-for-designing-with-user-data.md
+ create mode 100644 _topics/revamping-the-ideabox-landing-page-project-at-digital-amoeba-pt-telkom-indonesiauiux-case-study.md
+ create mode 100644 _topics/the-future-of-ux-writing-trends-and-predictions.md
+ create mode 100644 _topics/video-interview-series-11-accessibility-and-inclusive-design-systems-with-brad-frost-skip-to-content.md
+ create mode 100644 _topics/what-is-healthcare-ux-hux-why-is-it-a-priority.md
+ create mode 100644 _topics/will-tech-layoffs-affect-the-ux-design-job-market-in-2023.md
+To github.com:MattKevan/uxlift.git
+   8867cbf6..831100ad  master -> master
+Feeds updated 12/09/2022 - 12:00:01 am GMT
