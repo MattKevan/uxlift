@@ -11675,3 +11675,15 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 27fc7212] Update feeds
+ 8 files changed, 92 insertions(+)
+ create mode 100644 _topics/4-ux-online-meetup-groups-you-should-join-now.md
+ create mode 100644 _topics/5-differences-between-ux-and-behavioural-insights.md
+ create mode 100644 _topics/5-tips-to-overcome-designers-block.md
+ create mode 100644 _topics/adding-one-button-which-directly-impact-the-business-metrics-of-dunzo.md
+ create mode 100644 _topics/artificial-intelligence-and-experience-design.md
+ create mode 100644 _topics/insights-from-reviewing-my-readers-one-hundred-and-thirty-eight-ux-portfolios.md
+ create mode 100644 _topics/select-development-case-study-an-app-for-a-vip-membership-club.md
+To github.com:MattKevan/uxlift.git
+   831100ad..27fc7212  master -> master
+Feeds updated 12/10/2022 - 12:00:01 am GMT
