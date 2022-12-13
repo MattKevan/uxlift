@@ -11750,3 +11750,12 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 7a94699d] Update feeds
+ 5 files changed, 65 insertions(+)
+ create mode 100644 _topics/future-of-electric-vehicles-in-africa.md
+ create mode 100644 _topics/its-time-we-addressed-time-zone-selectors.md
+ create mode 100644 _topics/product-ui-illustrations-in-5-steps.md
+ create mode 100644 _topics/supercharge-ux-research-by-automating-workflows-and-repetitive-tasks.md
+To github.com:MattKevan/uxlift.git
+   a5df61e7..7a94699d  master -> master
+Feeds updated 12/12/2022 - 12:00:01 am GMT
