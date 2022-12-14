@@ -11788,3 +11788,19 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 0c216185] Update feeds
+ 12 files changed, 131 insertions(+)
+ create mode 100644 _topics/briefings-e-briefs.md
+ create mode 100644 _topics/digital-transformation-under-pressure.md
+ create mode 100644 _topics/how-to-improve-your-ux-hiring-process.md
+ create mode 100644 _topics/pr-for-designers-possible-ways.md
+ create mode 100644 _topics/spotify-wrapped-clones-are-worthless.md
+ create mode 100644 _topics/the-comprehensive-guide-to-linkedin-for-ux-designers.md
+ create mode 100644 _topics/the-designer-as-an-alchemist-of-the-process.md
+ create mode 100644 _topics/the-importance-of-the-glossary-in-a-design-team.md
+ create mode 100644 _topics/top-10-free-privacy-tools-use-them-on-any-device.md
+ create mode 100644 _topics/what-does-design-have-to-do-with-politics.md
+ create mode 100644 _topics/when-you-have-to-design-for-things-that-you-knew-nothing-about.md
+To github.com:MattKevan/uxlift.git
+   7a94699d..0c216185  master -> master
+Feeds updated 12/13/2022 - 12:00:01 am GMT
