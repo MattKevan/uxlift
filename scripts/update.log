@@ -11869,3 +11869,21 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 4388dfa1] Update feeds
+ 14 files changed, 146 insertions(+)
+ create mode 100644 _topics/10-quotes-thatll-help-you-reach-your-goals.md
+ create mode 100644 _topics/15-tools-product-designers-need-to-know.md
+ create mode 100644 _topics/5-simple-steps-to-getting-started-with-design-systems.md
+ create mode 100644 _topics/6-user-research-methods-when-to-use-them.md
+ create mode 100644 _topics/buttons-and-the-baadermeinhof-phenomenon-manuel-matuzovic.md
+ create mode 100644 _topics/chatgpt-quillbot-hemingway-3-must-have-free-apps-for-every-ux-writer.md
+ create mode 100644 _topics/does-your-product-actually-need-dark-mode.md
+ create mode 100644 _topics/key-lessons-that-i-learned-while-i-was-teaching-technology-to-seniors-23.md
+ create mode 100644 _topics/launch-website-in-a-day-ultimate-workflow-with-figma-framer.md
+ create mode 100644 _topics/lessons-from-speed-build-challenge-2022.md
+ create mode 100644 _topics/not-all-deadlines-are-to-be-taken-seriously.md
+ create mode 100644 _topics/portfolio-didnt-use-it-still-got-the-job.md
+ create mode 100644 _topics/the-micromanagers-dilemma.md
+To github.com:MattKevan/uxlift.git
+   aae01410..4388dfa1  master -> master
+Feeds updated 12/15/2022 - 12:00:01 am GMT
