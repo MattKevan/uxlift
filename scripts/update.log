@@ -11916,3 +11916,11 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 3136333f] Update feeds
+ 4 files changed, 56 insertions(+)
+ create mode 100644 _topics/empty-states-5-practical-tips-for-designers.md
+ create mode 100644 _topics/the-power-of-putting-the-user-first-what-is-user-centered-design.md
+ create mode 100644 _topics/trapped-in-the-corporate-maze-the-stockholm-syndrome-at-work.md
+To github.com:MattKevan/uxlift.git
+   4388dfa1..3136333f  master -> master
+Feeds updated 12/16/2022 - 12:00:01 am GMT
