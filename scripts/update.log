@@ -11953,3 +11953,11 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master a18beef6] Update feeds
+ 4 files changed, 56 insertions(+)
+ create mode 100644 _topics/i-added-4800-to-my-passive-income.md
+ create mode 100644 _topics/usability-testing-tip-avoid-words-such-as-testright-or-wrong-worry-hurt.md
+ create mode 100644 _topics/why-do-you-need-ontology-in-your-company.md
+To github.com:MattKevan/uxlift.git
+   3136333f..a18beef6  master -> master
+Feeds updated 12/17/2022 - 12:00:01 am GMT
