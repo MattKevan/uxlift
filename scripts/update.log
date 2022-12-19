@@ -11990,3 +11990,14 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master e27c006e] Update feeds
+ 7 files changed, 83 insertions(+)
+ create mode 100644 _topics/10-chrome-plugins-every-uiux-designer-should-have-in-2023.md
+ create mode 100644 _topics/100-following-challenge-the-copywriters-edition-follow-for-follow.md
+ create mode 100644 _topics/get-your-first-100-followers-as-a-ux-designer-breaking-the-mould.md
+ create mode 100644 _topics/markets-that-stay-stable.md
+ create mode 100644 _topics/the-ux-of-pre-bundled-apps-on-android-phones.md
+ create mode 100644 _topics/why-fun-matters-in-ux-design.md
+To github.com:MattKevan/uxlift.git
+   a18beef6..e27c006e  master -> master
+Feeds updated 12/18/2022 - 12:00:01 am GMT
