@@ -12066,3 +12066,24 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 25546795] Update feeds
+ 17 files changed, 203 insertions(+)
+ create mode 100644 _topics/10-really-inspiring-quotes-that-uplift-my-entire-spirit-every-time-i-read-them.md
+ create mode 100644 _topics/10-unbelievable-ways-designers-can-leverage-the-true-power-of-chatgpt-in-2023.md
+ create mode 100644 _topics/all-about-usability-heuristic-1-visibility-of-system-status.md
+ create mode 100644 _topics/capturing-visitors-attention-online-7-ux-design-tips.md
+ create mode 100644 _topics/dont-fall-into-the-ux-generalist-trap.md
+ create mode 100644 _topics/expressing-ideas-through-mind-maps.md
+ create mode 100644 _topics/heuristic-evaluation-of-medium.md
+ create mode 100644 _topics/it-takes-an-ecosystem-to-make-a-smart-speaker-smart.md
+ create mode 100644 _topics/my-first-100-followers-lessons-that-i-learned.md
+ create mode 100644 _topics/say-goodbye-to-tedious-design-meetings-10-tips-to-be-more-productive.md
+ create mode 100644 _topics/the-best-ux-design-books-2023.md
+ create mode 100644 _topics/the-science-of-user-experience.md
+ create mode 100644 _topics/top-13-mobile-app-ideas-for-businesses-to-launch-in-2023.md
+ create mode 100644 _topics/want-to-become-a-digital-design-pro-learn-people-not-tools.md
+ create mode 100644 _topics/when-a-designers-spidey-sense-tingle.md
+ create mode 100644 _topics/why-im-not-leaving-my-ux-design-job.md
+To github.com:MattKevan/uxlift.git
+   0de2e908..25546795  master -> master
+Feeds updated 12/20/2022 - 12:00:01 am GMT
