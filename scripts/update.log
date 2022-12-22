@@ -12116,3 +12116,20 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master afa872ea] Update feeds
+ 13 files changed, 137 insertions(+)
+ create mode 100644 _topics/5-reasons-why-coding-skills-can-enhance-a-designers-toolkit.md
+ create mode 100644 _topics/bings-approach-to-search-engine-design-10-principles.md
+ create mode 100644 _topics/dark-patterns-in-design.md
+ create mode 100644 _topics/elevating-your-design-skills-through-interaction-design-best-practices.md
+ create mode 100644 _topics/hey-siri-build-me-a-branddebating-the-role-of-ai-in-branding.md
+ create mode 100644 _topics/how-ai-will-shatter-the-way-we-design.md
+ create mode 100644 _topics/key-lessons-that-i-learned-while-i-was-teaching-technology-to-seniors-33.md
+ create mode 100644 _topics/market-research.md
+ create mode 100644 _topics/pro-tips-to-create-an-engaging-newsletter.md
+ create mode 100644 _topics/staying-focused-6-tips-for-efficiency-in-2023.md
+ create mode 100644 _topics/uiux-design-why-we-dont-see-more-skeuomorph.md
+ create mode 100644 _topics/uiux-design-will-ai-take-your-job-in-2023.md
+To github.com:MattKevan/uxlift.git
+   25546795..afa872ea  master -> master
+Feeds updated 12/21/2022 - 12:00:01 am GMT
