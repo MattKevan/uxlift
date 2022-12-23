@@ -12162,3 +12162,9 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 6bc9db3a] Update feeds
+ 2 files changed, 38 insertions(+)
+ create mode 100644 _topics/baymard-2022-and-2023.md
+To github.com:MattKevan/uxlift.git
+   afa872ea..6bc9db3a  master -> master
+Feeds updated 12/22/2022 - 12:00:01 am GMT
