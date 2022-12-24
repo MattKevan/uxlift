@@ -12197,3 +12197,17 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 35b0b416] Update feeds
+ 10 files changed, 110 insertions(+)
+ create mode 100644 _topics/2023-reading-list.md
+ create mode 100644 _topics/7-ready-made-ui-components-to-enhance-your-apps.md
+ create mode 100644 _topics/design-tokensa-design-system-superpower.md
+ create mode 100644 _topics/how-to-use-behavioral-science-to-influence-user-behavior-in-design.md
+ create mode 100644 _topics/must-have-design-resources-in-2023-part-1.md
+ create mode 100644 _topics/the-5-best-books-i-read-in-2022-as-a-ux-designer.md
+ create mode 100644 _topics/the-8-most-interesting-apps-i-discovered-this-month.md
+ create mode 100644 _topics/uiux-career-5-reasons-why-youre-not-getting-hired.md
+ create mode 100644 _topics/youre-missing-the-magic-of-wireframing.md
+To github.com:MattKevan/uxlift.git
+   6bc9db3a..35b0b416  master -> master
+Feeds updated 12/23/2022 - 12:00:01 am GMT
