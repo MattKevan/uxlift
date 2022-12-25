@@ -12240,3 +12240,15 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 19c80b32] Update feeds
+ 8 files changed, 95 insertions(+)
+ create mode 100644 _topics/7-key-kpis-in-ux-research.md
+ create mode 100644 _topics/a-growth-mindset-the-best-new-years-resolution-you-can-make.md
+ create mode 100644 _topics/about-being-able-to-or-not-being-able-to-be-productive.md
+ create mode 100644 _topics/atomic-ux-research.md
+ create mode 100644 _topics/building-platform-products-from-conviction-to-maintenance.md
+ create mode 100644 _topics/design-feedback-101-a-beginners-guide-to-getting-it-right.md
+ create mode 100644 _topics/why-product-designers-should-learn-motion-design.md
+To github.com:MattKevan/uxlift.git
+   35b0b416..19c80b32  master -> master
+Feeds updated 12/24/2022 - 12:00:01 am GMT
