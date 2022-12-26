@@ -12281,3 +12281,10 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 8ae9a675] Update feeds
+ 3 files changed, 47 insertions(+)
+ create mode 100644 _topics/how-sound-search-technology-is-transforming-the-music-industry.md
+ create mode 100644 _topics/top-10-ux-articles-of-2022.md
+To github.com:MattKevan/uxlift.git
+   19c80b32..8ae9a675  master -> master
+Feeds updated 12/25/2022 - 12:00:01 am GMT
