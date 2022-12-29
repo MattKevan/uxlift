@@ -12400,3 +12400,18 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 9fa1f6c9] Update feeds
+ 11 files changed, 119 insertions(+)
+ create mode 100644 _topics/11-advanced-figma-tips-tricks-i-bet-you-didnt-know-about.md
+ create mode 100644 _topics/9-common-interview-questions-for-ux-designers.md
+ create mode 100644 _topics/ai-is-a-tool-not-a-replacement-digital-experience-still-relies-on-human-creativity-and-empathy.md
+ create mode 100644 _topics/an-ultimate-cheatsheet-of-figma-keyboard-shortcuts.md
+ create mode 100644 _topics/chatgpt-built-css-for-my-ux-design.md
+ create mode 100644 _topics/chatgpt-why-its-such-a-big-deal-for-all-industries-and-will-it-kill-google.md
+ create mode 100644 _topics/make-sure-what-youre-erecting-is-not-a-ux-house-of-cards.md
+ create mode 100644 _topics/proko-development-case-study-an-art-e-learning-web-platform.md
+ create mode 100644 _topics/starbucks-app-problem-one-company-multiple-apps.md
+ create mode 100644 _topics/the-role-of-ux-and-hmi-in-nasas-next-gen-space-suit-design.md
+To github.com:MattKevan/uxlift.git
+   5cab87b0..9fa1f6c9  master -> master
+Feeds updated 12/28/2022 - 12:00:01 am GMT
