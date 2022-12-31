@@ -12478,3 +12478,17 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master f34dc90d] Update feeds
+ 10 files changed, 110 insertions(+)
+ create mode 100644 _topics/23-places-to-find-ux-and-web-design-inspiration-in-2023.md
+ create mode 100644 _topics/all-about-usability-heuristic-2-match-between-the-system-and-the-real-world.md
+ create mode 100644 _topics/demystifying-chatgpt3-and-other-ai-models.md
+ create mode 100644 _topics/designing-advanced-components-and-interactions-for-complex-products.md
+ create mode 100644 _topics/job-openings-ux-specialists-designers-researchers-experienced-or-entry-level-fully-remote.md
+ create mode 100644 _topics/simple-rules-for-web-accessibility.md
+ create mode 100644 _topics/starbucks-coffee-in-the-future-how-technology-will-transform-the-way-we-drink.md
+ create mode 100644 _topics/what-product-manager-is-not.md
+ create mode 100644 _topics/will-google-search-be-disrupted-by-chatgpt.md
+To github.com:MattKevan/uxlift.git
+   e3af420c..f34dc90d  master -> master
+Feeds updated 12/30/2022 - 12:00:01 am GMT
