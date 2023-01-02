@@ -12555,3 +12555,19 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 2f843022] Update feeds
+ 12 files changed, 128 insertions(+)
+ create mode 100644 _topics/8-powerful-japanese-methods-for-improved-focus-productivity.md
+ create mode 100644 _topics/a-chat-with-ai-about-uiux-design.md
+ create mode 100644 _topics/case-study-research-sidebar-navigation.md
+ create mode 100644 _topics/design-for-the-world-of-future.md
+ create mode 100644 _topics/expanding-the-reach-of-design-tokens-how-to-use-them-in-non-ui-design.md
+ create mode 100644 _topics/meditation-and-sleep-a-match-made-in-heaven.md
+ create mode 100644 _topics/the-complex-relationship-between-adhd-and-creativity.md
+ create mode 100644 _topics/the-importance-of-inclusivity-in-ux-design.md
+ create mode 100644 _topics/touchstone-tours-a-powerful-tool-for-ux-research.md
+ create mode 100644 _topics/using-storytelling-to-enhance-your-design-work.md
+ create mode 100644 _topics/yogdaan-a-solution-for-modern-day-donations.md
+To github.com:MattKevan/uxlift.git
+   8aff1907..2f843022  master -> master
+Feeds updated 01/01/2023 - 12:00:01 am GMT
