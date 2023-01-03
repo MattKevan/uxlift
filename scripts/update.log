@@ -12600,3 +12600,10 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 4c3957b5] Update feeds
+ 3 files changed, 47 insertions(+)
+ create mode 100644 _topics/the-state-of-mobile-user-experience.md
+ create mode 100644 _topics/user-experience-quiz-2022-ux-year-in-review.md
+To github.com:MattKevan/uxlift.git
+   2f843022..4c3957b5  master -> master
+Feeds updated 01/02/2023 - 12:00:01 am GMT
