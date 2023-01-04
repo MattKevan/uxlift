@@ -12636,3 +12636,19 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 0d716153] Update feeds
+ 12 files changed, 128 insertions(+)
+ create mode 100644 _topics/23-essential-ux-writing-terms-for-2023.md
+ create mode 100644 _topics/ai-powered-personalization-in-ux-design-enhancing-the-user-experience-through-customized.md
+ create mode 100644 _topics/blockchain-in-travel-a-game-changer-for-the-industry.md
+ create mode 100644 _topics/building-a-successful-product-team.md
+ create mode 100644 _topics/new-year-new-goals.md
+ create mode 100644 _topics/stakeholder-interviewsthe-ultimate-guide-to-understand-your-clients.md
+ create mode 100644 _topics/the-design-dilemma-is-best-ux-practice-the-enemy-of-creativity.md
+ create mode 100644 _topics/the-impact-of-artificial-intelligence-on-user-experience.md
+ create mode 100644 _topics/the-process-of-crafting-a-voice-and-tone-guide-how-i-did-it-and-what-i-learned.md
+ create mode 100644 _topics/the-rise-of-decentralized-social-media-platforms.md
+ create mode 100644 _topics/why-you-should-be-picky-with-the-design-leaders-you-follow.md
+To github.com:MattKevan/uxlift.git
+   4c3957b5..0d716153  master -> master
+Feeds updated 01/03/2023 - 12:00:01 am GMT
