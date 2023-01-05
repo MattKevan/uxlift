@@ -12681,3 +12681,19 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 0d54cbc0] Update feeds
+ 12 files changed, 128 insertions(+)
+ create mode 100644 _topics/7-things-ive-understood-in-my-30s-that-i-wish-id-known-in-my-20-as-a-designer.md
+ create mode 100644 _topics/911-i-have-an-inspiration-emergency.md
+ create mode 100644 _topics/ai-generated-catalogues-for-supermarkets-improving-efficiency-and-personalization.md
+ create mode 100644 _topics/dark-patternsthe-dark-side-of-ux-design.md
+ create mode 100644 _topics/digital-product-redesign-how-and-why.md
+ create mode 100644 _topics/how-to-receive-great-design-feedback.md
+ create mode 100644 _topics/how-to-use-chatgpt-in-product-design-8-practical-examples.md
+ create mode 100644 _topics/overcategorization-of-the-product-catalog-can-lead-to-abandonment-yet-75-get-it-wrong.md
+ create mode 100644 _topics/the-upper-classunderstanding-visual-hierarchy.md
+ create mode 100644 _topics/top-10-mobile-app-trends-for-2023.md
+ create mode 100644 _topics/uncovering-the-magic-of-amazon-lens-how-image-recognition-makes-online-shopping-a-breeze.md
+To github.com:MattKevan/uxlift.git
+   0d716153..0d54cbc0  master -> master
+Feeds updated 01/04/2023 - 12:00:01 am GMT
