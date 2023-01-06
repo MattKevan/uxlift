@@ -12726,3 +12726,20 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 875b29c5] Update feeds
+ 13 files changed, 137 insertions(+)
+ create mode 100644 _topics/25-expectations-for-senior-product-designers-a-checklist.md
+ create mode 100644 _topics/3-tools-i-use-every-day-to-run-my-6-figure-design-business.md
+ create mode 100644 _topics/4-ai-tools-you-should-be-whitelisted-for-as-a-designer.md
+ create mode 100644 _topics/ar-in-design-14-key-points-to-pay-attention-to-when-creating-a-design.md
+ create mode 100644 _topics/b2b-saas-products-are-struggling-to-be-successful-can-your-ux-research-report-make-the-difference.md
+ create mode 100644 _topics/considerations-when-designing-uxui-for-foldable-mobile-devices.md
+ create mode 100644 _topics/how-to-facilitate-ux-design-workshops-with-stakeholders.md
+ create mode 100644 _topics/how-to-increase-user-engagement-on-linkedin-by-using-the-stepps-framework.md
+ create mode 100644 _topics/new-year-same-you-checklist-to-reset-at-work.md
+ create mode 100644 _topics/thank-you-next-important-questions-to-ask-when-job-interviewing.md
+ create mode 100644 _topics/the-job-market-in-the-uiux-industry-2023-challenges-and-frustrations.md
+ create mode 100644 _topics/what-ux-designers-should-learn-in-2023.md
+To github.com:MattKevan/uxlift.git
+   0d54cbc0..875b29c5  master -> master
+Feeds updated 01/05/2023 - 12:00:01 am GMT
