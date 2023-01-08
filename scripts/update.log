@@ -12806,3 +12806,18 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master b4e224d4] Update feeds
+ 11 files changed, 119 insertions(+)
+ create mode 100644 _topics/10-way-to-building-a-more-inclusive-and-accessible-world-through-innovation-and-collaboration.md
+ create mode 100644 _topics/3-step-process-for-finding-pairing-fonts-fast.md
+ create mode 100644 _topics/5-website-trends-for-2023.md
+ create mode 100644 _topics/ai-in-ui-a-2023-and-beyond.md
+ create mode 100644 _topics/breaking-down-the-ux-design-interview-process.md
+ create mode 100644 _topics/e-resumebuild-a-professional-resume-design-case-study.md
+ create mode 100644 _topics/relationship-of-product-managers-and-product-designers-why-do-you-need-each-other.md
+ create mode 100644 _topics/the-future-is-passwordless-how-biometric-authentication-and-other-innovative-techniques-are.md
+ create mode 100644 _topics/ux-career-a-word-of-caution-to-content-creators-2023.md
+ create mode 100644 _topics/why-is-metas-immersive-learning-academy-important-to-the-company.md
+To github.com:MattKevan/uxlift.git
+   35ed8681..b4e224d4  master -> master
+Feeds updated 01/07/2023 - 12:00:01 am GMT
