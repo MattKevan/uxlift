@@ -12850,3 +12850,9 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 9b185a99] Update feeds
+ 2 files changed, 38 insertions(+)
+ create mode 100644 _topics/dont-do-these-things-on-your-login-page.md
+To github.com:MattKevan/uxlift.git
+   b4e224d4..9b185a99  master -> master
+Feeds updated 01/08/2023 - 12:00:01 am GMT
