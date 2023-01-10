@@ -12885,3 +12885,10 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master db265a3b] Update feeds
+ 3 files changed, 47 insertions(+)
+ create mode 100644 _topics/how-practitioners-create-journey-maps-typical-uses-roles-and-methods.md
+ create mode 100644 _topics/personas-are-living-documents-design-them-to-evolve.md
+To github.com:MattKevan/uxlift.git
+   9b185a99..db265a3b  master -> master
+Feeds updated 01/09/2023 - 12:00:01 am GMT
