@@ -12921,3 +12921,24 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 1d93aa75] Update feeds
+ 17 files changed, 207 insertions(+)
+ create mode 100644 _topics/23-podcasts-to-listen-in-23.md
+ create mode 100644 _topics/7-principles-of-design-psychology-every-ux-designer-should-know.md
+ create mode 100644 _topics/7-purpose-driven-ux-tips-for-your-next-web-site-redesign.md
+ create mode 100644 _topics/benefits-of-the-metaverse-to-the-healthcare-industry.md
+ create mode 100644 _topics/everybody-should-be-an-uxer.md
+ create mode 100644 _topics/how-ai-and-ml-are-transforming-the-insurance-industry.md
+ create mode 100644 _topics/how-to-ab-test-your-website-for-optimal-design-and-ux.md
+ create mode 100644 _topics/how-to-generate-stunning-images-using-stable-diffusion.md
+ create mode 100644 _topics/how-to-use-notion-with-iphone-shortcuts.md
+ create mode 100644 _topics/how-ux-research-methods-and-social-media-can-work-together.md
+ create mode 100644 _topics/is-a-uxui-bootcamp-right-for-you.md
+ create mode 100644 _topics/leveraging-ai-to-enhance-ux-design-personalization-predictive-modeling-natural-language.md
+ create mode 100644 _topics/product-metrics-for-effective-digital-wellbeing-tools.md
+ create mode 100644 _topics/shhh-top-secret-guide-to-effective-stakeholder-management.md
+ create mode 100644 _topics/the-best-tool-i-have-ever-bought.md
+ create mode 100644 _topics/ui-design-inspiration-or-skills.md
+To github.com:MattKevan/uxlift.git
+   db265a3b..1d93aa75  master -> master
+Feeds updated 01/10/2023 - 12:00:01 am GMT
