@@ -12971,3 +12971,16 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 4c19da67] Update feeds
+ 9 files changed, 101 insertions(+)
+ create mode 100644 _topics/employable-designers-ship-products.md
+ create mode 100644 _topics/fight-or-flight-to-autopilot-my-search-for-meaning-as-a-creative-young-adult.md
+ create mode 100644 _topics/new-job-market-trends-for-ux-design-in-2023.md
+ create mode 100644 _topics/the-human-cost-of-the-digital-revolution.md
+ create mode 100644 _topics/the-product-organization.md
+ create mode 100644 _topics/the-state-of-web3-in-2023.md
+ create mode 100644 _topics/uiux-design-generating-assets-with-midjourney-2023.md
+ create mode 100644 _topics/use-shipping-address-as-billing-address-by-default-16-of-mobile-sites-have-implementation-issues.md
+To github.com:MattKevan/uxlift.git
+   1d93aa75..4c19da67  master -> master
+Feeds updated 01/11/2023 - 12:00:01 am GMT
