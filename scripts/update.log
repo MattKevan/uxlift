@@ -13049,3 +13049,19 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 3deeb885] Update feeds
+ 12 files changed, 128 insertions(+)
+ create mode 100644 _topics/8-skills-first-year-ux-designers-should-master.md
+ create mode 100644 _topics/demand-responsive-design-designing-apps-that-respond-to-grid-demand.md
+ create mode 100644 _topics/how-to-play-your-ui-design-with-color-palette.md
+ create mode 100644 _topics/new-digital-science-tools-uxui-for-upper-elementary-curriculum.md
+ create mode 100644 _topics/product-managers-just-say-no.md
+ create mode 100644 _topics/scarcity-psychology-and-copywriting-5-scarcity-techniques-for-conversions.md
+ create mode 100644 _topics/the-importance-of-having-a-website-disaster-recovery-plan.md
+ create mode 100644 _topics/the-truth-about-ux-design-degrees.md
+ create mode 100644 _topics/ux-philosophy-or-who-are-ux-researcher.md
+ create mode 100644 _topics/why-do-introverts-excel-as-uiux-designers-how-you-can-too.md
+ create mode 100644 _topics/why-product-managers-should-understand-the-importance-of-market-research.md
+To github.com:MattKevan/uxlift.git
+   8ba505e4..3deeb885  master -> master
+Feeds updated 01/13/2023 - 12:00:01 am GMT
