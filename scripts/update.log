@@ -13094,3 +13094,18 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master d76b635a] Update feeds
+ 11 files changed, 119 insertions(+)
+ create mode 100644 _topics/7-amazing-figma-plugins-that-will-make-your-job-easier-in-2023.md
+ create mode 100644 _topics/7-project-management-tools-for-product-designers.md
+ create mode 100644 _topics/9-tips-for-dealing-with-losing-motivation-as-a-designer.md
+ create mode 100644 _topics/an-attempt-to-enhance-user-engagement-in-treebo-app.md
+ create mode 100644 _topics/conducting-an-heuristic-evaluation.md
+ create mode 100644 _topics/how-human-nature-impacts-the-ux-process.md
+ create mode 100644 _topics/how-i-hosted-my-first-usability-test-at-a-startup.md
+ create mode 100644 _topics/product-management-101-the-product-development-process-from-idea-to-launch.md
+ create mode 100644 _topics/the-impacts-of-ai-on-uxui-design.md
+ create mode 100644 _topics/why-product-design-can-absolutely-fing-suck.md
+To github.com:MattKevan/uxlift.git
+   3deeb885..d76b635a  master -> master
+Feeds updated 01/14/2023 - 12:00:01 am GMT
