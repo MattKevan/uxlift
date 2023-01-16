@@ -13138,3 +13138,9 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master a8b24645] Update feeds
+ 2 files changed, 38 insertions(+)
+ create mode 100644 _topics/is-it-possible-to-create-an-entire-mobile-app-using-chatgpt.md
+To github.com:MattKevan/uxlift.git
+   d76b635a..a8b24645  master -> master
+Feeds updated 01/15/2023 - 12:00:01 am GMT
