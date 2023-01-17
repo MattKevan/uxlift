@@ -13173,3 +13173,20 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 54dc35e0] Update feeds
+ 13 files changed, 137 insertions(+)
+ create mode 100644 _topics/basics-of-ai-streamlining-operations-and-enhancing-efficiency.md
+ create mode 100644 _topics/blockchain-disrupting-the-music-business-a-look-at-how.md
+ create mode 100644 _topics/can-a-shy-person-become-a-good-ux-designer.md
+ create mode 100644 _topics/could-design-thinking-stop-ceo-thanos.md
+ create mode 100644 _topics/data-driven-product-design-strategy-for-business-growth.md
+ create mode 100644 _topics/groupthink-in-ux-work.md
+ create mode 100644 _topics/how-to-maintain-a-ux-portfolio-over-time.md
+ create mode 100644 _topics/mission-control-software-ux-design-patterns-benchmarking.md
+ create mode 100644 _topics/preventing-forest-fires-with-komoot-and-design-sprint.md
+ create mode 100644 _topics/the-1-killer-of-most-products-and-businesses.md
+ create mode 100644 _topics/the-importance-of-user-research-in-ux-design.md
+ create mode 100644 _topics/your-ultimate-guide-to-ux-makeovers.md
+To github.com:MattKevan/uxlift.git
+   a8b24645..54dc35e0  master -> master
+Feeds updated 01/16/2023 - 12:00:01 am GMT
