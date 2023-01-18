@@ -13219,3 +13219,20 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master ec62d851] Update feeds
+ 13 files changed, 137 insertions(+)
+ create mode 100644 _topics/10-no-code-platforms-every-uiux-designer-should-try-in-2023.md
+ create mode 100644 _topics/12-small-and-efficient-figma-tips-to-improve-your-figma-workflow.md
+ create mode 100644 _topics/2022.md
+ create mode 100644 _topics/3-things-ux-bootcamps-dont-teach-youfrom-a-ux-design-mentor.md
+ create mode 100644 _topics/building-a-product-showcase-reel.md
+ create mode 100644 _topics/create-impactful-b2b-saas-role-based-personas-template-included.md
+ create mode 100644 _topics/do-startups-really-need-a-ux-designer.md
+ create mode 100644 _topics/how-i-designed-the-portable-desk-using-design-thinking.md
+ create mode 100644 _topics/improve-your-creativity.md
+ create mode 100644 _topics/ux-conference-april-announced-apr-15-apr-21.md
+ create mode 100644 _topics/ux-design-case-study-creating-a-more-organized-experience-on-instagram.md
+ create mode 100644 _topics/vrar-or-uiux.md
+To github.com:MattKevan/uxlift.git
+   54dc35e0..ec62d851  master -> master
+Feeds updated 01/17/2023 - 12:00:01 am GMT
