@@ -13379,3 +13379,13 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master da9ffa42] Update feeds
+ 6 files changed, 74 insertions(+)
+ create mode 100644 _topics/google-news-re-thinking-usability-search-experience-content-personalisation.md
+ create mode 100644 _topics/how-designers-can-help-product-managers-drive-product-success.md
+ create mode 100644 _topics/how-the-senior-designers-i-trained-at-apple-meta-developed-faster-than-others.md
+ create mode 100644 _topics/uiux-design-niching-without-pain.md
+ create mode 100644 _topics/why-should-app-development-companies-outsource-web-design.md
+To github.com:MattKevan/uxlift.git
+   37c66643..da9ffa42  master -> master
+Feeds updated 01/21/2023 - 12:00:01 am GMT
