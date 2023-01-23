@@ -13418,3 +13418,11 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 71f06fcc] Update feeds
+ 4 files changed, 56 insertions(+)
+ create mode 100644 _topics/how-to-run-stable-diffusion.md
+ create mode 100644 _topics/how-to-use-chatgpt-for-uiux-design-25-examples.md
+ create mode 100644 _topics/paying-it-forward-with-foodpanda-for-business-allowance.md
+To github.com:MattKevan/uxlift.git
+   da9ffa42..71f06fcc  master -> master
+Feeds updated 01/22/2023 - 12:00:01 am GMT
