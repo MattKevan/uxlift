@@ -13455,3 +13455,15 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 56b1a7a0] Update feeds
+ 8 files changed, 92 insertions(+)
+ create mode 100644 _topics/10-figma-plugins-i-use-to-design-faster.md
+ create mode 100644 _topics/data-driven-ux-writing-what-is-it-and-how-do-you-do-it.md
+ create mode 100644 _topics/measuring-designops-with-the-reach-metrics-framework.md
+ create mode 100644 _topics/part-1-of-2-the-duality-of-web-user-experience-addressing-frustrations.md
+ create mode 100644 _topics/part-2-of-2-from-frustration-to-delight-transforming-the-web-user-experience.md
+ create mode 100644 _topics/ux-stakeholder-engagement-101.md
+ create mode 100644 _topics/where-the-future-of-accessibility-in-tech-is-headed.md
+To github.com:MattKevan/uxlift.git
+   71f06fcc..56b1a7a0  master -> master
+Feeds updated 01/23/2023 - 12:00:01 am GMT
