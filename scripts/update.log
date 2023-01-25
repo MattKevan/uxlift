@@ -13496,3 +13496,23 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 3ca20cd8] Update feeds
+ 16 files changed, 196 insertions(+)
+ create mode 100644 _topics/applying-the-double-diamond-model.md
+ create mode 100644 _topics/best-session-replay-software-in-2023.md
+ create mode 100644 _topics/chatgpt-overview-what-it-can-do-for-the-ux-designer.md
+ create mode 100644 _topics/designing-for-success-integrating-okrs-into-your-ux-process.md
+ create mode 100644 _topics/designing-for-users-with-dyscalculia.md
+ create mode 100644 _topics/enhancing-the-ux-of-daily-objects-app-for-aesthetic-focused-product-buyers-and.md
+ create mode 100644 _topics/framing-ux-as-an-roi-not-a-cost.md
+ create mode 100644 _topics/getting-feedback-from-the-design-team.md
+ create mode 100644 _topics/how-to-review-a-web-site.md
+ create mode 100644 _topics/lean-ux-research-checklists.md
+ create mode 100644 _topics/step-by-stepmaking-a-design-portfolio-using-figma-framer.md
+ create mode 100644 _topics/understanding-qr-code-ux-design-considerations.md
+ create mode 100644 _topics/value-of-inner-intellectual-thinking-in-the-ux-research.md
+ create mode 100644 _topics/wikipedia-got-a-ui-tweak-you-probably-failed-to-notice.md
+ create mode 100644 _topics/you-are-not-the-rick-rubin-of-design.md
+To github.com:MattKevan/uxlift.git
+   56b1a7a0..3ca20cd8  master -> master
+Feeds updated 01/24/2023 - 12:00:01 am GMT
