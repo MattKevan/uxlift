@@ -13588,3 +13588,9 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 9b3d8a74] Update feeds
+ 2 files changed, 38 insertions(+)
+ create mode 100644 _topics/7-essential-notion-templates-for-product-designers.md
+To github.com:MattKevan/uxlift.git
+   1220a833..9b3d8a74  master -> master
+Feeds updated 01/26/2023 - 12:00:01 am GMT
