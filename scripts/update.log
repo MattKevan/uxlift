@@ -13623,3 +13623,18 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 570ca29b] Update feeds
+ 11 files changed, 119 insertions(+)
+ create mode 100644 _topics/a-complete-roadmap-to-become-a-product-designer-in-2023.md
+ create mode 100644 _topics/how-i-made-the-pivot-into-ux-start-where-you-are.md
+ create mode 100644 _topics/illustration-trends-for-2023.md
+ create mode 100644 _topics/jira-ticket-structure-how-to-get-it-right.md
+ create mode 100644 _topics/lessons-in-uxui-designathons-hackathons.md
+ create mode 100644 _topics/mastering-the-art-of-wireframes-and-mockups.md
+ create mode 100644 _topics/mobile-ux-10-best-practices-that-will-help-you-improve-app-user-experience.md
+ create mode 100644 _topics/the-basics-you-need-to-know-and-understand-about-speculative-design.md
+ create mode 100644 _topics/ux-case-study-applying-chatgpt-experience-to-conversational-banking.md
+ create mode 100644 _topics/what-is-wrong-with-flag-icons-for-languages-according-to-ux-designers.md
+To github.com:MattKevan/uxlift.git
+   9b3d8a74..570ca29b  master -> master
+Feeds updated 01/27/2023 - 12:00:01 am GMT
