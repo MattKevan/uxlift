@@ -13780,3 +13780,16 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 1c5274a7] Update feeds
+ 9 files changed, 101 insertions(+)
+ create mode 100644 _topics/getting-most-out-of-your-day.md
+ create mode 100644 _topics/personal-branding-for-designers.md
+ create mode 100644 _topics/product-design-roles-that-will-take-your-career-to-the-next-level.md
+ create mode 100644 _topics/the-best-ux-design-courses-in-2023.md
+ create mode 100644 _topics/the-ultimate-chatgpt-guidance-for-designers-say-goodbye-to-tedious-tasks.md
+ create mode 100644 _topics/using-multiple-icon-packs-across-a-single-component.md
+ create mode 100644 _topics/why-being-self-taught-is-better-than-taking-a-ux-bootcamp.md
+ create mode 100644 _topics/will-designers-be-replaced-by-artificial-intelligence.md
+To github.com:MattKevan/uxlift.git
+   f61c4548..1c5274a7  master -> master
+Feeds updated 01/31/2023 - 12:00:01 am GMT
