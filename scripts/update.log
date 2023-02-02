@@ -13822,3 +13822,20 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master c8c6b3fd] Update feeds
+ 13 files changed, 137 insertions(+)
+ create mode 100644 _topics/5-ways-to-get-comfy-with-performance-reviews.md
+ create mode 100644 _topics/9-crucial-things-designers-miss-in-a-web-app-design.md
+ create mode 100644 _topics/best-practices-for-designing-empty-state-in-applications.md
+ create mode 100644 _topics/chatgpt-for-designers.md
+ create mode 100644 _topics/do-designers-unconsciously-help-big-data-to-keep-social-injustice-intact.md
+ create mode 100644 _topics/everyone-used-to-be-a-designer.md
+ create mode 100644 _topics/how-i-became-a-ux-ui-designer-in-6-months-from-scratch-my-career-change-journey.md
+ create mode 100644 _topics/my-journey-to-developing-a-figma-plugin-with-the-help-of-chatgpt.md
+ create mode 100644 _topics/navigating-the-transition-from-marketer-to-ux-writer.md
+ create mode 100644 _topics/provide-a-hover-delay-of-300500-ms-for-hover-based-drop-down-menus-60-dont.md
+ create mode 100644 _topics/researchers-grab-your-seat-at-the-table.md
+ create mode 100644 _topics/the-value-of-ux-research-is-yet-to-be-recognized.md
+To github.com:MattKevan/uxlift.git
+   1c5274a7..c8c6b3fd  master -> master
+Feeds updated 02/01/2023 - 12:00:01 am GMT
