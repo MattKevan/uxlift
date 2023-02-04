@@ -13905,3 +13905,18 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 53eb438a] Update feeds
+ 11 files changed, 119 insertions(+)
+ create mode 100644 _topics/11-best-practices-for-designing-effective-user-onboarding-experiences.md
+ create mode 100644 _topics/5-ways-ux-design-can-tackle-climate-change-issues.md
+ create mode 100644 _topics/mapping-blog-analytics-the-missing-links-on-medium.md
+ create mode 100644 _topics/optimizing-the-ux-of-a-travel-app-through-language-a-content-design-case-study.md
+ create mode 100644 _topics/simple-ways-to-make-online-content-more-accessible-and-why-it-matters.md
+ create mode 100644 _topics/step-up-your-ux-game-how-to-become-a-leader-in-a-digital-world.md
+ create mode 100644 _topics/strategy-101-for-uxui-designers.md
+ create mode 100644 _topics/the-6-best-online-courses-for-a-beginner-ux-designer-in-2023.md
+ create mode 100644 _topics/top-6-ux-trends-to-look-out-for-in-2023.md
+ create mode 100644 _topics/you-are-using-notion-wrong.md
+To github.com:MattKevan/uxlift.git
+   d449516e..53eb438a  master -> master
+Feeds updated 02/03/2023 - 12:00:01 am GMT
