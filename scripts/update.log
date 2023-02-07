@@ -14027,3 +14027,16 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master c76a1935] Update feeds
+ 9 files changed, 101 insertions(+)
+ create mode 100644 _topics/10-youtube-videos-to-help-you-improve-your-uiux-design.md
+ create mode 100644 _topics/5-ux-principles-for-designing-user-friendly-ar-experiences.md
+ create mode 100644 _topics/6-essential-ux-writing-books.md
+ create mode 100644 _topics/designing-amazing-uxui-for-voice-interfaces.md
+ create mode 100644 _topics/discovery-in-agile.md
+ create mode 100644 _topics/how-to-respond-to-a-non-designer-professional-way.md
+ create mode 100644 _topics/omnichannel-journeys-and-customer-experience-study-guide.md
+ create mode 100644 _topics/why-your-ux-portfolio-is-not-landing-you-a-job.md
+To github.com:MattKevan/uxlift.git
+   798a7c29..c76a1935  master -> master
+Feeds updated 02/06/2023 - 12:00:01 am GMT
