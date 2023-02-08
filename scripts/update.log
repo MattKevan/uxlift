@@ -14069,3 +14069,22 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 54054794] Update feeds
+ 15 files changed, 188 insertions(+)
+ create mode 100644 _topics/7-best-ai-writing-tools-for-designers.md
+ create mode 100644 _topics/a-10-point-design-critique-checklist-for-ux-designers.md
+ create mode 100644 _topics/advantages-of-power-bi-for-the-retail-sector.md
+ create mode 100644 _topics/all-about-usability-heuristic-3-user-control-and-freedom.md
+ create mode 100644 _topics/frontend-frameworks-for-web-app-development.md
+ create mode 100644 _topics/how-optimized-videos-create-a-better-user-experience.md
+ create mode 100644 _topics/how-to-land-a-job-as-a-ux-designer.md
+ create mode 100644 _topics/making-the-right-choice-how-to-select-the-perfect-font-for-your-ui.md
+ create mode 100644 _topics/must-have-documents-for-freelance-designers-how-to-make-them.md
+ create mode 100644 _topics/observation-is-the-first-step-in-the-ux-research-journey.md
+ create mode 100644 _topics/supercharge-your-ux-pursuits-with-the-dikw-framework.md
+ create mode 100644 _topics/the-impact-of-tech-and-design-on-mental-health.md
+ create mode 100644 _topics/using-chatgpt-to-document-ux-patterns-for-a-b2b-design-system.md
+ create mode 100644 _topics/ux-design-in-the-mobile-app-development-process.md
+To github.com:MattKevan/uxlift.git
+   c76a1935..54054794  master -> master
+Feeds updated 02/07/2023 - 12:00:01 am GMT
