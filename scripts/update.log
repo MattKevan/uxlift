@@ -14117,3 +14117,11 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 498f76c2] Update feeds
+ 4 files changed, 56 insertions(+)
+ create mode 100644 _topics/3-high-level-takeaways-from-1700-hours-testing-travel-tours-and-experience-booking-sites.md
+ create mode 100644 _topics/4-imageicon-generating-ai-tools-for-designers-i-tried-them-all-and-here-are-the-pros-and-cons.md
+ create mode 100644 _topics/5-books-to-help-designers-to-think-differently.md
+To github.com:MattKevan/uxlift.git
+   54054794..498f76c2  master -> master
+Feeds updated 02/08/2023 - 12:00:01 am GMT
