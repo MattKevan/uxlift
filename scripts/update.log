@@ -14195,3 +14195,12 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 7ae9a2c7] Update feeds
+ 5 files changed, 65 insertions(+)
+ create mode 100644 _topics/12-podcasts-for-every-moodfrom-pep-talks-and-rants-to-finding-love-and-building-products.md
+ create mode 100644 _topics/4-questions-i-asked-myself-before-choosing-to-invest-in-a-ux-design-bootcamp.md
+ create mode 100644 _topics/unlocking-the-power-of-roadmaps.md
+ create mode 100644 _topics/what-my-past-design-managers-taught-me-about-managing-people.md
+To github.com:MattKevan/uxlift.git
+   0d5dfffe..7ae9a2c7  master -> master
+Feeds updated 02/10/2023 - 12:00:01 am GMT
