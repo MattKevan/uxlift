@@ -14310,3 +14310,15 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 3bd8ad1d] Update feeds
+ 8 files changed, 92 insertions(+)
+ create mode 100644 _topics/a-unified-theory-of-contentpart-1.md
+ create mode 100644 _topics/designing-for-both-physical-and-digital-user-experiences.md
+ create mode 100644 _topics/onboarding-tutorials-vs-contextual-help.md
+ create mode 100644 _topics/present-roi-of-ux-to-your-stakeholders.md
+ create mode 100644 _topics/using-chatgpt-for-ux-writing.md
+ create mode 100644 _topics/when-to-use-empathy-maps-3-options.md
+ create mode 100644 _topics/why-ab-testing-pays-off.md
+To github.com:MattKevan/uxlift.git
+   55d2a31b..3bd8ad1d  master -> master
+Feeds updated 02/13/2023 - 12:00:01 am GMT
