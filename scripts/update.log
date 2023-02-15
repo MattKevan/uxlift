@@ -14351,3 +14351,10 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 413f90d4] Update feeds
+ 3 files changed, 47 insertions(+)
+ create mode 100644 _topics/ux-conference-may-announced-may-13-may-26.md
+ create mode 100644 _topics/you-kinda-want-an-orange-favicon-chris-coyier.md
+To github.com:MattKevan/uxlift.git
+   3bd8ad1d..413f90d4  master -> master
+Feeds updated 02/14/2023 - 12:00:01 am GMT
