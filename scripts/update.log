@@ -14387,3 +14387,11 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 1a78a323] Update feeds
+ 4 files changed, 56 insertions(+)
+ create mode 100644 _topics/baymard-update-new-2023-product-lists-filtering-ux-benchmark-with-over-6100-performance-scores-and-4400-best-practice-examples.md
+ create mode 100644 _topics/features-audit-template.md
+ create mode 100644 _topics/the-extremely-loud-minority-andy-bell.md
+To github.com:MattKevan/uxlift.git
+   413f90d4..1a78a323  master -> master
+Feeds updated 02/15/2023 - 12:00:01 am GMT
