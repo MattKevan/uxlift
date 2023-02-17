@@ -14424,3 +14424,18 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 5e60e54c] Update feeds
+ 11 files changed, 119 insertions(+)
+ create mode 100644 _topics/7-tools-that-you-really-need-for-a-success-project.md
+ create mode 100644 _topics/a-complete-guide-to-usability-testingwhat-is-usability-testing.md
+ create mode 100644 _topics/alleo-app-to-make-life-balance.md
+ create mode 100644 _topics/design-systems-are-slowing-down-your-design-velocity.md
+ create mode 100644 _topics/emotions-design.md
+ create mode 100644 _topics/how-to-use-chatgpt-when-working-on-design-systems-documentation.md
+ create mode 100644 _topics/shopping-cart-part-1-cart-vs-basket-vs-bag.md
+ create mode 100644 _topics/testing-components-in-storybook-in-2023.md
+ create mode 100644 _topics/types-of-people-you-work-with-as-a-product-designer.md
+ create mode 100644 _topics/what-to-do-when-you-cant-find-a-ux-related-job.md
+To github.com:MattKevan/uxlift.git
+   1a78a323..5e60e54c  master -> master
+Feeds updated 02/16/2023 - 12:00:01 am GMT
