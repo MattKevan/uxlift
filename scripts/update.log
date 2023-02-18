@@ -14468,3 +14468,20 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 2d61cc8a] Update feeds
+ 13 files changed, 137 insertions(+)
+ create mode 100644 _topics/10-magical-design-resources-i-wish-i-had-known-about-earlier-in-my-career.md
+ create mode 100644 _topics/a-better-welcome-its-time-to-ditch-ineffective-onboarding-ux.md
+ create mode 100644 _topics/heuristic-evaluation-in-ux-design.md
+ create mode 100644 _topics/how-helping-others-makes-us-better-ux-reflections-week-1.md
+ create mode 100644 _topics/iris-dont-lose-more-time-on-ecotransport.md
+ create mode 100644 _topics/only-one-thing-that-could-change-the-how-we-collaborate-forever.md
+ create mode 100644 _topics/the-case-for-flex-applications-daverupert-com.md
+ create mode 100644 _topics/the-secret-sauce-to-demonstrating-value-framing.md
+ create mode 100644 _topics/the-ux-of-the-qr-code.md
+ create mode 100644 _topics/transforming-healthcare-with-medic-doctor-app-a-case-study.md
+ create mode 100644 _topics/ultimate-guide-to-auto-layout-in-figma.md
+ create mode 100644 _topics/ux-ui-tips-a-guide-to-ux-typography.md
+To github.com:MattKevan/uxlift.git
+   5e60e54c..2d61cc8a  master -> master
+Feeds updated 02/17/2023 - 12:00:01 am GMT
