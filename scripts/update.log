@@ -14514,3 +14514,14 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master dad6214a] Update feeds
+ 7 files changed, 83 insertions(+)
+ create mode 100644 _topics/design-system-myth1-source-of-truth.md
+ create mode 100644 _topics/how-to-design-a-magical-form-wizard.md
+ create mode 100644 _topics/read-this-before-your-next-ux-project.md
+ create mode 100644 _topics/tackling-my-weight-loss-using-ux-knowledge.md
+ create mode 100644 _topics/thanks-an-event-apart.md
+ create mode 100644 _topics/what-is-a-design-system-and-why-its-so-important.md
+To github.com:MattKevan/uxlift.git
+   2d61cc8a..dad6214a  master -> master
+Feeds updated 02/18/2023 - 12:00:01 am GMT
