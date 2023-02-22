@@ -14624,3 +14624,25 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master fe48240a] Update feeds
+ 18 files changed, 214 insertions(+)
+ create mode 100644 _topics/27-tips-and-tricks-for-conducting-successful-user-research-in-the-field.md
+ create mode 100644 _topics/3-very-popular-types-of-charts-in-ui-design.md
+ create mode 100644 _topics/adapting-top-tasks-for-startups.md
+ create mode 100644 _topics/all-about-iterative-design.md
+ create mode 100644 _topics/busting-5-common-myths-about-certification-for-ux-professionals.md
+ create mode 100644 _topics/case-study-enhancing-the-balcony-experience.md
+ create mode 100644 _topics/empathy-maps-and-how-to-build-them.md
+ create mode 100644 _topics/from-pop-up-to-side-panel-exploring-the-different-types-of-shopping-carts.md
+ create mode 100644 _topics/how-to-create-a-conversion-driven-ecommerce-ux-design.md
+ create mode 100644 _topics/how-to-make-users-actually-read-your-online-content.md
+ create mode 100644 _topics/how-to-succeed-as-a-full-time-remote-worker.md
+ create mode 100644 _topics/improving-the-user-experience-of-instagram-search-to-reduce-the-session-length.md
+ create mode 100644 _topics/powering-success-through-employee-user-experiences.md
+ create mode 100644 _topics/psychology-in-ux-design-understanding-cognitive-psychology-in-ux-design.md
+ create mode 100644 _topics/the-million-dollar-ux-career-question-generalise-or-specialise.md
+ create mode 100644 _topics/the-ultimate-guide-for-product-designers-to-writing-prompts-for-chatgpt.md
+ create mode 100644 _topics/using-ar-to-make-it-easier-to-find-seats-in-the-movie-theater.md
+To github.com:MattKevan/uxlift.git
+   5feb37d8..fe48240a  master -> master
+Feeds updated 02/21/2023 - 12:00:01 am GMT
