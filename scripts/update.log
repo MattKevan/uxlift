@@ -14717,3 +14717,17 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 1accbb7d] Update feeds
+ 10 files changed, 110 insertions(+)
+ create mode 100644 _topics/30-practical-tips-for-effective-user-interface-design.md
+ create mode 100644 _topics/a-complete-guide-to-usability-testinglearn-usability-from-books.md
+ create mode 100644 _topics/always-link-to-third-party-sources-of-reviews-aggregate-ratings-awards-and-endorsements-on-tours-and-experiences-sites.md
+ create mode 100644 _topics/building-a-design-system-from-scratch.md
+ create mode 100644 _topics/fonts-i-cant-live-without-as-a-designer.md
+ create mode 100644 _topics/how-i-tripled-my-income-as-a-uiux-designer.md
+ create mode 100644 _topics/swinging-like-a-pendulum-is-a-fun-ride-but-one-day-we-need-to-settle-down.md
+ create mode 100644 _topics/the-importance-of-consistent-design-language.md
+ create mode 100644 _topics/ui-design-for-dyslexic-users.md
+To github.com:MattKevan/uxlift.git
+   5839ed54..1accbb7d  master -> master
+Feeds updated 02/23/2023 - 12:00:01 am GMT
