@@ -14760,3 +14760,19 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 055fec91] Update feeds
+ 12 files changed, 128 insertions(+)
+ create mode 100644 _topics/4-biggest-issues-with-modern-ai-tools.md
+ create mode 100644 _topics/amateur-lasse-gjertsen.md
+ create mode 100644 _topics/applying-kaizen-principles-to-your-ux-team.md
+ create mode 100644 _topics/bringing-eleven-lesson-outcomes-to-work-and-daily-life-as-a-designer.md
+ create mode 100644 _topics/design-for-sustainability-interview-with-sebastian-gier.md
+ create mode 100644 _topics/how-i-export-figma-to-webflow.md
+ create mode 100644 _topics/keys-to-success-for-a-novice-design-agency.md
+ create mode 100644 _topics/my-journey-to-redesign-a-user-friendly-fitness-app-ui-challenge.md
+ create mode 100644 _topics/redesigning-everyday-objects-a-bottle-pump.md
+ create mode 100644 _topics/the-impact-of-artificial-intelligence-on-product-design-and-the-future-of-uiux.md
+ create mode 100644 _topics/with-ai-moving-at-this-pace-we-must-focus-on-our-personal-growth-a-designers-perspective.md
+To github.com:MattKevan/uxlift.git
+   1accbb7d..055fec91  master -> master
+Feeds updated 02/24/2023 - 12:00:02 am GMT
