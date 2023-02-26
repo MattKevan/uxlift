@@ -14805,3 +14805,14 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 98875f5d] Update feeds
+ 7 files changed, 83 insertions(+)
+ create mode 100644 _topics/attending-the-acm-chi-2023-conference.md
+ create mode 100644 _topics/case-studyimproving-signup-flow-for-loyalty-app.md
+ create mode 100644 _topics/dark-ui-design11-tips-for-dark-mode-design.md
+ create mode 100644 _topics/dont-skip-the-low-fidelity-design-stage-heres-why.md
+ create mode 100644 _topics/my-top-takeaways-from-working-at-meta-ex-facebook.md
+ create mode 100644 _topics/using-chatgpt-for-user-research.md
+To github.com:MattKevan/uxlift.git
+   055fec91..98875f5d  master -> master
+Feeds updated 02/25/2023 - 12:00:01 am GMT
