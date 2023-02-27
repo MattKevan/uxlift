@@ -14850,3 +14850,52 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 To github.com:MattKevan/uxlift.git
    98875f5d..eec6d02d  master -> master
 Feeds updated 02/26/2023 - 12:00:01 am GMT
+[master d960104d] First update
+ 1 file changed, 5 insertions(+)
+Already up to date.
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+/usr/lib/ruby/2.7.0/net/protocol.rb:217:in `rbuf_fill': Net::ReadTimeout with #<TCPSocket:(closed)> (Net::ReadTimeout)
+	from /usr/lib/ruby/2.7.0/net/protocol.rb:191:in `readuntil'
+	from /usr/lib/ruby/2.7.0/net/protocol.rb:201:in `readline'
+	from /usr/lib/ruby/2.7.0/net/http/response.rb:42:in `read_status_line'
+	from /usr/lib/ruby/2.7.0/net/http/response.rb:31:in `read_new'
+	from /usr/lib/ruby/2.7.0/net/http.rb:1528:in `block in transport_request'
+	from /usr/lib/ruby/2.7.0/net/http.rb:1519:in `catch'
+	from /usr/lib/ruby/2.7.0/net/http.rb:1519:in `transport_request'
+	from /usr/lib/ruby/2.7.0/net/http.rb:1492:in `request'
+	from /usr/lib/ruby/2.7.0/open-uri.rb:352:in `block in open_http'
+	from /usr/lib/ruby/2.7.0/net/http.rb:933:in `start'
+	from /usr/lib/ruby/2.7.0/open-uri.rb:346:in `open_http'
+	from /usr/lib/ruby/2.7.0/open-uri.rb:764:in `buffer_open'
+	from /usr/lib/ruby/2.7.0/open-uri.rb:235:in `block in open_loop'
+	from /usr/lib/ruby/2.7.0/open-uri.rb:233:in `catch'
+	from /usr/lib/ruby/2.7.0/open-uri.rb:233:in `open_loop'
+	from /usr/lib/ruby/2.7.0/open-uri.rb:174:in `open_uri'
+	from /usr/lib/ruby/2.7.0/open-uri.rb:744:in `open'
+	from /usr/lib/ruby/2.7.0/open-uri.rb:50:in `open'
+	from /usr/lib/ruby/2.7.0/open-uri.rb:19:in `open'
+	from feeds.rb:56:in `block in <main>'
+	from feeds.rb:51:in `each'
+	from feeds.rb:51:in `<main>'
