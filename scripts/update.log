@@ -14899,3 +14899,10 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 	from feeds.rb:56:in `block in <main>'
 	from feeds.rb:51:in `each'
 	from feeds.rb:51:in `<main>'
+[master ad8c4d76] Update feeds
+ 3 files changed, 67 insertions(+)
+ create mode 100644 _topics/10-survey-challenges-and-how-to-avoid-them.md
+ create mode 100644 _topics/mood-boards-in-ux-how-and-why-to-use-them.md
+To github.com:MattKevan/uxlift.git
+   eec6d02d..ad8c4d76  master -> master
+Feeds updated 02/27/2023 - 12:00:01 am GMT
