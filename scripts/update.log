@@ -14935,3 +14935,19 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 5886801a] Update feeds
+ 12 files changed, 128 insertions(+)
+ create mode 100644 _topics/are-you-still-using-the-3-click-rule-in-ux-design.md
+ create mode 100644 _topics/building-a-game-mastering-gamification-principles.md
+ create mode 100644 _topics/conducting-usability-testing-tips-insights-ux-reflections-week-3.md
+ create mode 100644 _topics/creating-many-components-in-your-figma-ui-kit-can-slow-down-your-work.md
+ create mode 100644 _topics/does-writing-in-the-design-niche-worth-it.md
+ create mode 100644 _topics/how-to-improve-product-design-through-better-designer-developer-hand-off-and-collaboration.md
+ create mode 100644 _topics/list-of-ux-metrics.md
+ create mode 100644 _topics/scribble-diffusion.md
+ create mode 100644 _topics/stop-following-design-guidelines-blindly-do-this-instead.md
+ create mode 100644 _topics/ui-design-using-midjourney.md
+ create mode 100644 _topics/what-is-uiuser-interface.md
+To github.com:MattKevan/uxlift.git
+   ad8c4d76..5886801a  master -> master
+Feeds updated 02/28/2023 - 12:00:01 am GMT
