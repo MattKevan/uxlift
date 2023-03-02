@@ -14980,3 +14980,20 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 356a56ae] Update feeds
+ 13 files changed, 137 insertions(+)
+ create mode 100644 _topics/baymard-update-new-2023-homepage-category-ux-benchmark-with-over-3000-performance-scores-and-2500-best-practice-examples.md
+ create mode 100644 _topics/being-a-ux-person2.md
+ create mode 100644 _topics/bullet-points-about-mental-health.md
+ create mode 100644 _topics/collaboration-as-a-key-of-human-evolution.md
+ create mode 100644 _topics/designing-for-multilingual-users-best-practices-for-global-ux.md
+ create mode 100644 _topics/every-ux-designer-needs-to-have-these-5-soft-skills.md
+ create mode 100644 _topics/improving-the-recover-password-functionality-in-ubisofts-uplay-through-ux-research.md
+ create mode 100644 _topics/mastering-type-scale.md
+ create mode 100644 _topics/navigating-the-gray-area-how-to-handle-inconclusive-preference-tests.md
+ create mode 100644 _topics/on-pm-designer-collaboration-how-can-product-managers-better-explain-a-project-to-designers.md
+ create mode 100644 _topics/the-road-to-success-how-ux-metrics-can-help-you-create-a-user-centered-website-that-delivers.md
+ create mode 100644 _topics/understanding-your-users-a-comprehensive-guide-to-creating-effective-user-personas.md
+To github.com:MattKevan/uxlift.git
+   5886801a..356a56ae  master -> master
+Feeds updated 03/01/2023 - 12:00:01 am GMT
