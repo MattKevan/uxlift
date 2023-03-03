@@ -15026,3 +15026,19 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 353b00e9] Update feeds
+ 12 files changed, 128 insertions(+)
+ create mode 100644 _topics/7-underrated-websites-that-will-teach-you-more-than-a-50k-design-degree.md
+ create mode 100644 _topics/figma-newest-features-and-improvements-2023.md
+ create mode 100644 _topics/figmas-latest-update-brings-video-to-prototypes-enhancing-user-experience.md
+ create mode 100644 _topics/how-to-get-a-ux-design-job-with-low-to-no-experience.md
+ create mode 100644 _topics/i-connected-stable-diffusion-with-my-smartphone-camera-and-heres-what-i-learned.md
+ create mode 100644 _topics/introduction-barriers-to-justice.md
+ create mode 100644 _topics/redesigning-everyday-objects-a-door-handle.md
+ create mode 100644 _topics/team-building-activities-your-ux-team-will-actually-love.md
+ create mode 100644 _topics/ux-case-study-reimagining-australias-tourism-distribution-experience.md
+ create mode 100644 _topics/want-to-level-up-uiux-in-flutter-use-lottie-continued.md
+ create mode 100644 _topics/why-small-teams-are-the-better-ones.md
+To github.com:MattKevan/uxlift.git
+   356a56ae..353b00e9  master -> master
+Feeds updated 03/02/2023 - 12:00:01 am GMT
