@@ -15071,3 +15071,17 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master f9c6e8d8] Update feeds
+ 10 files changed, 110 insertions(+)
+ create mode 100644 _topics/devil-lies-in-the-details.md
+ create mode 100644 _topics/how-can-the-efficiency-of-design-system-be-measured.md
+ create mode 100644 _topics/my-go-to-figma-plugins-for-streamlining-design-work.md
+ create mode 100644 _topics/new-2023-homepage-category-ux-benchmark-with-3000-performance-scores-and-2500-best-practice-examples.md
+ create mode 100644 _topics/new-2023-product-lists-filtering-ux-benchmark-with-6100-performance-scores-and-4400-best-practice-examples.md
+ create mode 100644 _topics/putting-the-u-in-ux-writing-to-improve-user-experience.md
+ create mode 100644 _topics/the-disproportionate-impact-of-evil-ux-patterns-on-the-cognitively-disabled-community.md
+ create mode 100644 _topics/ux-design-is-not-going-to-save-your-career.md
+ create mode 100644 _topics/which-came-first-the-chicken-or-the-egg.md
+To github.com:MattKevan/uxlift.git
+   353b00e9..f9c6e8d8  master -> master
+Feeds updated 03/03/2023 - 12:00:01 am GMT
