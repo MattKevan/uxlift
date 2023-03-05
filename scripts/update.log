@@ -15114,3 +15114,11 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 9b302e21] Update feeds
+ 4 files changed, 56 insertions(+)
+ create mode 100644 _topics/design-by-wire.md
+ create mode 100644 _topics/design-for-digital-sustainability.md
+ create mode 100644 _topics/the-design-system-mindset.md
+To github.com:MattKevan/uxlift.git
+   f9c6e8d8..9b302e21  master -> master
+Feeds updated 03/04/2023 - 12:00:01 am GMT
