@@ -15185,3 +15185,20 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 79b24161] Update feeds
+ 13 files changed, 137 insertions(+)
+ create mode 100644 _topics/3-books-that-got-me-through-my-early-ux-career.md
+ create mode 100644 _topics/6-signs-that-make-you-stand-out-as-a-designer.md
+ create mode 100644 _topics/beyond-words-using-clickup-and-notion-to-document-and-defend-your-ux-writing-process.md
+ create mode 100644 _topics/co-design-or-it-takes-a-village-to-solve-a-problem.md
+ create mode 100644 _topics/deliver-amazing-work-by-defeating-these-three-monstersux-reflection-4.md
+ create mode 100644 _topics/experiencing-zero-ui-on-a-daily-basis.md
+ create mode 100644 _topics/livestream-ecommerce-supports-both-goal-oriented-and-impulsive-shoppers.md
+ create mode 100644 _topics/the-anatomy-of-a-good-design-an-analysis-of-4-sites.md
+ create mode 100644 _topics/the-role-of-prototyping-in-ux-design-how-to-test-your-designs.md
+ create mode 100644 _topics/this-book-from-1936-has-essential-lessons-for-ux-writers-to-thrive.md
+ create mode 100644 _topics/unlock-the-power-of-social-proof-convert-more-visitors-with-testimonials.md
+ create mode 100644 _topics/ux-and-gamification-in-duolingo.md
+To github.com:MattKevan/uxlift.git
+   ff862556..79b24161  master -> master
+Feeds updated 03/06/2023 - 12:00:01 am GMT
