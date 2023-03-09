@@ -15268,3 +15268,21 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 46fc1708] Update feeds
+ 14 files changed, 146 insertions(+)
+ create mode 100644 _topics/7-ways-to-get-started-designing-for-aiml-products.md
+ create mode 100644 _topics/ai-wont-replace-designers.md
+ create mode 100644 _topics/best-typography-practices-for-dyslexia.md
+ create mode 100644 _topics/consider-providing-intermediary-category-pages-13-dont.md
+ create mode 100644 _topics/dont-fear-the-a-i.md
+ create mode 100644 _topics/ethical-design.md
+ create mode 100644 _topics/future-proof-your-career-a-guide-to-breaking-into-uxui-design-in-2023.md
+ create mode 100644 _topics/the-balancing-act-of-assumptions-facts-in-ux.md
+ create mode 100644 _topics/the-biggest-red-flag-of-design-portfolios.md
+ create mode 100644 _topics/the-epidemic-of-meaningless-design-content.md
+ create mode 100644 _topics/things-you-should-know-before-joining-a-design-agency-or-studio.md
+ create mode 100644 _topics/think-outside-the-box-how-to-find-real-world-ui-design-inspiration-that-will-set-you-apart.md
+ create mode 100644 _topics/where-to-work-as-a-designer.md
+To github.com:MattKevan/uxlift.git
+   097977ff..46fc1708  master -> master
+Feeds updated 03/08/2023 - 12:00:01 am GMT
