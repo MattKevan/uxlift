@@ -15315,3 +15315,19 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 0bb14635] Update feeds
+ 12 files changed, 128 insertions(+)
+ create mode 100644 _topics/an-introduction-to-usability-questionnaires.md
+ create mode 100644 _topics/connecting-data-sourcesproduct-design-case-study.md
+ create mode 100644 _topics/earn-money-by-selling-your-figma-files-widgets-and-plugins-in-the-figma-community.md
+ create mode 100644 _topics/how-to-make-an-excellent-presentation-to-a-uiux-designer.md
+ create mode 100644 _topics/neat-ux-writing-tricks-i-learned-from-microsoft.md
+ create mode 100644 _topics/some-tools-to-help-me-focus.md
+ create mode 100644 _topics/supercharging-your-product-design-workflow-with-chat-gpt-and-figma.md
+ create mode 100644 _topics/tool-to-check-on-gender-equity-in-your-ux-team.md
+ create mode 100644 _topics/user-researchmy-own-experience-on-ai-startup.md
+ create mode 100644 _topics/what-is-auto-layout-in-figma-and-5-properties-to-get-you-started.md
+ create mode 100644 _topics/writing-for-everyone-a-beginners-guide-to-inclusive-ux-writing.md
+To github.com:MattKevan/uxlift.git
+   46fc1708..0bb14635  master -> master
+Feeds updated 03/09/2023 - 12:00:01 am GMT
