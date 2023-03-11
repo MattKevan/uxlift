@@ -15360,3 +15360,12 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 64246a44] Update feeds
+ 5 files changed, 65 insertions(+)
+ create mode 100644 _topics/design-hypothesis-what-why-when-where-and-why.md
+ create mode 100644 _topics/designers-advocate-for-your-work.md
+ create mode 100644 _topics/designing-side-panels-that-add-value-to-your-websites-ux.md
+ create mode 100644 _topics/my-favorite-ui-design-books-why-i-love-them.md
+To github.com:MattKevan/uxlift.git
+   0bb14635..64246a44  master -> master
+Feeds updated 03/10/2023 - 12:00:01 am GMT
