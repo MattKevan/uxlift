@@ -15398,3 +15398,10 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master ee670019] Update feeds
+ 3 files changed, 47 insertions(+)
+ create mode 100644 _topics/dark-patterns-in-privacy-an-autonomy-problem.md
+ create mode 100644 _topics/typography-study-guide-for-ux-designers.md
+To github.com:MattKevan/uxlift.git
+   64246a44..ee670019  master -> master
+Feeds updated 03/11/2023 - 12:00:01 am GMT
