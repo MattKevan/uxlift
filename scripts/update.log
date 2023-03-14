@@ -15470,3 +15470,11 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master bfe8c6dd] Update feeds
+ 4 files changed, 56 insertions(+)
+ create mode 100644 _topics/digital-interactions-in-healthcare-customer-journeys.md
+ create mode 100644 _topics/ux-conference-june-announced-jun-17-jun-23.md
+ create mode 100644 _topics/ux-strategy-study-guide.md
+To github.com:MattKevan/uxlift.git
+   f2151957..bfe8c6dd  master -> master
+Feeds updated 03/13/2023 - 12:00:01 am GMT
