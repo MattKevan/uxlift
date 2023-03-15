@@ -15507,3 +15507,18 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 53f12b5c] Update feeds
+ 11 files changed, 119 insertions(+)
+ create mode 100644 _topics/10-best-ways-to-use-chatgpt-as-a-ux-designer.md
+ create mode 100644 _topics/a-ux-design-challenge-for-child-safety-teddydefenderiot.md
+ create mode 100644 _topics/how-to-write-consistently-and-frequently.md
+ create mode 100644 _topics/microcopy-and-ux-writing.md
+ create mode 100644 _topics/redefining-developer-experience.md
+ create mode 100644 _topics/the-evolution-of-mobile-design-and-ux.md
+ create mode 100644 _topics/using-figma-for-graphic-design-the-results-aregood.md
+ create mode 100644 _topics/utilizing-evaluative-research-to-drive-user-centric-designs.md
+ create mode 100644 _topics/what-i-learned-from-writing-150-design-articles.md
+ create mode 100644 _topics/why-you-should-stop-reading-news.md
+To github.com:MattKevan/uxlift.git
+   bfe8c6dd..53f12b5c  master -> master
+Feeds updated 03/14/2023 - 12:00:01 am GMT
