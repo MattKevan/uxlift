@@ -15551,3 +15551,18 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master b1141d4d] Update feeds
+ 11 files changed, 158 insertions(+)
+ create mode 100644 _topics/16-little-ui-design-rules-that-make-a-big-impact.md
+ create mode 100644 _topics/6-ux-design-principles-for-augmented-reality-development.md
+ create mode 100644 _topics/7-common-myths-about-the-role-of-the-ux-researcher.md
+ create mode 100644 _topics/8-tips-for-making-your-custom-web-designs-mobile-friendly.md
+ create mode 100644 _topics/design-tale-how-bs-enabled-new-frontiers.md
+ create mode 100644 _topics/i-am-an-artist.md
+ create mode 100644 _topics/social-media-vlogger-growth-experiments-with-glasses.md
+ create mode 100644 _topics/the-disastrous-mistake-ux-designers-do-in-job-interviews.md
+ create mode 100644 _topics/using-ux-design-to-enhance-the-performance-of-cpq-systems.md
+ create mode 100644 _topics/what-is-the-cost-of-designing-a-mobile-app.md
+To github.com:MattKevan/uxlift.git
+   53f12b5c..b1141d4d  master -> master
+Feeds updated 03/15/2023 - 12:00:01 am GMT
