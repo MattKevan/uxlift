@@ -15639,3 +15639,15 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master b7b09f1a] Update feeds
+ 8 files changed, 92 insertions(+)
+ create mode 100644 _topics/building-a-design-system-without-a-design-system-team.md
+ create mode 100644 _topics/crafting-your-designer-portfolio.md
+ create mode 100644 _topics/neuronets-in-design.md
+ create mode 100644 _topics/some-thoughts-on-ais-impact-on-digital-design-and-development.md
+ create mode 100644 _topics/the-ux-design-case-study-that-got-me-hired.md
+ create mode 100644 _topics/why-i-stopped-chasing-a-senior-designer-promotion.md
+ create mode 100644 _topics/your-portfolios-are-boring.md
+To github.com:MattKevan/uxlift.git
+   ded9660f..b7b09f1a  master -> master
+Feeds updated 03/17/2023 - 12:00:01 am GMT
