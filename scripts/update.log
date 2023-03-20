@@ -15714,3 +15714,9 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 3980e696] Update feeds
+ 2 files changed, 38 insertions(+)
+ create mode 100644 _topics/11-jakob-nielsen-ux-keynotes-watch-on-our-video-channel.md
+To github.com:MattKevan/uxlift.git
+   a5c85086..3980e696  master -> master
+Feeds updated 03/19/2023 - 12:00:01 am GMT
