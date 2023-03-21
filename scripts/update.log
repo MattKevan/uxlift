@@ -15749,3 +15749,10 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master d9a6c2b5] Update feeds
+ 3 files changed, 47 insertions(+)
+ create mode 100644 _topics/avoiding-3-common-pitfalls-of-affinity-diagramming.md
+ create mode 100644 _topics/dealing-with-technical-or-professional-jargon.md
+To github.com:MattKevan/uxlift.git
+   3980e696..d9a6c2b5  master -> master
+Feeds updated 03/20/2023 - 12:00:01 am GMT
