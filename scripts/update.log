@@ -15785,3 +15785,24 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master a961bc8b] Update feeds
+ 17 files changed, 213 insertions(+)
+ create mode 100644 _topics/5-ways-to-involve-your-team-in-continuous-product-discovery.md
+ create mode 100644 _topics/7-design-podcasts-that-changed-my-career-every-designer-should-listen.md
+ create mode 100644 _topics/7-ways-web-developers-and-ux-designers-can-collaborate.md
+ create mode 100644 _topics/conducting-a-ux-design-workshop-with-your-team-in-figjam.md
+ create mode 100644 _topics/dont-build-mvp-try-mlp.md
+ create mode 100644 _topics/how-a-web-designer-can-be-inspired-by-architecture.md
+ create mode 100644 _topics/i-gave-myself-two-hours-to-redesign-the-steam-order-confirmation-page.md
+ create mode 100644 _topics/impacts-the-user-experience-has-on-the-customer-experience.md
+ create mode 100644 _topics/mastering-the-basics-of-good-search-ux.md
+ create mode 100644 _topics/practical-time-management-for-designers.md
+ create mode 100644 _topics/regression-testing-in-the-agile-universe.md
+ create mode 100644 _topics/setting-yourself-apart-as-a-job-candidate.md
+ create mode 100644 _topics/the-intersection-of-data-visualization-and-ux-design.md
+ create mode 100644 _topics/the-non-traditional-path-to-ux-design-from-serving-my-country-to-serving-user-needs.md
+ create mode 100644 _topics/tips-for-onboarding-new-designers-researchers.md
+ create mode 100644 _topics/will-gpt-4-make-us-dumb.md
+To github.com:MattKevan/uxlift.git
+   d9a6c2b5..a961bc8b  master -> master
+Feeds updated 03/21/2023 - 12:00:01 am GMT
