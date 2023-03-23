@@ -15835,3 +15835,11 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 326ce58d] Update feeds
+ 4 files changed, 56 insertions(+)
+ create mode 100644 _topics/always-have-a-map-on-the-tour-details-page-indicating-the-departure-or-meeting-point-for-the-tour.md
+ create mode 100644 _topics/just-do-it.md
+ create mode 100644 _topics/the-real-future-of-a-i-in-designits-not-what-you-think.md
+To github.com:MattKevan/uxlift.git
+   a961bc8b..326ce58d  master -> master
+Feeds updated 03/22/2023 - 12:00:01 am GMT
