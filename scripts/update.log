@@ -15872,3 +15872,20 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master ba0a41e9] Update feeds
+ 13 files changed, 137 insertions(+)
+ create mode 100644 _topics/10-ux-books-every-designer-should-read-in-2023.md
+ create mode 100644 _topics/brad-frost-music-web-development-artificial-intelligence-american-blues-scene.md
+ create mode 100644 _topics/breaking-free-from-ux-debt-6-ways-to-improve-your-products-user-experience-now.md
+ create mode 100644 _topics/challenge-012fylo-dark-theme-landing-page.md
+ create mode 100644 _topics/cracking-the-code-two-key-strategies-to-land-a-ux-job-and-estimated-time-to-get-hired.md
+ create mode 100644 _topics/getting-started-in-the-design-world.md
+ create mode 100644 _topics/how-to-create-your-uxui-portfolio-website-today-a-free-notion-template-for-you.md
+ create mode 100644 _topics/junior-ux-designers-never-stop-doing-these-5-things.md
+ create mode 100644 _topics/the-best-ux-designers-constantly-do-this-to-level-up-faster-than-their-peers.md
+ create mode 100644 _topics/the-end-of-front-end-development.md
+ create mode 100644 _topics/three-mile-islandhow-bad-ux-almost-destroyed-a-state.md
+ create mode 100644 _topics/ux-bites-single-sign-on-sso.md
+To github.com:MattKevan/uxlift.git
+   326ce58d..ba0a41e9  master -> master
+Feeds updated 03/23/2023 - 12:00:01 am GMT
