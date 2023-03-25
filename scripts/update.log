@@ -15918,3 +15918,9 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 9e961943] Update feeds
+ 2 files changed, 38 insertions(+)
+ create mode 100644 _topics/home-hardware-sites-new-ux-benchmark-with-2700-performance-scores-and-2300-best-practice-examples.md
+To github.com:MattKevan/uxlift.git
+   ba0a41e9..9e961943  master -> master
+Feeds updated 03/24/2023 - 12:00:01 am GMT
