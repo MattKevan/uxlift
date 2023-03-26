@@ -15953,3 +15953,16 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 6b0fda14] Update feeds
+ 9 files changed, 101 insertions(+)
+ create mode 100644 _topics/creating-a-positive-workplace-community.md
+ create mode 100644 _topics/empathy-mapping-how-does-it-work-for-ux-design.md
+ create mode 100644 _topics/how-starbucks-baristas-inspire-great-ux-writing.md
+ create mode 100644 _topics/how-to-make-your-dribbble-profile-stand-out-to-employers-get-hired-fast.md
+ create mode 100644 _topics/how-to-use-artificial-intelligence-in-uiux-design.md
+ create mode 100644 _topics/how-to-use-data-for-product-developmentbasic-types-of-analysis-relevant-to-the-business.md
+ create mode 100644 _topics/leading-successful-product-teams.md
+ create mode 100644 _topics/warning-101-ux-design-job-description-red-flags.md
+To github.com:MattKevan/uxlift.git
+   9e961943..6b0fda14  master -> master
+Feeds updated 03/25/2023 - 12:00:01 am GMT
