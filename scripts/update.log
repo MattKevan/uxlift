@@ -16049,3 +16049,15 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 	from feeds.rb:56:in `block in <main>'
 	from feeds.rb:51:in `each'
 	from feeds.rb:51:in `<main>'
+[master 9e56fe6f] Update feeds
+ 8 files changed, 112 insertions(+)
+ create mode 100644 _topics/challenge-013profile-card-component.md
+ create mode 100644 _topics/designing-for-accessibility-and-inclusive-user-experience.md
+ create mode 100644 _topics/i-told-chatgpt-to-write-a-design-article.md
+ create mode 100644 _topics/maximizing-user-engagement-with-scannable-website-design.md
+ create mode 100644 _topics/ultimate-chatgpt-cheatsheet-for-ux-ui-designers.md
+ create mode 100644 _topics/user-feedback-requests-5-guidelines.md
+ create mode 100644 _topics/ux-basics-study-guide.md
+To github.com:MattKevan/uxlift.git
+   ff1214fc..9e56fe6f  master -> master
+Feeds updated 03/27/2023 - 12:00:01 am BST
