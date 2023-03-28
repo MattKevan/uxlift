@@ -16090,3 +16090,17 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master afe83b97] Update feeds
+ 10 files changed, 110 insertions(+)
+ create mode 100644 _topics/designing-user-centered-products-with-chatgpt-a-guide-for-ux-designers.md
+ create mode 100644 _topics/how-cyclical-breaking-of-behaviors-can-overcome-your-creative-struggles.md
+ create mode 100644 _topics/how-i-changed-the-behavior-of-the-tenants-in-my-building-using-gamification.md
+ create mode 100644 _topics/how-to-overcome-bias-when-writing-for-users.md
+ create mode 100644 _topics/pixels-to-people-what-is-ui-design-ux-design.md
+ create mode 100644 _topics/small-words-big-impact-creating-user-centered-ux-microcopy-for-task-success.md
+ create mode 100644 _topics/strategies-to-prevent-stress-and-creative-burnout.md
+ create mode 100644 _topics/the-intersection-of-ai-and-human-creativity.md
+ create mode 100644 _topics/the-ultimate-blueprint-for-a-winning-saas-go-to-market-strategy.md
+To github.com:MattKevan/uxlift.git
+   9e56fe6f..afe83b97  master -> master
+Feeds updated 03/28/2023 - 12:00:01 am BST
