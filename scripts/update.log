@@ -16205,3 +16205,20 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 7946231c] Update feeds
+ 13 files changed, 137 insertions(+)
+ create mode 100644 _topics/4-limitations-of-card-sorting-in-ux-research.md
+ create mode 100644 _topics/7-figma-plugins-to-save-your-time.md
+ create mode 100644 _topics/7-ways-ar-storytellers-learn-from-theater-design.md
+ create mode 100644 _topics/challenge-014order-summary-component.md
+ create mode 100644 _topics/content-design-for-accessibility-why-it-matters-and-how-to-do-it.md
+ create mode 100644 _topics/driving-business-success-with-effective-user-experience-metrics.md
+ create mode 100644 _topics/finding-balance-as-a-product-designer.md
+ create mode 100644 _topics/is-ux-welcome-in-agile-frameworks-safe-6-0-moved-us-again.md
+ create mode 100644 _topics/retroactive-journaling.md
+ create mode 100644 _topics/revitalizing-too-good-to-go-app-a-ux-design-case-study.md
+ create mode 100644 _topics/setting-up-your-uxproduct-design-portfolio.md
+ create mode 100644 _topics/springboards-design-learning-hub-a-review.md
+To github.com:MattKevan/uxlift.git
+   138fdaff..7946231c  master -> master
+Feeds updated 03/31/2023 - 12:00:01 am BST
