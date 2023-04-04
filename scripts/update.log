@@ -16359,3 +16359,23 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 7e6c442c] Update feeds
+ 16 files changed, 202 insertions(+)
+ create mode 100644 _topics/5-practical-tips-for-pms-to-effectively-manage-design-backlogs.md
+ create mode 100644 _topics/boost-your-ux-writing-process-with-figgpt-a-chatgpt-figma-plugin.md
+ create mode 100644 _topics/how-can-ux-research-help-struggling-saas-products-for-businesses-become-successful.md
+ create mode 100644 _topics/maximizing-impact-business-benefits-of-ux-consulting.md
+ create mode 100644 _topics/prompt-to-product.md
+ create mode 100644 _topics/the-application-of-big-data-analytics-in-major-industries.md
+ create mode 100644 _topics/the-internship-that-confirmed-my-career-path-a-product-design-interns-story.md
+ create mode 100644 _topics/the-ux-writers-starter-pack.md
+ create mode 100644 _topics/use-chatgpt-like-a-pro-discover-parameters-and-unlock-ai-writing-secrets.md
+ create mode 100644 _topics/user-experience-in-fashion.md
+ create mode 100644 _topics/what-is-a-design-system-and-why-should-you-use-one.md
+ create mode 100644 _topics/what-should-we-design-next-calculating-user-value.md
+ create mode 100644 _topics/why-do-businesses-reject-user-experience.md
+ create mode 100644 _topics/why-do-you-need-a-design-audit-for-your-design-system-and-how-to-conduct-one.md
+ create mode 100644 _topics/why-product-designers-are-often-the-first-to-get-laid-off.md
+To github.com:MattKevan/uxlift.git
+   546a4591..7e6c442c  master -> master
+Feeds updated 04/04/2023 - 12:00:01 am BST
