@@ -16408,3 +16408,12 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 3e813825] Update feeds
+ 5 files changed, 65 insertions(+)
+ create mode 100644 _topics/7-benefits-of-notion-for-designers.md
+ create mode 100644 _topics/joe-dart-teaches-slap-bass-youtube.md
+ create mode 100644 _topics/new-internet-service-providers-isp-ux-benchmark-with-2200-performance-scores-and-1600-best-practice-examples.md
+ create mode 100644 _topics/the-quest-for-meaning-in-an-ai-driven-world-with-brad-frost-lean-cast.md
+To github.com:MattKevan/uxlift.git
+   7e6c442c..3e813825  master -> master
+Feeds updated 04/05/2023 - 12:00:01 am BST
