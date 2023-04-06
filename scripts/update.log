@@ -16446,3 +16446,20 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master a4bcae58] Update feeds
+ 13 files changed, 137 insertions(+)
+ create mode 100644 _topics/10-best-uxui-design-books-for-the-future.md
+ create mode 100644 _topics/5-reasons-to-choose-designlab-as-your-ux-bootcamp.md
+ create mode 100644 _topics/8-tips-examples-on-how-to-become-developers-favourite-designer.md
+ create mode 100644 _topics/choosing-a-name-for-your-design-system.md
+ create mode 100644 _topics/ethics-in-generative-ai-for-the-radio-and-music-industry.md
+ create mode 100644 _topics/great-designers-steal.md
+ create mode 100644 _topics/how-to-identify-design-system-flaws-and-fix-them.md
+ create mode 100644 _topics/how-to-use-chat-gpt-in-your-design-process.md
+ create mode 100644 _topics/notion-templates-for-ux-designers-all-free.md
+ create mode 100644 _topics/rewriting-android-app-store-descriptions-with-chatgpt.md
+ create mode 100644 _topics/the-ethical-dimensions-of-human-computer-interaction.md
+ create mode 100644 _topics/unveiling-the-dark-side-of-ux-design-politics-bureaucracy-and-managing-stakeholders-for-success.md
+To github.com:MattKevan/uxlift.git
+   3e813825..a4bcae58  master -> master
+Feeds updated 04/06/2023 - 12:00:01 am BST
