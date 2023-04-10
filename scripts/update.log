@@ -16597,3 +16597,20 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 6cead441] Update feeds
+ 12 files changed, 128 insertions(+)
+ create mode 100644 _topics/10-amazing-design-resources-listed-as-products-of-the-day-on-product-hunt.md
+ create mode 100644 _topics/5-tips-for-ux-internship-applicants.md
+ create mode 100644 _topics/7-youtube-channels-to-watch-to-become-a-better-ux-designer.md
+ create mode 100644 _topics/ai-here-the-revolution-in-knowledge-industry.md
+ create mode 100644 _topics/being-a-paid-military-soldier-a-ux-case-study.md
+ create mode 100644 _topics/designing-a-wellness-app-while-nothing-seems-to-be-well.md
+ create mode 100644 _topics/how-to-create-a-successful-livestream-ecommerce-experience.md
+ create mode 100644 _topics/making-full-use-of-user-research-learnings-why-it-can-be-useful-for-a-businessbut-hardly-anyone.md
+ create mode 100644 _topics/netflixs-ux-flaws-everyone-stopped-noticing.md
+ create mode 100644 _topics/understanding-user-needs-a-guide-and-some-tips-to-conducting-effective-ux-research.md
+ create mode 100644 _topics/ux-writing-vs-content-design-whats-the-difference.md
+remote: Resolving deltas:   0% (0/7)        remote: Resolving deltas:  14% (1/7)        remote: Resolving deltas:  28% (2/7)        remote: Resolving deltas:  42% (3/7)        remote: Resolving deltas:  57% (4/7)        remote: Resolving deltas:  71% (5/7)        remote: Resolving deltas:  85% (6/7)        remote: Resolving deltas: 100% (7/7)        remote: Resolving deltas: 100% (7/7), completed with 4 local objects.        
+To github.com:MattKevan/uxlift.git
+   92e6ce56..6cead441  master -> master
+Feeds updated 04/10/2023 - 12:00:01 am BST
