@@ -16643,3 +16643,15 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 28f76893] Update feeds
+ 7 files changed, 83 insertions(+)
+ create mode 100644 _topics/build-an-e-learning-platform-like-udemy-and-dominate-your-niche.md
+ create mode 100644 _topics/conducting-research-in-native-languages.md
+ create mode 100644 _topics/default-optionsmaking-the-experience-easier-for-user.md
+ create mode 100644 _topics/how-to-design-for-different-platforms.md
+ create mode 100644 _topics/master-midjourney-prompts-a-guide-to-creating-creative-midjourney-prompts-with-chat-gpt-assistance.md
+ create mode 100644 _topics/questions-entry-level-designers-ask.md
+remote: Resolving deltas:   0% (0/7)        remote: Resolving deltas:  14% (1/7)        remote: Resolving deltas:  28% (2/7)        remote: Resolving deltas:  42% (3/7)        remote: Resolving deltas:  57% (4/7)        remote: Resolving deltas:  71% (5/7)        remote: Resolving deltas:  85% (6/7)        remote: Resolving deltas: 100% (7/7)        remote: Resolving deltas: 100% (7/7), completed with 4 local objects.        
+To github.com:MattKevan/uxlift.git
+   6cead441..28f76893  master -> master
+Feeds updated 04/11/2023 - 12:00:01 am BST
