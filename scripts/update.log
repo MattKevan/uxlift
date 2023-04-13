@@ -16724,3 +16724,20 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 4cf56eff] Update feeds
+ 12 files changed, 128 insertions(+)
+ create mode 100644 _topics/beyond-money-the-two-key-components-of-a-rewarding-design-project.md
+ create mode 100644 _topics/challenge-015fylo-dark-theme-landing-page.md
+ create mode 100644 _topics/checkout-usability-autodetect-city-and-state-inputs-based-on-the-users-postal-code-28-of-mobile-sites-dont.md
+ create mode 100644 _topics/crafting-insightful-research-reports-and-leveraging-their-insights.md
+ create mode 100644 _topics/generate-stunning-ai-images-a-comprehensive-guide.md
+ create mode 100644 _topics/how-to-conduct-a-website-cro-audit-from-the-ux-perspective.md
+ create mode 100644 _topics/how-to-write-visualize-hyperlinks-according-to-science.md
+ create mode 100644 _topics/negotiating-salary-and-benefits-what-every-designer-should-know.md
+ create mode 100644 _topics/the-art-of-growth-design-how-to-create-products-that-scale.md
+ create mode 100644 _topics/the-power-of-relationships-and-partnerships-enhancing-productivity-beyond-workflows-and-processes.md
+ create mode 100644 _topics/what-becoming-a-father-taught-me-about-ux.md
+remote: Resolving deltas:   0% (0/7)        remote: Resolving deltas:  14% (1/7)        remote: Resolving deltas:  28% (2/7)        remote: Resolving deltas:  42% (3/7)        remote: Resolving deltas:  57% (4/7)        remote: Resolving deltas:  71% (5/7)        remote: Resolving deltas:  85% (6/7)        remote: Resolving deltas: 100% (7/7)        remote: Resolving deltas: 100% (7/7), completed with 4 local objects.        
+To github.com:MattKevan/uxlift.git
+   9a56121a..4cf56eff  master -> master
+Feeds updated 04/13/2023 - 12:00:01 am BST
