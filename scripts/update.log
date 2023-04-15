@@ -16804,3 +16804,11 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 3e6679f7] Update feeds
+ 5 files changed, 65 insertions(+)
+ create mode 100644 _topics/conversing-with-chatgpt-a-journey-into-the-metaphysical-manifestation-of-ai-consciousness.md
+ create mode 100644 _topics/design-as-a-service-daas.md
+ create mode 100644 _topics/ziggy.md
+To github.com:MattKevan/uxlift.git
+   92e6dc98..3e6679f7  master -> master
+Feeds updated 04/15/2023 - 12:00:01 am BST
