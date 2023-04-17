@@ -16886,3 +16886,11 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master ddf19249] Update feeds
+ 4 files changed, 56 insertions(+)
+ create mode 100644 _topics/3-common-ia-mistakes-that-are-all-due-to-low-information-scent.md
+ create mode 100644 _topics/the-brilliant-inventor-who-made-two-of-historys-biggest-mistakes.md
+ create mode 100644 _topics/user-journeys-vs-user-flows.md
+To github.com:MattKevan/uxlift.git
+   da8e1603..ddf19249  master -> master
+Feeds updated 04/17/2023 - 12:00:01 am BST
