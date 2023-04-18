@@ -16923,3 +16923,23 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 84ed9488] Update feeds
+ 15 files changed, 185 insertions(+)
+ create mode 100644 _topics/5-resume-tips-that-helped-me-get-more-recruiter-calls.md
+ create mode 100644 _topics/business-impacts-of-ui-design-and-ux-design.md
+ create mode 100644 _topics/communicate-like-a-pro-in-design-projects-essential-tips-for-success.md
+ create mode 100644 _topics/creating-chatgpt-prompt-templates-for-design-system-documentation.md
+ create mode 100644 _topics/how-medical-animations-improve-the-physician-training-user-experience.md
+ create mode 100644 _topics/how-to-land-a-uxui-or-product-design-job-abroad-from-scratch-a-7-tips-and-strategies.md
+ create mode 100644 _topics/importance-of-ui-ux-design-in-todays-digital-world.md
+ create mode 100644 _topics/marketing-portals-what-are-their-benefits-and-who-uses-them.md
+ create mode 100644 _topics/online-medicine-delivery-apps-are-revolutionizing-the-healthcare-industry.md
+ create mode 100644 _topics/recruiters-hate-these-8-things-that-designers-add-to-their-resumes.md
+ create mode 100644 _topics/the-art-of-framing-design-problem-statements-a-guide.md
+ create mode 100644 _topics/tiny-words-matter-how-microcopy-can-enhance-user-experience.md
+ create mode 100644 _topics/using-a-muted-color-palette-in-web-design.md
+ create mode 100644 _topics/why-use-ai-and-ml-for-healthcare-apps.md
+remote: Resolving deltas:   0% (0/7)        remote: Resolving deltas:  14% (1/7)        remote: Resolving deltas:  28% (2/7)        remote: Resolving deltas:  42% (3/7)        remote: Resolving deltas:  57% (4/7)        remote: Resolving deltas:  71% (5/7)        remote: Resolving deltas:  85% (6/7)        remote: Resolving deltas: 100% (7/7)        remote: Resolving deltas: 100% (7/7), completed with 4 local objects.        
+To github.com:MattKevan/uxlift.git
+   ddf19249..84ed9488  master -> master
+Feeds updated 04/18/2023 - 12:00:02 am BST
