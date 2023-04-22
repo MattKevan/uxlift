@@ -17066,3 +17066,21 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 7ec363ef] Update feeds
+ 13 files changed, 137 insertions(+)
+ create mode 100644 _topics/8-powerful-ai-tools-that-will-feel-like-you-have-an-army-of-interns.md
+ create mode 100644 _topics/adaptive-design-the-future-of-user-experience-and-the-demise-of-responsive-design.md
+ create mode 100644 _topics/designing-seamless-and-intuitive-embedded-finance-experiences.md
+ create mode 100644 _topics/google-bard-ux-analysis-a-quick-review-for-enhancing-the-ai-interface.md
+ create mode 100644 _topics/how-to-build-trust-with-stakeholders.md
+ create mode 100644 _topics/how-to-harness-the-power-of-love-breakup-letters-in-ux-research.md
+ create mode 100644 _topics/master-micro-interactions-with-figma-plugin-advanced-tips-tricks.md
+ create mode 100644 _topics/presumption-to-createestablishing-a-positive-guiding-rule-for-augmented-reality.md
+ create mode 100644 _topics/top-10-figma-plugins-to-take-your-designs-to-the-next-level-in-2023.md
+ create mode 100644 _topics/ux-conference-july-announced-jul-15-jul-28.md
+ create mode 100644 _topics/ux-design-for-ios-5-tips-to-enhance-your-users-journey.md
+ create mode 100644 _topics/where-did-all-of-the-designers-go.md
+remote: Resolving deltas:   0% (0/7)        remote: Resolving deltas:  14% (1/7)        remote: Resolving deltas:  28% (2/7)        remote: Resolving deltas:  42% (3/7)        remote: Resolving deltas:  57% (4/7)        remote: Resolving deltas:  71% (5/7)        remote: Resolving deltas:  85% (6/7)        remote: Resolving deltas: 100% (7/7)        remote: Resolving deltas: 100% (7/7), completed with 4 local objects.        
+To github.com:MattKevan/uxlift.git
+   0da755e8..7ec363ef  master -> master
+Feeds updated 04/22/2023 - 12:00:01 am BST
