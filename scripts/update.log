@@ -17457,3 +17457,19 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 419b1d7f] Update feeds
+ 11 files changed, 119 insertions(+)
+ create mode 100644 _topics/5-uiux-design-mistakes-to-avoid-at-all-costsit-can-ruin-whole-project.md
+ create mode 100644 _topics/ai-is-here-to-help-you-build-better-web-mobile-apps.md
+ create mode 100644 _topics/eliminate-your-ego-and-elevate-your-ux-design.md
+ create mode 100644 _topics/enhancing-instagram-connection-success-by-25-on-phyllo-connect.md
+ create mode 100644 _topics/how-ai-will-replace-you-and-it-will.md
+ create mode 100644 _topics/junior-ux-designer-you-dont-have-time-for-rejection.md
+ create mode 100644 _topics/mastering-the-right-panel-great-figma-tips-and-tricks-for-every-product-designer.md
+ create mode 100644 _topics/upscale-ai-created-images-like-a-pro.md
+ create mode 100644 _topics/what-is-the-ideal-approach-to-design-creative-design-or-democratic-design.md
+ create mode 100644 _topics/winning-user-loyalty-with-effective-onboarding-gamification-techniques.md
+remote: Resolving deltas:   0% (0/7)        remote: Resolving deltas:  14% (1/7)        remote: Resolving deltas:  28% (2/7)        remote: Resolving deltas:  42% (3/7)        remote: Resolving deltas:  57% (4/7)        remote: Resolving deltas:  71% (5/7)        remote: Resolving deltas:  85% (6/7)        remote: Resolving deltas: 100% (7/7)        remote: Resolving deltas: 100% (7/7), completed with 4 local objects.        
+To github.com:MattKevan/uxlift.git
+   2fd693db..419b1d7f  master -> master
+Feeds updated 05/02/2023 - 12:00:01 am BST
