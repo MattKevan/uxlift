@@ -17502,3 +17502,13 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 539437dc] Update feeds
+ 5 files changed, 65 insertions(+)
+ create mode 100644 _topics/3-high-level-takeaways-from-1800-hours-testing-vitamins-supplements-sites.md
+ create mode 100644 _topics/a-radical-proposal-put-ux-research-in-charge.md
+ create mode 100644 _topics/enhancing-instagram-connection-success-rate-by-25-on-phyllo-connect-design-case-study.md
+ create mode 100644 _topics/on-handling-rejections-and-career-setbacks.md
+remote: Resolving deltas:   0% (0/7)        remote: Resolving deltas:  14% (1/7)        remote: Resolving deltas:  28% (2/7)        remote: Resolving deltas:  42% (3/7)        remote: Resolving deltas:  57% (4/7)        remote: Resolving deltas:  71% (5/7)        remote: Resolving deltas:  85% (6/7)        remote: Resolving deltas: 100% (7/7)        remote: Resolving deltas: 100% (7/7), completed with 4 local objects.        
+To github.com:MattKevan/uxlift.git
+   419b1d7f..539437dc  master -> master
+Feeds updated 05/03/2023 - 12:00:01 am BST
