@@ -17622,3 +17622,12 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master d0fca281] Update feeds
+ 4 files changed, 56 insertions(+)
+ create mode 100644 _topics/the-average-user-experience-is-a-harmful-distraction-focus-on-extremes-instead.md
+ create mode 100644 _topics/the-rise-of-portfolio-theft-and-imposters-in-the-design-industry.md
+ create mode 100644 _topics/top-10-questions-to-ask-during-ux-design-user-testing.md
+remote: Resolving deltas:   0% (0/7)        remote: Resolving deltas:  14% (1/7)        remote: Resolving deltas:  28% (2/7)        remote: Resolving deltas:  42% (3/7)        remote: Resolving deltas:  57% (4/7)        remote: Resolving deltas:  71% (5/7)        remote: Resolving deltas:  85% (6/7)        remote: Resolving deltas: 100% (7/7)        remote: Resolving deltas: 100% (7/7), completed with 4 local objects.        
+To github.com:MattKevan/uxlift.git
+   27cceaad..d0fca281  master -> master
+Feeds updated 05/06/2023 - 12:00:01 am BST
