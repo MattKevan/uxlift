@@ -17695,3 +17695,23 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 8bcedb56] Update feeds
+ 15 files changed, 155 insertions(+)
+ create mode 100644 _topics/best-practices-for-building-and-maintaining-your-own-research-participant-database.md
+ create mode 100644 _topics/create-voice-with-ai-listen-in-sheldon-cooper-michael-scott-super-marios-voice.md
+ create mode 100644 _topics/design-tokens-beginners-guide.md
+ create mode 100644 _topics/documenting-a-ux-benchmarking-study.md
+ create mode 100644 _topics/embracing-the-business-understanding-the-diverse-corporate-landscape-and-fostering-synergy-with.md
+ create mode 100644 _topics/from-data-chaos-to-clarity-mastering-the-art-of-dashboard-design.md
+ create mode 100644 _topics/get-ahead-of-the-curve-top-web-design-trends-of-2023.md
+ create mode 100644 _topics/how-i-made-600-from-a-single-design-article.md
+ create mode 100644 _topics/how-my-layoff-led-to-my-career-growth-my-journey-of-building-resilience.md
+ create mode 100644 _topics/list-of-success-metrics-for-your-ux-design-career-or-any-career.md
+ create mode 100644 _topics/strangers-wont-help-you-land-jobs-in-product-design.md
+ create mode 100644 _topics/supercharge-your-ux-research-with-codes.md
+ create mode 100644 _topics/using-adobe-firefly-to-make-in-house-product-design-unboring.md
+ create mode 100644 _topics/what-its-like-designing-at-start-ups.md
+remote: Resolving deltas:   0% (0/7)        remote: Resolving deltas:  14% (1/7)        remote: Resolving deltas:  28% (2/7)        remote: Resolving deltas:  42% (3/7)        remote: Resolving deltas:  57% (4/7)        remote: Resolving deltas:  71% (5/7)        remote: Resolving deltas:  85% (6/7)        remote: Resolving deltas: 100% (7/7)        remote: Resolving deltas: 100% (7/7), completed with 4 local objects.        
+To github.com:MattKevan/uxlift.git
+   e4b2bbcf..8bcedb56  master -> master
+Feeds updated 05/08/2023 - 12:00:01 am BST
