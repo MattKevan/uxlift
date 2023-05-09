@@ -17744,3 +17744,21 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 1b6a39aa] Update feeds
+ 13 files changed, 184 insertions(+)
+ create mode 100644 _topics/5-ways-augmented-reality-can-increase-ecommerce-sales.md
+ create mode 100644 _topics/a-complete-guide-to-usability-testing.md
+ create mode 100644 _topics/efficient-task-management-for-solo-ux-writers-and-small-teams-tutorial-and-template.md
+ create mode 100644 _topics/have-you-considered-designing-your-own-life.md
+ create mode 100644 _topics/how-to-effectively-organize-yourdesign-work-using-gemoo.md
+ create mode 100644 _topics/how-to-use-chatgpt-for-icon-ideas-a-step-by-step-guide.md
+ create mode 100644 _topics/improving-web-site-conversion-rates-through-better-ux-design.md
+ create mode 100644 _topics/pay-attention-to-web-performance-metrics-to-improve-the-ux.md
+ create mode 100644 _topics/product-prioritisation-for-people-pleasers.md
+ create mode 100644 _topics/the-pros-and-cons-of-working-as-a-ux-designer-in-the-non-profit-industry.md
+ create mode 100644 _topics/ux-conference-august-announced-aug-12-aug-25.md
+ create mode 100644 _topics/ux-professionals-are-people-too-the-practice-of-self-empathy.md
+remote: Resolving deltas:   0% (0/7)        remote: Resolving deltas:  14% (1/7)        remote: Resolving deltas:  28% (2/7)        remote: Resolving deltas:  42% (3/7)        remote: Resolving deltas:  57% (4/7)        remote: Resolving deltas:  71% (5/7)        remote: Resolving deltas:  85% (6/7)        remote: Resolving deltas: 100% (7/7)        remote: Resolving deltas: 100% (7/7), completed with 4 local objects.        
+To github.com:MattKevan/uxlift.git
+   8bcedb56..1b6a39aa  master -> master
+Feeds updated 05/09/2023 - 12:00:01 am BST
