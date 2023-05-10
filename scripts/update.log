@@ -17791,3 +17791,13 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master f1aa8ac2] Update feeds
+ 5 files changed, 65 insertions(+)
+ create mode 100644 _topics/india-street-lettering.md
+ create mode 100644 _topics/new-2023-mobile-apps-ux-benchmark-with-2200-performance-scores-and-2200-best-practice-examples.md
+ create mode 100644 _topics/next-level-prototyping-animations-and-interaction-design-with-figma-and-protopie.md
+ create mode 100644 _topics/ux-is-dead-long-live-product-design.md
+remote: Resolving deltas:   0% (0/7)        remote: Resolving deltas:  14% (1/7)        remote: Resolving deltas:  28% (2/7)        remote: Resolving deltas:  42% (3/7)        remote: Resolving deltas:  57% (4/7)        remote: Resolving deltas:  71% (5/7)        remote: Resolving deltas:  85% (6/7)        remote: Resolving deltas: 100% (7/7)        remote: Resolving deltas: 100% (7/7), completed with 4 local objects.        
+To github.com:MattKevan/uxlift.git
+   1b6a39aa..f1aa8ac2  master -> master
+Feeds updated 05/10/2023 - 12:00:01 am BST
