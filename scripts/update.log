@@ -17949,3 +17949,14 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 2cf3f89a] Update feeds
+ 6 files changed, 74 insertions(+)
+ create mode 100644 _topics/design-systems-analysis-compare-five-popular-design-systems.md
+ create mode 100644 _topics/dont-start-prototyping-without-these-5-figma-plugins.md
+ create mode 100644 _topics/how-google-changes-the-future-of-ux-forever-with-ai-snapshots.md
+ create mode 100644 _topics/the-ultimate-guide-to-remote-job-hunting-for-uiux-designers-in-2023.md
+ create mode 100644 _topics/what-pushed-me-to-quit-my-9-to-5-designer-job.md
+remote: Resolving deltas:   0% (0/7)        remote: Resolving deltas:  14% (1/7)        remote: Resolving deltas:  28% (2/7)        remote: Resolving deltas:  42% (3/7)        remote: Resolving deltas:  57% (4/7)        remote: Resolving deltas:  71% (5/7)        remote: Resolving deltas:  85% (6/7)        remote: Resolving deltas: 100% (7/7)        remote: Resolving deltas: 100% (7/7), completed with 4 local objects.        
+To github.com:MattKevan/uxlift.git
+   a1d15d92..2cf3f89a  master -> master
+Feeds updated 05/14/2023 - 12:00:01 am BST
