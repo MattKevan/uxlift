@@ -18063,3 +18063,21 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master f9b90780] Update feeds
+ 13 files changed, 137 insertions(+)
+ create mode 100644 _topics/always-provide-a-supplement-facts-label-image-in-the-main-image-gallery-of-vitamins-supplements-sites.md
+ create mode 100644 _topics/correct-ways-to-use-chatgpt-as-a-designer.md
+ create mode 100644 _topics/design-systems-is-a-mindset-not-a-library.md
+ create mode 100644 _topics/design-tokens-how-we-use-and-automate-them-at-gr8-tech.md
+ create mode 100644 _topics/designing-intuitive-onboarding-experiences-for-saas-products-unlocking-user-adoption-and-product.md
+ create mode 100644 _topics/forget-chatgpt-here-are-23-new-mind-blowing-ai-tools-for-designers.md
+ create mode 100644 _topics/how-a-single-app-feature-can-reduce-anxiety-in-humans.md
+ create mode 100644 _topics/how-i-built-a-winning-portfolio-and-got-my-dream-offer.md
+ create mode 100644 _topics/how-ux-designers-use-lego-for-team-building.md
+ create mode 100644 _topics/mental-models-a-guide-to-how-your-users-really-think.md
+ create mode 100644 _topics/team-lead-shares-how-chatgpt-is-transforming-e-commerce-experiences.md
+ create mode 100644 _topics/trust-ai-and-product-design.md
+remote: Resolving deltas:   0% (0/7)        remote: Resolving deltas:  14% (1/7)        remote: Resolving deltas:  28% (2/7)        remote: Resolving deltas:  42% (3/7)        remote: Resolving deltas:  57% (4/7)        remote: Resolving deltas:  71% (5/7)        remote: Resolving deltas:  85% (6/7)        remote: Resolving deltas: 100% (7/7)        remote: Resolving deltas: 100% (7/7), completed with 4 local objects.        
+To github.com:MattKevan/uxlift.git
+   2f25322b..f9b90780  master -> master
+Feeds updated 05/17/2023 - 12:00:01 am BST
