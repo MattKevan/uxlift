@@ -18252,3 +18252,21 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 26e42eca] Update feeds
+ 13 files changed, 137 insertions(+)
+ create mode 100644 _topics/designing-user-centric-ai-and-ml-powered-websites.md
+ create mode 100644 _topics/managing-design-teams.md
+ create mode 100644 _topics/product-led-growth-and-ux.md
+ create mode 100644 _topics/seeing-greatly-augmented-reality-in-museums-the-3-use-casesmonuments-epiphanies-utilities.md
+ create mode 100644 _topics/the-603010-rule-a-foolproof-way-to-choose-colors-for-your-ui-design.md
+ create mode 100644 _topics/the-designers-secret-weapon-heuristics-for-exceptional-ux-and-cx.md
+ create mode 100644 _topics/the-hawthorne-effect-or-observer-bias-in-user-research.md
+ create mode 100644 _topics/the-ultimate-guide-to-moodboarding.md
+ create mode 100644 _topics/top-20-ai-tools-for-ux-designers-and-web-designers-to-try-in-this-year.md
+ create mode 100644 _topics/ux-features-that-boost-revenue-of-top-brands.md
+ create mode 100644 _topics/what-do-you-want.md
+ create mode 100644 _topics/why-ux-designers-shouldnt-ignore-visual-aesthetics.md
+remote: Resolving deltas:   0% (0/9)        remote: Resolving deltas:  11% (1/9)        remote: Resolving deltas:  22% (2/9)        remote: Resolving deltas:  33% (3/9)        remote: Resolving deltas:  44% (4/9)        remote: Resolving deltas:  55% (5/9)        remote: Resolving deltas:  66% (6/9)        remote: Resolving deltas:  77% (7/9)        remote: Resolving deltas:  88% (8/9)        remote: Resolving deltas: 100% (9/9)        remote: Resolving deltas: 100% (9/9), completed with 4 local objects.        
+To github.com:MattKevan/uxlift.git
+   f4544d37..26e42eca  master -> master
+Feeds updated 05/22/2023 - 12:00:01 am BST
