@@ -18299,3 +18299,16 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 3dfeb476] Update feeds
+ 8 files changed, 131 insertions(+)
+ create mode 100644 _topics/10-ways-to-boost-your-landing-page-conversion-rates.md
+ create mode 100644 _topics/6-ways-ux-design-builds-stronger-customer-relationships.md
+ create mode 100644 _topics/balancing-ai-with-human-authority-and-empowerment.md
+ create mode 100644 _topics/the-business-case-for-investing-in-ux-design-for-your-mobile-app.md
+ create mode 100644 _topics/uxui-design-with-ai.md
+ create mode 100644 _topics/visual-design-principles-and-ux-design-best-practices.md
+ create mode 100644 _topics/why-you-fail-to-influence-stakeholders-as-a-designer.md
+remote: Resolving deltas:   0% (0/7)        remote: Resolving deltas:  14% (1/7)        remote: Resolving deltas:  28% (2/7)        remote: Resolving deltas:  42% (3/7)        remote: Resolving deltas:  57% (4/7)        remote: Resolving deltas:  71% (5/7)        remote: Resolving deltas:  85% (6/7)        remote: Resolving deltas: 100% (7/7)        remote: Resolving deltas: 100% (7/7), completed with 4 local objects.        
+To github.com:MattKevan/uxlift.git
+   26e42eca..3dfeb476  master -> master
+Feeds updated 05/23/2023 - 12:00:01 am BST
