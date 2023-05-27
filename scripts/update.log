@@ -18460,3 +18460,20 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master bcc2b412] Update feeds
+ 12 files changed, 128 insertions(+)
+ create mode 100644 _topics/10-lessons-i-learned-working-in-a-global-bank-as-a-designer.md
+ create mode 100644 _topics/a-story-of-a-button-which-is-not-about-the-button.md
+ create mode 100644 _topics/designing-effective-hyperlinks-for-better-ux.md
+ create mode 100644 _topics/from-bright-to-dim-how-light-and-dark-adaptation-shape-our-visual-experience.md
+ create mode 100644 _topics/harnessing-mixins-in-scss.md
+ create mode 100644 _topics/how-does-a-ux-designer-develop-product-intuition-to-create-a-competitive-product.md
+ create mode 100644 _topics/how-to-keep-the-motivation-as-a-designer-when-you-dont-like-the-industry.md
+ create mode 100644 _topics/the-aesthetic-usability-effect-how-visuals-can-enhance-user-experience.md
+ create mode 100644 _topics/things-ill-do-differently-if-i-had-to-restart-my-design-career.md
+ create mode 100644 _topics/turning-ambiguous-ideas-into-explicit-product-solutions.md
+ create mode 100644 _topics/your-red-vs-my-red.md
+remote: Resolving deltas:   0% (0/8)        remote: Resolving deltas:  12% (1/8)        remote: Resolving deltas:  25% (2/8)        remote: Resolving deltas:  37% (3/8)        remote: Resolving deltas:  50% (4/8)        remote: Resolving deltas:  62% (5/8)        remote: Resolving deltas:  75% (6/8)        remote: Resolving deltas:  87% (7/8)        remote: Resolving deltas: 100% (8/8)        remote: Resolving deltas: 100% (8/8), completed with 4 local objects.        
+To github.com:MattKevan/uxlift.git
+   16d867d2..bcc2b412  master -> master
+Feeds updated 05/27/2023 - 12:00:01 am BST
