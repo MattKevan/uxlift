@@ -18506,3 +18506,13 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master b0d01b5d] Update feeds
+ 5 files changed, 65 insertions(+)
+ create mode 100644 _topics/frequent-midjourney-explorations.md
+ create mode 100644 _topics/how-to-craft-a-user-friendly-form-with-examples.md
+ create mode 100644 _topics/midjourney-fashion-explorations.md
+ create mode 100644 _topics/the-importance-of-branding-for-startups.md
+remote: Resolving deltas:   0% (0/8)        remote: Resolving deltas:  12% (1/8)        remote: Resolving deltas:  25% (2/8)        remote: Resolving deltas:  37% (3/8)        remote: Resolving deltas:  50% (4/8)        remote: Resolving deltas:  62% (5/8)        remote: Resolving deltas:  75% (6/8)        remote: Resolving deltas:  87% (7/8)        remote: Resolving deltas: 100% (8/8)        remote: Resolving deltas: 100% (8/8), completed with 4 local objects.        
+To github.com:MattKevan/uxlift.git
+   bcc2b412..b0d01b5d  master -> master
+Feeds updated 05/28/2023 - 12:00:01 am BST
