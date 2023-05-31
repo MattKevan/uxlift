@@ -18622,3 +18622,20 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master b799e731] Update feeds
+ 12 files changed, 128 insertions(+)
+ create mode 100644 _topics/10-principles-of-good-product-design-how-to-build-a-successful-digital-product.md
+ create mode 100644 _topics/dont-let-these-15-mistakes-hinder-your-ux-writing-career.md
+ create mode 100644 _topics/from-frustration-to-satisfaction-how-color-selection-options-increased-user-engagement-for.md
+ create mode 100644 _topics/laws-of-ux-that-airbnb-follows.md
+ create mode 100644 _topics/mini-moog-factory.md
+ create mode 100644 _topics/overcoming-imposter-syndrome-as-a-product-designer-a-guide-to-boosting-confidence-and-achieving.md
+ create mode 100644 _topics/principles-of-color-in-ui-design.md
+ create mode 100644 _topics/product-listing-ux-what-information-to-display-in-product-listings-50-get-it-wrong.md
+ create mode 100644 _topics/the-daily-ux-writing-challenge.md
+ create mode 100644 _topics/understanding-eus-digital-accessibility-rules.md
+ create mode 100644 _topics/what-is-visual-accessibility-wacg-and-its-limitation-on-it.md
+remote: Resolving deltas:   0% (0/8)        remote: Resolving deltas:  12% (1/8)        remote: Resolving deltas:  25% (2/8)        remote: Resolving deltas:  37% (3/8)        remote: Resolving deltas:  50% (4/8)        remote: Resolving deltas:  62% (5/8)        remote: Resolving deltas:  75% (6/8)        remote: Resolving deltas:  87% (7/8)        remote: Resolving deltas: 100% (8/8)        remote: Resolving deltas: 100% (8/8), completed with 4 local objects.        
+To github.com:MattKevan/uxlift.git
+   324d5e2c..b799e731  master -> master
+Feeds updated 05/31/2023 - 12:00:01 am BST
