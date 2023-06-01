@@ -18668,3 +18668,20 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master d99e1e6d] Update feeds
+ 12 files changed, 128 insertions(+)
+ create mode 100644 _topics/can-a-new-challenger-outsmart-the-gafam-giants.md
+ create mode 100644 _topics/dark-ux-patterns-on-product-design-strategies.md
+ create mode 100644 _topics/dear-designers-it-is-not-enough-to-just-do-ux-design.md
+ create mode 100644 _topics/embracing-ai-as-a-designer-10-mind-blowing-ai-tools-i-discovered-this-week.md
+ create mode 100644 _topics/how-i-landed-my-first-job-as-a-founding-product-designer.md
+ create mode 100644 _topics/how-to-influence-stakeholders-as-a-product-designersecret-weapon.md
+ create mode 100644 _topics/in-the-shoes-of-users.md
+ create mode 100644 _topics/usability-test-tip-unpack-when-the-user-asks-questions.md
+ create mode 100644 _topics/why-did-nokia-phones-fail-nokias-failure-from-a-ux-perspective.md
+ create mode 100644 _topics/why-i-stopped-using-notion-an-honest-ux-review.md
+ create mode 100644 _topics/why-ux-design-is-a-great-career-in-2023.md
+remote: Resolving deltas:   0% (0/8)        remote: Resolving deltas:  12% (1/8)        remote: Resolving deltas:  25% (2/8)        remote: Resolving deltas:  37% (3/8)        remote: Resolving deltas:  50% (4/8)        remote: Resolving deltas:  62% (5/8)        remote: Resolving deltas:  75% (6/8)        remote: Resolving deltas:  87% (7/8)        remote: Resolving deltas: 100% (8/8)        remote: Resolving deltas: 100% (8/8), completed with 4 local objects.        
+To github.com:MattKevan/uxlift.git
+   b799e731..d99e1e6d  master -> master
+Feeds updated 06/01/2023 - 12:00:01 am BST
