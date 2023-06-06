@@ -18863,3 +18863,24 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 86db7b9a] Update feeds
+ 16 files changed, 196 insertions(+)
+ create mode 100644 _topics/all-21-product-prioritization-frameworks-for-pm.md
+ create mode 100644 _topics/designing-for-mental-health-creating-user-experiences-that-support-well-being.md
+ create mode 100644 _topics/diary-studies-a-research-method-worth-trying.md
+ create mode 100644 _topics/everyone-is-a-designer-embracing-the-creative-potential-of-all.md
+ create mode 100644 _topics/framer-study-guide.md
+ create mode 100644 _topics/how-can-deepfakes-improve-ux-design.md
+ create mode 100644 _topics/how-to-choose-the-ideal-ux-research-method.md
+ create mode 100644 _topics/how-to-create-a-car-renting-app-with-a-small-budget.md
+ create mode 100644 _topics/increasing-your-teams-efficiency-by-using-research-standards-and-templates.md
+ create mode 100644 _topics/product-development-how-complex-is-the-process.md
+ create mode 100644 _topics/stop-blaming-your-users-for-making-mistakes.md
+ create mode 100644 _topics/testing-the-future-a-guide-to-testing-ai-products-with-users.md
+ create mode 100644 _topics/tippy-tippy-tap-creativity.md
+ create mode 100644 _topics/using-polarization-to-mitigate-it.md
+ create mode 100644 _topics/what-is-motor-accessibility-tools-and-guidelines.md
+remote: Resolving deltas:   0% (0/9)        remote: Resolving deltas:  11% (1/9)        remote: Resolving deltas:  22% (2/9)        remote: Resolving deltas:  33% (3/9)        remote: Resolving deltas:  44% (4/9)        remote: Resolving deltas:  55% (5/9)        remote: Resolving deltas:  66% (6/9)        remote: Resolving deltas:  77% (7/9)        remote: Resolving deltas:  88% (8/9)        remote: Resolving deltas: 100% (9/9)        remote: Resolving deltas: 100% (9/9), completed with 4 local objects.        
+To github.com:MattKevan/uxlift.git
+   672bd52c..86db7b9a  master -> master
+Feeds updated 06/06/2023 - 12:00:01 am BST
