@@ -18913,3 +18913,19 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 87d0370a] Update feeds
+ 11 files changed, 119 insertions(+)
+ create mode 100644 _topics/analyzing-amazons-ui-a-product-designers-perspective.md
+ create mode 100644 _topics/decoding-ux-success-persuading-clients-to-embrace-testing-and-research-for-optimal-design.md
+ create mode 100644 _topics/design-monthly-vol-3.md
+ create mode 100644 _topics/get-ready-for-the-future-apples-bringing-new-eraspatial-ui.md
+ create mode 100644 _topics/guide-for-conducting-effective-usability-testing-improving-the-user-experience.md
+ create mode 100644 _topics/how-to-evaluate-and-improve-your-websites-ux-using-evalcards.md
+ create mode 100644 _topics/key-principles-for-reducing-the-complexities-of-an-interface-as-a-product-designer.md
+ create mode 100644 _topics/sports-sites-new-ux-benchmark-with-2600-performance-scores-and-2200-best-practice-examples.md
+ create mode 100644 _topics/the-dance-of-presentations-in-ux.md
+ create mode 100644 _topics/the-rattle-car-a-marvellous-piece-of-ux-design.md
+remote: Resolving deltas:   0% (0/8)        remote: Resolving deltas:  12% (1/8)        remote: Resolving deltas:  25% (2/8)        remote: Resolving deltas:  37% (3/8)        remote: Resolving deltas:  50% (4/8)        remote: Resolving deltas:  62% (5/8)        remote: Resolving deltas:  75% (6/8)        remote: Resolving deltas:  87% (7/8)        remote: Resolving deltas: 100% (8/8)        remote: Resolving deltas: 100% (8/8), completed with 4 local objects.        
+To github.com:MattKevan/uxlift.git
+   86db7b9a..87d0370a  master -> master
+Feeds updated 06/07/2023 - 12:00:01 am BST
