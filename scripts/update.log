@@ -18958,3 +18958,16 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 6f537bb0] Update feeds
+ 8 files changed, 92 insertions(+)
+ create mode 100644 _topics/ai-was-missing-at-wwdc-2023-but-it-was-full-of-ai-features.md
+ create mode 100644 _topics/apples-vision-pro-unveiled-a-closer-look-at-spatial-input-design-discussed-at-wwdc.md
+ create mode 100644 _topics/dear-hiring-managers-this-is-what-you-need-to-look-out-for-in-designers.md
+ create mode 100644 _topics/designing-a-better-world-with-don-norman.md
+ create mode 100644 _topics/how-apples-spatial-design-powerfully-transform-ux-design.md
+ create mode 100644 _topics/how-to-write-ux-documentation-like-a-pro.md
+ create mode 100644 _topics/job-hunting-hacks.md
+remote: Resolving deltas:   0% (0/7)        remote: Resolving deltas:  14% (1/7)        remote: Resolving deltas:  28% (2/7)        remote: Resolving deltas:  42% (3/7)        remote: Resolving deltas:  57% (4/7)        remote: Resolving deltas:  71% (5/7)        remote: Resolving deltas:  85% (6/7)        remote: Resolving deltas: 100% (7/7)        remote: Resolving deltas: 100% (7/7), completed with 4 local objects.        
+To github.com:MattKevan/uxlift.git
+   87d0370a..6f537bb0  master -> master
+Feeds updated 06/08/2023 - 12:00:02 am BST
