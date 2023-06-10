@@ -19035,3 +19035,18 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master cc12db7b] Update feeds
+ 11 files changed, 122 insertions(+)
+ create mode 100644 _topics/continuous-discovery-holy-grail-or-poisoned-chalice-ux-scotland-2023.md
+ create mode 100644 _topics/exploring-apples-spatial-design.md
+ create mode 100644 _topics/ez-organizer-discover-the-power-of-diy-storage-boxes.md
+ create mode 100644 _topics/how-gestalt-principles-can-enhance-user-experience.md
+ create mode 100644 _topics/how-tiktok-creators-fail-to-make-content-accessible.md
+ create mode 100644 _topics/influence-of-the-hawthorne-effect-on-user-behavior-implications-for-ux-research.md
+ create mode 100644 _topics/my-first-week-defining-a-design-process-and-leadership-hierarchy.md
+ create mode 100644 _topics/part-1-ux-design-meets-data-science.md
+ create mode 100644 _topics/the-dark-pattern-of-tipping-culture.md
+ create mode 100644 _topics/what-is-uiux-gamification.md
+To github.com:MattKevan/uxlift.git
+   89ad07d6..cc12db7b  master -> master
+Feeds updated 06/10/2023 - 12:00:01 am BST
