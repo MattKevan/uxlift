@@ -19150,3 +19150,19 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 68b13d7d] Update feeds
+ 12 files changed, 131 insertions(+)
+ create mode 100644 _topics/apple-vision-pro-and-the-future-of-gesture-control.md
+ create mode 100644 _topics/apple-vision-pro-redefining-the-future-of-uiux-design-in-mixed-reality.md
+ create mode 100644 _topics/designing-the-invisible-creating-intuitive-and-engaging-ar-mobile-experiences.md
+ create mode 100644 _topics/elevating-user-engagement-a-case-study-on-introducing-the-connect-feature-in-decathlon-app.md
+ create mode 100644 _topics/exploring-design-inspiration-a-comparative-analysis-of-three-inspiring-websites.md
+ create mode 100644 _topics/the-crucial-role-of-uiux-in-cybersecurity-products.md
+ create mode 100644 _topics/the-evolving-role-of-ux-in-the-ai-era-designing-user-centric-ethical-and-adaptive-experiences.md
+ create mode 100644 _topics/the-importance-of-creating-wow-moments.md
+ create mode 100644 _topics/using-persuasive-design-to-influence-user-behavior.md
+ create mode 100644 _topics/what-is-apples-spatial-ui.md
+ create mode 100644 _topics/your-ux-design-portfolio-needs-to-show-problem-solving.md
+To github.com:MattKevan/uxlift.git
+   4b915b11..68b13d7d  master -> master
+Feeds updated 06/13/2023 - 12:00:01 am BST
