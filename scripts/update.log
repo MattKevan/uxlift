@@ -19195,3 +19195,11 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 6d24d3f8] Update feeds
+ 4 files changed, 56 insertions(+)
+ create mode 100644 _topics/10-visualization-exercises-to-master-the-art-of-focus.md
+ create mode 100644 _topics/new-online-ux-training-platform-with-3-different-ux-degrees-all-based-on-baymards-extensive-ux-research.md
+ create mode 100644 _topics/spatial-design-8-principles-and-guidelines-for-immersive-experiences.md
+To github.com:MattKevan/uxlift.git
+   68b13d7d..6d24d3f8  master -> master
+Feeds updated 06/14/2023 - 12:00:01 am BST
