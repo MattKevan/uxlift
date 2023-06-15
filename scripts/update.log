@@ -19232,3 +19232,16 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master eedc818f] Update feeds
+ 9 files changed, 101 insertions(+)
+ create mode 100644 _topics/7-ai-tools-product-designers-need-to-know.md
+ create mode 100644 _topics/ar-design-evolution-how-apple-vision-pro-is-changing-the-game-for-product-designers.md
+ create mode 100644 _topics/designing-engaging-and-informative-data-visualization-widgets-tips-for-roi-and-cx-metrics.md
+ create mode 100644 _topics/designing-miho-an-e-commerce-website-from-scratch-uxui-case-study.md
+ create mode 100644 _topics/exploring-the-user-experience-of-the-adventure-reader-app-insights-from-independent-user-research.md
+ create mode 100644 _topics/find-my-fit-this-amazing-feature-in-nykaa-fashion-will-blow-your-mind.md
+ create mode 100644 _topics/illuminating-the-invisible-navigating-the-job-hunt-as-a-junior-uxui-designer-in-an-era-of.md
+ create mode 100644 _topics/top-10-free-typefaces-for-ui-design.md
+To github.com:MattKevan/uxlift.git
+   6d24d3f8..eedc818f  master -> master
+Feeds updated 06/15/2023 - 12:00:01 am BST
