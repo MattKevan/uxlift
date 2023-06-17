@@ -19308,3 +19308,9 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 086f352a] Update feeds
+ 2 files changed, 38 insertions(+)
+ create mode 100644 _topics/are-your-design-policies-a-house-rule-or-the-law.md
+To github.com:MattKevan/uxlift.git
+   52555118..086f352a  master -> master
+Feeds updated 06/17/2023 - 12:00:01 am BST
