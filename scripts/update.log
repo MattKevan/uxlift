@@ -19377,3 +19377,10 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master ca982a7d] Update feeds
+ 3 files changed, 47 insertions(+)
+ create mode 100644 _topics/ai-first-new-ui-paradigm-in-60-years.md
+ create mode 100644 _topics/an-error-messages-scoring-rubric.md
+To github.com:MattKevan/uxlift.git
+   eef9fd25..ca982a7d  master -> master
+Feeds updated 06/19/2023 - 12:00:01 am BST
