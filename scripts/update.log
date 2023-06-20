@@ -19413,3 +19413,26 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 230afc5d] Update feeds
+ 19 files changed, 222 insertions(+)
+ create mode 100644 _topics/a-journey-of-self-reflection-and-fulfillment-unleashing-desires-to-achieve-extraordinary-goals.md
+ create mode 100644 _topics/artificial-intelligence-who-owns-the-future-ethical-net.md
+ create mode 100644 _topics/balancing-users-data-privacy-and-the-user-experience.md
+ create mode 100644 _topics/balancing-users-needs-and-business-goals-in-ux-design.md
+ create mode 100644 _topics/creating-mobile-app-experiences-that-are-easy-to-learn-and-use.md
+ create mode 100644 _topics/design-systems-documentation-with-zeroheight.md
+ create mode 100644 _topics/embrace-silence-to-lighten-ux-research-skills.md
+ create mode 100644 _topics/how-do-i-perform-ux-heuristic-evaluation.md
+ create mode 100644 _topics/how-slack-is-making-remote-work-more-accessible.md
+ create mode 100644 _topics/knolling-in-midjourney-go-ahead-unpack-everything.md
+ create mode 100644 _topics/picking-up-articulating-design-decisions-by-tom-greever.md
+ create mode 100644 _topics/the-a-i-dilemma-march-9-2023.md
+ create mode 100644 _topics/the-basics-of-typography.md
+ create mode 100644 _topics/the-dangers-of-highly-centralized-ai-by-clive-thompson-medium.md
+ create mode 100644 _topics/the-problem-with-bad-error-messages-and-how-to-fix-them.md
+ create mode 100644 _topics/the-role-of-navigation-and-information-architecture-in-the-ecommerce-experience.md
+ create mode 100644 _topics/want-to-boost-your-ui-skills-discover-these-8-powerful-tips.md
+ create mode 100644 _topics/why-ux-testing-is-critical-to-your-web-sites-success.md
+To github.com:MattKevan/uxlift.git
+   ca982a7d..230afc5d  master -> master
+Feeds updated 06/20/2023 - 12:00:01 am BST
