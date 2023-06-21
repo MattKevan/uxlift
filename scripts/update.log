@@ -19465,3 +19465,14 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 1dad2a7b] Update feeds
+ 7 files changed, 83 insertions(+)
+ create mode 100644 _topics/beyond-motivation-what-drives-my-persistence-in-a-specific-line-of-work.md
+ create mode 100644 _topics/catchy-hook-about-how-ux-and-ux-research-has-gone-to-shit-here.md
+ create mode 100644 _topics/exploring-the-variables-in-scss.md
+ create mode 100644 _topics/i-used-behavioral-economics-to-redesign-breakfast-for-my-kid.md
+ create mode 100644 _topics/improving-fintech-apps-loan-availing-experience-through-user-research.md
+ create mode 100644 _topics/mastering-apples-ar-guidelines-an-exploration-into-designing-for-ar.md
+To github.com:MattKevan/uxlift.git
+   230afc5d..1dad2a7b  master -> master
+Feeds updated 06/21/2023 - 12:00:01 am BST
