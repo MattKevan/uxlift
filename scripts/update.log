@@ -19505,3 +19505,11 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master e1eaadbf] Update feeds
+ 4 files changed, 56 insertions(+)
+ create mode 100644 _topics/how-my-formal-design-education-differs-from-ux-bootcamps.md
+ create mode 100644 _topics/spatial-computing-101.md
+ create mode 100644 _topics/the-current-state-of-homepage-and-category-navigation-ux-12-common-pitfalls.md
+To github.com:MattKevan/uxlift.git
+   1dad2a7b..e1eaadbf  master -> master
+Feeds updated 06/22/2023 - 12:00:01 am BST
