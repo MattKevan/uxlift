@@ -19542,3 +19542,20 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master c153f722] Update feeds
+ 13 files changed, 342 insertions(+)
+ create mode 100644 _topics/applying-behavioural-science-in-ux-design.md
+ create mode 100644 _topics/config-2023-figma-unveils-game-changing-updates-for-design-and-development-collaboration.md
+ create mode 100644 _topics/config-2023whats-new-in-figma-recap.md
+ create mode 100644 _topics/how-slack-duolingo-instagram-calm-are-using-internal-triggers-to-improve-their-engagement.md
+ create mode 100644 _topics/humility-an-essential-value.md
+ create mode 100644 _topics/key-takeaways-from-difficult-experiences.md
+ create mode 100644 _topics/my-tips-from-our-figma-like-the-pros-talk-during-config-2023.md
+ create mode 100644 _topics/small-and-big-updates-from-figma-config-2023-you-shouldnt-miss.md
+ create mode 100644 _topics/ux-case-study-font-swapbuilding-a-figma-plugin.md
+ create mode 100644 _topics/uxui-case-studytranslate-labs.md
+ create mode 100644 _topics/what-is-a-storyboard-in-web-design.md
+ create mode 100644 _topics/what-separates-rigorous-research-from-customer-conversations.md
+To github.com:MattKevan/uxlift.git
+   e1eaadbf..c153f722  master -> master
+Feeds updated 06/23/2023 - 12:00:01 am BST
