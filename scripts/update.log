@@ -19588,3 +19588,9 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master e4db8cfa] Update feeds
+ 2 files changed, 38 insertions(+)
+ create mode 100644 _topics/stop-sabbatical-time.md
+To github.com:MattKevan/uxlift.git
+   c153f722..e4db8cfa  master -> master
+Feeds updated 06/24/2023 - 12:00:01 am BST
