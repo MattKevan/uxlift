@@ -19667,3 +19667,10 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 28f49db7] Update feeds
+ 3 files changed, 47 insertions(+)
+ create mode 100644 _topics/how-to-conduct-a-heuristic-evaluation.md
+ create mode 100644 _topics/passwordless-accounts-one-time-passwords-otps-and-passkeys.md
+To github.com:MattKevan/uxlift.git
+   04f1234e..28f49db7  master -> master
+Feeds updated 06/26/2023 - 12:00:01 am BST
