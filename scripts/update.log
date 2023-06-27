@@ -19703,3 +19703,16 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 41c2502c] Update feeds
+ 9 files changed, 101 insertions(+)
+ create mode 100644 _topics/4-ways-to-be-creative.md
+ create mode 100644 _topics/5-cognitive-biases-to-avoid-in-user-research.md
+ create mode 100644 _topics/a-designers-take-on-ai.md
+ create mode 100644 _topics/best-books-on-ux-writing-strategic-writing-content-strategy.md
+ create mode 100644 _topics/chatgpt-ux-writing-accelerating-the-creation-of-error-messages-in-product-design.md
+ create mode 100644 _topics/how-shopify-an-80-billion-juggernaut-optimizes-its-landing-page-to-increase-conversions.md
+ create mode 100644 _topics/storytelling-in-ux-designpres-framework.md
+ create mode 100644 _topics/user-inyerface-a-worst-practice-ui-experiment.md
+To github.com:MattKevan/uxlift.git
+   28f49db7..41c2502c  master -> master
+Feeds updated 06/27/2023 - 12:00:01 am BST
