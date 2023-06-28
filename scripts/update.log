@@ -19745,3 +19745,11 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master cff90bae] Update feeds
+ 4 files changed, 56 insertions(+)
+ create mode 100644 _topics/artificial-intelligence-humanity-an-article-by-dan-mall.md
+ create mode 100644 _topics/no-handoff-close-the-gap-between-product-and-engineering.md
+ create mode 100644 _topics/use-delivery-date-not-shipping-speed-41-dont-from-ux-research-to-implementation-roadmap.md
+To github.com:MattKevan/uxlift.git
+   41c2502c..cff90bae  master -> master
+Feeds updated 06/28/2023 - 12:00:01 am BST
