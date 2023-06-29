@@ -19782,3 +19782,13 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master d506d216] Update feeds
+ 6 files changed, 74 insertions(+)
+ create mode 100644 _topics/5-reference-sites-and-cheat-sheets-for-ux-professionals.md
+ create mode 100644 _topics/how-to-make-a-payment-service-like-cash-app.md
+ create mode 100644 _topics/importance-of-typography.md
+ create mode 100644 _topics/the-role-of-neuroaesthetics-in-product-design-an-introduction.md
+ create mode 100644 _topics/the-ultimate-games-design-guide.md
+To github.com:MattKevan/uxlift.git
+   cff90bae..d506d216  master -> master
+Feeds updated 06/29/2023 - 12:00:01 am BST
