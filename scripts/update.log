@@ -19821,3 +19821,17 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 2bf7aecf] Update feeds
+ 10 files changed, 110 insertions(+)
+ create mode 100644 _topics/10-figma-design-systems-to-build-products-10x-faster.md
+ create mode 100644 _topics/15-ai-tools-every-uiux-designer-must-try.md
+ create mode 100644 _topics/23-strategies-for-lowering-crm-workloads-and-headcount.md
+ create mode 100644 _topics/figma-variablesultimate-guide.md
+ create mode 100644 _topics/mastering-client-interviews-applying-the-principles-of-the-mom-test-for-effective-questioning-as.md
+ create mode 100644 _topics/step-inside-the-mind-of-a-top-1-designers.md
+ create mode 100644 _topics/the-future-of-design-is-ai-powered-10-figma-plugins-to-get-you-started.md
+ create mode 100644 _topics/ux-debt-vs-ux-backlog-in-the-era-of-product-design.md
+ create mode 100644 _topics/what-is-spatial-ui-design.md
+To github.com:MattKevan/uxlift.git
+   d506d216..2bf7aecf  master -> master
+Feeds updated 06/30/2023 - 12:00:01 am BST
