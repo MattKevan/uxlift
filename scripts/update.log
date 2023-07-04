@@ -19990,3 +19990,34 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 To github.com:MattKevan/uxlift.git
    c29be261..0fd89bd5  master -> master
 Feeds updated 07/04/2023 - 12:00:01 am BST
+[master 5df18194] First update
+ 1 file changed, 11 insertions(+)
+Already up to date.
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+/usr/lib/ruby/2.7.0/open-uri.rb:387:in `open_http': 502 Bad Gateway (OpenURI::HTTPError)
+	from /usr/lib/ruby/2.7.0/open-uri.rb:764:in `buffer_open'
+	from /usr/lib/ruby/2.7.0/open-uri.rb:235:in `block in open_loop'
+	from /usr/lib/ruby/2.7.0/open-uri.rb:233:in `catch'
+	from /usr/lib/ruby/2.7.0/open-uri.rb:233:in `open_loop'
+	from /usr/lib/ruby/2.7.0/open-uri.rb:174:in `open_uri'
+	from /usr/lib/ruby/2.7.0/open-uri.rb:744:in `open'
+	from /usr/lib/ruby/2.7.0/open-uri.rb:50:in `open'
+	from /usr/lib/ruby/2.7.0/open-uri.rb:19:in `open'
+	from feeds.rb:56:in `block in <main>'
+	from feeds.rb:51:in `each'
+	from feeds.rb:51:in `<main>'
