@@ -19979,3 +19979,14 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 0fd89bd5] Update feeds
+ 7 files changed, 83 insertions(+)
+ create mode 100644 _topics/beyond-pixels-explore-the-impactful-connection-between-ux-psychology-and-life.md
+ create mode 100644 _topics/beyond-simple-design-is-figma-taking-off-as-a-no-code-tool.md
+ create mode 100644 _topics/design-with-intuition-not-logic.md
+ create mode 100644 _topics/dissecting-the-design-of-joan-is-awful.md
+ create mode 100644 _topics/ux-design-a-thankless-profession.md
+ create mode 100644 _topics/whiteboard-challenge-as-a-nonsense.md
+To github.com:MattKevan/uxlift.git
+   c29be261..0fd89bd5  master -> master
+Feeds updated 07/04/2023 - 12:00:01 am BST
