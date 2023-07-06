@@ -20055,3 +20055,14 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master a4671fc3] Update feeds
+ 7 files changed, 83 insertions(+)
+ create mode 100644 _topics/10-essential-website-management-tasks-every-business-owner-should-know.md
+ create mode 100644 _topics/creating-effective-screener-surveys.md
+ create mode 100644 _topics/embarking-on-the-ux-design-journey-a-beginners-guide-from-a-relatable-perspective.md
+ create mode 100644 _topics/great-holiday-rules-for-ux-designers.md
+ create mode 100644 _topics/how-much-friction-is-too-much-in-ux-design.md
+ create mode 100644 _topics/how-the-peak-end-rule-affects-user-experience.md
+To github.com:MattKevan/uxlift.git
+   2dbe99ea..a4671fc3  master -> master
+Feeds updated 07/06/2023 - 12:00:01 am BST
