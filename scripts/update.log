@@ -20131,3 +20131,17 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 7d275bf6] Update feeds
+ 10 files changed, 110 insertions(+)
+ create mode 100644 _topics/2023-logo-trendsmake-your-brand-pop.md
+ create mode 100644 _topics/7-ai-powered-figma-plugins-for-ux-designers-super-charge-your-design-process.md
+ create mode 100644 _topics/beyond-output-the-power-of-empathy-in-leading-successful-design-teams.md
+ create mode 100644 _topics/from-figma-to-flutterflow-a-uiux-designers-transition-into-low-code-development.md
+ create mode 100644 _topics/jtbd-research-how-we-at-amenitiz-discovered-the-key-jobs-and-pain-points-of-hospitality.md
+ create mode 100644 _topics/micro-interactions-in-ios-creating-apps-that-feel-better.md
+ create mode 100644 _topics/refreshing-my-website-in-3-years-and-things-that-changed-in-between.md
+ create mode 100644 _topics/the-dna-of-digital-health-10-unignorable-statistics-for-visionary-product-leaders.md
+ create mode 100644 _topics/the-significance-of-heatmaps-in-enhancing-user-experiences-in-web-and-mobile-app-development.md
+To github.com:MattKevan/uxlift.git
+   ffff2db8..7d275bf6  master -> master
+Feeds updated 07/08/2023 - 12:00:01 am BST
