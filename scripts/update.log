@@ -20208,3 +20208,11 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 13c91776] Update feeds
+ 4 files changed, 56 insertions(+)
+ create mode 100644 _topics/10-best-intranets-of-2023-what-makes-them-great.md
+ create mode 100644 _topics/2023-intranet-design-annual-winners.md
+ create mode 100644 _topics/virtual-queues-13-best-practices-for-managing-the-wait.md
+To github.com:MattKevan/uxlift.git
+   7f40dd14..13c91776  master -> master
+Feeds updated 07/10/2023 - 12:00:02 am BST
