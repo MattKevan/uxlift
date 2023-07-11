@@ -20245,3 +20245,14 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 0ae275a8] Update feeds
+ 7 files changed, 116 insertions(+)
+ create mode 100644 _topics/5-immersive-ecommerce-design-tips-to-help-increase-engagement.md
+ create mode 100644 _topics/data-driven-design-the-rise-of-big-data-in-ux.md
+ create mode 100644 _topics/developing-inclusivity-features.md
+ create mode 100644 _topics/mockups-explained.md
+ create mode 100644 _topics/pfizers-design-system-spatial-design-and-ai-is-coming-after-your-boring-job.md
+ create mode 100644 _topics/the-anatomy-of-a-perfect-landing-page-that-converts.md
+To github.com:MattKevan/uxlift.git
+   13c91776..0ae275a8  master -> master
+Feeds updated 07/11/2023 - 12:00:01 am BST
