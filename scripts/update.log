@@ -20553,3 +20553,22 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:15:in `block in <main>': undefined method `parser=' for nil:NilClass (NoMethodError)
 	from feeds.rb:9:in `each'
 	from feeds.rb:9:in `<main>'
+[master 3ffe05ca] Update feeds
+ 15 files changed, 143 insertions(+)
+ create mode 100644 _topics/65-common-mistakes-to-avoid-in-your-first-design-interviewchecklist.md
+ create mode 100644 _topics/a-full-guide-for-figma-rename-layers-feature-to-improve-productivity.md
+ create mode 100644 _topics/ai-cannot-succeed-without-product-managers.md
+ create mode 100644 _topics/ai-improves-employee-productivity-by-66.md
+ create mode 100644 _topics/apple-vision-pro-spatial-design-101-part-2.md
+ create mode 100644 _topics/apple-vision-pro-spatial-design-101a-beginners-guide.md
+ create mode 100644 _topics/between-subjects-vs-within-subjects-study-design.md
+ create mode 100644 _topics/crack-the-code-crafting-the-perfect-landing-page-design-in-5-minutes.md
+ create mode 100644 _topics/csd-matrix-framework-and-template-for-shared-understanding.md
+ create mode 100644 _topics/striking-a-balance-rationalism-vs-creativity-in-the-creative-process.md
+ create mode 100644 _topics/the-inclusive-ux-writing-starter-kit.md
+ create mode 100644 _topics/the-power-of-accessibility-in-design-creating-inclusive-experiences.md
+ create mode 100644 _topics/top-4-highly-recommended-skillshare-courses-to-master-brand-identity-design-in-2023.md
+ create mode 100644 _topics/victim-of-bad-designs.md
+To github.com:MattKevan/uxlift.git
+   0ae275a8..3ffe05ca  master -> master
+Feeds updated 07/18/2023 - 12:00:01 am BST
