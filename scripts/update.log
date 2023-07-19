@@ -20601,3 +20601,13 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 400ec4fb] Update feeds
+ 6 files changed, 74 insertions(+)
+ create mode 100644 _topics/dear-designers-your-day-job-should-not-be-for-passion-or-social-good.md
+ create mode 100644 _topics/display-price-per-unit-for-multiquantity-items-86-dont.md
+ create mode 100644 _topics/how-ux-outcomes-make-a-teams-daily-work-truly-human-centered.md
+ create mode 100644 _topics/new-2023-on-site-search-ux-benchmark-with-1000-performance-scores-and-1400-best-practice-examples.md
+ create mode 100644 _topics/ux-conference-october-announced-sep-30-oct-6.md
+To github.com:MattKevan/uxlift.git
+   3ffe05ca..400ec4fb  master -> master
+Feeds updated 07/19/2023 - 12:00:01 am BST
