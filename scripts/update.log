@@ -20640,3 +20640,19 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master fbfb7ac5] Update feeds
+ 12 files changed, 128 insertions(+)
+ create mode 100644 _topics/10-ways-user-generated-content-boosts-your-websites-success.md
+ create mode 100644 _topics/7-amazing-figma-courses-on-skillshare-to-kickstart-your-ux-design-journey-in-2023.md
+ create mode 100644 _topics/a-deep-dive-into-the-product-design-process.md
+ create mode 100644 _topics/a-possible-way-to-interact-with-agi.md
+ create mode 100644 _topics/can-you-have-your-cake-and-eat-it-too-the-pros-and-cons-of-accessibility-mode.md
+ create mode 100644 _topics/designing-for-scalability-creating-flexible-and-scalable-designs-for-saas-products.md
+ create mode 100644 _topics/how-to-create-a-captivating-product-design-portfolio-with-examples.md
+ create mode 100644 _topics/introducing-figma-variables-translator.md
+ create mode 100644 _topics/revolutionizing-passport-access-mobile-uiux.md
+ create mode 100644 _topics/sabbradical-vibe-check-1.md
+ create mode 100644 _topics/uiux-design-the-new-figma-features.md
+To github.com:MattKevan/uxlift.git
+   400ec4fb..fbfb7ac5  master -> master
+Feeds updated 07/20/2023 - 12:00:01 am BST
