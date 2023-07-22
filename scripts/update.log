@@ -20720,3 +20720,18 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 7dbe5c8c] Update feeds
+ 11 files changed, 119 insertions(+)
+ create mode 100644 _topics/5-subtle-ab-tests-that-threads-have-been-running-since-launch.md
+ create mode 100644 _topics/apple-vision-pro-spatial-design-101part-3.md
+ create mode 100644 _topics/boundaries-between-lead-art-director-and-pm.md
+ create mode 100644 _topics/optimizing-website-user-experience-how-ai-personalization-algorithms-drive-conversion-rates.md
+ create mode 100644 _topics/speed-up-your-design-25-figma-shortcuts-you-have-to-know.md
+ create mode 100644 _topics/the-power-trio-of-controlnet-in-stable-diffusion.md
+ create mode 100644 _topics/transformative-power-of-design-unnoticed.md
+ create mode 100644 _topics/uiux-career-how-to-present-your-value.md
+ create mode 100644 _topics/understanding-colours-in-screens-the-story-of-srgb-and-dci-p3-colour-profiles.md
+ create mode 100644 _topics/why-design-reading-sucks-after-a-certain-point.md
+To github.com:MattKevan/uxlift.git
+   c0c10a15..7dbe5c8c  master -> master
+Feeds updated 07/22/2023 - 12:00:01 am BST
