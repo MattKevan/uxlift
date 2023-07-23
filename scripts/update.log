@@ -20764,3 +20764,15 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master b6518031] Update feeds
+ 8 files changed, 92 insertions(+)
+ create mode 100644 _topics/10-ai-figma-plugins-every-uiux-designer-must-try.md
+ create mode 100644 _topics/a-ux-writers-guide-to-writing-a-content-design-proposal.md
+ create mode 100644 _topics/deep-dive-into-wcag-2-1with-html-css-examples.md
+ create mode 100644 _topics/how-to-write-effectively-for-the-web.md
+ create mode 100644 _topics/software-ergonomics.md
+ create mode 100644 _topics/uiux-design-three-midjourney-alternatives.md
+ create mode 100644 _topics/understanding-social-media-for-freelance-designers.md
+To github.com:MattKevan/uxlift.git
+   7dbe5c8c..b6518031  master -> master
+Feeds updated 07/23/2023 - 12:00:01 am BST
