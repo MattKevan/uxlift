@@ -20805,3 +20805,16 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master db1b6c26] Update feeds
+ 9 files changed, 101 insertions(+)
+ create mode 100644 _topics/ai-agents-the-ux-design-behind-crafting-digital-companions.md
+ create mode 100644 _topics/maintain-work-life-balance-as-a-ux-designer.md
+ create mode 100644 _topics/mastering-ux-design-top-10-must-read-books-in-2023.md
+ create mode 100644 _topics/oops-i-forgot-to-add-this-an-innovative-solution-to-the-instamart-checkout-woes.md
+ create mode 100644 _topics/tables-that-arent-boring-a-guide-to-creating-visually-appealing-and-informative-data-tables.md
+ create mode 100644 _topics/usability-testing-with-older-adults.md
+ create mode 100644 _topics/using-imagery-in-visual-design.md
+ create mode 100644 _topics/you-dont-have-to-reinvent-the-wheel-the-truth-behind-ux-design.md
+To github.com:MattKevan/uxlift.git
+   b6518031..db1b6c26  master -> master
+Feeds updated 07/24/2023 - 12:00:01 am BST
