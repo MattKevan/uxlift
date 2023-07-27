@@ -20914,3 +20914,12 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 60d29b2d] Update feeds
+ 5 files changed, 65 insertions(+)
+ create mode 100644 _topics/a-brief-history-of-ux.md
+ create mode 100644 _topics/health-beauty-sites-new-ux-benchmark-with-1500-performance-scores-and-1200-best-practice-examples.md
+ create mode 100644 _topics/how-chatgpt-code-interpreter-can-help-you-save-time-in-your-design-process.md
+ create mode 100644 _topics/uxui-design-strategies-for-saas-dashboards-empowering-users-to-effectively-manage-data.md
+To github.com:MattKevan/uxlift.git
+   45b64140..60d29b2d  master -> master
+Feeds updated 07/27/2023 - 12:00:01 am BST
