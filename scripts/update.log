@@ -20952,3 +20952,9 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 234400e5] Update feeds
+ 2 files changed, 38 insertions(+)
+ create mode 100644 _topics/user-experience-vs-customer-experience-whats-the-difference.md
+To github.com:MattKevan/uxlift.git
+   60d29b2d..234400e5  master -> master
+Feeds updated 07/28/2023 - 12:00:01 am BST
