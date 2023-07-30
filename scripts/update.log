@@ -21018,3 +21018,18 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master c4155d48] Update feeds
+ 11 files changed, 119 insertions(+)
+ create mode 100644 _topics/7-science-backed-ways-designers-can-strengthen-their-creativity-muscle.md
+ create mode 100644 _topics/creativity-the-joy-of-happy-ideas.md
+ create mode 100644 _topics/design-career-levels-principles-of-storytelling.md
+ create mode 100644 _topics/design-systems-management-from-bottom-up.md
+ create mode 100644 _topics/how-to-create-ideas.md
+ create mode 100644 _topics/how-to-write-comments-on-figma-file-fast.md
+ create mode 100644 _topics/how-ux-research-could-help-b2b-saas-products-meet-their-goals.md
+ create mode 100644 _topics/mastering-ux-7-lessons-from-steve-jobs-and-apples-innovation.md
+ create mode 100644 _topics/redesigning-a-product-page.md
+ create mode 100644 _topics/the-essential-art-of-constant-testing-in-ux-its-an-ab-not-ez-thing.md
+To github.com:MattKevan/uxlift.git
+   844639cf..c4155d48  master -> master
+Feeds updated 07/30/2023 - 12:00:01 am BST
