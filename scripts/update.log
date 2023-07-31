@@ -21062,3 +21062,20 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master b9eb92e4] Update feeds
+ 13 files changed, 137 insertions(+)
+ create mode 100644 _topics/a-novices-voyage-into-framer-tips-trials-and-triumphs.md
+ create mode 100644 _topics/accordions-on-desktop-when-and-how-to-use.md
+ create mode 100644 _topics/apple-vision-pro-spatial-design-101-part-4.md
+ create mode 100644 _topics/designers-guide-to-a-perfect-cover-letters.md
+ create mode 100644 _topics/designing-for-a-seamless-hiring-experience-the-interview-scheduler.md
+ create mode 100644 _topics/dilemma-of-being-creative-and-practical-when-make-user-interfaces.md
+ create mode 100644 _topics/empathetic-robots-can-artificial-intelligence-surpass-human-leaders-in-emotional-quotient.md
+ create mode 100644 _topics/how-do-we-know-how-intelligent-ai-systems-are.md
+ create mode 100644 _topics/stop-calling-out-your-lmm-for-every-similar-question.md
+ create mode 100644 _topics/the-10-best-intranets-of-2023-trends-in-design-and-process.md
+ create mode 100644 _topics/traversing-the-stars-an-empathetic-appeal-for-the-alcubierre-warp-drive.md
+ create mode 100644 _topics/urgent-call-for-product-managers-in-the-u-s-federal-government.md
+To github.com:MattKevan/uxlift.git
+   c4155d48..b9eb92e4  master -> master
+Feeds updated 07/31/2023 - 12:00:01 am BST
