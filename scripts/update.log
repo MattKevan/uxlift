@@ -21150,3 +21150,14 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 280b4f2c] Update feeds
+ 7 files changed, 83 insertions(+)
+ create mode 100644 _topics/12-best-practices-for-mobile-app-design-in-2023.md
+ create mode 100644 _topics/avoid-quick-views-for-spec-driven-product-types-21-dont.md
+ create mode 100644 _topics/how-web-design-impacts-content-marketing-in-2023.md
+ create mode 100644 _topics/i-used-the-10-most-popular-ai-logo-design-tools-and-heres-what-i-found.md
+ create mode 100644 _topics/rethinking-reality-the-profound-role-of-open-source-in-ai-development.md
+ create mode 100644 _topics/why-we-will-achieve-ai-superintelligence-within-a-decade.md
+To github.com:MattKevan/uxlift.git
+   202e6c1c..280b4f2c  master -> master
+Feeds updated 08/02/2023 - 12:00:01 am BST
