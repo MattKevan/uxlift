@@ -21224,3 +21224,9 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 7a91cfb5] Update feeds
+ 2 files changed, 38 insertions(+)
+ create mode 100644 _topics/10-trending-ai-logo-design-tools-tried-tested.md
+To github.com:MattKevan/uxlift.git
+   c0bfe118..7a91cfb5  master -> master
+Feeds updated 08/04/2023 - 12:00:01 am BST
