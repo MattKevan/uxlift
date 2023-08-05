@@ -21259,3 +21259,17 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master bacdaf94] Update feeds
+ 10 files changed, 110 insertions(+)
+ create mode 100644 _topics/7-red-flags-to-watch-out-for-during-a-ux-interview.md
+ create mode 100644 _topics/9-incredible-ai-tools-for-enhance-ux-experience-you-probably-didnt-know-existed.md
+ create mode 100644 _topics/assistive-music-technology-mobile-uiux.md
+ create mode 100644 _topics/design-systems-a-beginners-guide.md
+ create mode 100644 _topics/how-cultural-values-influence-similar-aesthetics-in-ux-product-design.md
+ create mode 100644 _topics/how-to-use-photoshop-ai-generative-fill-and-how-to-apply-it-in-our-day-to-day-design-work.md
+ create mode 100644 _topics/stop-preaching-ux-process.md
+ create mode 100644 _topics/streamlining-project-billing-process-the-all-in-one-dashboard.md
+ create mode 100644 _topics/ux-conference-november-announced-oct-29-nov-3.md
+To github.com:MattKevan/uxlift.git
+   7a91cfb5..bacdaf94  master -> master
+Feeds updated 08/05/2023 - 12:00:01 am BST
