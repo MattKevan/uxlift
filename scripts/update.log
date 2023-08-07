@@ -21337,3 +21337,10 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 36634156] Update feeds
+ 3 files changed, 47 insertions(+)
+ create mode 100644 _topics/scrolljacking-101.md
+ create mode 100644 _topics/tree-testing-fast-iterative-evaluation-of-menu-labels-and-categories.md
+To github.com:MattKevan/uxlift.git
+   96d58cc6..36634156  master -> master
+Feeds updated 08/07/2023 - 12:00:01 am BST
