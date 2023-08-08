@@ -21373,3 +21373,15 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 9f4ed595] Update feeds
+ 8 files changed, 125 insertions(+)
+ create mode 100644 _topics/3-content-quality-rules-for-improving-the-ecommerce-user-experience.md
+ create mode 100644 _topics/breaking-the-rules-when-consistency-in-microcopy-does-more-harm-than-good.md
+ create mode 100644 _topics/case-study-designing-a-web-site-for-a-charity-foundation.md
+ create mode 100644 _topics/dear-junior-designer-dont-rush-to-be-senior.md
+ create mode 100644 _topics/embrace-silence-to-enlighten-your-ux-research-skills.md
+ create mode 100644 _topics/unleashing-the-potential-of-ai-empowering-technical-writers.md
+ create mode 100644 _topics/using-color-and-design-elements-to-maximize-ecommerce-sales.md
+To github.com:MattKevan/uxlift.git
+   36634156..9f4ed595  master -> master
+Feeds updated 08/08/2023 - 12:00:01 am BST
