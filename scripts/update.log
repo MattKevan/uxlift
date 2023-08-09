@@ -21411,3 +21411,9 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 	from feeds.rb:14:in `block in <main>'
 	from feeds.rb:9:in `each'
 	from feeds.rb:9:in `<main>'
+[master 28bc1ccd] Update feeds
+ 2 files changed, 35 insertions(+)
+ create mode 100644 _topics/6-5-of-the-most-popular-ui-design-trends-and-how-to-design-them-all.md
+To github.com:MattKevan/uxlift.git
+   9f4ed595..28bc1ccd  master -> master
+Feeds updated 08/09/2023 - 12:00:01 am BST
