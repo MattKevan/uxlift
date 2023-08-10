@@ -21446,3 +21446,22 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 63982259] Update feeds
+ 15 files changed, 155 insertions(+)
+ create mode 100644 _topics/15-excellent-color-plugins-for-figma.md
+ create mode 100644 _topics/20-essential-figma-plugins-every-designer-must-try.md
+ create mode 100644 _topics/4-apps-to-beat-stress.md
+ create mode 100644 _topics/7-ai-tools-every-product-designer-should-try.md
+ create mode 100644 _topics/apple-vision-pro-spatial-design-101-part-5.md
+ create mode 100644 _topics/color-psychology-in-ui-design-impact-on-users-conversion-rates.md
+ create mode 100644 _topics/hatch-conference-an-event-for-ux-design-experts-in-berlin-online.md
+ create mode 100644 _topics/how-to-know-youre-doing-great-at-uiux.md
+ create mode 100644 _topics/how-ux-metrics-play-a-pivotal-role-in-achieving-product-excellence.md
+ create mode 100644 _topics/make-all-color-swatches-available-in-mobile-list-items-for-visually-driven-product-types-57-dont.md
+ create mode 100644 _topics/navigating-the-ranks-mastering-effective-communication-as-a-junior-product-designer.md
+ create mode 100644 _topics/stand-out-in-the-ux-job-market-with-your-personal-story.md
+ create mode 100644 _topics/the-role-of-ai-in-cybersecurity-and-threat-detection-5-use-cases.md
+ create mode 100644 _topics/unfair-advantages-at-work.md
+To github.com:MattKevan/uxlift.git
+   28bc1ccd..63982259  master -> master
+Feeds updated 08/10/2023 - 12:00:01 am BST
