@@ -21598,3 +21598,17 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 2fc22cba] Update feeds
+ 10 files changed, 110 insertions(+)
+ create mode 100644 _topics/common-pitfalls-in-design-systems-overcoming-grid-challenges-semantic-naming-accessibility.md
+ create mode 100644 _topics/create-your-own-design-system-chapter-typography.md
+ create mode 100644 _topics/does-career-path-matter-for-new-designers.md
+ create mode 100644 _topics/from-idea-to-video-in-30-seconds-combining-the-power-of-claude-ai-with-runway-ml-gen-2.md
+ create mode 100644 _topics/mastering-the-job-interview-as-a-junior-ux-designer-in-2023.md
+ create mode 100644 _topics/overcoming-the-articulation-barrier-in-generative-ai-using-hybrid-interfaces.md
+ create mode 100644 _topics/relationship-mapping-strategically-focus-on-key-people.md
+ create mode 100644 _topics/the-ultimate-collection-of-generative-ai-ux-interactions.md
+ create mode 100644 _topics/the-ux-designers-guide-to-angel-investing-in-startups.md
+To github.com:MattKevan/uxlift.git
+   0be17f3d..2fc22cba  master -> master
+Feeds updated 08/14/2023 - 12:00:01 am BST
