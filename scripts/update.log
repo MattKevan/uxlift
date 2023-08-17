@@ -21715,3 +21715,12 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 25e54d08] Update feeds
+ 5 files changed, 65 insertions(+)
+ create mode 100644 _topics/sky-sports-ux-design-case-study.md
+ create mode 100644 _topics/strategic-design-methodologies-crafting-success-for-your-digital-products.md
+ create mode 100644 _topics/top-10-icon-plugins-for-figma.md
+ create mode 100644 _topics/what-my-design-process-looks-like-for-client-projects.md
+To github.com:MattKevan/uxlift.git
+   1bce4b5b..25e54d08  master -> master
+Feeds updated 08/17/2023 - 12:00:01 am BST
