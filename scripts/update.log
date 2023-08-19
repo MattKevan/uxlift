@@ -21817,3 +21817,9 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master dd45ac03] Update feeds
+ 2 files changed, 38 insertions(+)
+ create mode 100644 _topics/building-bridges-not-just-followers.md
+To github.com:MattKevan/uxlift.git
+   25e54d08..dd45ac03  master -> master
+Feeds updated 08/19/2023 - 12:00:01 am BST
