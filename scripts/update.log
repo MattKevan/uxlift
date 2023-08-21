@@ -21894,3 +21894,11 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 6c6c1bc4] Update feeds
+ 4 files changed, 56 insertions(+)
+ create mode 100644 _topics/balancing-natural-behavior-with-incentives-and-accuracy-in-diary-studies.md
+ create mode 100644 _topics/designing-decorative-elements-in-figma.md
+ create mode 100644 _topics/writing-good-survey-questions-10-best-practices.md
+To github.com:MattKevan/uxlift.git
+   899e8815..6c6c1bc4  master -> master
+Feeds updated 08/21/2023 - 12:00:01 am BST
