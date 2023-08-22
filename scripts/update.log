@@ -21931,3 +21931,17 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master ede90089] Update feeds
+ 10 files changed, 145 insertions(+)
+ create mode 100644 _topics/changes-over-the-last-25-years-of-ux-research.md
+ create mode 100644 _topics/coupon-sites-best-practices-and-outcomes-for-a-seamless-user-experience.md
+ create mode 100644 _topics/creating-immersive-experiences-10-essential-ux-principles-for-mixed-reality.md
+ create mode 100644 _topics/design-monthly-vol-5.md
+ create mode 100644 _topics/designing-for-human-machine-consciousness.md
+ create mode 100644 _topics/overcoming-challenges-when-conducting-ux-interviews.md
+ create mode 100644 _topics/step-by-step-guide-to-make-side-projects-happen.md
+ create mode 100644 _topics/the-best-chatgpt-plugin-for-creating-user-flows-that-every-designer-needs.md
+ create mode 100644 _topics/two-important-new-roles-for-ux-designers-in-the-era-of-ai.md
+To github.com:MattKevan/uxlift.git
+   6c6c1bc4..ede90089  master -> master
+Feeds updated 08/22/2023 - 12:00:01 am BST
