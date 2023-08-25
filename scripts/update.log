@@ -22044,3 +22044,18 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master cb296bd5] Update feeds
+ 11 files changed, 119 insertions(+)
+ create mode 100644 _topics/5-ways-to-tackle-creative-block-for-ux-designers.md
+ create mode 100644 _topics/6-incredible-design-portfolios-inspiration-to-help-you-stand-out.md
+ create mode 100644 _topics/accessibility-in-web-design-the-responsibility-of-developers.md
+ create mode 100644 _topics/context-is-everything.md
+ create mode 100644 _topics/entering-product-designer-crafting-your-case-study-for-design-portfolio.md
+ create mode 100644 _topics/how-to-run-a-brand-workshop-effectively.md
+ create mode 100644 _topics/how-weve-conquered-a-local-marketbeuty-studio-case-study.md
+ create mode 100644 _topics/scaling-new-heights-proven-strategies-for-advancing-your-career-as-a-product-designer.md
+ create mode 100644 _topics/unleashing-your-potential-becoming-an-essential-asset-as-a-junior-product-designer.md
+ create mode 100644 _topics/why-having-real-life-experience-is-important-for-junior-designers.md
+To github.com:MattKevan/uxlift.git
+   0cf45c12..cb296bd5  master -> master
+Feeds updated 08/25/2023 - 12:00:02 am BST
