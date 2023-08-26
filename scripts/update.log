@@ -22088,3 +22088,18 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master a83d80f3] Update feeds
+ 11 files changed, 119 insertions(+)
+ create mode 100644 _topics/can-a-content-designer-become-head-of-user-experience-ux.md
+ create mode 100644 _topics/color-theory-for-designers-a-beginners-guide.md
+ create mode 100644 _topics/get-the-yes-7-tips-for-validating-your-design-with-clients.md
+ create mode 100644 _topics/helping-rural-india-easily-learn-new-things-ux-hackathon-to-case-study.md
+ create mode 100644 _topics/how-responsive-web-design-gets-more-conversions.md
+ create mode 100644 _topics/search-3-models-of-finding.md
+ create mode 100644 _topics/the-increasing-use-of-ai-and-robotics-in-industry-brings-new-challenges-for-ux-designers.md
+ create mode 100644 _topics/use-of-color.md
+ create mode 100644 _topics/what-is-a-ux-strategy-and-its-importance-in-2023.md
+ create mode 100644 _topics/what-is-voice-user-interface-in-web-design.md
+To github.com:MattKevan/uxlift.git
+   cb296bd5..a83d80f3  master -> master
+Feeds updated 08/26/2023 - 12:00:01 am BST
