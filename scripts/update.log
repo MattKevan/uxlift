@@ -22166,3 +22166,10 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master c0b829b6] Update feeds
+ 3 files changed, 47 insertions(+)
+ create mode 100644 _topics/dark-mode-how-users-think-about-it-and-issues-to-avoid.md
+ create mode 100644 _topics/web-ux-study-guide.md
+To github.com:MattKevan/uxlift.git
+   d6e6b012..c0b829b6  master -> master
+Feeds updated 08/28/2023 - 12:00:01 am BST
