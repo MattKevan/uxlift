@@ -22202,3 +22202,15 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 53908b9c] Update feeds
+ 8 files changed, 92 insertions(+)
+ create mode 100644 _topics/best-14-ai-tools-in-2023.md
+ create mode 100644 _topics/five-design-inspiration-websites-you-should-check-out.md
+ create mode 100644 _topics/how-much-i-made-by-selling-digital-products-for-1-year.md
+ create mode 100644 _topics/how-to-be-happier-without-really-trying-barking-up-the-wrong-tree.md
+ create mode 100644 _topics/onboarding-for-the-next-billion-users-a-conversational-approach.md
+ create mode 100644 _topics/redesigning-indeed-app-so-you-wont-get-frustrated-again.md
+ create mode 100644 _topics/the-ultimate-guide-to-work-with-figmas-jambot-ai-widget.md
+To github.com:MattKevan/uxlift.git
+   c0b829b6..53908b9c  master -> master
+Feeds updated 08/29/2023 - 12:00:01 am BST
