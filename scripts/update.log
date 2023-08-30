@@ -22243,3 +22243,11 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 88fb2769] Update feeds
+ 4 files changed, 56 insertions(+)
+ create mode 100644 _topics/always-show-the-number-of-user-ratings-in-list-items-5-dont.md
+ create mode 100644 _topics/career-vs-jobgetting-the-difference-right.md
+ create mode 100644 _topics/why-i-dont-charge-a-single-cent-for-my-ux-side-projects.md
+To github.com:MattKevan/uxlift.git
+   53908b9c..88fb2769  master -> master
+Feeds updated 08/30/2023 - 12:00:01 am BST
