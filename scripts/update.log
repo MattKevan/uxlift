@@ -22382,3 +22382,14 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master f43870ab] Update feeds
+ 7 files changed, 83 insertions(+)
+ create mode 100644 _topics/11-influential-voices-of-the-ux-world-to-follow.md
+ create mode 100644 _topics/how-to-write-for-a-global-audience.md
+ create mode 100644 _topics/off-the-rails-design-thinking-devolution.md
+ create mode 100644 _topics/top-illustration-trends-in-2024.md
+ create mode 100644 _topics/ux-research-ux-audit-for-product-designer.md
+ create mode 100644 _topics/what-is-new-about-dribbble-interface.md
+To github.com:MattKevan/uxlift.git
+   786bfe39..f43870ab  master -> master
+Feeds updated 09/03/2023 - 12:00:01 am BST
