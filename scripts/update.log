@@ -22492,3 +22492,14 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 20e415f6] Update feeds
+ 7 files changed, 83 insertions(+)
+ create mode 100644 _topics/ai-the-next-chapter-in-design-figma-blog.md
+ create mode 100644 _topics/how-to-create-spatial-ui-glass-material-in-figma.md
+ create mode 100644 _topics/never-waste-your-midlife-crisis-austin-kleon.md
+ create mode 100644 _topics/news-is-bad-for-you-and-giving-up-reading-it-will-make-you-happier-the-guardian.md
+ create mode 100644 _topics/on-dealing-with-difficult-colleagues.md
+ create mode 100644 _topics/payment-method-ux-designing-payment-selection.md
+To github.com:MattKevan/uxlift.git
+   6aca6f59..20e415f6  master -> master
+Feeds updated 09/06/2023 - 12:00:02 am BST
