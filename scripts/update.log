@@ -22532,3 +22532,14 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master c29bd7ed] Update feeds
+ 7 files changed, 83 insertions(+)
+ create mode 100644 _topics/10-figma-plugins-you-probably-didnt-know-about.md
+ create mode 100644 _topics/ai-driven-ux-design-crafting-intuitive-and-user-friendly-websites.md
+ create mode 100644 _topics/demystifying-design-roles-unveiling-the-differences-and-opportunities.md
+ create mode 100644 _topics/do-i-have-to-strive-for-more-in-my-ux-career.md
+ create mode 100644 _topics/educational-sensational-inspirational-foundational.md
+ create mode 100644 _topics/no-code-tools-will-designers-replace-developers.md
+To github.com:MattKevan/uxlift.git
+   20e415f6..c29bd7ed  master -> master
+Feeds updated 09/07/2023 - 12:00:01 am BST
