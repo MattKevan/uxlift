@@ -22606,3 +22606,15 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 2dd61ea9] Update feeds
+ 8 files changed, 92 insertions(+)
+ create mode 100644 _topics/7-important-visual-hierarchy-design-principles-2023.md
+ create mode 100644 _topics/golden-era-of-uiux-design-will-never-comeback.md
+ create mode 100644 _topics/importance-of-typography-in-web-design.md
+ create mode 100644 _topics/new-trends-in-accessibility.md
+ create mode 100644 _topics/the-art-of-negotiation-when-and-how-to-ask-for-a-salary-raise-as-a-product-designer.md
+ create mode 100644 _topics/unlocking-the-power-of-content-design-from-afterthought-to-essential-collaborator.md
+ create mode 100644 _topics/what-is-glassmorphism.md
+To github.com:MattKevan/uxlift.git
+   8abe723f..2dd61ea9  master -> master
+Feeds updated 09/09/2023 - 12:00:01 am BST
