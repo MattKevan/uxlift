@@ -22751,3 +22751,21 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master e806515f] Update feeds
+ 14 files changed, 146 insertions(+)
+ create mode 100644 _topics/create-your-own-design-system-chapter-colors.md
+ create mode 100644 _topics/grocery-ux-dynamically-update-the-add-to-cart-button-to-a-quantity-selector-after-item-added.md
+ create mode 100644 _topics/inside-the-sp-500-how-tech-companies-are-reshaping-the-market.md
+ create mode 100644 _topics/integrating-ai-into-design-systems-for-better-ux-writing.md
+ create mode 100644 _topics/mobile-first-or-desktop-first-how-to-choose-your-best-ux-approach.md
+ create mode 100644 _topics/navigating-the-labyrinth-the-complexity-of-product-design-in-saas-companies-and-startups.md
+ create mode 100644 _topics/new-president-and-ceo-kara-pernice.md
+ create mode 100644 _topics/object-oriented-user-experience-design-the-power-of-objects-first-design-approach.md
+ create mode 100644 _topics/rewriting-digital-content-for-brevity.md
+ create mode 100644 _topics/the-shifting-landscape-of-design-in-2023.md
+ create mode 100644 _topics/typography-a-complete-guide-to-begin.md
+ create mode 100644 _topics/ux-research-methods-glossary.md
+ create mode 100644 _topics/what-did-i-learn-about-personal-effectiveness.md
+To github.com:MattKevan/uxlift.git
+   e9bb6c4e..e806515f  master -> master
+Feeds updated 09/13/2023 - 12:00:01 am BST
