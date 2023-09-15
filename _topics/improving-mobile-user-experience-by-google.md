@@ -1,0 +1,9 @@
+---
+title: "Improving Mobile User Experience- By Google"
+date: 2023-09-15 10:47:41 +0000
+dateadded: 2023-09-16 00:00:54 +0100
+description: ""
+link: "https://uxplanet.org/improving-mobile-user-experience-by-google-4963d639d816?source=rss----819cc2aaeee0---4"
+category:
+directory: _directory/ux-planet.md
+---
