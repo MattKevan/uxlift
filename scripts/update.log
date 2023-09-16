@@ -22866,3 +22866,19 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master f8193b02] Update feeds
+ 12 files changed, 128 insertions(+)
+ create mode 100644 _topics/8-practical-learnings-as-a-ux-designer.md
+ create mode 100644 _topics/design-systems-with-brad-frost-the-state-of-the-web-google-chrome-developers.md
+ create mode 100644 _topics/designers-we-have-a-problem-its-called-figmaism.md
+ create mode 100644 _topics/first-step-to-becoming-a-self-taught-uxui-designer.md
+ create mode 100644 _topics/how-seemingly-a-small-feature-we-introduced-for-transport-monitoring-system-cut-incident.md
+ create mode 100644 _topics/how-to-secure-your-future-as-a-ux-designer-in-the-age-of-technology.md
+ create mode 100644 _topics/improving-mobile-user-experience-by-google.md
+ create mode 100644 _topics/must-reads-for-the-genuine-ux-designer.md
+ create mode 100644 _topics/typography-trends-in-web-design-2023.md
+ create mode 100644 _topics/ux-bites-how-to-generate-sitemaps-wireframes-automatically.md
+ create mode 100644 _topics/ux-bites-predictive-heatmapping.md
+To github.com:MattKevan/uxlift.git
+   ce66fadc..f8193b02  master -> master
+Feeds updated 09/16/2023 - 12:00:01 am BST
