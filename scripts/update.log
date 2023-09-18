@@ -22945,3 +22945,10 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master e0503922] Update feeds
+ 3 files changed, 47 insertions(+)
+ create mode 100644 _topics/accessibility-and-inclusivity-study-guide.md
+ create mode 100644 _topics/user-interviews-101.md
+To github.com:MattKevan/uxlift.git
+   2c6a4a63..e0503922  master -> master
+Feeds updated 09/18/2023 - 12:00:01 am BST
