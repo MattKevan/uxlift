@@ -22981,3 +22981,15 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master ecb7f8b3] Update feeds
+ 8 files changed, 92 insertions(+)
+ create mode 100644 _topics/10-animation-ideas-inspiration-for-the-month.md
+ create mode 100644 _topics/design-monthly-vol-6.md
+ create mode 100644 _topics/how-duolingo-engaged-500-million-users-9-psychological-tricks.md
+ create mode 100644 _topics/how-to-make-a-strong-case-for-accessibility-smart-interface-design-patterns.md
+ create mode 100644 _topics/mobile-ui-trends-2024-that-will-set-you-apart.md
+ create mode 100644 _topics/typography-secrets-thatll-revolutionize-your-designs.md
+ create mode 100644 _topics/whatever-happened-to-nokias-pure-ui.md
+To github.com:MattKevan/uxlift.git
+   e0503922..ecb7f8b3  master -> master
+Feeds updated 09/19/2023 - 12:00:01 am BST
