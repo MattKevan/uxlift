@@ -23089,3 +23089,14 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 	from feeds.rb:14:in `block in <main>'
 	from feeds.rb:9:in `each'
 	from feeds.rb:9:in `<main>'
+[master a42d7d93] Update feeds
+ 7 files changed, 79 insertions(+)
+ create mode 100644 _topics/a-designers-guide-to-weekly-scrappy-rapid-iteration-and-testing.md
+ create mode 100644 _topics/breaking-through-limits-the-vital-role-of-authority-expansion-in-sustaining-transformational.md
+ create mode 100644 _topics/dark-mode-vs-light-mode-the-ux-debate-settled.md
+ create mode 100644 _topics/the-a-to-z-of-web-accessibility-why-it-matters-more-than-ever.md
+ create mode 100644 _topics/the-design-system-ecosystem.md
+ create mode 100644 _topics/ultimate-mockup-resources-collection-cities-and-products-punk-and-hygge.md
+To github.com:MattKevan/uxlift.git
+   3a7fb6d8..a42d7d93  master -> master
+Feeds updated 09/22/2023 - 12:00:01 am BST
