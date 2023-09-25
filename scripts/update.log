@@ -23191,3 +23191,12 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master efced3ab] Update feeds
+ 5 files changed, 65 insertions(+)
+ create mode 100644 _topics/accordion-editing-and-apple-picking-early-generative-ai-user-behaviors.md
+ create mode 100644 _topics/confounding-variables-in-quantitative-studies.md
+ create mode 100644 _topics/information-foraging-with-generative-ai-a-study-of-3-chatbots.md
+ create mode 100644 _topics/ux-conference-december-announced-dec-2-dec-8.md
+To github.com:MattKevan/uxlift.git
+   c074c70d..efced3ab  master -> master
+Feeds updated 09/25/2023 - 12:00:01 am BST
