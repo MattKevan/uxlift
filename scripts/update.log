@@ -23229,3 +23229,25 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 0723338d] Update feeds
+ 18 files changed, 220 insertions(+)
+ create mode 100644 _topics/can-ai-bring-back-designer-developer-hybrids.md
+ create mode 100644 _topics/combining-uxd-and-seo-for-business-success.md
+ create mode 100644 _topics/decoding-author-authority-a-basic-introduction.md
+ create mode 100644 _topics/demystifying-no-code-a-beginners-guide.md
+ create mode 100644 _topics/designers-to-deal-with-micromanaging-clients-just-say-this.md
+ create mode 100644 _topics/embracing-introverted-strengths-part-2.md
+ create mode 100644 _topics/exploring-the-essence-of-company-culture.md
+ create mode 100644 _topics/gaining-product-sense-through-ux-research.md
+ create mode 100644 _topics/how-ai-is-supercharging-design.md
+ create mode 100644 _topics/mobile-first-design-guide-2023.md
+ create mode 100644 _topics/moving-towards-an-implicit-notion-of-ux.md
+ create mode 100644 _topics/on-feeling-behind-in-your-career.md
+ create mode 100644 _topics/the-future-of-web-design-emerging-ai-technologies-and-trends.md
+ create mode 100644 _topics/typography-step-by-step-guide-to-choosing-the-right-font.md
+ create mode 100644 _topics/unleashing-creativity-where-research-meets-ideas.md
+ create mode 100644 _topics/ux-design-idiomatic-object-oriented-design.md
+ create mode 100644 _topics/what-are-the-benefits-of-hiring-a-professional-web-design-company.md
+To github.com:MattKevan/uxlift.git
+   efced3ab..0723338d  master -> master
+Feeds updated 09/26/2023 - 12:00:01 am BST
