@@ -23374,3 +23374,20 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master a83fe9e8] Update feeds
+ 13 files changed, 140 insertions(+)
+ create mode 100644 _topics/9-stand-out-ecommerce-web-design-trends-of-2023.md
+ create mode 100644 _topics/a-disturbing-trend-in-ux.md
+ create mode 100644 _topics/always-collapse-completed-accordion-checkout-steps-into-summaries.md
+ create mode 100644 _topics/b2b-and-b2cunderstanding-user-experiences.md
+ create mode 100644 _topics/continuous-discovery-holy-grail-or-poisoned-chalice.md
+ create mode 100644 _topics/creating-a-typography-system-in-figma.md
+ create mode 100644 _topics/how-good-design-can-transform-user-adoption-rates-for-saas-apps.md
+ create mode 100644 _topics/missing-the-forrest-for-usabilitytesting.md
+ create mode 100644 _topics/mobile-ux-design.md
+ create mode 100644 _topics/seeing-the-connection-in-everyday-objects.md
+ create mode 100644 _topics/three-ux-trends-you-should-avoid.md
+ create mode 100644 _topics/why-i-quit-ux-for-visual-design.md
+To github.com:MattKevan/uxlift.git
+   19d9e30b..a83fe9e8  master -> master
+Feeds updated 09/30/2023 - 12:00:01 am BST
