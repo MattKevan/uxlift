@@ -23482,3 +23482,12 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 9b0e2fe0] Update feeds
+ 5 files changed, 65 insertions(+)
+ create mode 100644 _topics/chatgpt-bard-or-bing-chat-differences-among-3-generative-ai-bots.md
+ create mode 100644 _topics/choosing-colors-for-your-desing-in-3-simple-steps.md
+ create mode 100644 _topics/in-page-links-for-content-navigation.md
+ create mode 100644 _topics/settings-ui-design-inspiration.md
+To github.com:MattKevan/uxlift.git
+   68d1b0f2..9b0e2fe0  master -> master
+Feeds updated 10/03/2023 - 12:00:01 am BST
