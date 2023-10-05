@@ -23551,3 +23551,20 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 457b9c22] Update feeds
+ 12 files changed, 128 insertions(+)
+ create mode 100644 _topics/10-color-combinations-for-a-stunning-ui-part-1.md
+ create mode 100644 _topics/building-an-accessible-web-design-15-key-ux-principles-for-senior-friendly-experience.md
+ create mode 100644 _topics/dalle-3-ai-image-generator-for-product-designers.md
+ create mode 100644 _topics/format-the-expiration-date-fields-exactly-the-same-as-the-physical-credit-card-72-dont.md
+ create mode 100644 _topics/is-it-still-worth-it-to-switch-to-ux-design-in-202324.md
+ create mode 100644 _topics/navigating-the-design-world-contrasting-startup-and-corporate-landscapes.md
+ create mode 100644 _topics/revolutionize-your-startup-craft-customer-centric-solutions-with-the-power-of-design-thinking.md
+ create mode 100644 _topics/user-centered-messaging-a-case-study-on-improving-ux-copy-in-existing-products.md
+ create mode 100644 _topics/ux-design-podcasts-for-beginners-to-experts-the-best-8-to-follow.md
+ create mode 100644 _topics/want-to-create-inclusive-ux-content-avoid-these-words.md
+ create mode 100644 _topics/why-does-your-design-fail.md
+Warning: Permanently added the ECDSA host key for IP address '140.82.113.4' to the list of known hosts.
+To github.com:MattKevan/uxlift.git
+   92b339df..457b9c22  master -> master
+Feeds updated 10/05/2023 - 12:00:01 am BST
