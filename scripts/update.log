@@ -23631,3 +23631,22 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 961a7c35] Update feeds
+ 15 files changed, 158 insertions(+)
+ create mode 100644 _topics/12-must-read-books-for-uxui-designers-researchers-dive-deeper-into-the-world-of-design.md
+ create mode 100644 _topics/bridging-the-gap-between-ux-and-conversion-rate-optimization.md
+ create mode 100644 _topics/create-your-own-design-system-chapter-color-tokens.md
+ create mode 100644 _topics/finding-the-perfect-harbour-for-content-design-why-it-belongs-with-product-and-design.md
+ create mode 100644 _topics/from-friction-to-flow-improving-patient-forms-with-ux.md
+ create mode 100644 _topics/from-template-to-atoms.md
+ create mode 100644 _topics/proper-ux-design-avoiding-developer-headaches-in-the-ai-revolution.md
+ create mode 100644 _topics/quantitative-vs-qualitative-ux-research-methods-strengths-and-weaknesses.md
+ create mode 100644 _topics/remote-design-sprints-lessons-from-a-brave-new-remote-world.md
+ create mode 100644 _topics/table-of-contents-the-ultimate-design-guide.md
+ create mode 100644 _topics/the-business-experience-of-gift-cards-unearthing-the-accounting-magic.md
+ create mode 100644 _topics/the-eliza-effect-why-we-love-ai.md
+ create mode 100644 _topics/uiux-design-the-standoff-between-figma-and-elementor.md
+ create mode 100644 _topics/your-hunt-for-the-perfect-icon-library-is-over-find-the-10-best-and-free-sources-right-here.md
+To github.com:MattKevan/uxlift.git
+   5f8b2340..961a7c35  master -> master
+Feeds updated 10/07/2023 - 12:00:01 am BST
