@@ -23748,3 +23748,14 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 049a6888] Update feeds
+ 7 files changed, 116 insertions(+)
+ create mode 100644 _topics/10-usable-and-creative-icon-libraries.md
+ create mode 100644 _topics/inclusivity-in-the-digital-age-the-importance-of-accessibility-advocacy.md
+ create mode 100644 _topics/making-healthcare-user-experiences-more-accessible-to-increase-adoption.md
+ create mode 100644 _topics/making-product-managers-and-ux-designers-wear-users-hats.md
+ create mode 100644 _topics/the-future-of-ux-design-empowered-by-ai-and-ml.md
+ create mode 100644 _topics/voice-user-interfaces-seamless-interactions.md
+To github.com:MattKevan/uxlift.git
+   28186b04..049a6888  master -> master
+Feeds updated 10/10/2023 - 12:00:01 am BST
