@@ -23788,3 +23788,19 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 8943f734] Update feeds
+ 12 files changed, 128 insertions(+)
+ create mode 100644 _topics/37-innovative-ways-to-use-accent-colors-visual-guide.md
+ create mode 100644 _topics/5-non-obvious-books-for-the-next-ux-designers.md
+ create mode 100644 _topics/5-trendy-new-uxui-tools-in-october.md
+ create mode 100644 _topics/finding-your-voice-as-a-junior-product-designer-in-a-remote-working-environment.md
+ create mode 100644 _topics/how-to-receive-design-feedback-correctly.md
+ create mode 100644 _topics/stoicism-and-ux-design-the-best-mind-hack-to-change-your-work.md
+ create mode 100644 _topics/take-your-design-to-the-next-level-with-these-9-chat-gpt-prompts.md
+ create mode 100644 _topics/toys-sites-new-ux-benchmark-with-2600-performance-scores-and-2200-best-practice-examples.md
+ create mode 100644 _topics/uiux-design-content-matters-more.md
+ create mode 100644 _topics/ux-for-mobile-apps-vs-web-navigating-two-digital-worlds.md
+ create mode 100644 _topics/where-do-product-designers-get-inspiration.md
+To github.com:MattKevan/uxlift.git
+   049a6888..8943f734  master -> master
+Feeds updated 10/11/2023 - 12:00:01 am BST
