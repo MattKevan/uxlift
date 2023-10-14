@@ -23904,3 +23904,10 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 5b1c9c76] Update feeds
+ 3 files changed, 47 insertions(+)
+ create mode 100644 _topics/defining-ux-career-progression-what-practitioners-say.md
+ create mode 100644 _topics/the-negative-impact-of-mobile-first-web-design-on-desktop.md
+To github.com:MattKevan/uxlift.git
+   33ef0dd8..5b1c9c76  master -> master
+Feeds updated 10/14/2023 - 12:00:01 am BST
