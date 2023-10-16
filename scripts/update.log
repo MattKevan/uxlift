@@ -23974,3 +23974,18 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master f643f3da] Update feeds
+ 11 files changed, 119 insertions(+)
+ create mode 100644 _topics/achieving-excellence-in-scaling-saas-with-3-user-centric-strategies.md
+ create mode 100644 _topics/design-critiquesunleashing-the-power-of-feedback.md
+ create mode 100644 _topics/designing-in-the-age-of-ai.md
+ create mode 100644 _topics/how-to-give-design-feedback-nicely.md
+ create mode 100644 _topics/streamlining-backend-operations-high-fidelity-wireframes-for-tvs-broadcasting-management-portal.md
+ create mode 100644 _topics/the-impact-of-social-media-on-ux-design-a-transformational-journey.md
+ create mode 100644 _topics/the-role-of-animation-in-ux-more-than-just-aesthetics.md
+ create mode 100644 _topics/ui-design-how-to-get-nice-looking-shadows-without-the-fuss.md
+ create mode 100644 _topics/ux-design-for-ai-artificial-intelligence.md
+ create mode 100644 _topics/voice-uis-the-silent-revolution-in-user-experience.md
+To github.com:MattKevan/uxlift.git
+   c9a10609..f643f3da  master -> master
+Feeds updated 10/16/2023 - 12:00:01 am BST
