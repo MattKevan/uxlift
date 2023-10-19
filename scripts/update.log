@@ -24086,3 +24086,17 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 3032e786] Update feeds
+ 10 files changed, 110 insertions(+)
+ create mode 100644 _topics/color-psychology-in-ui-design-more-than-meets-the-eye.md
+ create mode 100644 _topics/enabling-creators-to-track-their-content-creation-journey-on-graphy-a-product-design-case-study.md
+ create mode 100644 _topics/letting-go-of-perfection-embracing-imperfection-in-design.md
+ create mode 100644 _topics/preparing-for-a-junior-design-role-here-are-5-tips-from-the-interviewer.md
+ create mode 100644 _topics/scary-user-experiences-youve-likely-encounteredhalloween-edition.md
+ create mode 100644 _topics/testing-chatgpt-4-for-ux-audits-shows-an-80-error-rate-1426-discoverability-rate.md
+ create mode 100644 _topics/the-role-of-cultural-symbols-in-design-crafting-intuitive-respectful-interfaces.md
+ create mode 100644 _topics/why-a-singular-product-vision-can-get-muddled-with-multiple-stakeholder-inputs.md
+ create mode 100644 _topics/why-web-accessibility-is-importanta-complete-guide.md
+To github.com:MattKevan/uxlift.git
+   0e9d1d50..3032e786  master -> master
+Feeds updated 10/19/2023 - 12:00:01 am BST
