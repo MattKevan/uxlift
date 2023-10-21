@@ -24163,3 +24163,10 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 1d39403e] Update feeds
+ 3 files changed, 47 insertions(+)
+ create mode 100644 _topics/common-knowledge-effect-a-harmful-bias-in-team-decision-making.md
+ create mode 100644 _topics/the-4-degrees-of-anthropomorphism-of-generative-ai.md
+To github.com:MattKevan/uxlift.git
+   aafce5c3..1d39403e  master -> master
+Feeds updated 10/21/2023 - 12:00:01 am BST
