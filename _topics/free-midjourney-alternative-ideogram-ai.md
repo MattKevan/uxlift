@@ -1,0 +1,9 @@
+---
+title: "Free Midjourney alternative - Ideogram AI"
+date: 2023-10-23 13:49:26 +0000
+dateadded: 2023-10-24 00:01:09 +0100
+description: ""
+link: "https://uxplanet.org/free-midjourney-alternative-ideogram-ai-abb149e40f41?source=rss----819cc2aaeee0---4"
+category:
+directory: _directory/ux-planet.md
+---
