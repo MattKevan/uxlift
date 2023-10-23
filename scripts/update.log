@@ -24233,3 +24233,8 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 12f730e4] Update feeds
+ 1 file changed, 29 insertions(+)
+To github.com:MattKevan/uxlift.git
+   501d6b0e..12f730e4  master -> master
+Feeds updated 10/23/2023 - 12:00:01 am BST
