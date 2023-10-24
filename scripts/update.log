@@ -24267,3 +24267,24 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 5f70192b] Update feeds
+ 17 files changed, 211 insertions(+)
+ create mode 100644 _topics/a-lawyer-and-a-content-designer-have-their-second-date.md
+ create mode 100644 _topics/ai-and-automation-in-product-management-opportunities-and-limitations-of-emerging-tools.md
+ create mode 100644 _topics/back-end-web-development-trends-for-2024.md
+ create mode 100644 _topics/bold-typography-in-ui-a-shift-towards-strong-visual-hierarchies.md
+ create mode 100644 _topics/data-visualisation-for-uxui-design.md
+ create mode 100644 _topics/enhancing-user-engagement-through-interactive-virtual-real-estate-tours.md
+ create mode 100644 _topics/free-midjourney-alternative-ideogram-ai.md
+ create mode 100644 _topics/hover-to-reveal-enhancing-product-discovery-through-interactive-design.md
+ create mode 100644 _topics/how-to-design-case-studies-that-people-dont-skip.md
+ create mode 100644 _topics/lessons-from-working-at-startups.md
+ create mode 100644 _topics/navigating-growth-design-frameworks-challenges-and-success-stories.md
+ create mode 100644 _topics/navigating-the-ethical-complexities-of-personalized-user-experiences-balancing-innovation-with-privacy-and-consent.md
+ create mode 100644 _topics/pragmatic-ideas-for-navigating-the-ai-landscape.md
+ create mode 100644 _topics/ship-faster-by-building-design-systems-slower-big-medium.md
+ create mode 100644 _topics/the-best-things-we-saw-at-adobe-max-2023.md
+ create mode 100644 _topics/weve-got-generative-ai-now-what.md
+To github.com:MattKevan/uxlift.git
+   12f730e4..5f70192b  master -> master
+Feeds updated 10/24/2023 - 12:00:01 am BST
