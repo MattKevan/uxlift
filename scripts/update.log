@@ -24385,3 +24385,9 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master b323fe80] Update feeds
+ 2 files changed, 38 insertions(+)
+ create mode 100644 _topics/what-i-learned-from-my-american-french-and-german-design-leads.md
+To github.com:MattKevan/uxlift.git
+   54a93d42..b323fe80  master -> master
+Feeds updated 10/27/2023 - 12:00:01 am BST
