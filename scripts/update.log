@@ -24420,3 +24420,16 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 8ea1cd81] Update feeds
+ 9 files changed, 101 insertions(+)
+ create mode 100644 _topics/ai-as-a-ux-assistant.md
+ create mode 100644 _topics/ai-intranet-features-current-and-future.md
+ create mode 100644 _topics/bridging-the-gap-integrating-design-systems-with-development-workflows.md
+ create mode 100644 _topics/iconography-101-crafting-icons-with-neuroscience-for-better-ux.md
+ create mode 100644 _topics/research-driven-approach-for-icon-design-in-transport-monitoring-systems.md
+ create mode 100644 _topics/role-of-design-in-the-food-and-beverage-industry-in-2023.md
+ create mode 100644 _topics/the-roi-of-investing-in-a-design-system-a-gateway-to-consistency-efficiency-and-cost-savings.md
+ create mode 100644 _topics/why-every-ux-designer-should-understand-product-management.md
+To github.com:MattKevan/uxlift.git
+   b323fe80..8ea1cd81  master -> master
+Feeds updated 10/28/2023 - 12:00:01 am BST
