@@ -24527,3 +24527,17 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 5bf92870] Update feeds
+ 10 files changed, 110 insertions(+)
+ create mode 100644 _topics/25-tips-for-figma-design-systems.md
+ create mode 100644 _topics/deign-with-ai.md
+ create mode 100644 _topics/evolving-with-design-systems-a-look-into-the-future.md
+ create mode 100644 _topics/redefining-product-design-with-ai-harnessing-the-power-of-chatgpt-for-revolutionary-features.md
+ create mode 100644 _topics/the-emojification-of-design.md
+ create mode 100644 _topics/three-lessons-from-100-design-mentoring-sessions.md
+ create mode 100644 _topics/ux-conference-january-announced-jan-12-jan-26.md
+ create mode 100644 _topics/ux-designers-burnout-how-to-deal-with-it.md
+ create mode 100644 _topics/why-claude-is-better-than-chatgpt.md
+To github.com:MattKevan/uxlift.git
+   9ebdf3ef..5bf92870  master -> master
+Feeds updated 10/31/2023 - 12:00:01 am GMT
