@@ -24642,3 +24642,15 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 17325171] Update feeds
+ 8 files changed, 95 insertions(+)
+ create mode 100644 _topics/how-to-instantly-improve-your-design-using-7-key-gestalt-principles.md
+ create mode 100644 _topics/mastering-mobile-ux-frank-spillers-8-essential-design-goals.md
+ create mode 100644 _topics/product-designer-vs-product-manager.md
+ create mode 100644 _topics/simplify-the-ux-of-your-data-entry.md
+ create mode 100644 _topics/the-classic-404-errorsimplifying-the-navigation-with-words.md
+ create mode 100644 _topics/why-designers-should-be-working-face-to-face-more-often.md
+ create mode 100644 _topics/workshop-facilitation-7-essential-resources-to-level-up-your-skills.md
+To github.com:MattKevan/uxlift.git
+   138ac2b0..17325171  master -> master
+Feeds updated 11/03/2023 - 12:00:01 am GMT
