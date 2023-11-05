@@ -24683,3 +24683,10 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master a1c9f647] Update feeds
+ 3 files changed, 47 insertions(+)
+ create mode 100644 _topics/ai-for-ux-getting-started.md
+ create mode 100644 _topics/building-interactive-ux-maps.md
+To github.com:MattKevan/uxlift.git
+   17325171..a1c9f647  master -> master
+Feeds updated 11/04/2023 - 12:00:01 am GMT
