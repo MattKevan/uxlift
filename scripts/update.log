@@ -24796,3 +24796,21 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master ac34c837] Update feeds
+ 14 files changed, 179 insertions(+)
+ create mode 100644 _topics/advanced-typography-in-figma.md
+ create mode 100644 _topics/design-and-emotions-how-it-works-and-what-to-do-with-that.md
+ create mode 100644 _topics/designing-for-behavior-change-ux-and-psychological-perspectives.md
+ create mode 100644 _topics/from-vision-to-reality-leveraging-chatgpt-4-vision-in-product-design.md
+ create mode 100644 _topics/how-experience-data-can-help-you-do-more-with-less.md
+ create mode 100644 _topics/how-to-attract-freelance-design-clients-in-2023.md
+ create mode 100644 _topics/how-to-create-a-personalized-saas-onboarding-experience.md
+ create mode 100644 _topics/i-took-the-wrong-job-but-it-was-the-right-step.md
+ create mode 100644 _topics/measuring-to-improve-how-ongoing-ux-analysis-can-skyrocket-conversions.md
+ create mode 100644 _topics/the-mobile-shopping-revolution-designing-for-fingers-and-thumbs.md
+ create mode 100644 _topics/the-role-of-prototyping-in-ux-design-from-wireframes-to-interactive-mockups.md
+ create mode 100644 _topics/ux-design-in-vpn-development-balancing-security-and-the-user-experience.md
+ create mode 100644 _topics/ux-the-subtle-art-of-giving-a-fck.md
+To github.com:MattKevan/uxlift.git
+   a7998439..ac34c837  master -> master
+Feeds updated 11/07/2023 - 12:00:01 am GMT
