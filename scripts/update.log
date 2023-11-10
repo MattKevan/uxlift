@@ -24877,3 +24877,20 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 79a596f4] Update feeds
+ 13 files changed, 137 insertions(+)
+ create mode 100644 _topics/5-pieces-of-advice-i-wish-i-knew-before-starting-my-design-career.md
+ create mode 100644 _topics/6-ways-to-get-more-out-of-your-order-confirmation-page.md
+ create mode 100644 _topics/balancing-systematic-and-creative-aspect-in-product-design-startup-challenges.md
+ create mode 100644 _topics/designing-zero-to-one-products-can-be-hard-but-equally-fulfilling-if-not-more.md
+ create mode 100644 _topics/healing-through-design-the-impact-of-ux-in-healthcare.md
+ create mode 100644 _topics/how-ai-can-be-an-ally-for-content-design.md
+ create mode 100644 _topics/how-to-get-higher-quality-results-from-your-ux-research-studies.md
+ create mode 100644 _topics/how-to-transition-into-tech-in-2023-you-do-not-really-need-a-mentor.md
+ create mode 100644 _topics/tensor-flow-for-ux-designers.md
+ create mode 100644 _topics/the-psychology-of-conversion-ux-design-principles-part-1.md
+ create mode 100644 _topics/why-content-designers-need-to-be-proactive-not-reactive-to-make-an-impact.md
+ create mode 100644 _topics/why-you-shouldnt-be-a-uxui-designer-at-a-large-company.md
+To github.com:MattKevan/uxlift.git
+   c5081369..79a596f4  master -> master
+Feeds updated 11/09/2023 - 12:00:01 am GMT
