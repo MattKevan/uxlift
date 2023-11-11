@@ -24923,3 +24923,12 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 7dac9f14] Update feeds
+ 5 files changed, 65 insertions(+)
+ create mode 100644 _topics/design-tokens-102.md
+ create mode 100644 _topics/designers-dilemma-to-join-or-not-to-join-a-company-that-recently-downsized-its-design-team.md
+ create mode 100644 _topics/empathy-in-action-user-research-strategies-for-enhanced-ux.md
+ create mode 100644 _topics/how-to-find-generative-ai-use-cases.md
+To github.com:MattKevan/uxlift.git
+   79a596f4..7dac9f14  master -> master
+Feeds updated 11/10/2023 - 12:00:01 am GMT
