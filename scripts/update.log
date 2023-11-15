@@ -25066,3 +25066,13 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 31e4e2ae] Update feeds
+ 6 files changed, 74 insertions(+)
+ create mode 100644 _topics/eye-tracking-and-ux.md
+ create mode 100644 _topics/new-ux-design-and-a-i-tools-that-i-discovered-in-october-2023.md
+ create mode 100644 _topics/product-design-internship-apna.md
+ create mode 100644 _topics/step-by-step-introduction-to-figjam-ai-for-better-design-collaboration.md
+ create mode 100644 _topics/the-age-of-ux-design-is-over-the-time-for-content-design-has-come.md
+To github.com:MattKevan/uxlift.git
+   09ce0f3f..31e4e2ae  master -> master
+Feeds updated 11/14/2023 - 12:00:01 am GMT
