@@ -25105,3 +25105,11 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 77d52b7d] Update feeds
+ 4 files changed, 56 insertions(+)
+ create mode 100644 _topics/generalizability-of-ux-e-commerce-research.md
+ create mode 100644 _topics/most-design-awards-are-not-what-they-seem-to-be.md
+ create mode 100644 _topics/the-design-odyssey-a-wild-wacky-and-epic-journey-through-startup-galaxies.md
+To github.com:MattKevan/uxlift.git
+   31e4e2ae..77d52b7d  master -> master
+Feeds updated 11/15/2023 - 12:00:01 am GMT
