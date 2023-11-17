@@ -25142,3 +25142,13 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 995ca3ee] Update feeds
+ 6 files changed, 74 insertions(+)
+ create mode 100644 _topics/apple-photos-unlocking-memories-and-revolutionizing-photo-management-part-12.md
+ create mode 100644 _topics/crafting-a-real-estate-app-your-roadmap-to-success.md
+ create mode 100644 _topics/designing-perfect-accordion.md
+ create mode 100644 _topics/what-designers-can-learn-from-spotifys-new-royalty-model.md
+ create mode 100644 _topics/when-resources-are-limited-cost-efficient-strategies-for-delivering-an-app-in-two-months-timeframe.md
+To github.com:MattKevan/uxlift.git
+   77d52b7d..995ca3ee  master -> master
+Feeds updated 11/16/2023 - 12:00:01 am GMT
