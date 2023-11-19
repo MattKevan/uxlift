@@ -25212,3 +25212,12 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 2215c542] Update feeds
+ 5 files changed, 65 insertions(+)
+ create mode 100644 _topics/5-formatting-techniques-for-long-form-content.md
+ create mode 100644 _topics/6-types-of-useful-smartwatch-interactions.md
+ create mode 100644 _topics/is-the-age-of-ux-design-is-over-and-has-the-time-for-content-design-come.md
+ create mode 100644 _topics/tina-weymouths-moog-rogue-with-stop-making-sense-presets.md
+To github.com:MattKevan/uxlift.git
+   201dd57b..2215c542  master -> master
+Feeds updated 11/18/2023 - 12:00:01 am GMT
