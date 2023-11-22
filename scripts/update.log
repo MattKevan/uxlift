@@ -25315,3 +25315,23 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 2c6c3774] Update feeds
+ 16 files changed, 206 insertions(+)
+ create mode 100644 _topics/architecture-and-community-in-times-of-social-divide.md
+ create mode 100644 _topics/beyond-demographics-adding-depth-to-user-personas.md
+ create mode 100644 _topics/conducting-a-content-audit-to-improve-your-content.md
+ create mode 100644 _topics/how-developing-use-cases-helps-in-designing-user-interactions.md
+ create mode 100644 _topics/ideo-is-downsizing-what-does-that-mean-for-aspiring-ux-designers.md
+ create mode 100644 _topics/navigating-the-intersection-of-brand-strategy-and-user-experience.md
+ create mode 100644 _topics/optimizing-the-supply-chain-a-strategic-approach-to-ux-design.md
+ create mode 100644 _topics/revolutionizing-education-how-ai-powered-videos-are-changing-the-way-students-learnux-case.md
+ create mode 100644 _topics/tackling-confirmation-bias-in-product-design-ux.md
+ create mode 100644 _topics/test-your-design-skills-with-the-ui-game.md
+ create mode 100644 _topics/the-evolution-of-the-user-experience-from-web-to-wearables.md
+ create mode 100644 _topics/the-value-of-design.md
+ create mode 100644 _topics/these-three-pillars-of-confidence-will-skyrocket-your-personal-growth.md
+ create mode 100644 _topics/uiux-career-getting-motivated.md
+ create mode 100644 _topics/ux-conference-february-announced-feb-10-feb-16.md
+To github.com:MattKevan/uxlift.git
+   dcf44555..2c6c3774  master -> master
+Feeds updated 11/21/2023 - 12:00:01 am GMT
