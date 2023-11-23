@@ -25364,3 +25364,11 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 4a2a9e5d] Update feeds
+ 4 files changed, 56 insertions(+)
+ create mode 100644 _topics/consider-promoting-important-filters-61-dont.md
+ create mode 100644 _topics/uplevel-your-filter-menu.md
+ create mode 100644 _topics/whats-bandwagon-effect-why-people-follow.md
+To github.com:MattKevan/uxlift.git
+   2c6c3774..4a2a9e5d  master -> master
+Feeds updated 11/22/2023 - 12:00:01 am GMT
