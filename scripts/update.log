@@ -25436,3 +25436,10 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 3aaeaa07] Update feeds
+ 3 files changed, 50 insertions(+)
+ create mode 100644 _topics/new-paradigms-to-help-us-surf-the-first-ai-waves.md
+ create mode 100644 _topics/the-peter-principle-and-why-it-inadvertently-leads-to-incompetence.md
+To github.com:MattKevan/uxlift.git
+   6baa2833..3aaeaa07  master -> master
+Feeds updated 11/24/2023 - 12:00:01 am GMT
