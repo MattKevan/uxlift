@@ -25472,3 +25472,15 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 613c4755] Update feeds
+ 8 files changed, 92 insertions(+)
+ create mode 100644 _topics/6-ai-powered-tools-to-supercharge-your-productivity.md
+ create mode 100644 _topics/enterprise-data-visualization-ui-design-dos-donts-and-best-practices.md
+ create mode 100644 _topics/four-factors-in-design-transformation.md
+ create mode 100644 _topics/how-to-run-surveys-at-every-stage-of-the-design-cycle.md
+ create mode 100644 _topics/prompt-structure-in-conversations-with-generative-ai.md
+ create mode 100644 _topics/restroom-experiencea-ux-case-study.md
+ create mode 100644 _topics/ux-design-in-an-agile-scrum-environment.md
+To github.com:MattKevan/uxlift.git
+   3aaeaa07..613c4755  master -> master
+Feeds updated 11/25/2023 - 12:00:01 am GMT
