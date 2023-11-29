@@ -25581,3 +25581,12 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master fcda7f10] Update feeds
+ 5 files changed, 65 insertions(+)
+ create mode 100644 _topics/culture-of-data-collection-during-user-research-to-create-an-ai-dataset.md
+ create mode 100644 _topics/how-to-automatically-generate-a-component-specification-and-style-guide-in-figma.md
+ create mode 100644 _topics/nokia-3310-the-legend-of-mobile-design.md
+ create mode 100644 _topics/typography-essentials.md
+To github.com:MattKevan/uxlift.git
+   24cafd75..fcda7f10  master -> master
+Feeds updated 11/28/2023 - 12:00:01 am GMT
