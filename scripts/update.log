@@ -25654,3 +25654,12 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 73771d4e] Update feeds
+ 5 files changed, 65 insertions(+)
+ create mode 100644 _topics/3-essential-research-tips-for-product-designers.md
+ create mode 100644 _topics/grok-unveiled-elon-musks-risky-bet-on-unfiltered-ai.md
+ create mode 100644 _topics/pro-tips-every-business-should-try-for-engaging-newsletters.md
+ create mode 100644 _topics/three-guaranteed-ways-to-boost-app-retention-without-gamification.md
+To github.com:MattKevan/uxlift.git
+   d93a6d44..73771d4e  master -> master
+Feeds updated 11/30/2023 - 12:00:01 am GMT
