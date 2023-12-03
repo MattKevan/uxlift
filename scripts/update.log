@@ -25726,3 +25726,19 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 5fe908a9] Update feeds
+ 12 files changed, 128 insertions(+)
+ create mode 100644 _topics/3-ways-design-unlocks-innovation-a-nothing-moves-forward-without-this.md
+ create mode 100644 _topics/7-cutting-edge-ai-tools-ux-designers-need-to-know.md
+ create mode 100644 _topics/8-outstanding-books-every-ux-writer-should-read.md
+ create mode 100644 _topics/dark-mode-ui-design-best-practices.md
+ create mode 100644 _topics/deceptive-patterns-in-ux-how-to-recognize-and-avoid-them.md
+ create mode 100644 _topics/google-rejected-me-because-of-this-one-simple-thing.md
+ create mode 100644 _topics/lean-ux-and-agile-a-perfect-synergy-for-startups.md
+ create mode 100644 _topics/should-you-build-a-smartwatch-app.md
+ create mode 100644 _topics/ux-design-and-the-power-and-challenges-of-ai-and-ml-integration.md
+ create mode 100644 _topics/what-is-tracking-in-typography-the-ultimate-guide-to-typography-tracking.md
+ create mode 100644 _topics/why-website-redesign-is-important.md
+To github.com:MattKevan/uxlift.git
+   1a870dbf..5fe908a9  master -> master
+Feeds updated 12/02/2023 - 12:00:01 am GMT
