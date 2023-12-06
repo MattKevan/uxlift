@@ -25848,3 +25848,16 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 5eca6726] Update feeds
+ 9 files changed, 133 insertions(+)
+ create mode 100644 _topics/12-important-user-interface-design-guidelines.md
+ create mode 100644 _topics/20-inspiring-ux-quotes-you-should-learn-as-a-ux-designer.md
+ create mode 100644 _topics/color-psychology-in-visual-design-a-practical-guide-to-impacting-user-behavior.md
+ create mode 100644 _topics/designing-empathetic-healthcare-user-interfaces-enhancing-usability-and-accessibility.md
+ create mode 100644 _topics/improving-knowledge-building-processes-through-ai.md
+ create mode 100644 _topics/the-importance-of-user-feedback-and-data-in-ux-design.md
+ create mode 100644 _topics/unveiling-the-myth-users-arent-lazy.md
+ create mode 100644 _topics/uxui-design-ai-trends-2024.md
+To github.com:MattKevan/uxlift.git
+   13ef15e7..5eca6726  master -> master
+Feeds updated 12/05/2023 - 12:00:01 am GMT
