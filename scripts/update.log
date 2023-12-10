@@ -25990,3 +25990,20 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master ab3b2170] Update feeds
+ 13 files changed, 137 insertions(+)
+ create mode 100644 _topics/anti-personas-in-ux-design-focusing-on-the-right-users.md
+ create mode 100644 _topics/communication-practices-for-increasing-ux-maturity.md
+ create mode 100644 _topics/design-for-them-not-for-you-designing-for-reality.md
+ create mode 100644 _topics/designing-was-hard-until-i-learned-these-3-things.md
+ create mode 100644 _topics/elevate-your-brand-the-storytelling-power.md
+ create mode 100644 _topics/latest-resources-dec-23.md
+ create mode 100644 _topics/my-take-on-2024-ux-trends.md
+ create mode 100644 _topics/navigating-the-evolving-landscape-of-ux-career-paths-opportunities-and-challenges.md
+ create mode 100644 _topics/scroll-fading-101.md
+ create mode 100644 _topics/the-art-of-giving-product-designers-effective-and-useful-feedback.md
+ create mode 100644 _topics/the-significance-of-storytelling-in-ux-design.md
+ create mode 100644 _topics/ux-conference-february-announced-feb-6-feb-8.md
+To github.com:MattKevan/uxlift.git
+   058b0f59..ab3b2170  master -> master
+Feeds updated 12/09/2023 - 12:00:01 am GMT
