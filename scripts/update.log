@@ -26101,3 +26101,17 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 3ffb4c42] Update feeds
+ 10 files changed, 110 insertions(+)
+ create mode 100644 _topics/6-free-illustration-packs-all-designers-should-explore.md
+ create mode 100644 _topics/coffee-lovers-guide-to-principles-of-design.md
+ create mode 100644 _topics/minion-yellow-an-iconic-palette-emerges-from-collaboration.md
+ create mode 100644 _topics/most-of-the-portfolios-i-review-have-these-key-problems.md
+ create mode 100644 _topics/ten-ux-strategies-for-making-digital-banking-customers-happy.md
+ create mode 100644 _topics/the-5-must-have-for-identity-design.md
+ create mode 100644 _topics/the-ultimate-conversation-design-course-guide.md
+ create mode 100644 _topics/user-interview-focus-grouppros-and-cons-of-each-method.md
+ create mode 100644 _topics/yes-i-will-hardly-say-no.md
+To github.com:MattKevan/uxlift.git
+   bb91fadf..3ffb4c42  master -> master
+Feeds updated 12/12/2023 - 12:00:01 am GMT
