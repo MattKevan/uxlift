@@ -26189,3 +26189,8 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:15:in `block in <main>': undefined method `parser=' for nil:NilClass (NoMethodError)
 	from feeds.rb:9:in `each'
 	from feeds.rb:9:in `<main>'
+[master 5c4aa8a1] Update feeds
+ 1 file changed, 9 insertions(+)
+To github.com:MattKevan/uxlift.git
+   b216dd06..5c4aa8a1  master -> master
+Feeds updated 12/15/2023 - 12:00:01 am GMT
