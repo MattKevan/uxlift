@@ -26252,3 +26252,22 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 6886d293] Update feeds
+ 15 files changed, 155 insertions(+)
+ create mode 100644 _topics/a-simple-way-to-create-designs-that-catch-the-users-eye.md
+ create mode 100644 _topics/designing-perfect-tabs.md
+ create mode 100644 _topics/generative-ai-for-ux-designers-5-real-world-applications-ive-explored.md
+ create mode 100644 _topics/glaring-ux-mistakes-on-real-appspart-1.md
+ create mode 100644 _topics/icon-design-trends-for-2024.md
+ create mode 100644 _topics/improve-validation-errors-with-adaptive-messages-98-dont.md
+ create mode 100644 _topics/mastering-design-the-crucial-link-between-understanding-and-quality.md
+ create mode 100644 _topics/msc-ux-research-final-project-the-hindrances-to-collaboration-in-virtual-realityvr-games.md
+ create mode 100644 _topics/securing-a-design-position-at-a-digital-agency-in-less-than-24-hours.md
+ create mode 100644 _topics/setting-a-ux-budget-answer-these-6-questions-first.md
+ create mode 100644 _topics/top-10-ux-articles-of-2023.md
+ create mode 100644 _topics/ux-conference-march-announced-mar-11-mar-26.md
+ create mode 100644 _topics/ux-conference-march-announced-mar-3-mar-6.md
+ create mode 100644 _topics/what-is-storytelling-in-ux-and-how-to-use-it.md
+To github.com:MattKevan/uxlift.git
+   aa4896d6..6886d293  master -> master
+Feeds updated 12/18/2023 - 12:00:01 am GMT
