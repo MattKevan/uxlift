@@ -26309,3 +26309,15 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 	from feeds.rb:56:in `block in <main>'
 	from feeds.rb:51:in `each'
 	from feeds.rb:51:in `<main>'
+[master 43d383fe] Update feeds
+ 8 files changed, 133 insertions(+)
+ create mode 100644 _topics/designing-the-future-trends-and-innovations.md
+ create mode 100644 _topics/fostering-inclusive-design-in-industrial-automation-part-1.md
+ create mode 100644 _topics/innovating-or-imitating-the-interplay-of-western-and-asian-digital-product-design.md
+ create mode 100644 _topics/the-best-design-resources-bootcamp-and-courses-to-learn-design-in-the-new-year.md
+ create mode 100644 _topics/user-journey-map-and-user-flow-what-is-the-difference-between-them-and-when-to-use-each.md
+ create mode 100644 _topics/utilizing-data-analytics-to-improve-the-user-experience.md
+ create mode 100644 _topics/what-do-users-really-think-about-ai.md
+To github.com:MattKevan/uxlift.git
+   6886d293..43d383fe  master -> master
+Feeds updated 12/19/2023 - 12:00:01 am GMT
