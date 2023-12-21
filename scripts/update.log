@@ -26350,3 +26350,14 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 0734f243] Update feeds
+ 7 files changed, 83 insertions(+)
+ create mode 100644 _topics/adobe-figma-deal-canceled-what-to-expect-next.md
+ create mode 100644 _topics/bad-ux-roundup-tuid-or.md
+ create mode 100644 _topics/introduction-to-interview-techniques-in-qualitative-research.md
+ create mode 100644 _topics/product-lifecycle-understanding-and-alienating-users.md
+ create mode 100644 _topics/unlocking-creativity-proven-strategies-to-break-through-creative-blocks.md
+ create mode 100644 _topics/what-is-agile-ux-methods-process.md
+To github.com:MattKevan/uxlift.git
+   43d383fe..0734f243  master -> master
+Feeds updated 12/20/2023 - 12:00:01 am GMT
