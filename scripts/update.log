@@ -26452,3 +26452,16 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 1c2cd1b2] Update feeds
+ 9 files changed, 101 insertions(+)
+ create mode 100644 _topics/baymard-2023-and-2024.md
+ create mode 100644 _topics/career-crossroads-discover-your-next-move-with-this-app.md
+ create mode 100644 _topics/naming-conventions-organizing-your-design-system.md
+ create mode 100644 _topics/the-10-best-ux-interactions-of-2023.md
+ create mode 100644 _topics/top-10-ux-study-guides-of-2023.md
+ create mode 100644 _topics/uiux-design-how-to-get-a-photoshop-clone-in-figma-for-free.md
+ create mode 100644 _topics/uiux-design-trends-for-2024.md
+ create mode 100644 _topics/ux-design-how-to-create-a-logomark-in-5-minutes-flat.md
+To github.com:MattKevan/uxlift.git
+   92874625..1c2cd1b2  master -> master
+Feeds updated 12/23/2023 - 12:00:01 am GMT
