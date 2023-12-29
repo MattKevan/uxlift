@@ -26638,3 +26638,9 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 81e64bdb] Update feeds
+ 2 files changed, 38 insertions(+)
+ create mode 100644 _topics/just-a-compilation-of-hilarious-design-and-developer-memes-instead-of-2023-in-review.md
+To github.com:MattKevan/uxlift.git
+   2549479d..81e64bdb  master -> master
+Feeds updated 12/28/2023 - 12:00:01 am GMT
