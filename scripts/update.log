@@ -26708,3 +26708,9 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master da4cf09b] Update feeds
+ 2 files changed, 38 insertions(+)
+ create mode 100644 _topics/top-10-ux-videos-of-2023.md
+To github.com:MattKevan/uxlift.git
+   90bbee4b..da4cf09b  master -> master
+Feeds updated 12/30/2023 - 12:00:01 am GMT
