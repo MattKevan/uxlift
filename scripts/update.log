@@ -26811,3 +26811,15 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 30beda4b] Update feeds
+ 8 files changed, 95 insertions(+)
+ create mode 100644 _topics/agile-anti-patterns-that-can-harm-ux-part-1.md
+ create mode 100644 _topics/boring-b2b-customer-interviews-and-how-to-turn-that-around.md
+ create mode 100644 _topics/from-dread-to-love-get-better-design-feedback-with-the-ccroq-framework.md
+ create mode 100644 _topics/if-i-started-ux-design-in-2024-heres-what-id-do.md
+ create mode 100644 _topics/navigating-the-complex-landscape-of-ux-design-as-a-team-of-one.md
+ create mode 100644 _topics/suffering-from-ai-fatigue-2023-was-just-a-trailer.md
+ create mode 100644 _topics/ux-job-interview-guide-screening-interview.md
+To github.com:MattKevan/uxlift.git
+   339be79c..30beda4b  master -> master
+Feeds updated 01/02/2024 - 12:00:01 am GMT
