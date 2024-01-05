@@ -26887,3 +26887,10 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master f084fe7e] Update feeds
+ 3 files changed, 47 insertions(+)
+ create mode 100644 _topics/2024-design-trends-a-5-must-try-hero-layouts.md
+ create mode 100644 _topics/job-opening-graphic-designer-full-time-remote.md
+To github.com:MattKevan/uxlift.git
+   19a0b987..f084fe7e  master -> master
+Feeds updated 01/04/2024 - 12:00:01 am GMT
