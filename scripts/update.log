@@ -26923,3 +26923,17 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 264fa5bb] Update feeds
+ 10 files changed, 110 insertions(+)
+ create mode 100644 _topics/2023.md
+ create mode 100644 _topics/2024-design-system-vibes.md
+ create mode 100644 _topics/7-apps-websites-i-use-every-day-as-a-uxui-designer.md
+ create mode 100644 _topics/design-system-resources-for-designers-in-2024.md
+ create mode 100644 _topics/developing-effective-interview-questions.md
+ create mode 100644 _topics/from-sketchpad-to-strategy-design-alchemy-in-product-management.md
+ create mode 100644 _topics/level-up-accessibility-in-2024-with-these-4-resolutions.md
+ create mode 100644 _topics/my-year-in-design2023.md
+ create mode 100644 _topics/this-car-has-the-worst-ux-on-3-wheels.md
+To github.com:MattKevan/uxlift.git
+   f084fe7e..264fa5bb  master -> master
+Feeds updated 01/05/2024 - 12:00:01 am GMT
