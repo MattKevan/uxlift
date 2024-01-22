@@ -27806,3 +27806,46 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 9c008c17] Update feeds
+ 39 files changed, 410 insertions(+)
+ create mode 100644 _topics/10-user-onboarding-strategies-for-b2b-startups.md
+ create mode 100644 _topics/17-life-learnings-from-17-years-of-the-marginalian-the-marginalian.md
+ create mode 100644 _topics/5-costly-branding-mistakes.md
+ create mode 100644 _topics/a-global-design-system.md
+ create mode 100644 _topics/agile-anti-patterns-that-will-harm-ux-part-2.md
+ create mode 100644 _topics/ai-powered-design-tools-shaping-the-future-of-uiux.md
+ create mode 100644 _topics/amazons-plastic-packaging-waste-grew-18-in-2021-report-says-grist.md
+ create mode 100644 _topics/an-alternative-macos-dock.md
+ create mode 100644 _topics/competitive-usability-evaluations.md
+ create mode 100644 _topics/conducting-in-depth-interviews-in-qualitative-research.md
+ create mode 100644 _topics/dear-product-designers-this-is-how-you-pass-your-whiteboarding-interviews.md
+ create mode 100644 _topics/enterprise-ux-design-collaborating-and-taking-charge-of-uncertainties.md
+ create mode 100644 _topics/field-studies.md
+ create mode 100644 _topics/free-notion-templates-for-product-designers.md
+ create mode 100644 _topics/how-to-make-ai-assisted-videos-you-can-script-and-publish-in-30-seconds-with-invideo-ai-and-chatgpt.md
+ create mode 100644 _topics/indicators-validations-and-notifications-pick-the-correct-communication-option.md
+ create mode 100644 _topics/intranet-usability-guidelines-new-findings-from-57-intranets.md
+ create mode 100644 _topics/its-2023-here-is-why-your-web-design-sucks.md
+ create mode 100644 _topics/measuring-experiences-not-product-use.md
+ create mode 100644 _topics/memory-recognition-and-recall-in-user-interfaces.md
+ create mode 100644 _topics/merging-ux-design-and-customer-education-to-deliver-optimal-user-experience-outcomes.md
+ create mode 100644 _topics/navigating-success-a-deep-dive-into-user-journey-maps.md
+ create mode 100644 _topics/online-grocery-new-ux-benchmark-with-3500-performance-scores-and-2900-best-practice-examples.md
+ create mode 100644 _topics/overcoming-digital-transformations-major-challenges.md
+ create mode 100644 _topics/retired-country-maths-teacher-robert-martiensen-created-thousands-of-artworks-in-secret-abc-news.md
+ create mode 100644 _topics/should-i-use-persuasive-design.md
+ create mode 100644 _topics/sycophancy-in-generative-ai-chatbots.md
+ create mode 100644 _topics/that-time-that-lime-bikes-tried-to-strand-me-on-the-outskirts-of-rome.md
+ create mode 100644 _topics/the-diagram-that-shows-the-value-of-great-ux.md
+ create mode 100644 _topics/the-worlds-writing-systems.md
+ create mode 100644 _topics/top-ux-articles-and-books-published-in-2023.md
+ create mode 100644 _topics/tree-testing-part-2-interpreting-the-results.md
+ create mode 100644 _topics/usability-testing-of-inline-form-validation-31-dont-have-it-4-get-it-wrong.md
+ create mode 100644 _topics/user-experience-at-the-end-of-consumerism.md
+ create mode 100644 _topics/user-experience-quiz-2023-ux-year-in-review.md
+ create mode 100644 _topics/ux-research-a-practical-guide-to-insights-budgeting-and-stakeholder-engagement.md
+ create mode 100644 _topics/what-is-typographic-hierarchy-definition-examples.md
+ create mode 100644 _topics/where-i-find-the-most-incredible-web-design-inspiration-a-2024-trends.md
+To github.com:MattKevan/uxlift.git
+   264fa5bb..9c008c17  master -> master
+Feeds updated 01/21/2024 - 12:00:01 am GMT
