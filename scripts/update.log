@@ -27912,3 +27912,20 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 0a77f81d] Update feeds
+ 13 files changed, 169 insertions(+)
+ create mode 100644 _topics/7-mobile-ux-design-tools-to-supercharge-your-design-process.md
+ create mode 100644 _topics/could-local-seo-transform-your-user-experience.md
+ create mode 100644 _topics/elevating-web3-design-experiences.md
+ create mode 100644 _topics/habits-of-german-users-in-the-e-commerce-sector.md
+ create mode 100644 _topics/how-a-web-site-redesign-can-impact-the-customer-journey.md
+ create mode 100644 _topics/making-sense-of-big-data-in-ux-from-numbers-to-insights.md
+ create mode 100644 _topics/one-effective-prompt-to-overcome-a-designers-idea-block.md
+ create mode 100644 _topics/planning-is-procrastination-just-do-the-thing.md
+ create mode 100644 _topics/the-user-experience-of-onboarding.md
+ create mode 100644 _topics/what-to-consider-when-designing-for-dyslexia.md
+ create mode 100644 _topics/why-not-become-a-ux-designer-in-2024.md
+ create mode 100644 _topics/your-notion-page-never-lasts.md
+To github.com:MattKevan/uxlift.git
+   9cdadcfb..0a77f81d  master -> master
+Feeds updated 01/23/2024 - 12:00:01 am GMT
