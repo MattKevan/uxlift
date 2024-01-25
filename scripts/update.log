@@ -27958,3 +27958,12 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 2aec703b] Update feeds
+ 5 files changed, 65 insertions(+)
+ create mode 100644 _topics/always-allow-users-to-combine-multiple-filtering-values-of-the-same-type-an-or-logic-15-of-sites-dont.md
+ create mode 100644 _topics/microsoft-kin-iphone-and-the-perils-of-chasing-hipness.md
+ create mode 100644 _topics/the-ultimate-guide-to-google-analytics-4-for-ux-designers-and-business-owners.md
+ create mode 100644 _topics/the-ux-tricks-behind-upselling-trials-and-churn.md
+To github.com:MattKevan/uxlift.git
+   0a77f81d..2aec703b  master -> master
+Feeds updated 01/24/2024 - 12:00:01 am GMT
