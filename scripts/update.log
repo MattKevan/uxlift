@@ -28121,3 +28121,16 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master efa64b6b] Update feeds
+ 9 files changed, 101 insertions(+)
+ create mode 100644 _topics/8-apps-and-websites-worth-paying-for-uxui-edition.md
+ create mode 100644 _topics/dont-worry-its-just-a-job-title.md
+ create mode 100644 _topics/how-do-i-invest-100-of-my-income-as-a-designer.md
+ create mode 100644 _topics/mental-models.md
+ create mode 100644 _topics/open-ended-vs-closed-questions-in-user-research.md
+ create mode 100644 _topics/the-ingenious-ux-of-scams.md
+ create mode 100644 _topics/why-your-ux-portfolio-is-not-getting-interviews-in-2024-dos-donts.md
+ create mode 100644 _topics/will-linkedin-ever-be-the-new-twitter.md
+To github.com:MattKevan/uxlift.git
+   ec7bf68e..efa64b6b  master -> master
+Feeds updated 01/29/2024 - 12:00:01 am GMT
