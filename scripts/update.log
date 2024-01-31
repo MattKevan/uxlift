@@ -28163,3 +28163,13 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 69d6584e] Update feeds
+ 6 files changed, 199 insertions(+)
+ create mode 100644 _topics/2023-rebrands-the-good-the-bad-and-the-ugly.md
+ create mode 100644 _topics/how-calendly-nails-user-onboarding-for-complex-use-cases.md
+ create mode 100644 _topics/i-am-a-creative.md
+ create mode 100644 _topics/revolutionizing-design-with-ai-powered-design-systems.md
+ create mode 100644 _topics/timetrek-crafting-a-time-travel-experienceux-case-study.md
+To github.com:MattKevan/uxlift.git
+   efa64b6b..69d6584e  master -> master
+Feeds updated 01/30/2024 - 12:00:01 am GMT
