@@ -28202,3 +28202,9 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 2b95a628] Update feeds
+ 2 files changed, 38 insertions(+)
+ create mode 100644 _topics/electronics-sites-new-ux-benchmark-with-3000-performance-scores-and-2500-best-practice-examples.md
+To github.com:MattKevan/uxlift.git
+   69d6584e..2b95a628  master -> master
+Feeds updated 01/31/2024 - 12:00:01 am GMT
