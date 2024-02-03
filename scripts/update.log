@@ -28272,3 +28272,22 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master ce3c8dd2] Update feeds
+ 15 files changed, 155 insertions(+)
+ create mode 100644 _topics/a-brief-introduction-to-interface-wireframe-design.md
+ create mode 100644 _topics/content-design-apology-tours-must-end.md
+ create mode 100644 _topics/dark-patterns-the-dark-side-of-ux.md
+ create mode 100644 _topics/everything-you-need-to-know-about-creating-user-personas-for-enterprise-applications.md
+ create mode 100644 _topics/from-burnout-to-breakthrough-unveiling-the-journey-of-reclaiming-my-mental-health-and-well-being.md
+ create mode 100644 _topics/illustration-and-graphic-design-trends-for-2024.md
+ create mode 100644 _topics/mastering-ux-design-discover-my-7-favorite-ux-tools.md
+ create mode 100644 _topics/my-experience-using-ai-plugins-recently.md
+ create mode 100644 _topics/navigating-the-future-financial-landscape.md
+ create mode 100644 _topics/streamlining-chaos-redesign-of-a-complex-workflow-canvas.md
+ create mode 100644 _topics/the-gulf-between-design-and-engineering-design-systems-international.md
+ create mode 100644 _topics/top-10-incredible-and-free-image-ai-tools-that-still-works-in-2024.md
+ create mode 100644 _topics/uncovering-user-pain-points-a-guide-for-qualitative-researchers.md
+ create mode 100644 _topics/whats-inside-this-crater-in-madagascar.md
+To github.com:MattKevan/uxlift.git
+   9180375c..ce3c8dd2  master -> master
+Feeds updated 02/02/2024 - 12:00:01 am GMT
