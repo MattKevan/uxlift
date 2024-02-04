@@ -28320,3 +28320,18 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master ac8f8835] Update feeds
+ 11 files changed, 119 insertions(+)
+ create mode 100644 _topics/card-sorting-uncover-users-mental-models-for-better-information-architecture.md
+ create mode 100644 _topics/confessions-of-a-content-designer.md
+ create mode 100644 _topics/gamification-meets-the-altruistic-world-of-donation-platforms.md
+ create mode 100644 _topics/new-uxui-tools-in-january-and-challenges-in-february-2024.md
+ create mode 100644 _topics/quantum-ux-research.md
+ create mode 100644 _topics/response-outlining-with-generative-ai-chatbots.md
+ create mode 100644 _topics/the-role-of-rapid-prototyping-techniques-in-transforming-digital-healthcare.md
+ create mode 100644 _topics/ux-conference-april-announced-apr-13-apr-19.md
+ create mode 100644 _topics/ux-for-human-centered-ai-how-to-do-it-right.md
+ create mode 100644 _topics/whats-needed-the-design-approach-to-learning-human-centered-ai.md
+To github.com:MattKevan/uxlift.git
+   ce3c8dd2..ac8f8835  master -> master
+Feeds updated 02/03/2024 - 12:00:01 am GMT
