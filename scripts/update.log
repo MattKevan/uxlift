@@ -28429,3 +28429,24 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 37eac929] Update feeds
+ 17 files changed, 204 insertions(+)
+ create mode 100644 _topics/3-ways-brain-sabotages-your-copy.md
+ create mode 100644 _topics/achieving-harmony-balancing-business-goals-and-the-user-experience-in-design.md
+ create mode 100644 _topics/creating-inclusive-experiences-a-deep-dive-into-accessibility-in-product-design.md
+ create mode 100644 _topics/embracing-the-digital-age-the-mental-health-tech-revolution-unveiled.md
+ create mode 100644 _topics/from-surface-to-core-the-uncharted-path-of-domain-expertise-in-ux.md
+ create mode 100644 _topics/get-icon-ideas-in-one-click-with-this-chatgpt-prompt.md
+ create mode 100644 _topics/giving-people-power-not-doubt-ux-writing-guidance-on-confirmation-messages.md
+ create mode 100644 _topics/how-to-maximize-the-impact-of-ux-research-in-tech-teams.md
+ create mode 100644 _topics/i-changed-my-job-heres-what-i-learned.md
+ create mode 100644 _topics/introducing-the-a-little-big-medium-newsletter.md
+ create mode 100644 _topics/need-ui-inspiration-discover-40-button-styles-that-pop.md
+ create mode 100644 _topics/revolutionizing-usability-testing-with-machine-learning.md
+ create mode 100644 _topics/tackling-the-social-costs-of-the-digital-divide.md
+ create mode 100644 _topics/top-10-figma-plugins-for-ux-designers.md
+ create mode 100644 _topics/visual-hierarchy-making-user-experiences-easier-to-understand.md
+ create mode 100644 _topics/ways-to-cut-the-fluff-in-your-writing.md
+To github.com:MattKevan/uxlift.git
+   a822d17c..37eac929  master -> master
+Feeds updated 02/06/2024 - 12:00:01 am GMT
