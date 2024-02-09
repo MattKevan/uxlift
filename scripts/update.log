@@ -28510,3 +28510,16 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 9ed88d1c] Update feeds
+ 9 files changed, 238 insertions(+)
+ create mode 100644 _topics/601-brad-frost-on-a-global-design-system-frostapalooza-shoptalk.md
+ create mode 100644 _topics/come-to-frostapalooza.md
+ create mode 100644 _topics/how-did-i-hire-a-lead-uiux-designer-to-review-all-my-designs-for-free.md
+ create mode 100644 _topics/mapping-homeownership-an-ethnographic-expedition-through-2023s-real-estate-landscape.md
+ create mode 100644 _topics/opportunities-for-ai-in-accessibility.md
+ create mode 100644 _topics/retain-data-in-sensitive-credit-card-fields-after-validation-errors-34-dont.md
+ create mode 100644 _topics/uiux-design-pixso-in-2024.md
+ create mode 100644 _topics/ux-writing-examples-6-insider-tips-for-impactful-microcopy.md
+To github.com:MattKevan/uxlift.git
+   4395bc1d..9ed88d1c  master -> master
+Feeds updated 02/08/2024 - 12:00:01 am GMT
