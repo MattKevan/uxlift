@@ -28552,3 +28552,12 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+[master b10cf31d] Update feeds
+ 3 files changed, 49 insertions(+)
+ create mode 100644 _topics/are-design-systems-a-zero-interest-rate-phenomenon-daverupert-com.md
+ create mode 100644 _topics/thoughts-on-a-global-design-system-chris-coyier.md
+To github.com:MattKevan/uxlift.git
+   9ed88d1c..b10cf31d  master -> master
+Feeds updated 02/09/2024 - 12:00:01 am GMT
