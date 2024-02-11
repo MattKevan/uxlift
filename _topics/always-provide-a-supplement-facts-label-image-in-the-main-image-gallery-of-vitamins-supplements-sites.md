@@ -1,5 +1,5 @@
 ---
-title: "Always Provide a "Supplement Facts Label” Image in the Main Image Gallery of Vitamins & Supplements Sites"
+title: "Always Provide a 'Supplemental Facts Label' Image in the Main Image Gallery of Vitamins & Supplements Sites"
 date: 2023-05-16 10:45:00 +0200
 dateadded: 2023-05-17 00:02:33 +0100
 description: ""
