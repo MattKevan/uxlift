@@ -28621,3 +28621,17 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 7beecb67] Update feeds
+ 10 files changed, 110 insertions(+)
+ create mode 100644 _topics/13-qr-code-usability-guidelines.md
+ create mode 100644 _topics/3-lessons-learnt-post-burnout.md
+ create mode 100644 _topics/comparison-tables-for-products-services-and-features.md
+ create mode 100644 _topics/enhancing-user-experience-through-mobile-scanning-at-scalable-capital.md
+ create mode 100644 _topics/storytelling-for-designers.md
+ create mode 100644 _topics/systems-thinking-and-its-relevance-to-strategic-planning-in-ux-research.md
+ create mode 100644 _topics/the-best-real-uxui-design-patterns-resources-and-examples-2024.md
+ create mode 100644 _topics/time-is-the-real-measure-of-users-satisfaction.md
+ create mode 100644 _topics/uiux-design-the-absolute-state-of-design-tools-in-2024.md
+To github.com:MattKevan/uxlift.git
+   6cdbf1a5..7beecb67  master -> master
+Feeds updated 02/11/2024 - 12:00:01 am GMT
