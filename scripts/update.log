@@ -28635,3 +28635,86 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 To github.com:MattKevan/uxlift.git
    6cdbf1a5..7beecb67  master -> master
 Feeds updated 02/11/2024 - 12:00:01 am GMT
+[master 78b5d7db] First update
+ 1 file changed, 14 insertions(+)
+From github.com:MattKevan/uxlift
+   7beecb67..a2d85ee5  master     -> origin/master
+ * [new branch]        dependabot/bundler/nokogiri-1.16.2 -> origin/dependabot/bundler/nokogiri-1.16.2
+Merge made by the 'recursive' strategy.
+ Gemfile                                            |   1 +
+ Gemfile.lock                                       |  62 +++++++++++++++++++--
+ _articles/button-design-best-practices.md          |   1 +
+ _cache/2c7950b4935921d83d43919acbbba512.json       |   1 +
+ _cache/2caa617a140c818bac35008b212b89d2.json       |   1 +
+ _cache/35c8b59a8c4453e8bf1c0822b11bd46e.json       |   1 +
+ _cache/3da0ea3f4724cc5a5f82133d249852a4.json       |   1 +
+ _cache/4012832e4ae8935d93c45f220c30e93d.json       |   1 +
+ _cache/48bffe1939547defd5628685085d2caf.json       |   1 +
+ _cache/5dfb64244a62f06be8a446f812c253dd.json       |   1 +
+ _cache/627df90a94149bd6a4fa79ce4e34242c.json       |   1 +
+ _cache/7a78cd92c9b21b456e579dc7ed588ea2.json       |   1 +
+ _cache/980893230be3f5757d542fe112f08529.json       |   1 +
+ _cache/b5b49f9182f6e7d62840a1802126dd1d.json       |   1 +
+ _cache/dc389936148bc6ce93c2529683548af8.json       |   1 +
+ _cache/e5521fc1b962577859c30bb7cfe297c2.json       |   1 +
+ _cache/e5afb2fe38cbb3fc783a7e68ba4b15d7.json       |   1 +
+ _cache/fb0f0eb02470ca64421cda76b969276c.json       |   1 +
+ _includes/grid-link.html                           |  14 +++--
+ _includes/linkpreview.html                         |   1 +
+ _includes/linkpreview_nog.html                     |   0
+ ...-image-gallery-of-vitamins-supplements-sites.md |   2 +-
+ _topics/button-ux-design.md                        |   8 +--
+ ...-the-real-world-snapchat-s-juneteenth-filter.md |   2 +-
+ _topics/kids-computer-essentials-graphic-design.md |  10 ++++
+ ...tructure-in-conversations-with-generative-ai.md |   2 +-
+ ...lly-automatic-address-lookup-feature-55-dont.md |   2 +-
+ ...e-for-consumables-subscription-service-sites.md |   2 +-
+ ...t-from-ux-research-to-implementation-roadmap.md |   2 +-
+ ...6-of-mobile-sites-have-implementation-issues.md |   2 +-
+ _topics/what-is-information-architecture.md        |  10 ++--
+ assets/.DS_Store                                   | Bin 10244 -> 10244 bytes
+ 32 files changed, 108 insertions(+), 28 deletions(-)
+ create mode 100644 _cache/2c7950b4935921d83d43919acbbba512.json
+ create mode 100644 _cache/2caa617a140c818bac35008b212b89d2.json
+ create mode 100644 _cache/35c8b59a8c4453e8bf1c0822b11bd46e.json
+ create mode 100644 _cache/3da0ea3f4724cc5a5f82133d249852a4.json
+ create mode 100644 _cache/4012832e4ae8935d93c45f220c30e93d.json
+ create mode 100644 _cache/48bffe1939547defd5628685085d2caf.json
+ create mode 100644 _cache/5dfb64244a62f06be8a446f812c253dd.json
+ create mode 100644 _cache/627df90a94149bd6a4fa79ce4e34242c.json
+ create mode 100644 _cache/7a78cd92c9b21b456e579dc7ed588ea2.json
+ create mode 100644 _cache/980893230be3f5757d542fe112f08529.json
+ create mode 100644 _cache/b5b49f9182f6e7d62840a1802126dd1d.json
+ create mode 100644 _cache/dc389936148bc6ce93c2529683548af8.json
+ create mode 100644 _cache/e5521fc1b962577859c30bb7cfe297c2.json
+ create mode 100644 _cache/e5afb2fe38cbb3fc783a7e68ba4b15d7.json
+ create mode 100644 _cache/fb0f0eb02470ca64421cda76b969276c.json
+ create mode 100644 _includes/linkpreview.html
+ create mode 100644 _includes/linkpreview_nog.html
+ create mode 100644 _topics/kids-computer-essentials-graphic-design.md
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
