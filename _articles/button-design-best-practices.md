@@ -20,6 +20,7 @@ Shadows, shines and gradients are out and flat design is in, but make sure your 
 
 Use colour, shading, white space and, optionally, shadows to make buttons stand out. 
 
+{% linkpreview "https://github.com/ysk24ok/jekyll-linkpreview" %}
 
 ### They should be big enough
 

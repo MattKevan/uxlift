@@ -1,11 +1,9 @@
 ---
-title: Information Architecture Basics
+title: "Information Architecture Basics"
 category:
-- Information architecture
-link: https://www.usability.gov/what-and-why/information-architecture.html
-description: 'Information architecture (IA) focuses on organizing, structuring, and labeling
-  content in an effective and sustainable way.  The goal is to help users find information
-  and complete tasks. '
+- Information architecture"
+link: "https://www.usability.gov/what-and-why/information-architecture.html"
+description: "Information architecture (IA) focuses on organizing, structuring, and labeling content in an effective and sustainable way.  The goal is to help users find information and complete tasks."
 site: Usability.gov
 type: Article
 date: 2013-07-10 00:00:00 +0100

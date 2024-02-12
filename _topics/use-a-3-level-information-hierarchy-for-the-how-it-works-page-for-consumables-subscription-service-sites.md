@@ -1,5 +1,5 @@
 ---
-title: "Use a 3-Level Information Hierarchy for the “How It Works” Page for Consumables Subscription-Service Sites"
+title: "Use a 3-Level Information Hierarchy for the 'How It Works' Page for Consumables Subscription-Service Sites"
 date: 2022-03-08 11:09:00 +0100
 dateadded: 2022-03-10 00:09:09 +0000
 description: ""
