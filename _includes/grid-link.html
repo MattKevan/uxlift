@@ -6,9 +6,7 @@
 							<div class="image mb-3" 
 			{% if item.image and item.image != '' %}
 				style="background-image: url('/assets/resources/{{ item.image }}');"
-			{% else %}
-				{% assign jekyll_linkpreview_page = item.link %}
-				style="background-image: url('{% linkpreview jekyll_linkpreview_page %}');"
+			
 			{% endif %}
 			>
 			</div>	
