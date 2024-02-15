@@ -28817,3 +28817,312 @@ remote:
 To github.com:MattKevan/uxlift.git
    e8942a75..28080542  master -> master
 Feeds updated 02/14/2024 - 12:00:01 am GMT
+[master 7fe7fc91] First update
+ 1 file changed, 17 insertions(+)
+From github.com:MattKevan/uxlift
+   28080542..eac2cbf8  master     -> origin/master
+Removing _topics/kids-computer-essentials.md
+Removing _resources/user-onboarding.md
+Removing _resources/user-interface-design-patterns.md
+Removing _resources/tools-for-taking-action.md
+Removing _resources/the-teamwork-kit.md
+Removing _resources/the-persona-template.md
+Removing _resources/the-group-works-card-deck.md
+Removing _resources/the-design-sprint.md
+Removing _resources/the-creative-innovation-toolbox.md
+Removing _resources/the-a11y-project.md
+Removing _resources/systemic-design-toolkit.md
+Removing _resources/service-design-toolkit.md
+Removing _resources/service-design-doing.md
+Removing _resources/re-work.md
+Removing _resources/pttrns.md
+Removing _resources/project-of-how.md
+Removing _resources/pa11y.md
+Removing _resources/open-innovation-toolkit.md
+Removing _resources/open-design-kit.md
+Removing _resources/nobl-academy.md
+Removing _resources/nesta-toolkits.md
+Removing _resources/microsoft-inclusive-design.md
+Removing _resources/liberating-structures.md
+Removing _resources/lean-service-creation.md
+Removing _resources/inspired-ui.md
+Removing _resources/initiate.collaborate.md
+Removing _resources/ibm-plex.md
+Removing _resources/hyper-island-toolbox.md
+Removing _resources/humane-by-design.md
+Removing _resources/humaaans.md
+Removing _resources/https-oecd-opsi.org-search-toolkits.md
+Removing _resources/https-guide.onym.co.md
+Removing _resources/government-design-principles.md
+Removing _resources/futuremaker-s-toolbox.md
+Removing _resources/evericons.md
+Removing _resources/eva-icons.md
+Removing _resources/ethics-for-designers.md
+Removing _resources/ethical-os.md
+Removing _resources/ethical-explorer.md
+Removing _resources/emotion-centered-design.md
+Removing _resources/digital-services-playbook.md
+Removing _resources/designerup-podcast.md
+Removing _resources/design-kit.md
+Removing _resources/dark-patterns.md
+Removing _resources/critiquing-design.md
+Removing _resources/content-strategy-checklist.md
+Removing _resources/component-quality-checklist.md
+Removing _resources/cmd-methods-pack.md
+Removing _resources/clear-sans.md
+Removing _resources/actionable-futures-toolkit.md
+Removing _resources/accessibility-for-teams.md
+Removing _resources/75-tools-for-creative-thinking.md
+Removing _resource-types/ui-kits.md
+Removing _resource-types/toolkits.md
+Removing _resource-types/podcasts.md
+Removing _resource-types/pattern-libraries.md
+Removing _resource-types/illustrations.md
+Removing _resource-types/icons.md
+Removing _resource-types/fonts.md
+Removing _resource-types/design-principles.md
+Removing _resource-types/checklists.md
+Removing _resource-types/books.md
+Removing _layouts/resource.html
+Removing _layouts/resource-listing.html
+Removing _includes/linkpreview_nog.html
+Removing _includes/linkpreview.html
+Removing .forestry/settings.yml
+Removing .forestry/front_matter/templates/topic.yml
+Removing .forestry/front_matter/templates/topic-hub.yml
+Removing .forestry/front_matter/templates/tool.yml
+Removing .forestry/front_matter/templates/tool-category.yml
+Removing .forestry/front_matter/templates/resource-types.yml
+Removing .forestry/front_matter/templates/plugin.yml
+Removing .forestry/front_matter/templates/organisation.yml
+Removing .forestry/front_matter/templates/org-type.yml
+Removing .forestry/front_matter/templates/design-system.yml
+Removing .forestry/front_matter/templates/course.yml
+Removing .forestry/front_matter/templates/book.yml
+Removing ._.DS_Store
+Merge made by the 'recursive' strategy.
+ ._.DS_Store                                        | Bin 4096 -> 0 bytes
+ .forestry/front_matter/templates/book.yml          |  75 --------
+ .forestry/front_matter/templates/course.yml        | 148 ---------------
+ .forestry/front_matter/templates/design-system.yml |  68 -------
+ .forestry/front_matter/templates/org-type.yml      |  17 --
+ .forestry/front_matter/templates/organisation.yml  |  53 ------
+ .forestry/front_matter/templates/plugin.yml        |  47 -----
+ .../front_matter/templates/resource-types.yml      |  16 --
+ .forestry/front_matter/templates/tool-category.yml |  18 --
+ .forestry/front_matter/templates/tool.yml          | 114 ------------
+ .forestry/front_matter/templates/topic-hub.yml     |  34 ----
+ .forestry/front_matter/templates/topic.yml         | 201 ---------------------
+ .forestry/settings.yml                             | 132 --------------
+ Gemfile                                            |   3 +-
+ Gemfile.lock                                       |  62 +------
+ _articles/button-design-best-practices.md          |   1 -
+ _cache/0a86d0f8660822b6d85cf598023b0652.json       |   1 +
+ _cache/323bc483acb4dedfec5613ffb4fa0ffa.json       |   1 +
+ _cache/3486008c415c5c30339de56ccd3f178f.json       |   1 +
+ _cache/396c6c1c79df86d474e7ef2a4ada39f8.json       |   1 +
+ _cache/594d6227800198058087f85cc887f9b3.json       |   1 +
+ _cache/5e35a2b42f6c27cf7f4f323056e7f4c5.json       |   1 +
+ _cache/8f3cee8cdec4b324b249dad965e7298c.json       |   1 +
+ _cache/957a892877239208995e696d8f84b05b.json       |   1 +
+ _cache/a059c0e3af8418881c63472baebb71a8.json       |   1 +
+ _cache/ab30a972ab39a8aec71b2f898b8992ea.json       |   1 +
+ _cache/b274ee8ce614d8f5823c9013b5e4d047.json       |   1 +
+ _cache/ba9acde6309cc849627f5f67d8225879.json       |   1 +
+ _cache/d045478bb7765c7f3bee7a9621738747.json       |   1 +
+ _cache/e2010699be801aa8e113c30874b2bf2a.json       |   1 +
+ _cache/e2a179f8cd0d520949f30affd3a88d2f.json       |   1 +
+ _cache/f0cb13e275c4b52363b63299830244a3.json       |   1 +
+ _cache/f5a1ff4a6d0352dd647ae9c969c01914.json       |   1 +
+ _includes/grid-link.html                           |   4 +-
+ _includes/linkpreview.html                         |   1 -
+ _includes/linkpreview_nog.html                     |   0
+ _layouts/.DS_Store                                 | Bin 8196 -> 6148 bytes
+ _layouts/listing.html                              |   1 -
+ _layouts/resource-listing.html                     |  22 ---
+ _layouts/resource.html                             |  29 ---
+ _resource-types/books.md                           |   6 -
+ _resource-types/checklists.md                      |   6 -
+ _resource-types/design-principles.md               |   6 -
+ _resource-types/fonts.md                           |   5 -
+ _resource-types/icons.md                           |   5 -
+ _resource-types/illustrations.md                   |   5 -
+ _resource-types/pattern-libraries.md               |   5 -
+ _resource-types/podcasts.md                        |   6 -
+ _resource-types/toolkits.md                        |   5 -
+ _resource-types/ui-kits.md                         |   6 -
+ _resources/75-tools-for-creative-thinking.md       |  18 --
+ _resources/accessibility-for-teams.md              |  12 --
+ _resources/actionable-futures-toolkit.md           |  23 ---
+ _resources/clear-sans.md                           |  11 --
+ _resources/cmd-methods-pack.md                     |  18 --
+ _resources/component-quality-checklist.md          |  10 -
+ _resources/content-strategy-checklist.md           |   9 -
+ _resources/critiquing-design.md                    |  13 --
+ _resources/dark-patterns.md                        |  14 --
+ _resources/design-kit.md                           |  15 --
+ _resources/designerup-podcast.md                   |  17 --
+ _resources/digital-services-playbook.md            |  15 --
+ _resources/emotion-centered-design.md              |  39 ----
+ _resources/ethical-explorer.md                     |  32 ----
+ _resources/ethical-os.md                           |  11 --
+ _resources/ethics-for-designers.md                 |  12 --
+ _resources/eva-icons.md                            |  10 -
+ _resources/evericons.md                            |  10 -
+ _resources/futuremaker-s-toolbox.md                |  24 ---
+ _resources/government-design-principles.md         |  15 --
+ _resources/https-guide.onym.co.md                  |  15 --
+ _resources/https-oecd-opsi.org-search-toolkits.md  |  16 --
+ _resources/humaaans.md                             |   9 -
+ _resources/humane-by-design.md                     |  13 --
+ _resources/hyper-island-toolbox.md                 |  13 --
+ _resources/ibm-plex.md                             |  10 -
+ _resources/initiate.collaborate.md                 |  23 ---
+ _resources/inspired-ui.md                          |  11 --
+ _resources/lean-service-creation.md                |  16 --
+ _resources/liberating-structures.md                |  14 --
+ _resources/microsoft-inclusive-design.md           |  15 --
+ _resources/nesta-toolkits.md                       |  18 --
+ _resources/nobl-academy.md                         |  16 --
+ _resources/open-design-kit.md                      |  15 --
+ _resources/open-innovation-toolkit.md              |  13 --
+ _resources/pa11y.md                                |  13 --
+ _resources/project-of-how.md                       |  16 --
+ _resources/pttrns.md                               |  10 -
+ _resources/re-work.md                              |  14 --
+ _resources/service-design-doing.md                 |  15 --
+ _resources/service-design-toolkit.md               |  30 ---
+ _resources/systemic-design-toolkit.md              |  25 ---
+ _resources/the-a11y-project.md                     |  11 --
+ _resources/the-creative-innovation-toolbox.md      |  12 --
+ _resources/the-design-sprint.md                    |  19 --
+ _resources/the-group-works-card-deck.md            |  13 --
+ _resources/the-persona-template.md                 |  10 -
+ _resources/the-teamwork-kit.md                     |  16 --
+ _resources/tools-for-taking-action.md              |  15 --
+ _resources/user-interface-design-patterns.md       |  12 --
+ _resources/user-onboarding.md                      |  15 --
+ _topics/kids-computer-essentials.md                |  10 -
+ 102 files changed, 25 insertions(+), 1894 deletions(-)
+ delete mode 100755 ._.DS_Store
+ delete mode 100644 .forestry/front_matter/templates/book.yml
+ delete mode 100644 .forestry/front_matter/templates/course.yml
+ delete mode 100644 .forestry/front_matter/templates/design-system.yml
+ delete mode 100644 .forestry/front_matter/templates/org-type.yml
+ delete mode 100644 .forestry/front_matter/templates/organisation.yml
+ delete mode 100644 .forestry/front_matter/templates/plugin.yml
+ delete mode 100644 .forestry/front_matter/templates/resource-types.yml
+ delete mode 100644 .forestry/front_matter/templates/tool-category.yml
+ delete mode 100644 .forestry/front_matter/templates/tool.yml
+ delete mode 100644 .forestry/front_matter/templates/topic-hub.yml
+ delete mode 100644 .forestry/front_matter/templates/topic.yml
+ delete mode 100644 .forestry/settings.yml
+ create mode 100644 _cache/0a86d0f8660822b6d85cf598023b0652.json
+ create mode 100644 _cache/323bc483acb4dedfec5613ffb4fa0ffa.json
+ create mode 100644 _cache/3486008c415c5c30339de56ccd3f178f.json
+ create mode 100644 _cache/396c6c1c79df86d474e7ef2a4ada39f8.json
+ create mode 100644 _cache/594d6227800198058087f85cc887f9b3.json
+ create mode 100644 _cache/5e35a2b42f6c27cf7f4f323056e7f4c5.json
+ create mode 100644 _cache/8f3cee8cdec4b324b249dad965e7298c.json
+ create mode 100644 _cache/957a892877239208995e696d8f84b05b.json
+ create mode 100644 _cache/a059c0e3af8418881c63472baebb71a8.json
+ create mode 100644 _cache/ab30a972ab39a8aec71b2f898b8992ea.json
+ create mode 100644 _cache/b274ee8ce614d8f5823c9013b5e4d047.json
+ create mode 100644 _cache/ba9acde6309cc849627f5f67d8225879.json
+ create mode 100644 _cache/d045478bb7765c7f3bee7a9621738747.json
+ create mode 100644 _cache/e2010699be801aa8e113c30874b2bf2a.json
+ create mode 100644 _cache/e2a179f8cd0d520949f30affd3a88d2f.json
+ create mode 100644 _cache/f0cb13e275c4b52363b63299830244a3.json
+ create mode 100644 _cache/f5a1ff4a6d0352dd647ae9c969c01914.json
+ delete mode 100644 _includes/linkpreview.html
+ delete mode 100644 _includes/linkpreview_nog.html
+ delete mode 100755 _layouts/resource-listing.html
+ delete mode 100755 _layouts/resource.html
+ delete mode 100644 _resource-types/books.md
+ delete mode 100644 _resource-types/checklists.md
+ delete mode 100644 _resource-types/design-principles.md
+ delete mode 100644 _resource-types/fonts.md
+ delete mode 100644 _resource-types/icons.md
+ delete mode 100644 _resource-types/illustrations.md
+ delete mode 100644 _resource-types/pattern-libraries.md
+ delete mode 100644 _resource-types/podcasts.md
+ delete mode 100644 _resource-types/toolkits.md
+ delete mode 100644 _resource-types/ui-kits.md
+ delete mode 100644 _resources/75-tools-for-creative-thinking.md
+ delete mode 100644 _resources/accessibility-for-teams.md
+ delete mode 100644 _resources/actionable-futures-toolkit.md
+ delete mode 100644 _resources/clear-sans.md
+ delete mode 100644 _resources/cmd-methods-pack.md
+ delete mode 100644 _resources/component-quality-checklist.md
+ delete mode 100644 _resources/content-strategy-checklist.md
+ delete mode 100644 _resources/critiquing-design.md
+ delete mode 100644 _resources/dark-patterns.md
+ delete mode 100644 _resources/design-kit.md
+ delete mode 100644 _resources/designerup-podcast.md
+ delete mode 100644 _resources/digital-services-playbook.md
+ delete mode 100644 _resources/emotion-centered-design.md
+ delete mode 100644 _resources/ethical-explorer.md
+ delete mode 100644 _resources/ethical-os.md
+ delete mode 100644 _resources/ethics-for-designers.md
+ delete mode 100644 _resources/eva-icons.md
+ delete mode 100644 _resources/evericons.md
+ delete mode 100644 _resources/futuremaker-s-toolbox.md
+ delete mode 100644 _resources/government-design-principles.md
+ delete mode 100644 _resources/https-guide.onym.co.md
+ delete mode 100644 _resources/https-oecd-opsi.org-search-toolkits.md
+ delete mode 100644 _resources/humaaans.md
+ delete mode 100644 _resources/humane-by-design.md
+ delete mode 100644 _resources/hyper-island-toolbox.md
+ delete mode 100644 _resources/ibm-plex.md
+ delete mode 100644 _resources/initiate.collaborate.md
+ delete mode 100644 _resources/inspired-ui.md
+ delete mode 100644 _resources/lean-service-creation.md
+ delete mode 100644 _resources/liberating-structures.md
+ delete mode 100644 _resources/microsoft-inclusive-design.md
+ delete mode 100644 _resources/nesta-toolkits.md
+ delete mode 100644 _resources/nobl-academy.md
+ delete mode 100644 _resources/open-design-kit.md
+ delete mode 100644 _resources/open-innovation-toolkit.md
+ delete mode 100644 _resources/pa11y.md
+ delete mode 100644 _resources/project-of-how.md
+ delete mode 100644 _resources/pttrns.md
+ delete mode 100644 _resources/re-work.md
+ delete mode 100644 _resources/service-design-doing.md
+ delete mode 100644 _resources/service-design-toolkit.md
+ delete mode 100644 _resources/systemic-design-toolkit.md
+ delete mode 100644 _resources/the-a11y-project.md
+ delete mode 100644 _resources/the-creative-innovation-toolbox.md
+ delete mode 100644 _resources/the-design-sprint.md
+ delete mode 100644 _resources/the-group-works-card-deck.md
+ delete mode 100644 _resources/the-persona-template.md
+ delete mode 100644 _resources/the-teamwork-kit.md
+ delete mode 100644 _resources/tools-for-taking-action.md
+ delete mode 100644 _resources/user-interface-design-patterns.md
+ delete mode 100644 _resources/user-onboarding.md
+ delete mode 100644 _topics/kids-computer-essentials.md
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
