@@ -29126,3 +29126,10 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master b5b8b3bb] Update feeds
+ 3 files changed, 327 insertions(+)
+ create mode 100644 _topics/how-airbnb-became-a-leader-in-ux-design.md
+ create mode 100644 _topics/mastering-the-mind-game-how-priming-shapes-your-online-experience.md
+To github.com:MattKevan/uxlift.git
+   eac2cbf8..b5b8b3bb  master -> master
+Feeds updated 02/15/2024 - 12:00:01 am GMT
