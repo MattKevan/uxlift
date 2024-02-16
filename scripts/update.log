@@ -29133,3 +29133,32 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 To github.com:MattKevan/uxlift.git
    eac2cbf8..b5b8b3bb  master -> master
 Feeds updated 02/15/2024 - 12:00:01 am GMT
+[master fa3b2f82] First update
+ 1 file changed, 7 insertions(+)
+Already up to date.
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
