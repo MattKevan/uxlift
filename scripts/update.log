@@ -29301,3 +29301,21 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master c5034fc3] Update feeds
+ 14 files changed, 186 insertions(+)
+ create mode 100644 _topics/50-ux-ui-portfolio-intros-you-can-borrow-from-google-apple-facebook-uber-hires.md
+ create mode 100644 _topics/7-effective-ways-to-craft-compelling-problem-statements-for-ux-design.md
+ create mode 100644 _topics/disabled-buttons-uxusability-issues-and-how-to-avoid-them.md
+ create mode 100644 _topics/dont-stuff-your-sentences-shorten-them-instead.md
+ create mode 100644 _topics/fostering-a-collaborative-onboarding-team-to-design-better-onboarding-experiences.md
+ create mode 100644 _topics/how-to-design-an-accessible-web-site-for-people-with-color-deficient-vision.md
+ create mode 100644 _topics/interaction-footprint-a-new-tool-for-measuring-design.md
+ create mode 100644 _topics/okr-in-product-design.md
+ create mode 100644 _topics/spatial-computing-a-new-paradigm-of-interaction.md
+ create mode 100644 _topics/start-with-why-how-understanding-purpose-transforms-ux.md
+ create mode 100644 _topics/the-ai-advantage-how-ux-designers-can-transform-challenges-into-opportunities.md
+ create mode 100644 _topics/the-impact-of-your-work-is-felt-far-beyond-the-screen.md
+ create mode 100644 _topics/two-must-have-figma-ai-plugins-to-transform-your-figma-workflow.md
+To github.com:MattKevan/uxlift.git
+   93bd23d7..c5034fc3  master -> master
+Feeds updated 02/20/2024 - 12:00:01 am GMT
