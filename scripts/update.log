@@ -29348,3 +29348,10 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master f5d3b3a5] Update feeds
+ 3 files changed, 47 insertions(+)
+ create mode 100644 _topics/7-custom-gpts-for-product-designers.md
+ create mode 100644 _topics/smooth-sailing-or-stormy-seas-navigating-customer-experience-pain-points-with-a-smile.md
+To github.com:MattKevan/uxlift.git
+   c5034fc3..f5d3b3a5  master -> master
+Feeds updated 02/21/2024 - 12:00:01 am GMT
