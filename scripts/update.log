@@ -29384,3 +29384,16 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master fc94bb91] Update feeds
+ 9 files changed, 101 insertions(+)
+ create mode 100644 _topics/15-must-have-chrome-extensions-for-product-designers.md
+ create mode 100644 _topics/a-playful-guide-to-minimizing-cognitive-load-for-maximum-fun-sability.md
+ create mode 100644 _topics/information-architecture-design-step-by-step.md
+ create mode 100644 _topics/job-opening-senior-front-end-developer-full-time-remote.md
+ create mode 100644 _topics/keeping-ourselves-accountable-5-simple-tools-for-product-designers.md
+ create mode 100644 _topics/some-spiritual-reflections-on-my-systemic-design-studies.md
+ create mode 100644 _topics/user-experience-research-assistantships-undergraduate-and-graduate-remote-2024.md
+ create mode 100644 _topics/what-strategies-do-you-use-to-build-a-successful-ux-team.md
+To github.com:MattKevan/uxlift.git
+   f5d3b3a5..fc94bb91  master -> master
+Feeds updated 02/22/2024 - 12:00:01 am GMT
