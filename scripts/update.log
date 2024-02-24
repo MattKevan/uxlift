@@ -29426,3 +29426,15 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master d5d2e0bf] Update feeds
+ 8 files changed, 92 insertions(+)
+ create mode 100644 _topics/ethical-crossroads-is-your-ux-design-helping-or-hurting.md
+ create mode 100644 _topics/harness-the-user-experience-with-7-ux-trends-for-2024.md
+ create mode 100644 _topics/how-does-technology-make-us-lost-in-the-digital-noise.md
+ create mode 100644 _topics/jobs-to-be-done-in-product-design.md
+ create mode 100644 _topics/just-a-compilation-of-hilarious-design-and-developer-memes-part-2.md
+ create mode 100644 _topics/next-generation-ui-paradigm-the-power-of-artificial-intelligence.md
+ create mode 100644 _topics/top-5-courses-for-design-managers.md
+To github.com:MattKevan/uxlift.git
+   fc94bb91..d5d2e0bf  master -> master
+Feeds updated 02/23/2024 - 12:00:01 am GMT
