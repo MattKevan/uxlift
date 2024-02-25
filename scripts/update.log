@@ -29467,3 +29467,11 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 06fedc81] Update feeds
+ 4 files changed, 56 insertions(+)
+ create mode 100644 _topics/card-sorting-vs-tree-testing.md
+ create mode 100644 _topics/design-by-ai-the-fast-food-of-the-future.md
+ create mode 100644 _topics/design-system-maturity.md
+To github.com:MattKevan/uxlift.git
+   d5d2e0bf..06fedc81  master -> master
+Feeds updated 02/24/2024 - 12:00:01 am GMT
