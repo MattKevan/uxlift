@@ -29539,3 +29539,16 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master e82d493d] Update feeds
+ 9 files changed, 101 insertions(+)
+ create mode 100644 _topics/career-in-ux-10-things-i-wish-i-knew-10-years-ago.md
+ create mode 100644 _topics/empathy-a-designers-superpower.md
+ create mode 100644 _topics/how-to-make-your-resume-ats-compliant.md
+ create mode 100644 _topics/how-zoom-uses-dark-patterns-to-increase-app-downloads.md
+ create mode 100644 _topics/my-favorite-ux-ui-design-courses.md
+ create mode 100644 _topics/stay-play-save-best-practices-for-gamification-in-fintech.md
+ create mode 100644 _topics/the-most-challenging-lesson-i-learned-as-a-uiux-designer.md
+ create mode 100644 _topics/what-to-buy-chatgpt-pro-or-gemini-advanced.md
+To github.com:MattKevan/uxlift.git
+   bfa0d44d..e82d493d  master -> master
+Feeds updated 02/26/2024 - 12:00:01 am GMT
