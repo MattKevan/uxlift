@@ -29619,3 +29619,10 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master cf5bd2b8] Update feeds
+ 3 files changed, 47 insertions(+)
+ create mode 100644 _topics/ai-and-design-systems.md
+ create mode 100644 _topics/always-explain-industry-specific-filters-62-dont.md
+To github.com:MattKevan/uxlift.git
+   89beb7ea..cf5bd2b8  master -> master
+Feeds updated 02/28/2024 - 12:00:01 am GMT
