@@ -29689,3 +29689,12 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master c6502b88] Update feeds
+ 5 files changed, 178 insertions(+)
+ create mode 100644 _topics/a-solo-designers-journey-in-a-fast-growing-startup.md
+ create mode 100644 _topics/the-design-hiring-game-is-fcked.md
+ create mode 100644 _topics/the-wax-and-the-wane-of-the-web.md
+ create mode 100644 _topics/wheres-the-shortcut-to-cancelling-my-subscription.md
+To github.com:MattKevan/uxlift.git
+   cc87af93..c6502b88  master -> master
+Feeds updated 03/01/2024 - 12:00:01 am GMT
