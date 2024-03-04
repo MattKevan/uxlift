@@ -29763,3 +29763,12 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 442476e4] Update feeds
+ 5 files changed, 65 insertions(+)
+ create mode 100644 _topics/gen-ai-design-process-rethinking-the-traditional-approach-for-next-gen-ux.md
+ create mode 100644 _topics/how-a-multinational-insurance-company-is-managing-design-at-scale-through-a-design-system.md
+ create mode 100644 _topics/my-adventure-in-ux-design.md
+ create mode 100644 _topics/what-they-dont-tell-you-about-designing-for-responsible-ai-products.md
+To github.com:MattKevan/uxlift.git
+   40982311..442476e4  master -> master
+Feeds updated 03/03/2024 - 12:00:01 am GMT
