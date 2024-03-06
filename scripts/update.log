@@ -29836,3 +29836,16 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master e84ab312] Update feeds
+ 9 files changed, 137 insertions(+)
+ create mode 100644 _topics/achieving-design-collegiality-while-maintaining-psychological-safety.md
+ create mode 100644 _topics/better-apps-delivering-universal-ui-patterns-as-web-components-microsoft-research.md
+ create mode 100644 _topics/conversational-ai-search-engines-implications-for-usability-and-the-user-experience.md
+ create mode 100644 _topics/designing-for-mobile-accessibility-enhancing-the-user-experience-on-small-screens.md
+ create mode 100644 _topics/evolving-design-systems-a-free-webflow-resource.md
+ create mode 100644 _topics/fostering-inclusive-design-in-industrial-automation-part-2.md
+ create mode 100644 _topics/harnessing-the-power-of-user-generated-content-in-ecommerce.md
+ create mode 100644 _topics/ux-conference-may-announced-may-11-may-24.md
+To github.com:MattKevan/uxlift.git
+   1e61301d..e84ab312  master -> master
+Feeds updated 03/05/2024 - 12:00:01 am GMT
