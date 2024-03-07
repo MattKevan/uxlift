@@ -29878,3 +29878,15 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 20a11109] Update feeds
+ 8 files changed, 92 insertions(+)
+ create mode 100644 _topics/10-chrome-extensions-every-designer-must-have2024.md
+ create mode 100644 _topics/after-research-what-next.md
+ create mode 100644 _topics/designing-tomorrow-shaping-the-future-of-design-with-ai.md
+ create mode 100644 _topics/mastering-the-art-of-virtual-collaboration-a-guide-for-remote-teams.md
+ create mode 100644 _topics/new-2024-order-tracking-returns-ux-benchmark-with-950-performance-scores-and-850-best-practice-examples.md
+ create mode 100644 _topics/responsive-layout-grid-in-figma.md
+ create mode 100644 _topics/the-7-most-important-laws-of-ux-design-in-2024.md
+To github.com:MattKevan/uxlift.git
+   e84ab312..20a11109  master -> master
+Feeds updated 03/06/2024 - 12:00:01 am GMT
