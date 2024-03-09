@@ -29954,3 +29954,16 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 5fa11717] Update feeds
+ 9 files changed, 101 insertions(+)
+ create mode 100644 _topics/2024-tech-layoff-a-designers-self-rescue-amidst-the-layoff-wave.md
+ create mode 100644 _topics/color-wheels-for-human-centered-design.md
+ create mode 100644 _topics/i-know-more-but-less-with-each-passing-year.md
+ create mode 100644 _topics/i-tried-this-viral-strategy-to-find-design-clientspart-01.md
+ create mode 100644 _topics/making-linkedin-your-ultimate-prospecting-tool.md
+ create mode 100644 _topics/niche-product-design.md
+ create mode 100644 _topics/realities-as-a-ui-designer-i-wish-i-knew-earlier.md
+ create mode 100644 _topics/why-design-ops-is-a-bottleneck-for-many-organizationsand-how-to-break-through.md
+To github.com:MattKevan/uxlift.git
+   1744e32c..5fa11717  master -> master
+Feeds updated 03/08/2024 - 12:00:01 am GMT
