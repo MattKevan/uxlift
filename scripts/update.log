@@ -30165,3 +30165,16 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 02a9313c] Update feeds
+ 9 files changed, 101 insertions(+)
+ create mode 100644 _topics/2024-e-commerce-checkout-expanded-and-updated-checkout-research-findings.md
+ create mode 100644 _topics/how-to-achieve-clarity-and-focus-in-your-designs.md
+ create mode 100644 _topics/my-ux-design-journey-part-ii-experience-outlived-in-the-dimensions-of-design-thinking.md
+ create mode 100644 _topics/persist-unleash-reset.md
+ create mode 100644 _topics/tooltip-a-small-design-element-with-a-big-ux-impact.md
+ create mode 100644 _topics/tune-5-ui-kits-you-need-to-have-in-figma.md
+ create mode 100644 _topics/using-the-power-of-behavioral-science-to-elevate-user-experience-ux-design.md
+ create mode 100644 _topics/whats-next-for-a-global-design-system.md
+To github.com:MattKevan/uxlift.git
+   f5774907..02a9313c  master -> master
+Feeds updated 03/14/2024 - 12:00:01 am GMT
