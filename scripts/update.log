@@ -30332,3 +30332,22 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 8ec92379] Update feeds
+ 15 files changed, 189 insertions(+)
+ create mode 100644 _topics/5-underrated-tools-revolutionizing-ui-design.md
+ create mode 100644 _topics/check-out-these-5-must-try-ai-plugins-for-figma.md
+ create mode 100644 _topics/design-systems-from-atomic-design-to-a-global-solution.md
+ create mode 100644 _topics/designing-for-the-user-how-form-insights-shape-ux-design-decisions.md
+ create mode 100644 _topics/empowering-the-user-experience-through-microinteractions-7-best-practices.md
+ create mode 100644 _topics/evolving-the-user-experience-to-curb-digital-addiction.md
+ create mode 100644 _topics/homepage-design-5-fundamental-principles.md
+ create mode 100644 _topics/how-web-site-design-and-social-media-work-together.md
+ create mode 100644 _topics/skeuomorphism.md
+ create mode 100644 _topics/the-future-of-visual-storytelling-text-to-video-ai.md
+ create mode 100644 _topics/the-invisible-influence-top-5-ethics-in-ux-design.md
+ create mode 100644 _topics/the-power-of-textual-content-in-ux-design.md
+ create mode 100644 _topics/tone-and-voice-how-to-guide-by-hp-indigo.md
+ create mode 100644 _topics/understanding-the-ai-frontier-balancing-automation-and-cognitive-skills-for-the-future.md
+To github.com:MattKevan/uxlift.git
+   56e2d9e2..8ec92379  master -> master
+Feeds updated 03/19/2024 - 12:00:01 am GMT
