@@ -30473,3 +30473,26 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master c16773a9] Update feeds
+ 19 files changed, 191 insertions(+)
+ create mode 100644 _topics/3-alternatives-to-build-your-online-portfolio-without-coding.md
+ create mode 100644 _topics/3-certifications-ux-designers-should-upskill-in-with-their-training-budget.md
+ create mode 100644 _topics/adactio-journalwhat-the-world-needs.md
+ create mode 100644 _topics/are-we-watching-the-internet-die.md
+ create mode 100644 _topics/calculators-and-quizzes-user-expectations.md
+ create mode 100644 _topics/deep-dive-with-brad-frost-the-new-frontier-of-design-systems.md
+ create mode 100644 _topics/demystifying-user-testing-for-ux-design-beginners.md
+ create mode 100644 _topics/design-systems-wtf-12-a-global-design-system.md
+ create mode 100644 _topics/empower-digital-transformation-in-banking-with-ux-design.md
+ create mode 100644 _topics/ethical-ai-shaping-the-future.md
+ create mode 100644 _topics/generative-ui-and-outcome-oriented-design.md
+ create mode 100644 _topics/help-the-aged.md
+ create mode 100644 _topics/how-to-free-up-hours-of-work-with-the-new-figma-feature.md
+ create mode 100644 _topics/navigating-the-system-usability-scale-sus-maze.md
+ create mode 100644 _topics/new-uxui-design-toolsopenai-sora-lottiefiles-creator-more.md
+ create mode 100644 _topics/people-hearing-music-for-the-first-time.md
+ create mode 100644 _topics/psychological-principles-behind-effective-ux-design.md
+ create mode 100644 _topics/vitamins-supplements-sites-new-ux-benchmark-with-3500-performance-scores-and-2500-best-practice-examples.md
+To github.com:MattKevan/uxlift.git
+   65a8b835..c16773a9  master -> master
+Feeds updated 03/23/2024 - 12:00:01 am GMT
