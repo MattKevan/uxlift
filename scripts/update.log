@@ -30560,3 +30560,10 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master f3e3840b] Update feeds
+ 3 files changed, 47 insertions(+)
+ create mode 100644 _topics/how-i-know-when-to-quit-my-design-job-every-single-time.md
+ create mode 100644 _topics/the-chopsticks-dilemma-in-generative-images-ai.md
+To github.com:MattKevan/uxlift.git
+   85781c64..f3e3840b  master -> master
+Feeds updated 03/25/2024 - 12:00:01 am GMT
