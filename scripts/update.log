@@ -30658,3 +30658,20 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 20c92f2a] Update feeds
+ 13 files changed, 137 insertions(+)
+ create mode 100644 _topics/10-facts-about-color-in-design.md
+ create mode 100644 _topics/3-books-to-help-you-understand-web-minimalism-in-design.md
+ create mode 100644 _topics/3-essential-habits-for-uxui-designers.md
+ create mode 100644 _topics/7-controversial-myths-about-design-systems.md
+ create mode 100644 _topics/ais-role-in-design-thinking.md
+ create mode 100644 _topics/apparel-e-commerce-visually-group-and-clearly-label-size-filter-options.md
+ create mode 100644 _topics/behind-the-scenes-prompt-crafting-techniques-for-figjam-ai.md
+ create mode 100644 _topics/how-past-product-experiences-shape-your-ux.md
+ create mode 100644 _topics/my-ux-design-journey-part-iv-understanding-phase.md
+ create mode 100644 _topics/this-is-the-historigraph-it-can-bring-advanced-data-visualization-to-the-mainstream.md
+ create mode 100644 _topics/uiux-design-framer-vs-webflow-vs-wordpress-in-2024.md
+ create mode 100644 _topics/what-can-we-learn-from-japan-for-ui-design.md
+To github.com:MattKevan/uxlift.git
+   567d22c9..20c92f2a  master -> master
+Feeds updated 03/28/2024 - 12:00:01 am GMT
