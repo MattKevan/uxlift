@@ -30704,3 +30704,13 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 765a98d9] Update feeds
+ 6 files changed, 74 insertions(+)
+ create mode 100644 _topics/10-psychological-facts-about-human-behavior.md
+ create mode 100644 _topics/ai-vs-neural-networks-unraveling-the-differences.md
+ create mode 100644 _topics/design-for-spatial-user-interfaces.md
+ create mode 100644 _topics/from-bard-to-gemini.md
+ create mode 100644 _topics/ux-conference-june-announced-jun-15-jun-21.md
+To github.com:MattKevan/uxlift.git
+   20c92f2a..765a98d9  master -> master
+Feeds updated 03/29/2024 - 12:00:01 am GMT
