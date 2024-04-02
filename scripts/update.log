@@ -30853,3 +30853,10 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 80a34b9c] Update feeds
+ 3 files changed, 47 insertions(+)
+ create mode 100644 _topics/front-end-developments-identity-crisis-elly-loel.md
+ create mode 100644 _topics/top-10-cognitive-biases-in-product-design.md
+To github.com:MattKevan/uxlift.git
+   6ced4b99..80a34b9c  master -> master
+Feeds updated 04/02/2024 - 12:00:01 am BST
