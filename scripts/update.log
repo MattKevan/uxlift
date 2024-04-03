@@ -30889,3 +30889,16 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 24ddba56] Update feeds
+ 9 files changed, 101 insertions(+)
+ create mode 100644 _topics/bottom-tab-bar-navigation-design-best-practices.md
+ create mode 100644 _topics/brad-frost-on-adaptable-design-systems-design-systems-podcast.md
+ create mode 100644 _topics/from-shadow-to-light-rethinking-dark-patterns-for-ethical-design.md
+ create mode 100644 _topics/luxury-goods-sites-new-ux-benchmark-with-3500-performance-scores-and-2500-best-practice-examples.md
+ create mode 100644 _topics/modernizing-loto-prioritizing-user-requirements-with-the-kano-model.md
+ create mode 100644 _topics/rating-scales-the-more-points-the-merrier.md
+ create mode 100644 _topics/this-is-why-you-need-to-stop-watching-dribbbles-shots.md
+ create mode 100644 _topics/top-5-usability-testing-books.md
+To github.com:MattKevan/uxlift.git
+   80a34b9c..24ddba56  master -> master
+Feeds updated 04/03/2024 - 12:00:01 am BST
