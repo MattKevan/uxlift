@@ -30931,3 +30931,9 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 4358f3ed] Update feeds
+ 2 files changed, 38 insertions(+)
+ create mode 100644 _topics/top-10-mistakes-when-creating-user-journey-maps.md
+To github.com:MattKevan/uxlift.git
+   24ddba56..4358f3ed  master -> master
+Feeds updated 04/04/2024 - 12:00:02 am BST
