@@ -31000,3 +31000,11 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master b097e23e] Update feeds
+ 4 files changed, 56 insertions(+)
+ create mode 100644 _topics/breakpoints-in-responsive-design.md
+ create mode 100644 _topics/planning-research-with-generative-ai.md
+ create mode 100644 _topics/should-designers-code.md
+To github.com:MattKevan/uxlift.git
+   c4c5aaf4..b097e23e  master -> master
+Feeds updated 04/06/2024 - 12:00:01 am BST
