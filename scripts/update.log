@@ -31071,3 +31071,14 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master a42bed29] Update feeds
+ 7 files changed, 83 insertions(+)
+ create mode 100644 _topics/2024-ios-app-trends-the-future-of-ios-app-development.md
+ create mode 100644 _topics/the-hybrid-designer-mastering-ui-design-and-web-integration.md
+ create mode 100644 _topics/there-is-a-huge-problem-about-fake-ui-designers.md
+ create mode 100644 _topics/to-code-or-not-to-code-the-modern-uxui-designers-dilemma.md
+ create mode 100644 _topics/ux-case-study-dj-lani-loves-website-redesign.md
+ create mode 100644 _topics/when-to-adapt-when-to-hold-firm-a-product-designers-balancing-act.md
+To github.com:MattKevan/uxlift.git
+   74fcd730..a42bed29  master -> master
+Feeds updated 04/08/2024 - 12:00:01 am BST
