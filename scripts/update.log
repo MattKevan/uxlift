@@ -31112,3 +31112,10 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 79c7c28a] Update feeds
+ 3 files changed, 48 insertions(+)
+ create mode 100644 _topics/how-do-i-become-a-ux-designer.md
+ create mode 100644 _topics/product-designers-bookshelf-part-2.md
+To github.com:MattKevan/uxlift.git
+   a42bed29..79c7c28a  master -> master
+Feeds updated 04/09/2024 - 12:00:01 am BST
