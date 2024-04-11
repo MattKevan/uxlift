@@ -31183,3 +31183,11 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 9e48ec8e] Update feeds
+ 4 files changed, 56 insertions(+)
+ create mode 100644 _topics/b2b-e-commerce-use-product-tables-to-display-product-listings-on-desktop.md
+ create mode 100644 _topics/the-value-of-design-tokens-in-modern-web-development-southleft-llc.md
+ create mode 100644 _topics/what-is-gamification-and-how-is-it-used-in-everyday-user-experiences.md
+To github.com:MattKevan/uxlift.git
+   feeb160d..9e48ec8e  master -> master
+Feeds updated 04/11/2024 - 12:00:01 am BST
