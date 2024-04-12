@@ -31220,3 +31220,9 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 762f2858] Update feeds
+ 2 files changed, 38 insertions(+)
+ create mode 100644 _topics/b2b-electronics-use-product-tables-to-display-product-listings-on-desktop.md
+To github.com:MattKevan/uxlift.git
+   9e48ec8e..762f2858  master -> master
+Feeds updated 04/12/2024 - 12:00:01 am BST
