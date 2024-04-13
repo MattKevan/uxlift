@@ -31255,3 +31255,20 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master e725bfa5] Update feeds
+ 13 files changed, 137 insertions(+)
+ create mode 100644 _topics/3-types-of-online-calculator-and-quiz-tools.md
+ create mode 100644 _topics/5-effective-ways-animation-elevates-ux.md
+ create mode 100644 _topics/9-things-i-wish-i-knew-before-i-started-building-a-product-as-a-solo-product-designer.md
+ create mode 100644 _topics/ai-ux-design-tools-are-not-ready-for-primetime-status-update.md
+ create mode 100644 _topics/all-you-need-to-understand-ai-in-5-minutes-a-non-techie-guide-for-designers.md
+ create mode 100644 _topics/considerations-on-full-stack-product-designers.md
+ create mode 100644 _topics/from-frustration-to-fun-how-i-revamped-minmaxs-combat-interface.md
+ create mode 100644 _topics/how-to-properly-create-storyboards-that-portray-a-users-experience-with-your-product.md
+ create mode 100644 _topics/imagining-the-future-of-generative-ai-for-ux.md
+ create mode 100644 _topics/must-read-for-ux-designer-in-2024.md
+ create mode 100644 _topics/why-user-flows-are-pivotal-how-to-properly-outline-them.md
+ create mode 100644 _topics/why-whatsapp-redesigned-its-ux.md
+To github.com:MattKevan/uxlift.git
+   762f2858..e725bfa5  master -> master
+Feeds updated 04/13/2024 - 12:00:01 am BST
