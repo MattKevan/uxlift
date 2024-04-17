@@ -31395,3 +31395,10 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 	from feeds.rb:14:in `block in <main>'
 	from feeds.rb:9:in `each'
 	from feeds.rb:9:in `<main>'
+[master e3b49301] Update feeds
+ 3 files changed, 44 insertions(+)
+ create mode 100644 _topics/the-designers-missing-guide-to-ui-animations-micro-interactions-and-modern-tools.md
+ create mode 100644 _topics/ux-writing-pronouns-and-gender.md
+To github.com:MattKevan/uxlift.git
+   cec92c57..e3b49301  master -> master
+Feeds updated 04/17/2024 - 12:00:01 am BST
