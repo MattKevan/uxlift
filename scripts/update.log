@@ -31506,3 +31506,10 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master da254943] Update feeds
+ 3 files changed, 47 insertions(+)
+ create mode 100644 _topics/12-design-recommendations-for-calculator-and-quiz-tools.md
+ create mode 100644 _topics/my-framework-for-10x-productivity.md
+To github.com:MattKevan/uxlift.git
+   9abef1a8..da254943  master -> master
+Feeds updated 04/20/2024 - 12:00:01 am BST
