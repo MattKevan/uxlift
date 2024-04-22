@@ -31576,3 +31576,16 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master d020aa61] Update feeds
+ 9 files changed, 101 insertions(+)
+ create mode 100644 _topics/are-you-ready-for-ux-in-2024.md
+ create mode 100644 _topics/gamification-in-edtech.md
+ create mode 100644 _topics/how-learning-industrial-designing-made-me-a-better-ux-designer.md
+ create mode 100644 _topics/how-to-generate-color-palettes-for-design-systems.md
+ create mode 100644 _topics/stop-designing-chat-based-ai-tools.md
+ create mode 100644 _topics/the-case-of-the-missing-me.md
+ create mode 100644 _topics/user-personas-how-they-started-and-how-theyre-going.md
+ create mode 100644 _topics/ux-design-challenge-then-and-now.md
+To github.com:MattKevan/uxlift.git
+   312dee1b..d020aa61  master -> master
+Feeds updated 04/22/2024 - 12:00:01 am BST
