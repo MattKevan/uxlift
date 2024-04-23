@@ -31618,3 +31618,9 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 5c7da4c8] Update feeds
+ 2 files changed, 38 insertions(+)
+ create mode 100644 _topics/the-art-of-design-system-recipes.md
+To github.com:MattKevan/uxlift.git
+   d020aa61..5c7da4c8  master -> master
+Feeds updated 04/23/2024 - 12:00:01 am BST
