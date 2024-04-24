@@ -31653,3 +31653,9 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 7f14e620] Update feeds
+ 2 files changed, 38 insertions(+)
+ create mode 100644 _topics/b2b-electronics-always-allow-users-to-search-long-lists-of-filter-options.md
+To github.com:MattKevan/uxlift.git
+   5c7da4c8..7f14e620  master -> master
+Feeds updated 04/24/2024 - 12:00:01 am BST
