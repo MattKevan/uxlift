@@ -31688,3 +31688,10 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master f44311c6] Update feeds
+ 3 files changed, 47 insertions(+)
+ create mode 100644 _topics/its-the-end-of-the-web-as-we-know-it.md
+ create mode 100644 _topics/user-interviews-made-simple.md
+To github.com:MattKevan/uxlift.git
+   7f14e620..f44311c6  master -> master
+Feeds updated 04/25/2024 - 12:00:01 am BST
