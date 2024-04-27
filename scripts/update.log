@@ -31759,3 +31759,12 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 6d0aaa76] Update feeds
+ 5 files changed, 65 insertions(+)
+ create mode 100644 _topics/affinity-diagramming-for-collaboratively-sorting-ux-findings-and-design-ideas.md
+ create mode 100644 _topics/the-picture-superiority-effect-harness-the-power-of-visuals.md
+ create mode 100644 _topics/ux-conference-july-announced-jul-13-jul-19.md
+ create mode 100644 _topics/ux-conference-july-announced-jul-21-jul-26.md
+To github.com:MattKevan/uxlift.git
+   0469ee4f..6d0aaa76  master -> master
+Feeds updated 04/27/2024 - 12:00:01 am BST
