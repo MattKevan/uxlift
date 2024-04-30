@@ -31859,3 +31859,10 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 	from feeds.rb:14:in `block in <main>'
 	from feeds.rb:9:in `each'
 	from feeds.rb:9:in `<main>'
+[master 3f5f17c7] Update feeds
+ 3 files changed, 44 insertions(+)
+ create mode 100644 _topics/avoid-these-fatal-gamification-mistakes-at-all-costs.md
+ create mode 100644 _topics/i-got-laid-off-and-got-a-job-offer-in-two-weeks-heres-now-i-did-it.md
+To github.com:MattKevan/uxlift.git
+   26e8958a..3f5f17c7  master -> master
+Feeds updated 04/30/2024 - 12:00:01 am BST
