@@ -31895,3 +31895,22 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 1a40ff19] Update feeds
+ 15 files changed, 155 insertions(+)
+ create mode 100644 _topics/4-plain-language-formatting-tips-your-readers-will-love.md
+ create mode 100644 _topics/5-lead-designers-about-an-expiration-date-of-creative-career-path.md
+ create mode 100644 _topics/design-modeling-canvas-what-is.md
+ create mode 100644 _topics/design-monthly-vol-10.md
+ create mode 100644 _topics/dont-put-crap-in-the-design-system.md
+ create mode 100644 _topics/i-got-laid-off-and-got-a-job-offer-in-two-weeks-heres-how-i-did-it.md
+ create mode 100644 _topics/im-done-talking-about-mvp-lets-talk-about-real-products.md
+ create mode 100644 _topics/people-cant-multitask.md
+ create mode 100644 _topics/sustainable-ux-design-promoting-behavior-through-cognitive-biases.md
+ create mode 100644 _topics/the-challenges-and-solutions-in-multi-screen-uxui-design.md
+ create mode 100644 _topics/the-polish-paradox.md
+ create mode 100644 _topics/this-simple-ux-mistake-can-cost-you-over-20-million-change-it-asap.md
+ create mode 100644 _topics/use-both-ratings-average-and-number-of-ratings-when-sorting-by-user-ratings.md
+ create mode 100644 _topics/why-ux-designers-should-think-about-the-attention-economy.md
+To github.com:MattKevan/uxlift.git
+   3f5f17c7..1a40ff19  master -> master
+Feeds updated 05/01/2024 - 12:00:01 am BST
