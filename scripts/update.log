@@ -32012,3 +32012,20 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 6b23841d] Update feeds
+ 13 files changed, 137 insertions(+)
+ create mode 100644 _topics/10-best-ux-research-analytics-tools.md
+ create mode 100644 _topics/10-ux-portfolio-examples-you-can-replicate-today.md
+ create mode 100644 _topics/6-mistakes-as-a-product-designer-here-is-how-i-fixed-them.md
+ create mode 100644 _topics/7-tips-for-memorable-and-easy-to-understand-imagery.md
+ create mode 100644 _topics/brief-considerations-on-design-topics-20-interview-logistics.md
+ create mode 100644 _topics/content-standards-in-design-systems.md
+ create mode 100644 _topics/how-do-people-read.md
+ create mode 100644 _topics/how-to-stand-out-as-a-ux-designer-in-2024.md
+ create mode 100644 _topics/how-we-revamped-our-challenges-feature-to-increase-participation.md
+ create mode 100644 _topics/interplay-of-optical-illusions-x-design-principles.md
+ create mode 100644 _topics/product-idea-for-reselling-used-clothes-accessories.md
+ create mode 100644 _topics/the-weather-channels-local-on-the-8s-throughout-the-years.md
+To github.com:MattKevan/uxlift.git
+   2e86cba2..6b23841d  master -> master
+Feeds updated 05/04/2024 - 12:00:01 am BST
