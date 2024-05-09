@@ -32196,3 +32196,14 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 3294aba6] Update feeds
+ 7 files changed, 83 insertions(+)
+ create mode 100644 _topics/b2b-electronics-sites-2-high-level-takeaways-from-2500-hours-testing.md
+ create mode 100644 _topics/dark-patterns-versus-behavioural-nudges-in-ux.md
+ create mode 100644 _topics/figma-failed-me.md
+ create mode 100644 _topics/principles-of-typography-in-ui-design.md
+ create mode 100644 _topics/the-evolving-role-of-designers-in-the-ai-era-a-paradigm-shift.md
+ create mode 100644 _topics/uxui-case-study-of-a-football-players-platform-informed-by-research-in-the-netherlands-and-the.md
+To github.com:MattKevan/uxlift.git
+   f10cd2a5..3294aba6  master -> master
+Feeds updated 05/09/2024 - 12:00:01 am BST
