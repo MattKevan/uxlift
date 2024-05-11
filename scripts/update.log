@@ -32270,3 +32270,14 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master cd68bdca] Update feeds
+ 7 files changed, 85 insertions(+)
+ create mode 100644 _topics/defeat-your-feature-factory-by-discovering-strategic-value.md
+ create mode 100644 _topics/design-taste-vs-technical-skills-in-the-era-of-ai.md
+ create mode 100644 _topics/omni-experience-shopping-the-future-of-retail.md
+ create mode 100644 _topics/trading-private-data-for-a-personalized-experience.md
+ create mode 100644 _topics/typography-terms-glossary.md
+ create mode 100644 _topics/ux-design-case-study.md
+To github.com:MattKevan/uxlift.git
+   e015a9a6..cd68bdca  master -> master
+Feeds updated 05/11/2024 - 12:00:01 am BST
