@@ -32379,3 +32379,10 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master ae70eb41] Update feeds
+ 3 files changed, 47 insertions(+)
+ create mode 100644 _topics/how-to-use-chatgpt-to-organize-your-ideas-like-a-pro.md
+ create mode 100644 _topics/why-many-startups-never-achieve-great-designand-happy-users.md
+To github.com:MattKevan/uxlift.git
+   410bd0ad..ae70eb41  master -> master
+Feeds updated 05/14/2024 - 12:00:01 am BST
