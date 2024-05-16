@@ -32451,3 +32451,14 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 8dc4458e] Update feeds
+ 7 files changed, 83 insertions(+)
+ create mode 100644 _topics/5-new-amazing-uxui-tools-and-updates-for-ux-designer.md
+ create mode 100644 _topics/furniture-and-home-decor-ux-deprioritize-view-in-room-augmented-reality-ar-features.md
+ create mode 100644 _topics/generative-ai-ux-design-patterns.md
+ create mode 100644 _topics/job-opening-international-user-experience-researcher-fluent-in-mandarin-chinese.md
+ create mode 100644 _topics/the-power-of-collaboration-in-user-research.md
+ create mode 100644 _topics/why-companies-will-struggle-hiring-the-best-designers-today.md
+To github.com:MattKevan/uxlift.git
+   0c0b61e8..8dc4458e  master -> master
+Feeds updated 05/16/2024 - 12:00:01 am BST
