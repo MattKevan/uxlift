@@ -32977,3 +32977,13 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 32ce24b4] Update feeds
+ 2 files changed, 38 insertions(+)
+ create mode 100644 _topics/always-allow-users-to-navigate-across-user-reviews-via-reviewer-submitted-images.md
+remote: 
+remote: GitHub found 1 vulnerability on MattKevan/uxlift's default branch (1 moderate). To find out more, visit:        
+remote:      https://github.com/MattKevan/uxlift/security/dependabot/3        
+remote: 
+To github.com:MattKevan/uxlift.git
+   8ec99779..32ce24b4  master -> master
+Feeds updated 05/29/2024 - 12:00:01 am BST
