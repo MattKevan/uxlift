@@ -33177,3 +33177,15 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master b341d64e] Update feeds
+ 4 files changed, 56 insertions(+)
+ create mode 100644 _topics/list-of-29-excellent-ai-tools-that-help-you-in-the-work.md
+ create mode 100644 _topics/practical-applications-of-operant-conditioning-in-ux.md
+ create mode 100644 _topics/why-ai-wont-take-your-job.md
+remote: 
+remote: GitHub found 1 vulnerability on MattKevan/uxlift's default branch (1 moderate). To find out more, visit:        
+remote:      https://github.com/MattKevan/uxlift/security/dependabot/3        
+remote: 
+To github.com:MattKevan/uxlift.git
+   be9f1e28..b341d64e  master -> master
+Feeds updated 06/03/2024 - 12:00:01 am BST
