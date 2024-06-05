@@ -33256,3 +33256,17 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 280bb6e9] Update feeds
+ 6 files changed, 74 insertions(+)
+ create mode 100644 _topics/a-rare-use-case-for-em-units.md
+ create mode 100644 _topics/advice-that-blew-up-my-design-career.md
+ create mode 100644 _topics/if-providing-sidebar-filtering-position-the-size-filter-near-the-top-and-expand-it-by-default.md
+ create mode 100644 _topics/sentient-design-ai-and-the-next-chapter-of-ux-big-medium.md
+ create mode 100644 _topics/sorry-everyone-it-is-called-gamification.md
+remote: 
+remote: GitHub found 1 vulnerability on MattKevan/uxlift's default branch (1 moderate). To find out more, visit:        
+remote:      https://github.com/MattKevan/uxlift/security/dependabot/3        
+remote: 
+To github.com:MattKevan/uxlift.git
+   62544a37..280bb6e9  master -> master
+Feeds updated 06/05/2024 - 12:00:01 am BST
