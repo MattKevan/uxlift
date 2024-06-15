@@ -33664,3 +33664,22 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master e7957b88] Update feeds
+ 11 files changed, 119 insertions(+)
+ create mode 100644 _topics/ais-role-in-enhancing-user-feedback-loops.md
+ create mode 100644 _topics/are-variables-worth-the-hustle.md
+ create mode 100644 _topics/card-sorting-pushing-users-beyond-terminology-matches.md
+ create mode 100644 _topics/effective-user-research-meetings-need-a-template.md
+ create mode 100644 _topics/intrigued-by-xr-a-product-designers-exploration-of-user-experience-and-interaction-design.md
+ create mode 100644 _topics/reintroducing-comment-sections-to-netflix-a-product-strategy.md
+ create mode 100644 _topics/seeing-humans-through-5-is.md
+ create mode 100644 _topics/some-takeaways-from-wwdc24-for-edtech.md
+ create mode 100644 _topics/the-4-stages-of-ai-image-generation-an-experience-map.md
+ create mode 100644 _topics/will-ai-chat-replace-legacy-uis-unlikely-for-editor-uis.md
+remote: 
+remote: GitHub found 1 vulnerability on MattKevan/uxlift's default branch (1 moderate). To find out more, visit:        
+remote:      https://github.com/MattKevan/uxlift/security/dependabot/3        
+remote: 
+To github.com:MattKevan/uxlift.git
+   b927cc53..e7957b88  master -> master
+Feeds updated 06/15/2024 - 12:00:01 am BST
