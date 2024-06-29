@@ -34224,3 +34224,17 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 7ca272d3] Update feeds
+ 6 files changed, 74 insertions(+)
+ create mode 100644 _topics/checkboxes-design-guidelines.md
+ create mode 100644 _topics/config-2024-insights-and-opportunities-for-product-designers.md
+ create mode 100644 _topics/figma-config-2024-highlights.md
+ create mode 100644 _topics/product-and-ux-study-guide.md
+ create mode 100644 _topics/the-revolution-of-headless-design-systems.md
+remote: 
+remote: GitHub found 1 vulnerability on MattKevan/uxlift's default branch (1 moderate). To find out more, visit:        
+remote:      https://github.com/MattKevan/uxlift/security/dependabot/3        
+remote: 
+To github.com:MattKevan/uxlift.git
+   8d410060..7ca272d3  master -> master
+Feeds updated 06/29/2024 - 12:00:01 am BST
