@@ -34882,3 +34882,22 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master f1f362c9] Update feeds
+ 11 files changed, 122 insertions(+)
+ create mode 100644 _topics/8-must-have-websites-to-master-uiux-skills.md
+ create mode 100644 _topics/developing-design-guidelines-for-an-icon-pack.md
+ create mode 100644 _topics/elevating-design-systems-a-holistic-framework-for-maturity.md
+ create mode 100644 _topics/how-my-personal-branding-helped-me-stand-out-and-get-hired-faster.md
+ create mode 100644 _topics/i-created-a-mobile-game-that-can-be-played-without-looking-at-your-screen.md
+ create mode 100644 _topics/its-all-right-if-you-dont-want-to-be-a-manager.md
+ create mode 100644 _topics/redesigning-swiggys-referral-screens-a-product-design-case-study.md
+ create mode 100644 _topics/the-importance-of-psychological-safety.md
+ create mode 100644 _topics/what-i-hoped-figma-would-announce-during-config.md
+ create mode 100644 _topics/wwdc24-takeaways-as-a-designer.md
+remote: 
+remote: GitHub found 1 vulnerability on MattKevan/uxlift's default branch (1 moderate). To find out more, visit:        
+remote:      https://github.com/MattKevan/uxlift/security/dependabot/3        
+remote: 
+To github.com:MattKevan/uxlift.git
+   bfed319d..f1f362c9  master -> master
+Feeds updated 07/16/2024 - 12:00:01 am BST
