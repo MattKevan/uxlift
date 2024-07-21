@@ -35093,3 +35093,16 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 2a0903b1] Update feeds
+ 5 files changed, 65 insertions(+)
+ create mode 100644 _topics/figma-just-released-this-5-new-massive-updates-for-2024.md
+ create mode 100644 _topics/listen-a-world-class-reading-companion.md
+ create mode 100644 _topics/principles-of-spacing-in-ui-design-a-beginners-guide-to-the-4-point-spacing-system.md
+ create mode 100644 _topics/teddy-pirateco-living-hostel.md
+remote: 
+remote: GitHub found 2 vulnerabilities on MattKevan/uxlift's default branch (2 moderate). To find out more, visit:        
+remote:      https://github.com/MattKevan/uxlift/security/dependabot        
+remote: 
+To github.com:MattKevan/uxlift.git
+   a65bd26f..2a0903b1  master -> master
+Feeds updated 07/21/2024 - 12:00:01 am BST
