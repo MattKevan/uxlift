@@ -35287,3 +35287,13 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master b1afceba] Update feeds
+ 2 files changed, 38 insertions(+)
+ create mode 100644 _topics/apparel-and-accessories-sites-prioritize-investment-in-category-navigation-and-curated-paths-over-search.md
+remote: 
+remote: GitHub found 2 vulnerabilities on MattKevan/uxlift's default branch (2 moderate). To find out more, visit:        
+remote:      https://github.com/MattKevan/uxlift/security/dependabot        
+remote: 
+To github.com:MattKevan/uxlift.git
+   dd1a1626..b1afceba  master -> master
+Feeds updated 07/26/2024 - 12:00:01 am BST
