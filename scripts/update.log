@@ -35816,3 +35816,19 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 3024d5fb] Update feeds
+ 8 files changed, 92 insertions(+)
+ create mode 100644 _topics/designarchy-vol-13.md
+ create mode 100644 _topics/everything-you-need-to-know-about-customer-journey-map-cjm.md
+ create mode 100644 _topics/frostapalooza-codepen-challenge.md
+ create mode 100644 _topics/my-config24-experience.md
+ create mode 100644 _topics/onboarding-how-to-get-the-user-familiar-with-the-interface.md
+ create mode 100644 _topics/the-social-impact-of-design-systems-digital-accessibility.md
+ create mode 100644 _topics/ux-design-past-project-presentationsimplified-outline.md
+remote: 
+remote: GitHub found 4 vulnerabilities on MattKevan/uxlift's default branch (4 moderate). To find out more, visit:        
+remote:      https://github.com/MattKevan/uxlift/security/dependabot        
+remote: 
+To github.com:MattKevan/uxlift.git
+   8adb2293..3024d5fb  master -> master
+Feeds updated 08/08/2024 - 12:00:01 am BST
