@@ -36108,3 +36108,17 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 5db5647f] Update feeds
+ 7 files changed, 83 insertions(+)
+ create mode 100644 _topics/6-new-free-uxui-courses-you-must-try.md
+ create mode 100644 _topics/excellent-alternatives-to-behance-and-dribble-for-a-ux-designers-portfolio.md
+ create mode 100644 _topics/feature-suggesting-nearby-restaurants-in-a-movie-ticket-booking-appa-mini-case-study.md
+ create mode 100644 _topics/growing-as-a-conversation-designer.md
+ create mode 100644 _topics/how-i-transformed-work-confidence-5-realistic-steps.md
+ create mode 100644 _topics/ux-conference-november-announced-nov-17-nov-22.md
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+Feeds updated 08/15/2024 - 12:00:02 am BST
