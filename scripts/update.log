@@ -36888,3 +36888,13 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 	from feeds.rb:14:in `block in <main>'
 	from feeds.rb:9:in `each'
 	from feeds.rb:9:in `<main>'
+[master c6657e24] Update feeds
+ 2 files changed, 38 insertions(+)
+ create mode 100644 _topics/dual-track-agile-is-good-tri-track-agile-is-even-better.md
+remote: 
+remote: GitHub found 5 vulnerabilities on MattKevan/uxlift's default branch (5 moderate). To find out more, visit:        
+remote:      https://github.com/MattKevan/uxlift/security/dependabot        
+remote: 
+To github.com:MattKevan/uxlift.git
+   75e4294a..c6657e24  master -> master
+Feeds updated 09/03/2024 - 12:00:01 am BST
