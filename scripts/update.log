@@ -37212,3 +37212,18 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master f136fbeb] Update feeds
+ 7 files changed, 83 insertions(+)
+ create mode 100644 _topics/14-simple-rules-to-design-accessible-buttons.md
+ create mode 100644 _topics/job-opening-software-development-manager-remote-full-time.md
+ create mode 100644 _topics/measuring-design-system.md
+ create mode 100644 _topics/mental-models-key-to-inclusive-transit-apps.md
+ create mode 100644 _topics/methods-and-processes-for-evaluating-optimizing-design-systems.md
+ create mode 100644 _topics/the-power-of-the-ux-pyramid-in-user-centered-design.md
+remote: 
+remote: GitHub found 5 vulnerabilities on MattKevan/uxlift's default branch (5 moderate). To find out more, visit:        
+remote:      https://github.com/MattKevan/uxlift/security/dependabot        
+remote: 
+To github.com:MattKevan/uxlift.git
+   16ff45c8..f136fbeb  master -> master
+Feeds updated 09/11/2024 - 12:00:01 am BST
