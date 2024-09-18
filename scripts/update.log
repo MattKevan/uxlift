@@ -37527,3 +37527,13 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 55cf3f0d] Update feeds
+ 2 files changed, 38 insertions(+)
+ create mode 100644 _topics/2024-e-commerce-product-finding-expanded-and-updated-research-findings.md
+remote: 
+remote: GitHub found 5 vulnerabilities on MattKevan/uxlift's default branch (5 moderate). To find out more, visit:        
+remote:      https://github.com/MattKevan/uxlift/security/dependabot        
+remote: 
+To github.com:MattKevan/uxlift.git
+   d61225e2..55cf3f0d  master -> master
+Feeds updated 09/18/2024 - 12:00:01 am BST
