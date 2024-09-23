@@ -37760,3 +37760,18 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 	from feeds.rb:56:in `block in <main>'
 	from feeds.rb:51:in `each'
 	from feeds.rb:51:in `<main>'
+[master c8508518] Update feeds
+ 7 files changed, 120 insertions(+)
+ create mode 100644 _topics/designarchy-vol-14.md
+ create mode 100644 _topics/documenting-design-process-with-notion.md
+ create mode 100644 _topics/from-product-designer-to-outcome-designer.md
+ create mode 100644 _topics/how-does-human-memory-work-while-recalling.md
+ create mode 100644 _topics/how-to-randomly-generate-a-website-landing-page-with-google-gemini-ai.md
+ create mode 100644 _topics/mastering-website-navigation-for-success.md
+remote: 
+remote: GitHub found 5 vulnerabilities on MattKevan/uxlift's default branch (5 moderate). To find out more, visit:        
+remote:      https://github.com/MattKevan/uxlift/security/dependabot        
+remote: 
+To github.com:MattKevan/uxlift.git
+   95876308..c8508518  master -> master
+Feeds updated 09/23/2024 - 12:00:01 am BST
