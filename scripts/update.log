@@ -37804,3 +37804,16 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master fb26bcc3] Update feeds
+ 5 files changed, 68 insertions(+)
+ create mode 100644 _topics/how-to-randomly-generate-a-website-landing-page-with-google-gemini-aipart-one.md
+ create mode 100644 _topics/serial-position-effecthow-does-human-memory-work-while-recalling.md
+ create mode 100644 _topics/smashingconf-nyc.md
+ create mode 100644 _topics/the-problem-with-most-product-roadmaps.md
+remote: 
+remote: GitHub found 5 vulnerabilities on MattKevan/uxlift's default branch (5 moderate). To find out more, visit:        
+remote:      https://github.com/MattKevan/uxlift/security/dependabot        
+remote: 
+To github.com:MattKevan/uxlift.git
+   c8508518..fb26bcc3  master -> master
+Feeds updated 09/24/2024 - 12:00:01 am BST
