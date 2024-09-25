@@ -37846,3 +37846,15 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 3cbef06e] Update feeds
+ 4 files changed, 56 insertions(+)
+ create mode 100644 _topics/apparel-accessories-sites-always-provide-an-aggregate-fit-subscore-in-the-reviews-33-dont.md
+ create mode 100644 _topics/only-for-those-serious-about-ux-documentation.md
+ create mode 100644 _topics/origami-way-of-work-in-product-design.md
+remote: 
+remote: GitHub found 5 vulnerabilities on MattKevan/uxlift's default branch (5 moderate). To find out more, visit:        
+remote:      https://github.com/MattKevan/uxlift/security/dependabot        
+remote: 
+To github.com:MattKevan/uxlift.git
+   fb26bcc3..3cbef06e  master -> master
+Feeds updated 09/25/2024 - 12:00:01 am BST
