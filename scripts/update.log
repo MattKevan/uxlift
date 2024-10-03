@@ -38232,3 +38232,13 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master ae8ba23d] Update feeds
+ 2 files changed, 38 insertions(+)
+ create mode 100644 _topics/always-integrate-social-media-visuals-on-the-product-page-for-relevant-products-67-of-sites-dont.md
+remote: 
+remote: GitHub found 5 vulnerabilities on MattKevan/uxlift's default branch (5 moderate). To find out more, visit:        
+remote:      https://github.com/MattKevan/uxlift/security/dependabot        
+remote: 
+To github.com:MattKevan/uxlift.git
+   6b0a848c..ae8ba23d  master -> master
+Feeds updated 10/03/2024 - 12:00:01 am BST
