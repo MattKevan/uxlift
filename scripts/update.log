@@ -38466,3 +38466,24 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 2a049aee] Update feeds
+ 13 files changed, 137 insertions(+)
+ create mode 100644 _topics/12-great-examples-of-ux-writing-to-inspire-your-designs.md
+ create mode 100644 _topics/15-chatgpt-prompts-for-digital-product-research-and-design-in-financial-ux.md
+ create mode 100644 _topics/6-ai-image-generator-tools-for-designers.md
+ create mode 100644 _topics/am-i-working-with-the-right-manager.md
+ create mode 100644 _topics/frames-x-root-the-ultimate-figma-wireframes-ui-kit.md
+ create mode 100644 _topics/furniture-home-decor-ux-always-include-contents-and-quantities-in-the-list-item-for-sets-and-bundles.md
+ create mode 100644 _topics/in-search-of-subtle-thinking-in-complexity.md
+ create mode 100644 _topics/is-my-profession-my-passion.md
+ create mode 100644 _topics/new-ai-courses-for-uxui-design.md
+ create mode 100644 _topics/portfolio-struggles.md
+ create mode 100644 _topics/the-leader-to-be.md
+ create mode 100644 _topics/why-i-chose-to-code-my-own-portfolio.md
+remote: 
+remote: GitHub found 5 vulnerabilities on MattKevan/uxlift's default branch (5 moderate). To find out more, visit:        
+remote:      https://github.com/MattKevan/uxlift/security/dependabot        
+remote: 
+To github.com:MattKevan/uxlift.git
+   d112634d..2a049aee  master -> master
+Feeds updated 10/09/2024 - 12:00:01 am BST
