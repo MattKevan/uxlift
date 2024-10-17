@@ -38804,3 +38804,29 @@ remote:
 To github.com:MattKevan/uxlift.git
    5ccd2c57..cfeedb85  master -> master
 Feeds updated 10/17/2024 - 12:00:01 am BST
+[master 66d89e4a] First update
+ 1 file changed, 12 insertions(+)
+Already up to date.
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+/usr/lib/ruby/2.7.0/net/http.rb:960:in `initialize': execution expired (Net::OpenTimeout)
+	from /usr/lib/ruby/2.7.0/net/http.rb:960:in `open'
+	from /usr/lib/ruby/2.7.0/net/http.rb:960:in `block in connect'
+	from /usr/lib/ruby/2.7.0/timeout.rb:105:in `timeout'
+	from /usr/lib/ruby/2.7.0/net/http.rb:958:in `connect'
+	from /usr/lib/ruby/2.7.0/net/http.rb:943:in `do_start'
+	from /usr/lib/ruby/2.7.0/net/http.rb:932:in `start'
+	from /usr/lib/ruby/2.7.0/open-uri.rb:346:in `open_http'
+	from /usr/lib/ruby/2.7.0/open-uri.rb:764:in `buffer_open'
+	from /usr/lib/ruby/2.7.0/open-uri.rb:235:in `block in open_loop'
+	from /usr/lib/ruby/2.7.0/open-uri.rb:233:in `catch'
+	from /usr/lib/ruby/2.7.0/open-uri.rb:233:in `open_loop'
+	from /usr/lib/ruby/2.7.0/open-uri.rb:174:in `open_uri'
+	from /usr/lib/ruby/2.7.0/open-uri.rb:744:in `open'
+	from /usr/lib/ruby/2.7.0/open-uri.rb:50:in `open'
+	from /usr/lib/ruby/2.7.0/open-uri.rb:19:in `open'
+	from feeds.rb:14:in `block in <main>'
+	from feeds.rb:9:in `each'
+	from feeds.rb:9:in `<main>'
