@@ -39023,3 +39023,23 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 8613d5c9] Update feeds
+ 12 files changed, 128 insertions(+)
+ create mode 100644 _topics/11-prompt-engineering-tips-to-boost-your-skills.md
+ create mode 100644 _topics/150000-hours-of-research-condensed-into-weekly-bitesized-ux-videos-find-us-on-youtube.md
+ create mode 100644 _topics/best-digital-business-card-solutions-for-all-businesses-in-2024.md
+ create mode 100644 _topics/designers-earn-more-than-design-managers.md
+ create mode 100644 _topics/designing-progress-indicators.md
+ create mode 100644 _topics/dont-let-your-pm-think-youre-dumb-designers-guide-to-product-management.md
+ create mode 100644 _topics/enterprise-generative-aithe-problem-of-authoritative-data.md
+ create mode 100644 _topics/how-integrating-ai-directly-into-app-design-transforms-user-experience.md
+ create mode 100644 _topics/i-did-quick-ux-audit-experience-improvement-for-noon.md
+ create mode 100644 _topics/is-the-design-process-slow-and-is-it-held-to-a-different-standard-in-terms-of-efficiency.md
+ create mode 100644 _topics/ux-for-ai-design-key-insights-from-promptux-hamburg-2024.md
+remote: 
+remote: GitHub found 5 vulnerabilities on MattKevan/uxlift's default branch (5 moderate). To find out more, visit:        
+remote:      https://github.com/MattKevan/uxlift/security/dependabot        
+remote: 
+To github.com:MattKevan/uxlift.git
+   90fc12eb..8613d5c9  master -> master
+Feeds updated 10/23/2024 - 12:00:01 am BST
