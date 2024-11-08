@@ -39623,3 +39623,16 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 	from feeds.rb:56:in `block in <main>'
 	from feeds.rb:51:in `each'
 	from feeds.rb:51:in `<main>'
+[master 41582390] Update feeds
+ 5 files changed, 73 insertions(+)
+ create mode 100644 _topics/always-provide-3-or-more-product-thumbnails-in-product-lists-and-search-results.md
+ create mode 100644 _topics/jumbo-supermarkets-and-postnl-featured-as-pioneers-in-journey-centric-design-operations.md
+ create mode 100644 _topics/new-apparel-accessories-ux-research-3-high-level-takeaways-from-1765-hours-of-testing.md
+ create mode 100644 _topics/what-you-dont-know-about-product-market-fit-is-hurting-you-as-a-uxui-designer.md
+remote: 
+remote: GitHub found 6 vulnerabilities on MattKevan/uxlift's default branch (6 moderate). To find out more, visit:        
+remote:      https://github.com/MattKevan/uxlift/security/dependabot        
+remote: 
+To github.com:MattKevan/uxlift.git
+   35b57e41..41582390  master -> master
+Feeds updated 11/07/2024 - 12:00:01 am GMT
