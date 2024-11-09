@@ -39673,3 +39673,15 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 	from feeds.rb:56:in `block in <main>'
 	from feeds.rb:51:in `each'
 	from feeds.rb:51:in `<main>'
+[master 6eaed279] Update feeds
+ 4 files changed, 64 insertions(+)
+ create mode 100644 _topics/goodbye-twitter.md
+ create mode 100644 _topics/how-to-use-pixars-color-script-in-ux-design.md
+ create mode 100644 _topics/your-ui-designs-suckthese-tools-will-fix-them.md
+remote: 
+remote: GitHub found 6 vulnerabilities on MattKevan/uxlift's default branch (6 moderate). To find out more, visit:        
+remote:      https://github.com/MattKevan/uxlift/security/dependabot        
+remote: 
+To github.com:MattKevan/uxlift.git
+   41582390..6eaed279  master -> master
+Feeds updated 11/08/2024 - 12:00:01 am GMT
