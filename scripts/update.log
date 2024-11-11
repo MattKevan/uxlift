@@ -39756,3 +39756,27 @@ remote:
 To github.com:MattKevan/uxlift.git
    70518836..1967fcde  master -> master
 Feeds updated 11/10/2024 - 12:00:01 am GMT
+[master 8610ba9d] First update
+ 1 file changed, 9 insertions(+)
+Already up to date.
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+/usr/lib/ruby/2.7.0/open-uri.rb:256:in `open_loop': HTTP redirection loop: https://feeds.baymard.com/baymard (RuntimeError)
+	from /usr/lib/ruby/2.7.0/open-uri.rb:174:in `open_uri'
+	from /usr/lib/ruby/2.7.0/open-uri.rb:744:in `open'
+	from /usr/lib/ruby/2.7.0/open-uri.rb:50:in `open'
+	from /usr/lib/ruby/2.7.0/open-uri.rb:19:in `open'
+	from feeds.rb:14:in `block in <main>'
+	from feeds.rb:9:in `each'
+	from feeds.rb:9:in `<main>'
