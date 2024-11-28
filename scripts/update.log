@@ -40376,3 +40376,26 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master ac33f344] Update feeds
+ 15 files changed, 155 insertions(+)
+ create mode 100644 _topics/10-ux-best-practices-for-e-commerce-sales-and-promotions.md
+ create mode 100644 _topics/2024-portfolio-redesign-framework.md
+ create mode 100644 _topics/ai-wont-replace-you-but-it-will-change-how-you-designheres-how-to-adapt.md
+ create mode 100644 _topics/applying-systems-thinking-in-product-design.md
+ create mode 100644 _topics/checkout-ux-2024-11-pitfalls-and-best-practices.md
+ create mode 100644 _topics/from-questions-to-connection-the-social-element-of-ai-llm-platforms.md
+ create mode 100644 _topics/generative-ai-uxdeveloping-innovative-use-cases-for-the-enterprise.md
+ create mode 100644 _topics/guide-to-navigating-recruiter-phone-screen-interviews-and-portfolio-presentation.md
+ create mode 100644 _topics/i-didnt-know-what-to-say-when-my-friends-got-laid-off.md
+ create mode 100644 _topics/low-fidelity-vs-high-fidelity-wireframes.md
+ create mode 100644 _topics/my-adhd-diagnosis-process.md
+ create mode 100644 _topics/quick-learnings-from-a-career-in-product-design.md
+ create mode 100644 _topics/what-if-youre-wrong-how-to-design-for-uncertainty.md
+ create mode 100644 _topics/why-every-designer-should-know-about-swiss-design.md
+remote: 
+remote: GitHub found 6 vulnerabilities on MattKevan/uxlift's default branch (1 high, 5 moderate). To find out more, visit:        
+remote:      https://github.com/MattKevan/uxlift/security/dependabot        
+remote: 
+To github.com:MattKevan/uxlift.git
+   2f9b9b4d..ac33f344  master -> master
+Feeds updated 11/27/2024 - 12:00:01 am GMT
