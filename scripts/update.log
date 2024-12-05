@@ -40661,3 +40661,16 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master a76c1782] Update feeds
+ 5 files changed, 65 insertions(+)
+ create mode 100644 _topics/3-design-processes-for-high-usability-iterative-design-parallel-design-and-competitive-testing.md
+ create mode 100644 _topics/case-study-designing-a-tailored-investment-ux-for-opposite-users.md
+ create mode 100644 _topics/figmas-first-draft-ai-feature-is-not-what-you-think.md
+ create mode 100644 _topics/the-story-of-milos-success-in-southeast-asia-and-struggles-in-india.md
+remote: 
+remote: GitHub found 6 vulnerabilities on MattKevan/uxlift's default branch (1 high, 5 moderate). To find out more, visit:        
+remote:      https://github.com/MattKevan/uxlift/security/dependabot        
+remote: 
+To github.com:MattKevan/uxlift.git
+   0eadeb59..a76c1782  master -> master
+Feeds updated 12/04/2024 - 12:00:01 am GMT
