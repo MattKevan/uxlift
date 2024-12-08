@@ -40775,3 +40775,25 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master affa448c] Update feeds
+ 14 files changed, 146 insertions(+)
+ create mode 100644 _topics/9-product-books-that-you-must-read.md
+ create mode 100644 _topics/come-to-pittsburgh-plays-the-cure.md
+ create mode 100644 _topics/design-system-governance.md
+ create mode 100644 _topics/experience-design-the-next-iteration-of-ux.md
+ create mode 100644 _topics/feeling-stuck-as-a-web-designer-read-this.md
+ create mode 100644 _topics/fonts-that-speak-how-typography-can-transform-your-design-and-brand.md
+ create mode 100644 _topics/how-to-create-responsive-e-learning-app-design.md
+ create mode 100644 _topics/how-to-size-up-a-hiring-manager-interviewer.md
+ create mode 100644 _topics/is-meta-bullying-new-mothers.md
+ create mode 100644 _topics/my-sketch-openprocessing.md
+ create mode 100644 _topics/react-v19-react.md
+ create mode 100644 _topics/the-rise-of-ai-driven-ux-balancing-automation-and-human-centered-design-in-2025.md
+ create mode 100644 _topics/transforming-user-experience-in-cars-as-a-service-industry-through-strategic-aiml-integrationa.md
+remote: 
+remote: GitHub found 6 vulnerabilities on MattKevan/uxlift's default branch (1 high, 5 moderate). To find out more, visit:        
+remote:      https://github.com/MattKevan/uxlift/security/dependabot        
+remote: 
+To github.com:MattKevan/uxlift.git
+   4c11d843..affa448c  master -> master
+Feeds updated 12/07/2024 - 12:00:01 am GMT
