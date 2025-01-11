@@ -42080,3 +42080,28 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master d1133924] Update feeds
+ 17 files changed, 173 insertions(+)
+ create mode 100644 _topics/2025-another-year-of-blog-on-the-desktop-again-live-laugh-blog.md
+ create mode 100644 _topics/2025-list-of-ux-ai-design-conferences.md
+ create mode 100644 _topics/7-hottest-ui-component-libraries-of-2025copy-and-paste.md
+ create mode 100644 _topics/apparel-accessories-new-ux-benchmark-with-7000-performance-scores-and-6000-best-practice-examples.md
+ create mode 100644 _topics/balancing-text-in-css.md
+ create mode 100644 _topics/design-tokens-course-update-2hrs-of-video-now-available.md
+ create mode 100644 _topics/fractional-design-partner.md
+ create mode 100644 _topics/frostapalooza-one-epic-night.md
+ create mode 100644 _topics/how-to-find-clients-as-a-uiux-designer-in-2025.md
+ create mode 100644 _topics/no-1-what-to-discuss-with-your-skip-or-higher-manager.md
+ create mode 100644 _topics/redefine-your-design-skills-to-prepare-for-ai.md
+ create mode 100644 _topics/stimulation-clicker.md
+ create mode 100644 _topics/task-success-rate-essentials.md
+ create mode 100644 _topics/the-rise-and-fall-of-neumorphism.md
+ create mode 100644 _topics/ux-quiz-2024-year-in-review.md
+ create mode 100644 _topics/why-i-left-ux-behind-and-you-likely-will-too.md
+remote: 
+remote: GitHub found 6 vulnerabilities on MattKevan/uxlift's default branch (1 high, 5 moderate). To find out more, visit:        
+remote:      https://github.com/MattKevan/uxlift/security/dependabot        
+remote: 
+To github.com:MattKevan/uxlift.git
+   3ef008c8..d1133924  master -> master
+Feeds updated 01/10/2025 - 12:00:01 am GMT
