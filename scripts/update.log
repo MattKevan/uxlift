@@ -42218,3 +42218,15 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master a9f0808c] Update feeds
+ 4 files changed, 56 insertions(+)
+ create mode 100644 _topics/best-practices-for-usable-and-efficient-data-table-in-applications.md
+ create mode 100644 _topics/from-pixels-to-boardrooms-transitioning-from-designer-to-business-leader.md
+ create mode 100644 _topics/no-4-starting-fresh-at-microsoft-lessons-from-the-first-90-days.md
+remote: 
+remote: GitHub found 6 vulnerabilities on MattKevan/uxlift's default branch (1 high, 5 moderate). To find out more, visit:        
+remote:      https://github.com/MattKevan/uxlift/security/dependabot        
+remote: 
+To github.com:MattKevan/uxlift.git
+   daca36aa..a9f0808c  master -> master
+Feeds updated 01/13/2025 - 12:00:01 am GMT
