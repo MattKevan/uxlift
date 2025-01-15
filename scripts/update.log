@@ -42259,3 +42259,16 @@ feeds.rb:14: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 	from feeds.rb:14:in `block in <main>'
 	from feeds.rb:9:in `each'
 	from feeds.rb:9:in `<main>'
+[master 100e72cd] Update feeds
+ 6 files changed, 74 insertions(+)
+ create mode 100644 _topics/case-study-moving-banking-app-in-tanzania-to-a-future-driven-ux.md
+ create mode 100644 _topics/complex.md
+ create mode 100644 _topics/how-does-emotional-design-talk-to-your-brain.md
+ create mode 100644 _topics/how-to-gamify-your-app-a-product-designers-complete-guide.md
+ create mode 100644 _topics/only-a-stupid-designer-wont-master-these-7-human-skills-in-2025.md
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+Feeds updated 01/14/2025 - 12:00:01 am GMT
