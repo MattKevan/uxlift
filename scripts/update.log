@@ -42301,3 +42301,17 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master 66e4d837] Update feeds
+ 6 files changed, 76 insertions(+)
+ create mode 100644 _topics/funky-vi.md
+ create mode 100644 _topics/studioworks-business-management-software-for-creative-studios.md
+ create mode 100644 _topics/the-secret-to-getting-a-job-in-2025-as-a-designeror-any-role-you-want-really.md
+ create mode 100644 _topics/the-ux-of-login-codes.md
+ create mode 100644 _topics/why-is-the-ux-job-market-such-a-mess-right-now-a-comprehensive-explanation.md
+remote: 
+remote: GitHub found 6 vulnerabilities on MattKevan/uxlift's default branch (1 high, 5 moderate). To find out more, visit:        
+remote:      https://github.com/MattKevan/uxlift/security/dependabot        
+remote: 
+To github.com:MattKevan/uxlift.git
+   a9f0808c..66e4d837  master -> master
+Feeds updated 01/15/2025 - 12:00:01 am GMT
