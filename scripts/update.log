@@ -43518,3 +43518,21 @@ feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.o
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
 feeds.rb:56: warning: calling URI.open via Kernel#open is deprecated, call URI.open directly or use URI#open
+[master fc73cec2] Update feeds
+ 10 files changed, 110 insertions(+)
+ create mode 100644 _topics/baymards-new-free-plan-get-instant-access-to-premium-ux-research.md
+ create mode 100644 _topics/behind-the-scenes-of-animating-a-design-system-component.md
+ create mode 100644 _topics/design-tokens-a-double-edged-sword-in-design-systems.md
+ create mode 100644 _topics/generative-ai-uxai-canvas-versus-ai-conversations.md
+ create mode 100644 _topics/how-to-prepare-moderated-usability-testing-research.md
+ create mode 100644 _topics/no-9-what-are-the-questions-to-ask-at-the-end-of-the-interview.md
+ create mode 100644 _topics/the-basics-similarity-principle.md
+ create mode 100644 _topics/ux-design-for-saas-interfaces-in-2025-whats-the-difference.md
+ create mode 100644 _topics/zero-ui.md
+remote: 
+remote: GitHub found 6 vulnerabilities on MattKevan/uxlift's default branch (1 high, 5 moderate). To find out more, visit:        
+remote:      https://github.com/MattKevan/uxlift/security/dependabot        
+remote: 
+To github.com:MattKevan/uxlift.git
+   d2c53f9c..fc73cec2  master -> master
+Feeds updated 02/14/2025 - 12:00:01 am GMT
